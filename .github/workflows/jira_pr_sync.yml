@@ -1,0 +1,34 @@
+name: Sync PR to Jira
+
+on:
+  pull_request:
+    types: [opened, reopened, ready_for_review]
+
+jobs:
+  transition-jira:
+    runs-on: ubuntu-latest
+    name: Move Jira to In Progress/Review
+    steps:
+      - name: Login to Jira
+        uses: atlassian/gajira-login@master
+        env:
+          JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
+          JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+
+      - name: Find Jira Issue Key
+        id: find
+        uses: atlassian/gajira-find-issue-key@master
+        with:
+          # Scans the PR Title and Branch Name for keys like "KAN-12"
+          string: ${{ github.event.pull_request.title }} ${{ github.event.pull_request.head.ref }}
+
+      - name: Transition Issue
+        uses: atlassian/gajira-transition@master
+        with:
+          issue: ${{ steps.find.outputs.issue }}
+          transition: "In Progress" 
+          # ⚠️ CRITICAL: Look at your Jira Board. 
+          # If your column is named "In Review", change this to "In Review".
+          # Since I only saw "Idea" and "Done" in your screenshot, you might need 
+          # to add this column in Jira first, or use "In Progress".
