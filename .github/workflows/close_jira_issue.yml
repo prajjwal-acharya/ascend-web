@@ -1,0 +1,32 @@
+name: Close Jira Issue when GitHub Issue is Closed
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  transition-jira-issue:
+    runs-on: ubuntu-latest
+    name: Transition Jira Issue to Done
+    steps:
+      - name: Login to Jira
+        uses: atlassian/gajira-login@master
+        env:
+          JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
+          JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+
+      - name: Find Jira Issue Key
+        id: find
+        uses: atlassian/gajira-find-issue-key@master
+        with:
+          # Look for the key in the GitHub Issue Title and Body
+          string: ${{ github.event.issue.title }} ${{ github.event.issue.body }}
+
+      - name: Transition Issue to Done
+        uses: atlassian/gajira-transition@master
+        with:
+          issue: ${{ steps.find.outputs.issue }}
+          transition: "Done" 
+          # IMPORTANT: This must match the exact name of the transition 
+          # in your Jira Workflow (e.g., "Done", "Complete", "Resolve").
