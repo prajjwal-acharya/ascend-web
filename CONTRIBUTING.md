@@ -1,84 +1,73 @@
 # Contributing to ascend
 
-Welcome to the team! To maintain a high-velocity, production-grade workflow, we follow a strict set of rules for version control and task management. 
-
-**Please read this document before pushing any code.**
+Welcome to the team! We follow a strict **"Governance-Based"** workflow to keep our history clean and our Jira board in sync. Please read these rules before pushing code.
 
 ---
 
-## 🛠 The Core Stack
-
-* **Project Management:** [Linear](https://linear.app/)
-* **Version Control:** GitHub
-* **CI/CD:** GitHub Actions
-
----
-
-## 🚫 The Golden Rule
-
-**NEVER push directly to `main`.**
-The `main` branch is protected. All changes must go through a Pull Request (PR) and pass automated status checks.
+## 🌟 The Golden Workflow
+**Jira is our Source of Truth.**
+1.  **Start in Jira:** Always create a ticket in Jira first. Our automation will handle creating the GitHub Issue.
+2.  **Sync Status:**
+    * **In Progress:** Move the ticket on the Jira board.
+    * **In Review:** Opens automatically when you create a Pull Request.
+    * **Done:** Moves automatically when the Pull Request is merged.
 
 ---
 
-## 🌊 The Workflow (Linear + GitHub)
+## 🌿 Branching Strategy
+We use a strict naming convention to ensure our tools (and humans) stay organized.
+**Always create new branches from `main`.**
 
-We use an automated workflow where your **Branch Name** controls your **Linear Ticket**.
+### Naming Format
+`type/JIRA-KEY-description-slug`
 
-### Step 1: Pick a Ticket 🎫
-* Go to our **Linear Board**.
-* Assign a ticket to yourself.
-* Note the Ticket ID (e.g., `EXT-12`).
+* `feat/`: For new features (Stories).
+* `fix/`: For bug fixes.
+* `docs/`: For documentation changes.
 
-### Step 2: Create a Branch 🌿
-Your branch name **must** follow this format:
-`[type]/[Linear-ID]-[short-description]`
-
-**Types:**
-* `feat` → New feature (e.g., login, new API)
-* `fix` → Bug fix
-* `chore` → Maintenance (deps, configs)
-* `docs` → Documentation only
-
-**Examples:**
-✅ `feat/EXT-12-add-login-page` (Good)
-✅ `fix/EXT-45-sync-crash` (Good)
-❌ `add-login` (Bad - No ID)
-❌ `EXT-12` (Bad - No description)
-
-**Why?** When you use the ID, Linear automatically moves the ticket to "In Progress".
-
-### Step 3: Commit & Push 💾
-* Write clear commit messages.
-* Push your branch: `git push origin feat/EXT-12-add-login-page`
-
-### Step 4: Open a Pull Request (PR) 📝
-* Open a PR against `main`.
-* **Title:** Use the same format as the branch or a clear human-readable title: `feat: Add Login Page`
-* **Description:** The repo is configured with a PR Template. **Fill it out.**
-    * Link the Linear Ticket (e.g., "Fixes EXT-12").
-    * Explain the "Why".
-    * Attach screenshots if it's a UI change.
-
-**Automation:** Opening a PR automatically moves the Linear ticket to **"In Review"**.
-
-### Step 5: Review & Merge 🟢
-1.  **Status Checks:** GitHub Actions will run automatically (Linter/Tests). If these fail, you cannot merge. Fix the errors and push again.
-2.  **Review:** Wait for approval (if required).
-3.  **Merge:** Click "Squash and Merge".
-    * **Automation:** Merging automatically moves the Linear ticket to **"Done"**.
+### Examples
+✅ `feat/KAN-12-add-login-button`
+✅ `fix/KAN-45-crash-on-safari`
+❌ `login-button` (Missing type and key)
+❌ `KAN-12` (Missing description)
 
 ---
 
-## 🎨 Coding Standards
+## 📝 Commit Messages
+We combine **Conventional Commits** with **Smart Commits**. Every commit must tell us *what* changed and *which* ticket it belongs to.
 
-We use automated linting to keep code clean.
-* **Python:** `black` and `flake8`
-* **JS/TS:** `Prettier` and `ESLint`
+### Format
+`type: description (KEY)`
 
-**Before you push:**
-Run the linter locally to save time:
-```bash
-# Example for Python
-black .
-flake8 .
+### Types
+* `feat:` New feature.
+* `fix:` Bug fix.
+* `docs:` Documentation only.
+* `style:` Formatting, missing semi-colons, etc.
+* `refactor:` Code change that neither fixes a bug nor adds a feature.
+
+### Examples
+✅ `feat: implement oauth login flow (KAN-12)`
+✅ `fix: handle null user profile image (KAN-45)`
+❌ `fixed bug` (Vague, no key)
+
+---
+
+## 🤝 Pull Requests (PRs)
+1.  **Template:** You must fill out the PR template (Summary, Testing Steps, Screenshots).
+2.  **Title:** Must follow the commit format: `feat: add login button (KAN-12)`.
+3.  **Linking:** Ensure the Jira key (e.g., `KAN-12`) is in the PR title or body.
+4.  **Review:** Do not merge your own PR. Wait for at least **1 approval**.
+5.  **Merge Strategy:** We use **Squash and Merge** only. This keeps our `main` history linear and clean.
+
+### 🧹 Cleanup
+We use GitHub's **"Automatically delete head branches"** feature.
+* Once your PR is merged, the remote branch is deleted automatically.
+* **Action:** Please run `git fetch -p` regularly to prune your local branches.
+
+---
+
+## 🛡️ Protection Rules
+* **No Direct Pushes:** You cannot push directly to `main`.
+* **Status Checks:** All CI/CD tests must pass before merging.
+* **Linear History:** We avoid merge commits; rebase or squash is required.
