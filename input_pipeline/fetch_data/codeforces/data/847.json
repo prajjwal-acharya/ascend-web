@@ -1,0 +1,160 @@
+{
+  "contest": {
+    "id": 847,
+    "name": "2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 14400,
+    "startTimeSeconds": 1505739900,
+    "relativeTimeSeconds": 262614732
+  },
+  "problems": [
+    {
+      "contestId": 847,
+      "index": "M",
+      "name": "Weather Tomorrow",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "L",
+      "name": "Berland SU Computer Network",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "K",
+      "name": "Travel Cards",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "J",
+      "name": "Students Initiation",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "I",
+      "name": "Noise Level",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "H",
+      "name": "Load Testing",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "G",
+      "name": "University Classes",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "F",
+      "name": "Berland Elections",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "E",
+      "name": "Packmen",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "D",
+      "name": "Dog Show",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "C",
+      "name": "Sum of Nestings",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "B",
+      "name": "Preparing for Merge Sort",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 847,
+      "index": "A",
+      "name": "Union of Doubly Linked Lists",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

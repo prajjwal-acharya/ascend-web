@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1635,
+    "name": "Codeforces Round 772 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1645367700,
+    "relativeTimeSeconds": 122986932
+  },
+  "problems": [
+    {
+      "contestId": 1635,
+      "index": "F",
+      "name": "Closest Pair ",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1635,
+      "index": "E",
+      "name": "Cars ",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1635,
+      "index": "D",
+      "name": "Infinite Set",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "matrices",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1635,
+      "index": "C",
+      "name": "Differential Sorting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1635,
+      "index": "B",
+      "name": "Avoid Local Maximums",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1635,
+      "index": "A",
+      "name": "Min Or Sum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    }
+  ]
+}

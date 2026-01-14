@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 1097,
+    "name": "Hello 2019",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1546613100,
+    "relativeTimeSeconds": 221741532
+  },
+  "problems": [
+    {
+      "contestId": 1097,
+      "index": "H",
+      "name": "Mateusz and an Infinite Sequence",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "G",
+      "name": "Vladislav and a Great Legend",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "F",
+      "name": "Alex and a TV Show",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "E",
+      "name": "Egor and an RPG game",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "D",
+      "name": "Makoto and a Blackboard",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "C",
+      "name": "Yuhao and a Parenthesis",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "B",
+      "name": "Petr and a Combination Lock",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1097,
+      "index": "A",
+      "name": "Gennady and a Card Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 2169,
+    "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1763130900,
+    "relativeTimeSeconds": 5223732
+  },
+  "problems": [
+    {
+      "contestId": 2169,
+      "index": "F",
+      "name": "Subsequence Problem",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "E",
+      "name": "Points Selection",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "D2",
+      "name": "Removal of a Sequence (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "D1",
+      "name": "Removal of a Sequence (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "C",
+      "name": "Range Operation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "B",
+      "name": "Drifting Away",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2169,
+      "index": "A",
+      "name": "Alice and Bob",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

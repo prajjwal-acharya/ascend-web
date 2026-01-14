@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 53,
+    "name": "Codeforces Beta Round 49 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1294329600,
+    "relativeTimeSeconds": 474025033
+  },
+  "problems": [
+    {
+      "contestId": 53,
+      "index": "E",
+      "name": "Dead Ends",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 53,
+      "index": "D",
+      "name": "Physical Education",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1500,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 53,
+      "index": "C",
+      "name": "Little Frog",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 53,
+      "index": "B",
+      "name": "Blog Photo",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 53,
+      "index": "A",
+      "name": "Autocomplete",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

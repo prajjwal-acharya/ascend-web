@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 373,
+    "name": "Codeforces Round 219 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1386943200,
+    "relativeTimeSeconds": 381411432
+  },
+  "problems": [
+    {
+      "contestId": 373,
+      "index": "B",
+      "name": "Making Sequences is Fun",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 373,
+      "index": "A",
+      "name": "Collecting Beats is Fun",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1066,
+    "name": "Codeforces Round 515 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1539354900,
+    "relativeTimeSeconds": 228999732
+  },
+  "problems": [
+    {
+      "contestId": 1066,
+      "index": "F",
+      "name": "Yet another 2D Walking",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1066,
+      "index": "E",
+      "name": "Binary Numbers AND Sum",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1066,
+      "index": "D",
+      "name": "Boxes Packing",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1066,
+      "index": "C",
+      "name": "Books Queries",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1066,
+      "index": "B",
+      "name": "Heaters",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1066,
+      "index": "A",
+      "name": "Vova and Train",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

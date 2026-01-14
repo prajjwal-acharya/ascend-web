@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 193,
+    "name": "Codeforces Round 122 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1338737400,
+    "relativeTimeSeconds": 429617233
+  },
+  "problems": [
+    {
+      "contestId": 193,
+      "index": "E",
+      "name": "Fibonacci Number",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 193,
+      "index": "D",
+      "name": "Two Segments",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 193,
+      "index": "C",
+      "name": "Hamming Distance",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 193,
+      "index": "B",
+      "name": "Xor",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 193,
+      "index": "A",
+      "name": "Cutting Figure",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "trees"
+      ]
+    }
+  ]
+}

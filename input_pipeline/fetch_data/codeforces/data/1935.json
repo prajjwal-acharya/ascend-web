@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1935,
+    "name": "Codeforces Round 932 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1709649300,
+    "relativeTimeSeconds": 58705332
+  },
+  "problems": [
+    {
+      "contestId": 1935,
+      "index": "F",
+      "name": "Andrey's Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1935,
+      "index": "E",
+      "name": "Distance Learning Courses in MAC",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1935,
+      "index": "D",
+      "name": "Exam in MAC",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1935,
+      "index": "C",
+      "name": "Messenger in MAC",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1935,
+      "index": "B",
+      "name": "Informatics in MAC",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1935,
+      "index": "A",
+      "name": "Entertainment in MAC",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

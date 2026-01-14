@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 1121,
+    "name": "Codeforces Round 543 (Div. 2, based on Technocup 2019 Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1551627300,
+    "relativeTimeSeconds": 216727332
+  },
+  "problems": [
+    {
+      "contestId": 1121,
+      "index": "C",
+      "name": "System Testing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1121,
+      "index": "B",
+      "name": "Mike and Children",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1121,
+      "index": "A",
+      "name": "Technogoblet of Fire",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

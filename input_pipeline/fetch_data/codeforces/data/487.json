@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 487,
+    "name": "Codeforces Round 278 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1416590400,
+    "relativeTimeSeconds": 351764232
+  },
+  "problems": [
+    {
+      "contestId": 487,
+      "index": "E",
+      "name": "Tourists",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 487,
+      "index": "D",
+      "name": "Conveyor Belts",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 487,
+      "index": "C",
+      "name": "Prefix Product Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 487,
+      "index": "B",
+      "name": "Strip",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 487,
+      "index": "A",
+      "name": "Fight the Monster",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

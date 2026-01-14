@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 72,
+    "name": "Unknown Language Round 2",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1300637400,
+    "relativeTimeSeconds": 467717233
+  },
+  "problems": [
+    {
+      "contestId": 72,
+      "index": "I",
+      "name": "Goofy Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "H",
+      "name": "Reverse It!",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "G",
+      "name": "Fibonacci army",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "F",
+      "name": "Oil",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "E",
+      "name": "Ali goes shopping",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "D",
+      "name": "Perse-script",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "C",
+      "name": "Extraordinarily Nice Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "B",
+      "name": "INI-file",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 72,
+      "index": "A",
+      "name": "Goshtasp, Vishtasp and Eidi",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

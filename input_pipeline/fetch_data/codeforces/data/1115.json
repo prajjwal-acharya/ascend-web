@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 1115,
+    "name": "Microsoft Q# Coding Contest - Winter 2019 - Warmup",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1550854800,
+    "relativeTimeSeconds": 217499832
+  },
+  "problems": [
+    {
+      "contestId": 1115,
+      "index": "U3",
+      "name": "Block unitary",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1115,
+      "index": "U2",
+      "name": "Chessboard unitary",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1115,
+      "index": "U1",
+      "name": "Anti-diagonal unitary",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1115,
+      "index": "G3",
+      "name": "Palindrome checker oracle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1115,
+      "index": "G2",
+      "name": "OR oracle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1115,
+      "index": "G1",
+      "name": "AND oracle",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

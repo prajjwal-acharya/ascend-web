@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1132,
+    "name": "Educational Codeforces Round 61 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1551798300,
+    "relativeTimeSeconds": 216556332
+  },
+  "problems": [
+    {
+      "contestId": 1132,
+      "index": "G",
+      "name": "Greedy Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "F",
+      "name": "Clear the String",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "E",
+      "name": "Knapsack",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "D",
+      "name": "Stressful Training",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "C",
+      "name": "Painting the Fence",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "B",
+      "name": "Discounts",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1132,
+      "index": "A",
+      "name": "Regular Bracket Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

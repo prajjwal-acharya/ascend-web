@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 2144,
+    "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1757946900,
+    "relativeTimeSeconds": 10407732
+  },
+  "problems": [
+    {
+      "contestId": 2144,
+      "index": "F",
+      "name": "Bracket Groups",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "E2",
+      "name": "Looking at Towers (difficult version)",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "E1",
+      "name": "Looking at Towers (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "D",
+      "name": "Price Tags",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "C",
+      "name": "Non-Descending Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "B",
+      "name": "Maximum Cost Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2144,
+      "index": "A",
+      "name": "Cut the Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

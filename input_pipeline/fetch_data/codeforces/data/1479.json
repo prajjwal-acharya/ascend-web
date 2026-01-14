@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1479,
+    "name": "Codeforces Round 700 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1612708500,
+    "relativeTimeSeconds": 155646132
+  },
+  "problems": [
+    {
+      "contestId": 1479,
+      "index": "E",
+      "name": "School Clubs",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "fft",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1479,
+      "index": "D",
+      "name": "Odd Mineral Resource",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1479,
+      "index": "C",
+      "name": "Continuous City",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1479,
+      "index": "B2",
+      "name": "Painting the Array II",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1479,
+      "index": "B1",
+      "name": "Painting the Array I",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1479,
+      "index": "A",
+      "name": "Searching Local Minimum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "interactive",
+        "ternary search"
+      ]
+    }
+  ]
+}

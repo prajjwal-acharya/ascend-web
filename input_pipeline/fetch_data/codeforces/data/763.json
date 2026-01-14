@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 763,
+    "name": "Codeforces Round 395 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1486042500,
+    "relativeTimeSeconds": 282312132
+  },
+  "problems": [
+    {
+      "contestId": 763,
+      "index": "E",
+      "name": "Timofey and our friends animals",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 763,
+      "index": "D",
+      "name": "Timofey and a flat tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "graphs",
+        "hashing",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 763,
+      "index": "C",
+      "name": "Timofey and remoduling",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 763,
+      "index": "B",
+      "name": "Timofey and rectangles",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 763,
+      "index": "A",
+      "name": "Timofey and a tree",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    }
+  ]
+}

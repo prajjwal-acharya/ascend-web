@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1111,
+    "name": "CodeCraft-19 and Codeforces Round 537 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1549208100,
+    "relativeTimeSeconds": 219146532
+  },
+  "problems": [
+    {
+      "contestId": 1111,
+      "index": "E",
+      "name": "Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1111,
+      "index": "D",
+      "name": "Destroy the Colony",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1111,
+      "index": "C",
+      "name": "Creative Snap",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1111,
+      "index": "B",
+      "name": "Average Superhero Gang Power ",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1111,
+      "index": "A",
+      "name": "Superhero Transformation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

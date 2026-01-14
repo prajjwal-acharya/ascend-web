@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1814,
+    "name": "Educational Codeforces Round 146 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1680791700,
+    "relativeTimeSeconds": 87562932
+  },
+  "problems": [
+    {
+      "contestId": 1814,
+      "index": "F",
+      "name": "Communication Towers",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1814,
+      "index": "E",
+      "name": "Chain Chips",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1814,
+      "index": "D",
+      "name": "Balancing Weapons",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1814,
+      "index": "C",
+      "name": "Search in Parallel",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1814,
+      "index": "B",
+      "name": "Long Legs",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1814,
+      "index": "A",
+      "name": "Coins",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

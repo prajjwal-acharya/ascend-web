@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 850,
+    "name": "Codeforces Round 432 (Div. 1, based on IndiaHacks Final Round 2017)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1504535700,
+    "relativeTimeSeconds": 263818932
+  },
+  "problems": [
+    {
+      "contestId": 850,
+      "index": "F",
+      "name": "Rainbow Balls",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 850,
+      "index": "E",
+      "name": "Random Elections",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "divide and conquer",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 850,
+      "index": "D",
+      "name": "Tournament Construction",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 850,
+      "index": "C",
+      "name": "Arpa and a game with Mojtaba",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 850,
+      "index": "B",
+      "name": "Arpa and a list of numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 850,
+      "index": "A",
+      "name": "Five Dimensional Points",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

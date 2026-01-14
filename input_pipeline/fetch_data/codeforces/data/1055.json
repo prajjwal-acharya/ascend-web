@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1055,
+    "name": "Mail.Ru Cup 2018 Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1541860500,
+    "relativeTimeSeconds": 226494132
+  },
+  "problems": [
+    {
+      "contestId": 1055,
+      "index": "G",
+      "name": "Jellyfish Nightmare",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1055,
+      "index": "F",
+      "name": "Tree and XOR",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1055,
+      "index": "E",
+      "name": "Segments on the Line",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1055,
+      "index": "D",
+      "name": "Refactoring",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1055,
+      "index": "C",
+      "name": "Lucky Days",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1055,
+      "index": "B",
+      "name": "Alice and Hairdresser",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1055,
+      "index": "A",
+      "name": "Metro",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "graphs"
+      ]
+    }
+  ]
+}

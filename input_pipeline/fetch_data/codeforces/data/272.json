@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 272,
+    "name": "Codeforces Round 167 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1360769400,
+    "relativeTimeSeconds": 407585233
+  },
+  "problems": [
+    {
+      "contestId": 272,
+      "index": "E",
+      "name": "Dima and Horses",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 272,
+      "index": "D",
+      "name": "Dima and Two Sequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 272,
+      "index": "C",
+      "name": "Dima and Staircase",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 272,
+      "index": "B",
+      "name": "Dima and Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 272,
+      "index": "A",
+      "name": "Dima and Friends",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 492,
+    "name": "Codeforces Round 280 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1417451400,
+    "relativeTimeSeconds": 350903232
+  },
+  "problems": [
+    {
+      "contestId": 492,
+      "index": "E",
+      "name": "Vanya and Field",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 492,
+      "index": "D",
+      "name": "Vanya and Computer Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 492,
+      "index": "C",
+      "name": "Vanya and Exams",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 492,
+      "index": "B",
+      "name": "Vanya and Lanterns",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 492,
+      "index": "A",
+      "name": "Vanya and Cubes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

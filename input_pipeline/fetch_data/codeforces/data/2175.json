@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 2175,
+    "name": "Codeforces Round 1069 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1765008900,
+    "relativeTimeSeconds": 3345732
+  },
+  "problems": [
+    {
+      "contestId": 2175,
+      "index": "B",
+      "name": "XOR Array",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2175,
+      "index": "A",
+      "name": "Little Fairy's Painting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

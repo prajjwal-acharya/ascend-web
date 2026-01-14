@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 643,
+    "name": "VK Cup 2016 - Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1462633500,
+    "relativeTimeSeconds": 305721132
+  },
+  "problems": [
+    {
+      "contestId": 643,
+      "index": "G",
+      "name": "Choosing Ads",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 643,
+      "index": "F",
+      "name": "Bears and Juice",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 643,
+      "index": "E",
+      "name": "Bear and Destroying Subtrees",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 643,
+      "index": "D",
+      "name": "Bearish Fanpages",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 643,
+      "index": "C",
+      "name": "Levels and Regions",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 643,
+      "index": "B",
+      "name": "Bear and Two Paths",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 643,
+      "index": "A",
+      "name": "Bear and Colors",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

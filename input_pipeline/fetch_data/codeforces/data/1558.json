@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1558,
+    "name": "Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1629815700,
+    "relativeTimeSeconds": 138538932
+  },
+  "problems": [
+    {
+      "contestId": 1558,
+      "index": "F",
+      "name": "Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1558,
+      "index": "E",
+      "name": "Down Below",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "meet-in-the-middle",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1558,
+      "index": "D",
+      "name": "Top-Notch Insertions",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1558,
+      "index": "C",
+      "name": "Bottom-Tier Reversals",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1558,
+      "index": "B",
+      "name": "Up the Strip",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1558,
+      "index": "A",
+      "name": "Charmed by the Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

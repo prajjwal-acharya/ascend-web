@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 92,
+    "name": "Codeforces Beta Round 75 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1308582000,
+    "relativeTimeSeconds": 459772633
+  },
+  "problems": [
+    {
+      "contestId": 92,
+      "index": "B",
+      "name": "Binary Number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 92,
+      "index": "A",
+      "name": "Chips",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

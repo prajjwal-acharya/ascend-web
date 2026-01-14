@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 336,
+    "name": "Codeforces Round 195 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1376062200,
+    "relativeTimeSeconds": 392292432
+  },
+  "problems": [
+    {
+      "contestId": 336,
+      "index": "E",
+      "name": "Vasily the Bear and Painting Square",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 336,
+      "index": "D",
+      "name": "Vasily the Bear and Beautiful Strings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 336,
+      "index": "C",
+      "name": "Vasily the Bear and Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 336,
+      "index": "B",
+      "name": "Vasily the Bear and Fly",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 336,
+      "index": "A",
+      "name": "Vasily the Bear and Triangle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

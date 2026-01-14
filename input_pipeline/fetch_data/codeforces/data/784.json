@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 784,
+    "name": "April Fools Contest 2017",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1490972400,
+    "relativeTimeSeconds": 277382232
+  },
+  "problems": [
+    {
+      "contestId": 784,
+      "index": "G",
+      "name": "BF Calculator",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "F",
+      "name": "Crunching Numbers Just for You",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "E",
+      "name": "Twisted Circuit",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "D",
+      "name": "Touchy-Feely Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "C",
+      "name": "INTERCALC",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "B",
+      "name": "Kids' Riddle",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 784,
+      "index": "A",
+      "name": "Numbers Joke",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

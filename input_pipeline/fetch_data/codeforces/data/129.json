@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 129,
+    "name": "Codeforces Beta Round 94 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1321337400,
+    "relativeTimeSeconds": 447017233
+  },
+  "problems": [
+    {
+      "contestId": 129,
+      "index": "B",
+      "name": "Students and Shoelaces",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 129,
+      "index": "A",
+      "name": "Cookies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

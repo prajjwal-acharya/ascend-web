@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1430,
+    "name": "Educational Codeforces Round 96 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1602407100,
+    "relativeTimeSeconds": 165947532
+  },
+  "problems": [
+    {
+      "contestId": 1430,
+      "index": "G",
+      "name": "Yet Another DAG Problem",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "F",
+      "name": "Realistic Gameplay",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "E",
+      "name": "String Reversal",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "D",
+      "name": "String Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "C",
+      "name": "Numbers on Whiteboard",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "B",
+      "name": "Barrels",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1430,
+      "index": "A",
+      "name": "Number of Apartments",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 675,
+    "name": "Codeforces Round 353 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1463416500,
+    "relativeTimeSeconds": 304938132
+  },
+  "problems": [
+    {
+      "contestId": 675,
+      "index": "E",
+      "name": "Trains and Statistic",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 675,
+      "index": "D",
+      "name": "Tree Construction",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 675,
+      "index": "C",
+      "name": "Money Transfers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 675,
+      "index": "B",
+      "name": "Restoring Painting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 675,
+      "index": "A",
+      "name": "Infinite Sequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

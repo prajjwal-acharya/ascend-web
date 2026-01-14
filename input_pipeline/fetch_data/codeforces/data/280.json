@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 280,
+    "name": "Codeforces Round 172 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1362929400,
+    "relativeTimeSeconds": 405425233
+  },
+  "problems": [
+    {
+      "contestId": 280,
+      "index": "E",
+      "name": "Sequence Transformation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 280,
+      "index": "D",
+      "name": "k-Maximum Subsequence Sum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "flows",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 280,
+      "index": "C",
+      "name": "Game on Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "implementation",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 280,
+      "index": "B",
+      "name": "Maximum Xor Secondary",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 280,
+      "index": "A",
+      "name": "Rectangle Puzzle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2000,
+      "tags": [
+        "geometry"
+      ]
+    }
+  ]
+}

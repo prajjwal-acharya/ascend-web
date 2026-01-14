@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 138,
+    "name": "Codeforces Beta Round 99 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1324728000,
+    "relativeTimeSeconds": 443626633
+  },
+  "problems": [
+    {
+      "contestId": 138,
+      "index": "E",
+      "name": "Hellish Constraints",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 138,
+      "index": "D",
+      "name": "World of Darkraft",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 138,
+      "index": "C",
+      "name": "Mushroom Gnomes - 2",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 138,
+      "index": "B",
+      "name": "Digits Permutations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 138,
+      "index": "A",
+      "name": "Literature Lesson",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

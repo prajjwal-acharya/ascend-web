@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1843,
+    "name": "Codeforces Round 881 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1687271700,
+    "relativeTimeSeconds": 81082932
+  },
+  "problems": [
+    {
+      "contestId": 1843,
+      "index": "F2",
+      "name": "Omsk Metro (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "F1",
+      "name": "Omsk Metro (simple version)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "E",
+      "name": "Tracking Segments",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "D",
+      "name": "Apple Tree",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "C",
+      "name": "Sum in Binary Tree",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "B",
+      "name": "Long Long",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1843,
+      "index": "A",
+      "name": "Sasha and Array Coloring",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

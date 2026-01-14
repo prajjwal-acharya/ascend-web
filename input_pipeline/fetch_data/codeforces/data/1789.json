@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1789,
+    "name": "Codeforces Round 853 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1677334800,
+    "relativeTimeSeconds": 91019832
+  },
+  "problems": [
+    {
+      "contestId": 1789,
+      "index": "F",
+      "name": "Serval and Brain Power",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1789,
+      "index": "E",
+      "name": "Serval and Music Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1789,
+      "index": "D",
+      "name": "Serval and Shift-Shift-Shift",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1789,
+      "index": "C",
+      "name": "Serval and Toxel's Arrays",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1789,
+      "index": "B",
+      "name": "Serval and Inversion Magic",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1789,
+      "index": "A",
+      "name": "Serval and Mocha's Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

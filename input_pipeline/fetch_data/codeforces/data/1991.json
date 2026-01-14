@@ -1,0 +1,143 @@
+{
+  "contest": {
+    "id": 1991,
+    "name": "Pinely Round 4 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1722177300,
+    "relativeTimeSeconds": 46177332
+  },
+  "problems": [
+    {
+      "contestId": 1991,
+      "index": "I",
+      "name": "Grid Game",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "graph matchings",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "H",
+      "name": "Prime Split Game",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "fft",
+        "games",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "G",
+      "name": "Grid Reset",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "F",
+      "name": "Triangle Formation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "E",
+      "name": "Coloring Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "games",
+        "graphs",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "D",
+      "name": "Prime XOR Coloring",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "C",
+      "name": "Absolute Zero",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "B",
+      "name": "AND Reconstruction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1991,
+      "index": "A",
+      "name": "Maximize the Last Element",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

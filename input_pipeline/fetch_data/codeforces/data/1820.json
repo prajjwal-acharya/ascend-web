@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1820,
+    "name": "Codeforces Round 866 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1681549500,
+    "relativeTimeSeconds": 86805132
+  },
+  "problems": [
+    {
+      "contestId": 1820,
+      "index": "B",
+      "name": "JoJo's Incredible Adventures",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1820,
+      "index": "A",
+      "name": "Yura's New Name",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

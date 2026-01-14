@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 38,
+    "name": "School Personal Contest #1 (Winter Computer School 2010/11) - Codeforces Beta Round 38 (ACM-ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 14400,
+    "startTimeSeconds": 1288440000,
+    "relativeTimeSeconds": 479914633
+  },
+  "problems": [
+    {
+      "contestId": 38,
+      "index": "H",
+      "name": "The Great Marathon",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "G",
+      "name": "Queue",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "F",
+      "name": "Smart Boy",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "games",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "E",
+      "name": "Let's Go Rolling!",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "D",
+      "name": "Vasya the Architect",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "C",
+      "name": "Blinds",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "B",
+      "name": "Chess",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 38,
+      "index": "A",
+      "name": "Army",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

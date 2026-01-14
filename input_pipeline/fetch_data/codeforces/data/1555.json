@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1555,
+    "name": "Educational Codeforces Round 112 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1627655700,
+    "relativeTimeSeconds": 140698932
+  },
+  "problems": [
+    {
+      "contestId": 1555,
+      "index": "F",
+      "name": "Good Graph",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1555,
+      "index": "E",
+      "name": "Boring Segments",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1555,
+      "index": "D",
+      "name": "Say No to Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1555,
+      "index": "C",
+      "name": "Coin Rows",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1555,
+      "index": "B",
+      "name": "Two Tables",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1555,
+      "index": "A",
+      "name": "PizzaForces",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

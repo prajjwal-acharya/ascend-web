@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1714,
+    "name": "Codeforces Round 811 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1659364500,
+    "relativeTimeSeconds": 108990132
+  },
+  "problems": [
+    {
+      "contestId": 1714,
+      "index": "G",
+      "name": "Path Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "F",
+      "name": "Build a Tree and That Is It",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "E",
+      "name": "Add Modulo 10",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "D",
+      "name": "Color with Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "C",
+      "name": "Minimum  Varied Number",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "B",
+      "name": "Remove Prefix",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1714,
+      "index": "A",
+      "name": "Everyone Loves to Sleep",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1907,
+    "name": "Codeforces Round 913 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1701787500,
+    "relativeTimeSeconds": 66567132
+  },
+  "problems": [
+    {
+      "contestId": 1907,
+      "index": "G",
+      "name": "Lights",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "F",
+      "name": "Shift and Reverse",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "E",
+      "name": "Good Triples",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "D",
+      "name": "Jumping Through Segments",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "C",
+      "name": "Removal of Unattractive Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "B",
+      "name": "YetnotherrokenKeoard",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1907,
+      "index": "A",
+      "name": "Rook",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

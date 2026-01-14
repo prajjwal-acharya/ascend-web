@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 705,
+    "name": "Codeforces Round 366 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1470578700,
+    "relativeTimeSeconds": 297775932
+  },
+  "problems": [
+    {
+      "contestId": 705,
+      "index": "B",
+      "name": "Spider Man",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 705,
+      "index": "A",
+      "name": "Hulk",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

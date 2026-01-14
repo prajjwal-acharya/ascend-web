@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 380,
+    "name": "Codeforces Round 223 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1389540600,
+    "relativeTimeSeconds": 378814032
+  },
+  "problems": [
+    {
+      "contestId": 380,
+      "index": "E",
+      "name": "Sereja and Dividing",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 380,
+      "index": "D",
+      "name": "Sereja and Cinema",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 380,
+      "index": "C",
+      "name": "Sereja and Brackets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "schedules"
+      ]
+    },
+    {
+      "contestId": 380,
+      "index": "B",
+      "name": "Sereja and Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 380,
+      "index": "A",
+      "name": "Sereja and Prefixes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force"
+      ]
+    }
+  ]
+}

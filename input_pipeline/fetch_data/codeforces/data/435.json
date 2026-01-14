@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 435,
+    "name": "Codeforces Round 249 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1401463800,
+    "relativeTimeSeconds": 366890832
+  },
+  "problems": [
+    {
+      "contestId": 435,
+      "index": "E",
+      "name": "Special Graph",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": []
+    },
+    {
+      "contestId": 435,
+      "index": "D",
+      "name": "Special Grid",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 435,
+      "index": "C",
+      "name": "Cardiogram",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 435,
+      "index": "B",
+      "name": "Pasha Maximizes",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 435,
+      "index": "A",
+      "name": "Queue on Bus Stop",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

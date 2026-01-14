@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 468,
+    "name": "Codeforces Round 268 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1411218000,
+    "relativeTimeSeconds": 357136632
+  },
+  "problems": [
+    {
+      "contestId": 468,
+      "index": "E",
+      "name": "Permanent",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "graph matchings",
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 468,
+      "index": "D",
+      "name": "Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 468,
+      "index": "C",
+      "name": "Hack it!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 468,
+      "index": "B",
+      "name": "Two Sets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 468,
+      "index": "A",
+      "name": "24 Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

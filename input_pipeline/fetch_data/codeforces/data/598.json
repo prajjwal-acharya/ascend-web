@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 598,
+    "name": "Educational Codeforces Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1447426800,
+    "relativeTimeSeconds": 320927832
+  },
+  "problems": [
+    {
+      "contestId": 598,
+      "index": "F",
+      "name": "Cut Length",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 598,
+      "index": "E",
+      "name": "Chocolate Bar",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 598,
+      "index": "D",
+      "name": "Igor In the Museum",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 598,
+      "index": "C",
+      "name": "Nearest vectors",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 598,
+      "index": "B",
+      "name": "Queries on a String",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 598,
+      "index": "A",
+      "name": "Tricky Sum",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

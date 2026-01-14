@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1037,
+    "name": "Manthan, Codefest 18 (rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1535898900,
+    "relativeTimeSeconds": 232455732
+  },
+  "problems": [
+    {
+      "contestId": 1037,
+      "index": "H",
+      "name": "Security",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "G",
+      "name": "A Game on Strings",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "F",
+      "name": "Maximum Reduction",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "E",
+      "name": "Trips",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "D",
+      "name": "Valid BFS?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "C",
+      "name": "Equalize",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "B",
+      "name": "Reach Median",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1037,
+      "index": "A",
+      "name": "Packets",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 976,
+    "name": "Educational Codeforces Round 43 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1525099200,
+    "relativeTimeSeconds": 243255432
+  },
+  "problems": [
+    {
+      "contestId": 976,
+      "index": "F",
+      "name": "Minimal k-covering",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 976,
+      "index": "E",
+      "name": "Well played!",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 976,
+      "index": "D",
+      "name": "Degree Set",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 976,
+      "index": "C",
+      "name": "Nested Segments",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 976,
+      "index": "B",
+      "name": "Lara Croft and the New Game",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 976,
+      "index": "A",
+      "name": "Minimum Binary Number",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

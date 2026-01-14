@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 731,
+    "name": "Codeforces Round 376 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1476611100,
+    "relativeTimeSeconds": 291743532
+  },
+  "problems": [
+    {
+      "contestId": 731,
+      "index": "F",
+      "name": "Video Cards",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 731,
+      "index": "E",
+      "name": "Funny Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 731,
+      "index": "D",
+      "name": "80-th Level Archeology",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 731,
+      "index": "C",
+      "name": "Socks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 731,
+      "index": "B",
+      "name": "Coupons and Discounts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 731,
+      "index": "A",
+      "name": "Night at the Museum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

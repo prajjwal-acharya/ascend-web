@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1632,
+    "name": "Codeforces Round 769 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1643553300,
+    "relativeTimeSeconds": 124801332
+  },
+  "problems": [
+    {
+      "contestId": 1632,
+      "index": "E2",
+      "name": "Distance Tree (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1632,
+      "index": "E1",
+      "name": "Distance Tree (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1632,
+      "index": "D",
+      "name": "New Year Concert",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1632,
+      "index": "C",
+      "name": "Strange Test",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1632,
+      "index": "B",
+      "name": "Roof Construction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1632,
+      "index": "A",
+      "name": "ABC",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

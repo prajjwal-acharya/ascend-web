@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1548,
+    "name": "Codeforces Round 736 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8700,
+    "startTimeSeconds": 1627828500,
+    "relativeTimeSeconds": 140526132
+  },
+  "problems": [
+    {
+      "contestId": 1548,
+      "index": "E",
+      "name": "Gregor and the Two Painters",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1548,
+      "index": "D2",
+      "name": "Gregor and the Odd Cows (Hard)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 3300,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1548,
+      "index": "D1",
+      "name": "Gregor and the Odd Cows (Easy)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "geometry",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1548,
+      "index": "C",
+      "name": "The Three Little Pigs",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1548,
+      "index": "B",
+      "name": "Integers Have Friends",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1548,
+      "index": "A",
+      "name": "Web of Lies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 542,
+    "name": "VK Cup 2015 - Round 3 (unofficial online mirror, Div. 1 only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1430668800,
+    "relativeTimeSeconds": 337685832
+  },
+  "problems": [
+    {
+      "contestId": 542,
+      "index": "F",
+      "name": "Quest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 542,
+      "index": "E",
+      "name": "Playing on Graph",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 542,
+      "index": "D",
+      "name": "Superhero's Job",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 542,
+      "index": "C",
+      "name": "Idempotent functions",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 542,
+      "index": "B",
+      "name": "Duck Hunt",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 542,
+      "index": "A",
+      "name": "Place Your Ad Here",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    }
+  ]
+}

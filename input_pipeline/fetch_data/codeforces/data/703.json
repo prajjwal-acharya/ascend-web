@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 703,
+    "name": "Codeforces Round 365 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1470323700,
+    "relativeTimeSeconds": 298030932
+  },
+  "problems": [
+    {
+      "contestId": 703,
+      "index": "E",
+      "name": "Mishka and Divisors",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 703,
+      "index": "D",
+      "name": "Mishka and Interesting sum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 703,
+      "index": "C",
+      "name": "Chris and Road",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 703,
+      "index": "B",
+      "name": "Mishka and trip",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 703,
+      "index": "A",
+      "name": "Mishka and Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

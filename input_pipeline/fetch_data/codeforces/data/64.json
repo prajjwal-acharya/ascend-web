@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 64,
+    "name": "Unknown Language Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1298304000,
+    "relativeTimeSeconds": 470050633
+  },
+  "problems": [
+    {
+      "contestId": 64,
+      "index": "I",
+      "name": "Sort the Table",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "H",
+      "name": "Table Bowling",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "G",
+      "name": "Path Canonization",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "F",
+      "name": "Domain",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "E",
+      "name": "Prime Segment",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "D",
+      "name": "Presents",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "C",
+      "name": "Table",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "B",
+      "name": "Expression",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 64,
+      "index": "A",
+      "name": "Factorial",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

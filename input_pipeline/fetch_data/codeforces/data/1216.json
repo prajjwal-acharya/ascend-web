@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1216,
+    "name": "Codeforces Round 587 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1569049500,
+    "relativeTimeSeconds": 199305132
+  },
+  "problems": [
+    {
+      "contestId": 1216,
+      "index": "F",
+      "name": "Wi-Fi",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "E2",
+      "name": "Numerical Sequence (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "E1",
+      "name": "Numerical Sequence (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "D",
+      "name": "Swords",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "C",
+      "name": "White Sheet",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "B",
+      "name": "Shooting",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1216,
+      "index": "A",
+      "name": "Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

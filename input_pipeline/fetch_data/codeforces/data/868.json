@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 868,
+    "name": "Codeforces Round 438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1507187100,
+    "relativeTimeSeconds": 261167532
+  },
+  "problems": [
+    {
+      "contestId": 868,
+      "index": "G",
+      "name": "El Toll Caves",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "F",
+      "name": "Yet Another Minimization Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "E",
+      "name": "Policeman and a Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "D",
+      "name": "Huge Strings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "C",
+      "name": "Qualification Rounds",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "B",
+      "name": "Race Against Time",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 868,
+      "index": "A",
+      "name": "Bark to Unlock",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

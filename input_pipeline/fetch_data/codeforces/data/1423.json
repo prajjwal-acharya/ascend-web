@@ -1,0 +1,162 @@
+{
+  "contest": {
+    "id": 1423,
+    "name": "Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1601903100,
+    "relativeTimeSeconds": 166451532
+  },
+  "problems": [
+    {
+      "contestId": 1423,
+      "index": "N",
+      "name": "BubbleSquare Tokens",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1423,
+      "index": "M",
+      "name": "Milutin's Plums",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "L",
+      "name": "Light switches",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "K",
+      "name": "Lonely Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "J",
+      "name": "Bubble Cup hypothesis",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "I",
+      "name": "Lookup Tables",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "bitmasks"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "H",
+      "name": "Virus",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "G",
+      "name": "Growing flowers",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "F",
+      "name": "Coins",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "E",
+      "name": "5G Antenna Towers",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "D",
+      "name": "Does anyone else hate the wind?",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 1423,
+      "index": "C",
+      "name": "Du\u0161an's Railway",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "B",
+      "name": "Valuable Paper",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1423,
+      "index": "A",
+      "name": "Wakanda Forever",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    }
+  ]
+}

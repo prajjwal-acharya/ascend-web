@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1990,
+    "name": "Codeforces Round 960 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1721486100,
+    "relativeTimeSeconds": 46868532
+  },
+  "problems": [
+    {
+      "contestId": 1990,
+      "index": "F",
+      "name": "Polygonal Segments",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "E2",
+      "name": "Catch the Mole(Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "E1",
+      "name": "Catch the Mole(Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "D",
+      "name": "Grid Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "C",
+      "name": "Mad MAD Sum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "B",
+      "name": "Array Craft",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1990,
+      "index": "A",
+      "name": "Submission Bait",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 556,
+    "name": "Codeforces Round 310 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1435414200,
+    "relativeTimeSeconds": 332940432
+  },
+  "problems": [
+    {
+      "contestId": 556,
+      "index": "B",
+      "name": "Case of Fake Numbers",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 556,
+      "index": "A",
+      "name": "Case of the Zeros and Ones",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

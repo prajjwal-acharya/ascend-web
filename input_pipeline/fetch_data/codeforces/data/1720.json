@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1720,
+    "name": "Codeforces Round 815 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1660829700,
+    "relativeTimeSeconds": 107524932
+  },
+  "problems": [
+    {
+      "contestId": 1720,
+      "index": "E",
+      "name": "Misha and Paintings",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1720,
+      "index": "D2",
+      "name": "Xor-Subsequence (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1720,
+      "index": "D1",
+      "name": "Xor-Subsequence (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "strings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1720,
+      "index": "C",
+      "name": "Corners",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1720,
+      "index": "B",
+      "name": "Interesting Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1720,
+      "index": "A",
+      "name": "Burenka Plays with Fractions",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

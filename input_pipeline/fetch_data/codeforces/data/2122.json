@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 2122,
+    "name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1752935700,
+    "relativeTimeSeconds": 15418932
+  },
+  "problems": [
+    {
+      "contestId": 2122,
+      "index": "G",
+      "name": "Tree Parking",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "F",
+      "name": "Colorful Polygon",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "E",
+      "name": "Greedy Grid Counting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "D",
+      "name": "Traffic Lights",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "C",
+      "name": "Manhattan Pairs",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "B",
+      "name": "Pile Shuffling",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2122,
+      "index": "A",
+      "name": "Greedy Grid",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

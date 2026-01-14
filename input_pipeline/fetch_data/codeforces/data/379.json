@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 379,
+    "name": "Good Bye 2013",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1388417400,
+    "relativeTimeSeconds": 379937232
+  },
+  "problems": [
+    {
+      "contestId": 379,
+      "index": "G",
+      "name": "New Year Cactus",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "F",
+      "name": "New Year Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "E",
+      "name": "New Year Tree Decorations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "geometry",
+        "schedules",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "D",
+      "name": "New Year Letter",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "C",
+      "name": "New Year Ratings Change",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "B",
+      "name": "New Year Present",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 379,
+      "index": "A",
+      "name": "New Year Candles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

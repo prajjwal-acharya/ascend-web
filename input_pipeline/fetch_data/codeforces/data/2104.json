@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 2104,
+    "name": "Educational Codeforces Round 178 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1745850900,
+    "relativeTimeSeconds": 22503732
+  },
+  "problems": [
+    {
+      "contestId": 2104,
+      "index": "G",
+      "name": "Modulo 3",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "F",
+      "name": "Numbers and Strings",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "E",
+      "name": "Unpleasant Strings",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "D",
+      "name": "Array and GCD",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "C",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "B",
+      "name": "Move to the End",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2104,
+      "index": "A",
+      "name": "Three Decks",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

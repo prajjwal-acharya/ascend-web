@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 329,
+    "name": "Codeforces Round 192 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1374327000,
+    "relativeTimeSeconds": 394027632
+  },
+  "problems": [
+    {
+      "contestId": 329,
+      "index": "E",
+      "name": "Evil",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 329,
+      "index": "D",
+      "name": "The Evil Temple and the Moving Rocks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 329,
+      "index": "C",
+      "name": "Graph Reconstruction",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 329,
+      "index": "B",
+      "name": "Biridian Forest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 329,
+      "index": "A",
+      "name": "Purification",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

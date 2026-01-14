@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1833,
+    "name": "Codeforces Round 874 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1684506900,
+    "relativeTimeSeconds": 83847732
+  },
+  "problems": [
+    {
+      "contestId": 1833,
+      "index": "G",
+      "name": "Ksyusha and Chinchilla",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "F",
+      "name": "Ira and Flamenco",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "E",
+      "name": "Round Dance",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "D",
+      "name": "Flipper",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "C",
+      "name": "Vlad Building Beautiful Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "B",
+      "name": "Restore the Weather",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1833,
+      "index": "A",
+      "name": "Musical Puzzle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

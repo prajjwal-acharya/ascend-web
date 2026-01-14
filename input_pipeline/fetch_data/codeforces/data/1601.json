@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1601,
+    "name": "Codeforces Round 751 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1635143700,
+    "relativeTimeSeconds": 133210932
+  },
+  "problems": [
+    {
+      "contestId": 1601,
+      "index": "F",
+      "name": "Two Sorts",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1601,
+      "index": "E",
+      "name": "Phys Ed Online",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1601,
+      "index": "D",
+      "name": "Difficult Mountain",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1601,
+      "index": "C",
+      "name": "Optimal Insertion",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1601,
+      "index": "B",
+      "name": "Frog Traveler",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1601,
+      "index": "A",
+      "name": "Array Elimination",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

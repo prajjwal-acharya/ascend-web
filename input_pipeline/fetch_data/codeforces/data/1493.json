@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1493,
+    "name": "Codeforces Round 705 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1615039500,
+    "relativeTimeSeconds": 153315132
+  },
+  "problems": [
+    {
+      "contestId": 1493,
+      "index": "F",
+      "name": "Enchanted Matrix",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "interactive",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1493,
+      "index": "E",
+      "name": "Enormous XOR",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1493,
+      "index": "D",
+      "name": "GCD of an Array",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "hashing",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1493,
+      "index": "C",
+      "name": "K-beautiful Strings",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1493,
+      "index": "B",
+      "name": "Planet Lapituletti",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1493,
+      "index": "A",
+      "name": "Anti-knapsack",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

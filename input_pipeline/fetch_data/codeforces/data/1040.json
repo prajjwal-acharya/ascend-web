@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1040,
+    "name": "Codeforces Round 507 (Div. 2, based on Olympiad of Metropolises)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1536165300,
+    "relativeTimeSeconds": 232189332
+  },
+  "problems": [
+    {
+      "contestId": 1040,
+      "index": "B",
+      "name": "Shashlik Cooking",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1040,
+      "index": "A",
+      "name": "Palindrome Dance",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

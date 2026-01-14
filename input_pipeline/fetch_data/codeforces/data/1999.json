@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1999,
+    "name": "Codeforces Round 964 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8700,
+    "startTimeSeconds": 1722954900,
+    "relativeTimeSeconds": 45399732
+  },
+  "problems": [
+    {
+      "contestId": 1999,
+      "index": "G2",
+      "name": "Ruler (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "interactive",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "G1",
+      "name": "Ruler (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "F",
+      "name": "Expected Median",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "E",
+      "name": "Triple Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "D",
+      "name": "Slavic's Exam",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "C",
+      "name": "Showering",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "B",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1999,
+      "index": "A",
+      "name": "A+B Again?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

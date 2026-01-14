@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1467,
+    "name": "Codeforces Round 695 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1610116500,
+    "relativeTimeSeconds": 158238132
+  },
+  "problems": [
+    {
+      "contestId": 1467,
+      "index": "E",
+      "name": "Distinctive Roots in a Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1467,
+      "index": "D",
+      "name": "Sum of Paths",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1467,
+      "index": "C",
+      "name": "Three Bags",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1467,
+      "index": "B",
+      "name": "Hills And Valleys",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1467,
+      "index": "A",
+      "name": "Wizard of Orz",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

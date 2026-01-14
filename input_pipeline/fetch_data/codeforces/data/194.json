@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 194,
+    "name": "Codeforces Round 122 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1338737400,
+    "relativeTimeSeconds": 429617233
+  },
+  "problems": [
+    {
+      "contestId": 194,
+      "index": "B",
+      "name": "Square",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 194,
+      "index": "A",
+      "name": "Exams",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

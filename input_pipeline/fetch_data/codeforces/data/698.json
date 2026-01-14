@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 698,
+    "name": "Codeforces Round 363 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1468933500,
+    "relativeTimeSeconds": 299421132
+  },
+  "problems": [
+    {
+      "contestId": 698,
+      "index": "F",
+      "name": "Coprime Permutation",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 698,
+      "index": "E",
+      "name": "Cron",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 698,
+      "index": "D",
+      "name": "Limak and Shooting Points",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 698,
+      "index": "C",
+      "name": "LRU",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 698,
+      "index": "B",
+      "name": "Fix a Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 698,
+      "index": "A",
+      "name": "Vacations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

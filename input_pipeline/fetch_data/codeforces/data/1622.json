@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1622,
+    "name": "Educational Codeforces Round 120 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1640615700,
+    "relativeTimeSeconds": 127738932
+  },
+  "problems": [
+    {
+      "contestId": 1622,
+      "index": "F",
+      "name": "Quadratic Set",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1622,
+      "index": "E",
+      "name": "Math Test",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1622,
+      "index": "D",
+      "name": "Shuffle",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1622,
+      "index": "C",
+      "name": "Set or Decrease",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1622,
+      "index": "B",
+      "name": "Berland Music",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1622,
+      "index": "A",
+      "name": "Construct a Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

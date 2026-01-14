@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1300,
+    "name": "Codeforces Round 618 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1581257100,
+    "relativeTimeSeconds": 187097532
+  },
+  "problems": [
+    {
+      "contestId": 1300,
+      "index": "B",
+      "name": "Assigning to Classes",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1300,
+      "index": "A",
+      "name": "Non-zero",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

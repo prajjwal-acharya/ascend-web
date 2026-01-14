@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 606,
+    "name": "Codeforces Round 335 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1449677100,
+    "relativeTimeSeconds": 318677532
+  },
+  "problems": [
+    {
+      "contestId": 606,
+      "index": "B",
+      "name": "Testing Robots",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 606,
+      "index": "A",
+      "name": "Magic Spheres",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

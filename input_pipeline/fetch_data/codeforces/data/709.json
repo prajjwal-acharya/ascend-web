@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 709,
+    "name": "AIM Tech Round 3 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1472056500,
+    "relativeTimeSeconds": 296298132
+  },
+  "problems": [
+    {
+      "contestId": 709,
+      "index": "B",
+      "name": "Checkpoints",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 709,
+      "index": "A",
+      "name": "Juicer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

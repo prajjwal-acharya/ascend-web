@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 955,
+    "name": "Codeforces Round 471 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1521822900,
+    "relativeTimeSeconds": 246531732
+  },
+  "problems": [
+    {
+      "contestId": 955,
+      "index": "F",
+      "name": "Heaps",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 955,
+      "index": "E",
+      "name": "Icicles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 955,
+      "index": "D",
+      "name": "Scissors",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 955,
+      "index": "C",
+      "name": "Sad powers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 955,
+      "index": "B",
+      "name": "Not simply beatiful strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 955,
+      "index": "A",
+      "name": "Feed the cat",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

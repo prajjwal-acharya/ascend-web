@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1831,
+    "name": "Codeforces Round 875 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1685284500,
+    "relativeTimeSeconds": 83070132
+  },
+  "problems": [
+    {
+      "contestId": 1831,
+      "index": "B",
+      "name": "Array merging",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1831,
+      "index": "A",
+      "name": "Twin Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

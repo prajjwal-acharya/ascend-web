@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 434,
+    "name": "Codeforces Round 248 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1400914800,
+    "relativeTimeSeconds": 367439832
+  },
+  "problems": [
+    {
+      "contestId": 434,
+      "index": "E",
+      "name": "Furukawa Nagisa's Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 434,
+      "index": "D",
+      "name": "Nanami's Power Plant",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "flows"
+      ]
+    }
+  ]
+}

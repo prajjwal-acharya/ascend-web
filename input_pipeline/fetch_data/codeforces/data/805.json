@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 805,
+    "name": "Codeforces Round 411 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1493909400,
+    "relativeTimeSeconds": 274445232
+  },
+  "problems": [
+    {
+      "contestId": 805,
+      "index": "B",
+      "name": "3-palindrome",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 805,
+      "index": "A",
+      "name": "Fake NP",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

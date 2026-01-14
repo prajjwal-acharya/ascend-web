@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 239,
+    "name": "Codeforces Round 148 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1352044800,
+    "relativeTimeSeconds": 416309833
+  },
+  "problems": [
+    {
+      "contestId": 239,
+      "index": "B",
+      "name": "Easy Tape Programming",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 239,
+      "index": "A",
+      "name": "Two Bags of Potatoes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

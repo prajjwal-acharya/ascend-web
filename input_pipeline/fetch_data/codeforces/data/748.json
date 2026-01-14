@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 748,
+    "name": "Technocup 2017 - Elimination Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1482656700,
+    "relativeTimeSeconds": 285697932
+  },
+  "problems": [
+    {
+      "contestId": 748,
+      "index": "F",
+      "name": "Santa Clauses and a Soccer Championship",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 748,
+      "index": "E",
+      "name": "Santa Claus and Tangerines",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 748,
+      "index": "D",
+      "name": "Santa Claus and a Palindrome",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 748,
+      "index": "C",
+      "name": "Santa Claus and Robot",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 748,
+      "index": "B",
+      "name": "Santa Claus and Keyboard Check",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 748,
+      "index": "A",
+      "name": "Santa Claus and a Place in a Class",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

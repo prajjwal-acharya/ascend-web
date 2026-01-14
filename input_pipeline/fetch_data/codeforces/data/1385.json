@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1385,
+    "name": "Codeforces Round 656 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1594996500,
+    "relativeTimeSeconds": 173358132
+  },
+  "problems": [
+    {
+      "contestId": 1385,
+      "index": "G",
+      "name": "Columns Swaps",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "F",
+      "name": "Removing Leaves",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "E",
+      "name": "Directing Edges",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "D",
+      "name": "a-Good String",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "divide and conquer",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "C",
+      "name": "Make It Good",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "B",
+      "name": "Restore the Permutation by Merger",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1385,
+      "index": "A",
+      "name": "Three Pairwise Maximums",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

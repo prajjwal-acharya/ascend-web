@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1342,
+    "name": "Educational Codeforces Round 86 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1587911700,
+    "relativeTimeSeconds": 180442932
+  },
+  "problems": [
+    {
+      "contestId": 1342,
+      "index": "F",
+      "name": "Make It Ascending",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1342,
+      "index": "E",
+      "name": "Placing Rooks",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1342,
+      "index": "D",
+      "name": "Multiple Testcases",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1342,
+      "index": "C",
+      "name": "Yet Another Counting Problem",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1342,
+      "index": "B",
+      "name": "Binary Period",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1342,
+      "index": "A",
+      "name": "Road To Zero",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 263,
+    "name": "Codeforces Round 161 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1358350200,
+    "relativeTimeSeconds": 410004433
+  },
+  "problems": [
+    {
+      "contestId": 263,
+      "index": "E",
+      "name": "Rhombus",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 263,
+      "index": "D",
+      "name": "Cycle in Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 263,
+      "index": "C",
+      "name": "Circle of Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 263,
+      "index": "B",
+      "name": "Squares",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 263,
+      "index": "A",
+      "name": "Beautiful Matrix",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 202,
+    "name": "Codeforces Round 127 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1340983800,
+    "relativeTimeSeconds": 427370833
+  },
+  "problems": [
+    {
+      "contestId": 202,
+      "index": "B",
+      "name": "Brand New Easy Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 202,
+      "index": "A",
+      "name": "LLPS",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

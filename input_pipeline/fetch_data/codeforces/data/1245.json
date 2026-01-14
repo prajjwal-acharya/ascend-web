@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1245,
+    "name": "Codeforces Round 597 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1572618900,
+    "relativeTimeSeconds": 195735732
+  },
+  "problems": [
+    {
+      "contestId": 1245,
+      "index": "F",
+      "name": "Daniel and Spring Cleaning",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1245,
+      "index": "E",
+      "name": "Hyakugoku and Ladders",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "probabilities",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1245,
+      "index": "D",
+      "name": "Shichikuji and Power Grid",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1245,
+      "index": "C",
+      "name": "Constanze's Machine",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1245,
+      "index": "B",
+      "name": "Restricted RPS",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1245,
+      "index": "A",
+      "name": "Good ol' Numbers Coloring",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

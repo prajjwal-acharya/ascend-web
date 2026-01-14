@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 648,
+    "name": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2016 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0420\u0430\u0443\u043d\u0434 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1458745200,
+    "relativeTimeSeconds": 309609432
+  },
+  "problems": [
+    {
+      "contestId": 648,
+      "index": "E",
+      "name": "\u0421\u043e\u0431\u0435\u0440\u0438 \u0447\u0438\u0441\u043b\u043e",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 648,
+      "index": "D",
+      "name": "\u0421\u043e\u0431\u0430\u0447\u043a\u0438 \u0438 \u043c\u0438\u0441\u043a\u0438",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 648,
+      "index": "C",
+      "name": "\u041f\u0443\u0442\u044c \u0420\u043e\u0431\u043e\u0442\u0430",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 648,
+      "index": "B",
+      "name": "\u0421\u043e\u0431\u0435\u0440\u0438 \u0441\u0442\u043e\u043b",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 648,
+      "index": "A",
+      "name": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

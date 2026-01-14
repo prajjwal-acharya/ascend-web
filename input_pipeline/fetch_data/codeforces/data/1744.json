@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1744,
+    "name": "Codeforces Round  828 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1665930900,
+    "relativeTimeSeconds": 102423732
+  },
+  "problems": [
+    {
+      "contestId": 1744,
+      "index": "F",
+      "name": "MEX vs MED",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "E2",
+      "name": "Divisible Numbers (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "E1",
+      "name": "Divisible Numbers (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "D",
+      "name": "Divisibility by 2^n",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "C",
+      "name": "Traffic Light",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "B",
+      "name": "Even-Odd Increments ",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1744,
+      "index": "A",
+      "name": "Number Replacement",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

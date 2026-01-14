@@ -1,0 +1,122 @@
+{
+  "contest": {
+    "id": 120,
+    "name": "School Regional Team Contest, Saratov, 2011",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1318919400,
+    "relativeTimeSeconds": 449435233
+  },
+  "problems": [
+    {
+      "contestId": 120,
+      "index": "J",
+      "name": "Minimum Sum",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "divide and conquer",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "I",
+      "name": "Luck is in Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "H",
+      "name": "Brevity is Soul of Wit",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "G",
+      "name": "Boom",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "F",
+      "name": "Spiders",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "E",
+      "name": "Put Knight!",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "D",
+      "name": "Three Sons",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "C",
+      "name": "Winnie-the-Pooh and honey",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "B",
+      "name": "Quiz League",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 120,
+      "index": "A",
+      "name": "Elevator",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

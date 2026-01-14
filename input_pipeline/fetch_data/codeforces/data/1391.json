@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1391,
+    "name": "Codeforces Round 663 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1596983700,
+    "relativeTimeSeconds": 171370932
+  },
+  "problems": [
+    {
+      "contestId": 1391,
+      "index": "E",
+      "name": "Pairs of Pairs",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1391,
+      "index": "D",
+      "name": "505",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1391,
+      "index": "C",
+      "name": "Cyclic Permutations ",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1391,
+      "index": "B",
+      "name": "Fix You",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1391,
+      "index": "A",
+      "name": "Suborrays",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

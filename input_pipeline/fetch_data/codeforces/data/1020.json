@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1020,
+    "name": "Codeforces Round 503 (by SIS, Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1533994500,
+    "relativeTimeSeconds": 234360132
+  },
+  "problems": [
+    {
+      "contestId": 1020,
+      "index": "B",
+      "name": "Badge",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1020,
+      "index": "A",
+      "name": "New Building for SIS",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

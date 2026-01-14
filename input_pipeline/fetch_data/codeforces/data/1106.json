@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1106,
+    "name": "Codeforces Round 536 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9600,
+    "startTimeSeconds": 1548938100,
+    "relativeTimeSeconds": 219416532
+  },
+  "problems": [
+    {
+      "contestId": 1106,
+      "index": "F",
+      "name": "Lunar New Year and a Recursive Sequence",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1106,
+      "index": "E",
+      "name": "Lunar New Year and Red Envelopes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1106,
+      "index": "D",
+      "name": "Lunar New Year and a Wander",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1106,
+      "index": "C",
+      "name": "Lunar New Year and Number Division",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1106,
+      "index": "B",
+      "name": "Lunar New Year and Food Ordering",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1106,
+      "index": "A",
+      "name": "Lunar New Year and Cross Counting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

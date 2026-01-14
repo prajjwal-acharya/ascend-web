@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 507,
+    "name": "Codeforces Round 287 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1422028800,
+    "relativeTimeSeconds": 346325832
+  },
+  "problems": [
+    {
+      "contestId": 507,
+      "index": "E",
+      "name": "Breaking Good",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 507,
+      "index": "D",
+      "name": "The Maths Lecture",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 507,
+      "index": "C",
+      "name": "Guess Your Way Out!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 507,
+      "index": "B",
+      "name": "Amr and Pins",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 507,
+      "index": "A",
+      "name": "Amr and Music",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

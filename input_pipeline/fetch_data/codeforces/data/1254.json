@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1254,
+    "name": "Codeforces Round 601 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1574174100,
+    "relativeTimeSeconds": 194180532
+  },
+  "problems": [
+    {
+      "contestId": 1254,
+      "index": "E",
+      "name": "Send Tree to Charlie",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1254,
+      "index": "D",
+      "name": "Tree Queries",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1254,
+      "index": "C",
+      "name": "Point Ordering",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1254,
+      "index": "B2",
+      "name": "Send Boxes to Alice (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1254,
+      "index": "B1",
+      "name": "Send Boxes to Alice (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1254,
+      "index": "A",
+      "name": "Feeding Chicken",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

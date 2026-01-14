@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1174,
+    "name": "Codeforces Round 563 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1559570700,
+    "relativeTimeSeconds": 208783932
+  },
+  "problems": [
+    {
+      "contestId": 1174,
+      "index": "F",
+      "name": "Ehab and the Big Finale",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "graphs",
+        "implementation",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1174,
+      "index": "E",
+      "name": "Ehab and the Expected GCD Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1174,
+      "index": "D",
+      "name": "Ehab and the Expected XOR Problem",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1174,
+      "index": "C",
+      "name": "Ehab and a Special Coloring Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1174,
+      "index": "B",
+      "name": "Ehab Is an Odd Person",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1174,
+      "index": "A",
+      "name": "Ehab Fails to Be Thanos",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

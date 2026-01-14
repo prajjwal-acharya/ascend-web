@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": 1464,
+    "name": "Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1608476700,
+    "relativeTimeSeconds": 159877932
+  },
+  "problems": [
+    {
+      "contestId": 1464,
+      "index": "F",
+      "name": "My Beautiful Madness",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    }
+  ]
+}

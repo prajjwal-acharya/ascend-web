@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1286,
+    "name": "Codeforces Round 612 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1578233100,
+    "relativeTimeSeconds": 190121532
+  },
+  "problems": [
+    {
+      "contestId": 1286,
+      "index": "F",
+      "name": "Harry The Potter",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "fft",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "E",
+      "name": "Fedya the Potter Strikes Back",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "D",
+      "name": "LCC",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "math",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "C2",
+      "name": "Madhouse (Hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "hashing",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "C1",
+      "name": "Madhouse (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "B",
+      "name": "Numbers on Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1286,
+      "index": "A",
+      "name": "Garland",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

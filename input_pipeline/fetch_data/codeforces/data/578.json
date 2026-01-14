@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 578,
+    "name": "Codeforces Round 320 (Div. 1) [Bayan Thanks-Round]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1442416500,
+    "relativeTimeSeconds": 325938132
+  },
+  "problems": [
+    {
+      "contestId": 578,
+      "index": "F",
+      "name": "Mirror Box",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "matrices",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 578,
+      "index": "E",
+      "name": "Walking!",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 578,
+      "index": "D",
+      "name": "LCS Again",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 578,
+      "index": "C",
+      "name": "Weakness and Poorness",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 578,
+      "index": "B",
+      "name": "\"Or\" Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 578,
+      "index": "A",
+      "name": "A Problem about Polyline",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1700,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

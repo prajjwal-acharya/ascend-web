@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 938,
+    "name": "Educational Codeforces Round 38 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1518793500,
+    "relativeTimeSeconds": 249561132
+  },
+  "problems": [
+    {
+      "contestId": 938,
+      "index": "G",
+      "name": "Shortest Path Queries",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "F",
+      "name": "Erasing Substrings",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "E",
+      "name": "Max History",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "D",
+      "name": "Buy a Ticket",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "C",
+      "name": "Constructing Tests",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "B",
+      "name": "Run For Your Prize",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 938,
+      "index": "A",
+      "name": "Word Correction",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

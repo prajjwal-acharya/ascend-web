@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1054,
+    "name": "Mail.Ru Cup 2018 Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1539880500,
+    "relativeTimeSeconds": 228474132
+  },
+  "problems": [
+    {
+      "contestId": 1054,
+      "index": "H",
+      "name": "Epic Convolution",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "chinese remainder theorem",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "G",
+      "name": "New Road Network",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "F",
+      "name": "Electric Scheme",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "E",
+      "name": "Chips Puzzle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "D",
+      "name": "Changing Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "C",
+      "name": "Candies Distribution",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "B",
+      "name": "Appending Mex",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1054,
+      "index": "A",
+      "name": "Elevator or Stairs?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

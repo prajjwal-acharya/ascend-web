@@ -1,0 +1,143 @@
+{
+  "contest": {
+    "id": 2062,
+    "name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1737902100,
+    "relativeTimeSeconds": 30452532
+  },
+  "problems": [
+    {
+      "contestId": 2062,
+      "index": "H",
+      "name": "Galaxy Generator",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "G",
+      "name": "Permutation Factory",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "flows",
+        "geometry",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "F",
+      "name": "Traveling Salescat",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "geometry",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "E2",
+      "name": "The Game (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "games",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "E1",
+      "name": "The Game (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "games",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "D",
+      "name": "Balanced Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "C",
+      "name": "Cirno and Operations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "B",
+      "name": "Clockwork",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2062,
+      "index": "A",
+      "name": "String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

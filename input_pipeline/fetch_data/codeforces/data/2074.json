@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2074,
+    "name": "Codeforces Round 1009 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1741703700,
+    "relativeTimeSeconds": 26650932
+  },
+  "problems": [
+    {
+      "contestId": 2074,
+      "index": "G",
+      "name": "Game With Triangles: Season 2",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "F",
+      "name": "Counting Necessary Nodes",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "E",
+      "name": "Empty Triangle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "geometry",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "D",
+      "name": "Counting Points",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "geometry",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "C",
+      "name": "XOR and Triangle",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "geometry",
+        "greedy",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "B",
+      "name": "The Third Side",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2074,
+      "index": "A",
+      "name": "Draw a Square",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

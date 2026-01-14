@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 842,
+    "name": "Codeforces Round 430 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1504019100,
+    "relativeTimeSeconds": 264335532
+  },
+  "problems": [
+    {
+      "contestId": 842,
+      "index": "E",
+      "name": "Nikita and game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 842,
+      "index": "D",
+      "name": "Vitya and Strange Lesson",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 842,
+      "index": "C",
+      "name": "Ilya And The Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 842,
+      "index": "B",
+      "name": "Gleb And Pizza",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 842,
+      "index": "A",
+      "name": "Kirill And The Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ]
+    }
+  ]
+}

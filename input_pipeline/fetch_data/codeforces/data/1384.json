@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": 1384,
+    "name": "Codeforces Round 659 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1595601300,
+    "relativeTimeSeconds": 172753332
+  },
+  "problems": [
+    {
+      "contestId": 1384,
+      "index": "B2",
+      "name": "Koa and the Beach (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1384,
+      "index": "B1",
+      "name": "Koa and the Beach (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1384,
+      "index": "A",
+      "name": "Common Prefixes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

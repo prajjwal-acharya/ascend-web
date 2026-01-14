@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1473,
+    "name": "Educational Codeforces Round 102 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1610634900,
+    "relativeTimeSeconds": 157719732
+  },
+  "problems": [
+    {
+      "contestId": 1473,
+      "index": "G",
+      "name": "Tiles",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "F",
+      "name": "Strange Set",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "flows",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "E",
+      "name": "Minimum Path",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "D",
+      "name": "Program",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "C",
+      "name": "No More Inversions",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "B",
+      "name": "String LCM",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1473,
+      "index": "A",
+      "name": "Replacing Elements",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

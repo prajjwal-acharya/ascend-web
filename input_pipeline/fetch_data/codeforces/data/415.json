@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 415,
+    "name": "Codeforces Round 240 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1396798800,
+    "relativeTimeSeconds": 371555832
+  },
+  "problems": [
+    {
+      "contestId": 415,
+      "index": "B",
+      "name": "Mashmokh and Tokens",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 415,
+      "index": "A",
+      "name": "Mashmokh and Lights",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

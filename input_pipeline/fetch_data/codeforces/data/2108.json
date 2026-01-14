@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2108,
+    "name": "Codeforces Round 1022 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1746110100,
+    "relativeTimeSeconds": 22244532
+  },
+  "problems": [
+    {
+      "contestId": 2108,
+      "index": "F",
+      "name": "Fallen Towers",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2108,
+      "index": "E",
+      "name": "Spruce Dispute",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2108,
+      "index": "D",
+      "name": "Needle in a Numstack",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2108,
+      "index": "C",
+      "name": "Neo's Escape",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2108,
+      "index": "B",
+      "name": "SUMdamental Decomposition",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2108,
+      "index": "A",
+      "name": "Permutation Warm-Up",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

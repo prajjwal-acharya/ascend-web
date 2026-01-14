@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 150,
+    "name": "Codeforces Round 107 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1329490800,
+    "relativeTimeSeconds": 438863833
+  },
+  "problems": [
+    {
+      "contestId": 150,
+      "index": "E",
+      "name": "Freezing with Style",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 150,
+      "index": "D",
+      "name": "Mission Impassable",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 150,
+      "index": "C",
+      "name": "Smart Cheater",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 150,
+      "index": "B",
+      "name": "Quantity of Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 150,
+      "index": "A",
+      "name": "Win or Freeze",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "games",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

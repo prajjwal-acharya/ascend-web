@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 530,
+    "name": "VK Cup 2015 - Wild Card Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1427562000,
+    "relativeTimeSeconds": 340792632
+  },
+  "problems": [
+    {
+      "contestId": 530,
+      "index": "I",
+      "name": "Different variables",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "H",
+      "name": "Points in triangle",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "G",
+      "name": "Levenshtein distance",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "F",
+      "name": "Jumping frogs",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "E",
+      "name": "Sum and product",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "D",
+      "name": "Set subtraction",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "C",
+      "name": "Diophantine equation",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "B",
+      "name": "String inside out",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 530,
+      "index": "A",
+      "name": "Quadratic equation",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 2114,
+    "name": "Codeforces Round 1027 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1748270100,
+    "relativeTimeSeconds": 20084532
+  },
+  "problems": [
+    {
+      "contestId": 2114,
+      "index": "G",
+      "name": "Build an Array",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "F",
+      "name": "Small Operations",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "E",
+      "name": "Kirei Attacks the Estate",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "D",
+      "name": "Come a Little Closer",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "C",
+      "name": "Need More Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "B",
+      "name": "Not Quite a Palindromic String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2114,
+      "index": "A",
+      "name": "Square Year",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

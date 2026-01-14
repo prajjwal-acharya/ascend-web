@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 46,
+    "name": "School Personal Contest #2 (Winter Computer School 2010/11) - Codeforces Beta Round 43 (ACM-ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1291536000,
+    "relativeTimeSeconds": 476818633
+  },
+  "problems": [
+    {
+      "contestId": 46,
+      "index": "G",
+      "name": "Emperor's Problem",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "F",
+      "name": "Hercule Poirot Problem",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "E",
+      "name": "Comb",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "D",
+      "name": "Parking Lot",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "C",
+      "name": "Hamsters and Tigers",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "B",
+      "name": "T-shirts from Sponsor",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 46,
+      "index": "A",
+      "name": "Ball Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

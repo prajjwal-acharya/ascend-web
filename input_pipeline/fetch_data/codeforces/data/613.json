@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 613,
+    "name": "Codeforces Round 339 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1452789300,
+    "relativeTimeSeconds": 315565332
+  },
+  "problems": [
+    {
+      "contestId": 613,
+      "index": "E",
+      "name": "Puzzle Lover",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 613,
+      "index": "D",
+      "name": "Kingdom and its Cities",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 613,
+      "index": "C",
+      "name": "Necklace",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 613,
+      "index": "B",
+      "name": "Skills",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 613,
+      "index": "A",
+      "name": "Peter and Snow Blower",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "geometry",
+        "ternary search"
+      ]
+    }
+  ]
+}

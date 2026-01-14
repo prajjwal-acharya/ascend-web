@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 862,
+    "name": "Codeforces Round 435 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1505833500,
+    "relativeTimeSeconds": 262521132
+  },
+  "problems": [
+    {
+      "contestId": 862,
+      "index": "F",
+      "name": "Mahmoud and Ehab and the final stage",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 862,
+      "index": "E",
+      "name": "Mahmoud and Ehab and the function",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 862,
+      "index": "D",
+      "name": "Mahmoud and Ehab and the binary string",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 862,
+      "index": "C",
+      "name": "Mahmoud and Ehab and the xor",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 862,
+      "index": "B",
+      "name": "Mahmoud and Ehab and the bipartiteness",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 862,
+      "index": "A",
+      "name": "Mahmoud and Ehab and the MEX",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

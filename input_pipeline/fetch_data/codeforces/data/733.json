@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 733,
+    "name": "Codeforces Round 378 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1477922700,
+    "relativeTimeSeconds": 290431932
+  },
+  "problems": [
+    {
+      "contestId": 733,
+      "index": "F",
+      "name": "Drivers Dissatisfaction",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 733,
+      "index": "E",
+      "name": "Sleep in Class",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 733,
+      "index": "D",
+      "name": "Kostya the Sculptor",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 733,
+      "index": "C",
+      "name": "Epidemic in Monstropolis",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 733,
+      "index": "B",
+      "name": "Parade",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 733,
+      "index": "A",
+      "name": "Grasshopper And the String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

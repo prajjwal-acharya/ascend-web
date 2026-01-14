@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 2106,
+    "name": "Codeforces Round 1020 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1745505300,
+    "relativeTimeSeconds": 22849332
+  },
+  "problems": [
+    {
+      "contestId": 2106,
+      "index": "G2",
+      "name": "Baudelaire (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "divide and conquer",
+        "implementation",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "G1",
+      "name": "Baudelaire (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "F",
+      "name": "Goblin",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "E",
+      "name": "Wolf",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "D",
+      "name": "Flower Boy",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "C",
+      "name": "Cherry Bomb",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "B",
+      "name": "St. Chroma",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2106,
+      "index": "A",
+      "name": "Dr. TC",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

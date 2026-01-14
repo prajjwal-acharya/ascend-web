@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 2055,
+    "name": "Codeforces Round 996 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1736692500,
+    "relativeTimeSeconds": 31662132
+  },
+  "problems": [
+    {
+      "contestId": 2055,
+      "index": "F",
+      "name": "Cosmic Divide",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "geometry",
+        "hashing",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2055,
+      "index": "E",
+      "name": "Haystacks",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2055,
+      "index": "D",
+      "name": "Scarecrow",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2055,
+      "index": "C",
+      "name": "The Trail",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2055,
+      "index": "B",
+      "name": "Crafting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2055,
+      "index": "A",
+      "name": "Two Frogs",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

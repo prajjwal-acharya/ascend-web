@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 126,
+    "name": "Codeforces Beta Round 93 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1320858000,
+    "relativeTimeSeconds": 447496633
+  },
+  "problems": [
+    {
+      "contestId": 126,
+      "index": "E",
+      "name": "Pills",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 126,
+      "index": "D",
+      "name": "Fibonacci Sums",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 126,
+      "index": "C",
+      "name": "E-reader Display",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 126,
+      "index": "B",
+      "name": "Password",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dp",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 126,
+      "index": "A",
+      "name": "Hot Bath",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

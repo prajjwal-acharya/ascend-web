@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 226,
+    "name": "Codeforces Round 140 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1348500600,
+    "relativeTimeSeconds": 419854033
+  },
+  "problems": [
+    {
+      "contestId": 226,
+      "index": "E",
+      "name": "Noble Knight's Path",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 226,
+      "index": "D",
+      "name": "The table",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 226,
+      "index": "C",
+      "name": "Anniversary",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 226,
+      "index": "B",
+      "name": "Naughty Stone Piles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 226,
+      "index": "A",
+      "name": "Flying Saucer Segments",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1236,
+    "name": "Codeforces Round 593 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1571319300,
+    "relativeTimeSeconds": 197035332
+  },
+  "problems": [
+    {
+      "contestId": 1236,
+      "index": "F",
+      "name": "Alice and the Cactus",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1236,
+      "index": "E",
+      "name": "Alice and the Unfair Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1236,
+      "index": "D",
+      "name": "Alice and the Doll",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1236,
+      "index": "C",
+      "name": "Labs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1236,
+      "index": "B",
+      "name": "Alice and the List of Presents",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1236,
+      "index": "A",
+      "name": "Stones",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

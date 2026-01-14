@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1869,
+    "name": "Codeforces Round 896 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1694354700,
+    "relativeTimeSeconds": 73999932
+  },
+  "problems": [
+    {
+      "contestId": 1869,
+      "index": "B",
+      "name": "2D Traveling",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "geometry",
+        "math",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1869,
+      "index": "A",
+      "name": "Make It Zero",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

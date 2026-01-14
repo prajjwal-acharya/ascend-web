@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 296,
+    "name": "Codeforces Round 179 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1365694200,
+    "relativeTimeSeconds": 402660433
+  },
+  "problems": [
+    {
+      "contestId": 296,
+      "index": "B",
+      "name": "Yaroslav and Two Strings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 296,
+      "index": "A",
+      "name": "Yaroslav and Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

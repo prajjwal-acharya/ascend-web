@@ -1,0 +1,127 @@
+{
+  "contest": {
+    "id": 2178,
+    "name": "Good Bye 2025",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1766846100,
+    "relativeTimeSeconds": 1508532
+  },
+  "problems": [
+    {
+      "contestId": 2178,
+      "index": "I",
+      "name": "Numbers or Fireworks",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "H",
+      "name": "Create or Duplicate",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "tags": [
+        "bitmasks",
+        "graphs",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "G",
+      "name": "deCH OR Dations",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "hashing",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "F",
+      "name": "Conquer or of Forest",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "tags": [
+        "combinatorics",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "E",
+      "name": "Flatten or Concatenate",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "D",
+      "name": "Xmas or Hysteria",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "C",
+      "name": "First or Second",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "B",
+      "name": "Impost or Sus",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2178,
+      "index": "A",
+      "name": "Yes or Yes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

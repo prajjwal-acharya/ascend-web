@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 769,
+    "name": "VK Cup 2017 - Qualification 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1488628800,
+    "relativeTimeSeconds": 279725832
+  },
+  "problems": [
+    {
+      "contestId": 769,
+      "index": "D",
+      "name": "k-Interesting Pairs Of Integers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "bitmasks",
+        "brute force",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 769,
+      "index": "C",
+      "name": "Cycle In Maze",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 769,
+      "index": "B",
+      "name": "News About Credit",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 769,
+      "index": "A",
+      "name": "Year of University Entrance",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 1084,
+    "name": "Codeforces Round 526 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1544459700,
+    "relativeTimeSeconds": 223894932
+  },
+  "problems": [
+    {
+      "contestId": 1084,
+      "index": "C",
+      "name": "The Fair Nut and String",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1084,
+      "index": "B",
+      "name": "Kvass and the Fair Nut",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1084,
+      "index": "A",
+      "name": "The Fair Nut and Elevator",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

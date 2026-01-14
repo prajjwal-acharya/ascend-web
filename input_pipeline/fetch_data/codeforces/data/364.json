@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 364,
+    "name": "Codeforces Round 213 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1384875000,
+    "relativeTimeSeconds": 383479632
+  },
+  "problems": [
+    {
+      "contestId": 364,
+      "index": "E",
+      "name": "Empty Rectangles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "divide and conquer",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 364,
+      "index": "D",
+      "name": "Ghd",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 364,
+      "index": "C",
+      "name": "Beautiful Set",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 364,
+      "index": "B",
+      "name": "Free Market",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 364,
+      "index": "A",
+      "name": "Matrix",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

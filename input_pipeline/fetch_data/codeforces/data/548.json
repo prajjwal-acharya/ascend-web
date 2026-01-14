@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 548,
+    "name": "Codeforces Round 305 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1432658100,
+    "relativeTimeSeconds": 335696532
+  },
+  "problems": [
+    {
+      "contestId": 548,
+      "index": "B",
+      "name": "Mike and Fun",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 548,
+      "index": "A",
+      "name": "Mike and Fax",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

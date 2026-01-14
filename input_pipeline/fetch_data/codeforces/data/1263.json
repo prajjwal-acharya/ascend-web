@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1263,
+    "name": "Codeforces Round 603 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1575038100,
+    "relativeTimeSeconds": 193316532
+  },
+  "problems": [
+    {
+      "contestId": 1263,
+      "index": "F",
+      "name": "Economic Difficulties",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1263,
+      "index": "E",
+      "name": "Editor",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1263,
+      "index": "D",
+      "name": "Secret Passwords",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1263,
+      "index": "C",
+      "name": "Everyone is a Winner!",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "math",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1263,
+      "index": "B",
+      "name": "PIN Codes",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1263,
+      "index": "A",
+      "name": "Sweet Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

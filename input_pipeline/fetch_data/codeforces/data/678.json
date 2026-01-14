@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 678,
+    "name": "Educational Codeforces Round 13",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1465834200,
+    "relativeTimeSeconds": 302520432
+  },
+  "problems": [
+    {
+      "contestId": 678,
+      "index": "F",
+      "name": "Lena and Queries",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 678,
+      "index": "E",
+      "name": "Another Sith Tournament",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 678,
+      "index": "D",
+      "name": "Iterated Linear Function",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 678,
+      "index": "C",
+      "name": "Joty and Chocolate",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 678,
+      "index": "B",
+      "name": "The Same Calendar",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 678,
+      "index": "A",
+      "name": "Johny Likes Numbers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

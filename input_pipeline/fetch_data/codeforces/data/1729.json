@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1729,
+    "name": "Codeforces Round 820 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1662993300,
+    "relativeTimeSeconds": 105361332
+  },
+  "problems": [
+    {
+      "contestId": 1729,
+      "index": "G",
+      "name": "Cut Substrings",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "F",
+      "name": "Kirei and the Linear Function",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "E",
+      "name": "Guess the Cycle Size",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "D",
+      "name": "Friends and the Restaurant",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "C",
+      "name": "Jumping on Tiles",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "B",
+      "name": "Decode String",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1729,
+      "index": "A",
+      "name": "Two Elevators",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

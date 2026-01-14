@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 42,
+    "name": "Codeforces Beta Round 41",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1290096000,
+    "relativeTimeSeconds": 478258633
+  },
+  "problems": [
+    {
+      "contestId": 42,
+      "index": "E",
+      "name": "Baldman and the military",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 42,
+      "index": "D",
+      "name": "Strange town",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 42,
+      "index": "C",
+      "name": "Safe cracking",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 42,
+      "index": "B",
+      "name": "Game of chess unfinished",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 42,
+      "index": "A",
+      "name": "Guilty --- to the kitchen!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

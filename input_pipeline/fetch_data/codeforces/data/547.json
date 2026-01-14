@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 547,
+    "name": "Codeforces Round 305 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1432658100,
+    "relativeTimeSeconds": 335696532
+  },
+  "problems": [
+    {
+      "contestId": 547,
+      "index": "E",
+      "name": "Mike and Friends",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "string suffix structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 547,
+      "index": "D",
+      "name": "Mike and Fish",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 547,
+      "index": "C",
+      "name": "Mike and Foam",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 547,
+      "index": "B",
+      "name": "Mike and Feet",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 547,
+      "index": "A",
+      "name": "Mike and Frog",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

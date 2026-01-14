@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1180,
+    "name": "Codeforces Round 569 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1561136700,
+    "relativeTimeSeconds": 207217932
+  },
+  "problems": [
+    {
+      "contestId": 1180,
+      "index": "B",
+      "name": "Nick and Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1180,
+      "index": "A",
+      "name": "Alex and a Rhombus",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

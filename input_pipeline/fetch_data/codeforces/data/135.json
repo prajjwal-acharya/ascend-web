@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 135,
+    "name": "Codeforces Beta Round 97 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1323443100,
+    "relativeTimeSeconds": 444911533
+  },
+  "problems": [
+    {
+      "contestId": 135,
+      "index": "E",
+      "name": "Weak Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 135,
+      "index": "D",
+      "name": "Cycle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 135,
+      "index": "C",
+      "name": "Zero-One",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 135,
+      "index": "B",
+      "name": "Rectangle and Square",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 135,
+      "index": "A",
+      "name": "Replacement",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

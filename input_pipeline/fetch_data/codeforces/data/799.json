@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 799,
+    "name": "Playrix Codescapes Cup (Codeforces Round 413, rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1494516900,
+    "relativeTimeSeconds": 273837732
+  },
+  "problems": [
+    {
+      "contestId": 799,
+      "index": "G",
+      "name": "Cut the pie",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "F",
+      "name": "Beautiful fountains rows",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "E",
+      "name": "Aquarium decoration",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "D",
+      "name": "Field expansion",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "C",
+      "name": "Fountains",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "B",
+      "name": "T-shirt buying",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 799,
+      "index": "A",
+      "name": "Carrot Cakes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

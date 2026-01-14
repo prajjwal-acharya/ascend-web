@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 545,
+    "name": "Codeforces Round 303 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1432053000,
+    "relativeTimeSeconds": 336301632
+  },
+  "problems": [
+    {
+      "contestId": 545,
+      "index": "E",
+      "name": "Paths and Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 545,
+      "index": "D",
+      "name": "Queue",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 545,
+      "index": "C",
+      "name": "Woodcutters",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 545,
+      "index": "B",
+      "name": "Equidistant String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 545,
+      "index": "A",
+      "name": "Toy Cars",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

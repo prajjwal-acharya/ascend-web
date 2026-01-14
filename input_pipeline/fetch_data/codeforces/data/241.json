@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 241,
+    "name": "Bayan 2012-2013 Elimination Round (ACM ICPC Rules, English statements)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1351783800,
+    "relativeTimeSeconds": 416570833
+  },
+  "problems": [
+    {
+      "contestId": 241,
+      "index": "G",
+      "name": "Challenging Balloons",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 241,
+      "index": "F",
+      "name": "Race",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 241,
+      "index": "E",
+      "name": "Flights",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 241,
+      "index": "D",
+      "name": "Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 241,
+      "index": "C",
+      "name": "Mirror Box",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 241,
+      "index": "B",
+      "name": "Friends",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 241,
+      "index": "A",
+      "name": "Old Peykan",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 540,
+    "name": "Codeforces Round 301 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1430411400,
+    "relativeTimeSeconds": 337943232
+  },
+  "problems": [
+    {
+      "contestId": 540,
+      "index": "E",
+      "name": "Infinite Inversions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 540,
+      "index": "D",
+      "name": "Bad Luck Island",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 540,
+      "index": "C",
+      "name": "Ice Cave",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 540,
+      "index": "B",
+      "name": "School Marks",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 540,
+      "index": "A",
+      "name": "Combination Lock",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

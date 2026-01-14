@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1784,
+    "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1675598700,
+    "relativeTimeSeconds": 92755932
+  },
+  "problems": [
+    {
+      "contestId": 1784,
+      "index": "F",
+      "name": "Minimums or Medians",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": []
+    },
+    {
+      "contestId": 1784,
+      "index": "E",
+      "name": "Infinite Game",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "games",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1784,
+      "index": "D",
+      "name": "Wooden Spoon",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1784,
+      "index": "C",
+      "name": "Monsters (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1784,
+      "index": "B",
+      "name": "Letter Exchange",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1784,
+      "index": "A",
+      "name": "Monsters (easy version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

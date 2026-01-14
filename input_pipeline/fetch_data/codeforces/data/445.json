@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 445,
+    "name": "Codeforces Round 254 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1404651900,
+    "relativeTimeSeconds": 363702732
+  },
+  "problems": [
+    {
+      "contestId": 445,
+      "index": "B",
+      "name": "DZY Loves Chemistry",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 445,
+      "index": "A",
+      "name": "DZY Loves Chessboard",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    }
+  ]
+}

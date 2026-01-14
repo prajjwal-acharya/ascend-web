@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 750,
+    "name": "Good Bye 2016",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1483107300,
+    "relativeTimeSeconds": 285247332
+  },
+  "problems": [
+    {
+      "contestId": 750,
+      "index": "H",
+      "name": "New Year and Snowy Grid",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "G",
+      "name": "New Year and Binary Tree Paths",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "F",
+      "name": "New Year and Finding Roots",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "E",
+      "name": "New Year and Old Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "D",
+      "name": "New Year and Fireworks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "C",
+      "name": "New Year and Rating",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "B",
+      "name": "New Year and North Pole",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 750,
+      "index": "A",
+      "name": "New Year and Hurry",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

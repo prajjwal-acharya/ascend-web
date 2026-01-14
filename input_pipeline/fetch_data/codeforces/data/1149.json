@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1149,
+    "name": "Codeforces Round 556 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1556548500,
+    "relativeTimeSeconds": 211806132
+  },
+  "problems": [
+    {
+      "contestId": 1149,
+      "index": "E",
+      "name": "Election Promises",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3200,
+      "tags": [
+        "games",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1149,
+      "index": "D",
+      "name": "Abandoning Roads",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1149,
+      "index": "C",
+      "name": "Tree Generator\u2122",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1149,
+      "index": "B",
+      "name": "Three Religions",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1149,
+      "index": "A",
+      "name": "Prefix Sum Primes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

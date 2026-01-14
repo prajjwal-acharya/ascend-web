@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1271,
+    "name": "Codeforces Round 608 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576401300,
+    "relativeTimeSeconds": 191953332
+  },
+  "problems": [
+    {
+      "contestId": 1271,
+      "index": "F",
+      "name": "Divide The Students",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1271,
+      "index": "E",
+      "name": "Common Number",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1271,
+      "index": "D",
+      "name": "Portals",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1271,
+      "index": "C",
+      "name": "Shawarma Tent",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1271,
+      "index": "B",
+      "name": "Blocks",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1271,
+      "index": "A",
+      "name": "Suits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1671,
+    "name": "Educational Codeforces Round 127 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1650638100,
+    "relativeTimeSeconds": 117716532
+  },
+  "problems": [
+    {
+      "contestId": 1671,
+      "index": "F",
+      "name": "Permutation Counting",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1671,
+      "index": "E",
+      "name": "Preorder",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "hashing",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1671,
+      "index": "D",
+      "name": "Insert a Progression",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1671,
+      "index": "C",
+      "name": "Dolce Vita",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1671,
+      "index": "B",
+      "name": "Consecutive Points Segment",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1671,
+      "index": "A",
+      "name": "String Building",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

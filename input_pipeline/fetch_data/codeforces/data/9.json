@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 9,
+    "name": "Codeforces Beta Round 9 (Div. 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1270983600,
+    "relativeTimeSeconds": 497371033
+  },
+  "problems": [
+    {
+      "contestId": 9,
+      "index": "E",
+      "name": "Interestring graph and Apples",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 9,
+      "index": "D",
+      "name": "How many trees?",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 9,
+      "index": "C",
+      "name": "Hexadecimal's Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 9,
+      "index": "B",
+      "name": "Running Student",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 9,
+      "index": "A",
+      "name": "Die Roll",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1085,
+    "name": "Technocup 2019 - Elimination Round 4",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1545572100,
+    "relativeTimeSeconds": 222782532
+  },
+  "problems": [
+    {
+      "contestId": 1085,
+      "index": "G",
+      "name": "Beautiful Matrix",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1085,
+      "index": "F",
+      "name": "Rock-Paper-Scissors Champion",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": []
+    },
+    {
+      "contestId": 1085,
+      "index": "E",
+      "name": "Vasya and Templates",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1085,
+      "index": "D",
+      "name": "Minimum Diameter Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1085,
+      "index": "C",
+      "name": "Connect Three",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1085,
+      "index": "B",
+      "name": "Div Times Mod",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1085,
+      "index": "A",
+      "name": "Right-Left Cipher",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

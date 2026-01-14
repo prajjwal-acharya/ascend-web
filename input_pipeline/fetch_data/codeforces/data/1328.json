@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1328,
+    "name": "Codeforces Round 629 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1585233300,
+    "relativeTimeSeconds": 183121332
+  },
+  "problems": [
+    {
+      "contestId": 1328,
+      "index": "F",
+      "name": "Make k Equal",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1328,
+      "index": "E",
+      "name": "Tree Queries",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1328,
+      "index": "D",
+      "name": "Carousel",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1328,
+      "index": "C",
+      "name": "Ternary XOR",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1328,
+      "index": "B",
+      "name": "K-th Beautiful String",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1328,
+      "index": "A",
+      "name": "Divisibility Problem",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

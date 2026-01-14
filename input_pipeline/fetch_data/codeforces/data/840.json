@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 840,
+    "name": "Codeforces Round 429 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1503068700,
+    "relativeTimeSeconds": 265285932
+  },
+  "problems": [
+    {
+      "contestId": 840,
+      "index": "E",
+      "name": "In a Trap",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "trees"
+      ]
+    },
+    {
+      "contestId": 840,
+      "index": "D",
+      "name": "Destiny",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 840,
+      "index": "C",
+      "name": "On the Bench",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 840,
+      "index": "B",
+      "name": "Leha and another game about graph",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 840,
+      "index": "A",
+      "name": "Leha and Function",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1215,
+    "name": "Codeforces Round 585 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1568543700,
+    "relativeTimeSeconds": 199810932
+  },
+  "problems": [
+    {
+      "contestId": 1215,
+      "index": "F",
+      "name": "Radio Stations",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "2-sat"
+      ]
+    },
+    {
+      "contestId": 1215,
+      "index": "E",
+      "name": "Marbles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1215,
+      "index": "D",
+      "name": "Ticket Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1215,
+      "index": "C",
+      "name": "Swap Letters",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1215,
+      "index": "B",
+      "name": "The Number of Products",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1215,
+      "index": "A",
+      "name": "Yellow Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 810,
+    "name": "Codeforces Round 415 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1495303500,
+    "relativeTimeSeconds": 273051132
+  },
+  "problems": [
+    {
+      "contestId": 810,
+      "index": "B",
+      "name": "Summer sell-off",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 810,
+      "index": "A",
+      "name": "Straight <<A>>",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

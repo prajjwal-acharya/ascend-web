@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 2102,
+    "name": "Codeforces Round 1024 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1746974100,
+    "relativeTimeSeconds": 21380532
+  },
+  "problems": [
+    {
+      "contestId": 2102,
+      "index": "B",
+      "name": "The Picky Cat",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2102,
+      "index": "A",
+      "name": "Dinner Time",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

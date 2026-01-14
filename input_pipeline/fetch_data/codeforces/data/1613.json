@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1613,
+    "name": "Educational Codeforces Round 118 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1638369300,
+    "relativeTimeSeconds": 129985332
+  },
+  "problems": [
+    {
+      "contestId": 1613,
+      "index": "F",
+      "name": "Tree Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 1613,
+      "index": "E",
+      "name": "Crazy Robot",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1613,
+      "index": "D",
+      "name": "MEX Sequences",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1613,
+      "index": "C",
+      "name": "Poisoned Dagger",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 1613,
+      "index": "B",
+      "name": "Absent Remainder",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1613,
+      "index": "A",
+      "name": "Long Comparison",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

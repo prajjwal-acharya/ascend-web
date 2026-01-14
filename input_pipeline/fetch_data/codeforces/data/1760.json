@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1760,
+    "name": "Codeforces Round 835 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8700,
+    "startTimeSeconds": 1669041300,
+    "relativeTimeSeconds": 99313332
+  },
+  "problems": [
+    {
+      "contestId": 1760,
+      "index": "G",
+      "name": "SlavicG's Favorite Problem",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "F",
+      "name": "Quests",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "E",
+      "name": "Binary Inversions",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "D",
+      "name": "Challenging Valleys",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "C",
+      "name": "Advantage",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "B",
+      "name": "Atilla's Favorite Problem",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1760,
+      "index": "A",
+      "name": "Medium Number",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

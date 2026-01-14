@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": 4,
+    "name": "Codeforces Beta Round 4 (Div. 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1268395200,
+    "relativeTimeSeconds": 499959433
+  },
+  "problems": [
+    {
+      "contestId": 4,
+      "index": "D",
+      "name": "Mysterious Present",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 4,
+      "index": "C",
+      "name": "Registration System",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 4,
+      "index": "B",
+      "name": "Before an Exam",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 4,
+      "index": "A",
+      "name": "Watermelon",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

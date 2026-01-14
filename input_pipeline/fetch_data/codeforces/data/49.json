@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 49,
+    "name": "Codeforces Beta Round 46 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1292601600,
+    "relativeTimeSeconds": 475753033
+  },
+  "problems": [
+    {
+      "contestId": 49,
+      "index": "E",
+      "name": "Common ancestor",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 49,
+      "index": "D",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 49,
+      "index": "C",
+      "name": "Disposition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 49,
+      "index": "B",
+      "name": "Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 49,
+      "index": "A",
+      "name": "Sleuth",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

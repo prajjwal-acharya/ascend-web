@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 486,
+    "name": "Codeforces Round 277 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1415718000,
+    "relativeTimeSeconds": 352636632
+  },
+  "problems": [
+    {
+      "contestId": 486,
+      "index": "E",
+      "name": "LIS of Sequence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "contestId": 486,
+      "index": "D",
+      "name": "Valid Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 486,
+      "index": "C",
+      "name": "Palindrome Transformation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 486,
+      "index": "B",
+      "name": "OR in Matrix",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 486,
+      "index": "A",
+      "name": "Calculating Function",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

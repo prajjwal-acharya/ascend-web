@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 753,
+    "name": "Testing Round 13",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 4500,
+    "startTimeSeconds": 1483002300,
+    "relativeTimeSeconds": 285352332
+  },
+  "problems": [
+    {
+      "contestId": 753,
+      "index": "C",
+      "name": "Interactive Bulls and Cows (Hard)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 753,
+      "index": "B",
+      "name": "Interactive Bulls and Cows (Easy)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 753,
+      "index": "A",
+      "name": "Santa Claus and Candies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

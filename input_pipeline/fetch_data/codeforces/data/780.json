@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 780,
+    "name": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2017 - \u0424\u0438\u043d\u0430\u043b (\u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u043e\u043d\u0441\u0430\u0439\u0442-\u0444\u0438\u043d\u0430\u043b\u0438\u0441\u0442\u043e\u0432)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1488705300,
+    "relativeTimeSeconds": 279649332
+  },
+  "problems": [
+    {
+      "contestId": 780,
+      "index": "H",
+      "name": "Intranet of Buses",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "geometry",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "G",
+      "name": "Andryusha and Nervous Barriers",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "F",
+      "name": "Axel and Marston in Bitland",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "E",
+      "name": "Underground Lab",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "D",
+      "name": "Innokenty and a Football League",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "2-sat",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "C",
+      "name": "Andryusha and Colored Balloons",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "B",
+      "name": "The Meeting Place Cannot Be Changed",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 780,
+      "index": "A",
+      "name": "Andryusha and Socks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

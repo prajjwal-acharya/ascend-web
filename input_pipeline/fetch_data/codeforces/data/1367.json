@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1367,
+    "name": "Codeforces Round 650 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1592318100,
+    "relativeTimeSeconds": 176036532
+  },
+  "problems": [
+    {
+      "contestId": 1367,
+      "index": "F2",
+      "name": "Flying Sort (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "F1",
+      "name": "Flying Sort (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "E",
+      "name": "Necklace Assembly",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "D",
+      "name": "Task On The Board",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "C",
+      "name": "Social Distance",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "B",
+      "name": "Even Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1367,
+      "index": "A",
+      "name": "Short Substrings",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "contest": {
+    "id": 1719,
+    "name": "Codeforces Round 814 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1660660500,
+    "relativeTimeSeconds": 107694132
+  },
+  "problems": [
+    {
+      "contestId": 1719,
+      "index": "C",
+      "name": "Fighting Tournament",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1719,
+      "index": "B",
+      "name": "Mathematical Circus",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1719,
+      "index": "A",
+      "name": "Chip Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

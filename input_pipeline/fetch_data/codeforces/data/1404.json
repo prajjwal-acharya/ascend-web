@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1404,
+    "name": "Codeforces Round 668 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1599402900,
+    "relativeTimeSeconds": 168951732
+  },
+  "problems": [
+    {
+      "contestId": 1404,
+      "index": "E",
+      "name": "Bricks",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1404,
+      "index": "D",
+      "name": "Game of Pairs",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1404,
+      "index": "C",
+      "name": "Fixed Point Removal",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1404,
+      "index": "B",
+      "name": "Tree Tag",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1404,
+      "index": "A",
+      "name": "Balanced Bitstring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

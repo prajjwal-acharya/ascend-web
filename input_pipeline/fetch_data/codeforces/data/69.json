@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 69,
+    "name": "Codeforces Beta Round 63 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1300809600,
+    "relativeTimeSeconds": 467545033
+  },
+  "problems": [
+    {
+      "contestId": 69,
+      "index": "E",
+      "name": "Subsegments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 69,
+      "index": "D",
+      "name": "Dot",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 69,
+      "index": "C",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 69,
+      "index": "B",
+      "name": "Bets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 69,
+      "index": "A",
+      "name": "Young Physicist",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

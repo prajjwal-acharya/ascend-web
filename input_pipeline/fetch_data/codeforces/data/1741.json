@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1741,
+    "name": "Codeforces Round 826 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1665498900,
+    "relativeTimeSeconds": 102855732
+  },
+  "problems": [
+    {
+      "contestId": 1741,
+      "index": "G",
+      "name": "Kirill and Company",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "F",
+      "name": "Multi-Colored Segments",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "E",
+      "name": "Sending a Sequence Over the Network",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "D",
+      "name": "Masha and a Beautiful Tree",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "C",
+      "name": "Minimize the Thickness",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "B",
+      "name": "Funny Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1741,
+      "index": "A",
+      "name": "Compare T-Shirt Sizes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

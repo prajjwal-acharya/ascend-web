@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1928,
+    "name": "Codeforces Round 924 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1707644100,
+    "relativeTimeSeconds": 60710532
+  },
+  "problems": [
+    {
+      "contestId": 1928,
+      "index": "F",
+      "name": "Digital Patterns",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1928,
+      "index": "E",
+      "name": "Modular Sequence",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1928,
+      "index": "D",
+      "name": "Lonely Mountain Dungeons",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1928,
+      "index": "C",
+      "name": "Physical Education Lesson",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1928,
+      "index": "B",
+      "name": "Equalize",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1928,
+      "index": "A",
+      "name": "Rectangle Cutting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

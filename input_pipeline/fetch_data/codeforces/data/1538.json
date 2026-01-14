@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1538,
+    "name": "Codeforces Round 725 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1623335700,
+    "relativeTimeSeconds": 145018932
+  },
+  "problems": [
+    {
+      "contestId": 1538,
+      "index": "G",
+      "name": "Gift Set",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "F",
+      "name": "Interesting Function",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "E",
+      "name": "Funny Substrings",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "hashing",
+        "implementation",
+        "matrices",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "D",
+      "name": "Another Problem About Dividing Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "C",
+      "name": "Number of Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "B",
+      "name": "Friends and Candies",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1538,
+      "index": "A",
+      "name": "Stone Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 2126,
+    "name": "Codeforces Round 1037 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1752762900,
+    "relativeTimeSeconds": 15591732
+  },
+  "problems": [
+    {
+      "contestId": 2126,
+      "index": "G2",
+      "name": "Big Wins!  (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "G1",
+      "name": "Big Wins! (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "F",
+      "name": "1-1-1, Free Tree!",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "E",
+      "name": "G-C-D, Unlucky!",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "D",
+      "name": "This Is the Last Time",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "C",
+      "name": "I Will Definitely Make It",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "B",
+      "name": "No Casino in the Mountains",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2126,
+      "index": "A",
+      "name": "Only One Digit",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

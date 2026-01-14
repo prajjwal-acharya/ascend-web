@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1739,
+    "name": "Educational Codeforces Round 136 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1664462100,
+    "relativeTimeSeconds": 103892532
+  },
+  "problems": [
+    {
+      "contestId": 1739,
+      "index": "F",
+      "name": "Keyboard Design",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1739,
+      "index": "E",
+      "name": "Cleaning Robot",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1739,
+      "index": "D",
+      "name": "Reset K Edges",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1739,
+      "index": "C",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1739,
+      "index": "B",
+      "name": "Array Recovery",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1739,
+      "index": "A",
+      "name": "Immobile Knight",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

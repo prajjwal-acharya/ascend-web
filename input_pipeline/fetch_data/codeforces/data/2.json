@@ -1,0 +1,46 @@
+{
+  "contest": {
+    "id": 2,
+    "name": "Codeforces Beta Round 2",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1267117200,
+    "relativeTimeSeconds": 501237433
+  },
+  "problems": [
+    {
+      "contestId": 2,
+      "index": "C",
+      "name": "Commentator problem",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2,
+      "index": "B",
+      "name": "The least round way",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2,
+      "index": "A",
+      "name": "Winner",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "hashing",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1004,
+    "name": "Codeforces Round 495 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1530808500,
+    "relativeTimeSeconds": 237546132
+  },
+  "problems": [
+    {
+      "contestId": 1004,
+      "index": "F",
+      "name": "Sonya and Bitwise OR",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1004,
+      "index": "E",
+      "name": "Sonya and Ice Cream",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1004,
+      "index": "D",
+      "name": "Sonya and Matrix",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1004,
+      "index": "C",
+      "name": "Sonya and Robots",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1004,
+      "index": "B",
+      "name": "Sonya and Exhibition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1004,
+      "index": "A",
+      "name": "Sonya and Hotels",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 995,
+    "name": "Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1529858100,
+    "relativeTimeSeconds": 238496532
+  },
+  "problems": [
+    {
+      "contestId": 995,
+      "index": "F",
+      "name": "Cowmpany Cowmpensation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 995,
+      "index": "E",
+      "name": "Number Clicker",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "divide and conquer",
+        "graphs",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 995,
+      "index": "D",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 995,
+      "index": "C",
+      "name": "Leaving the Bar",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 995,
+      "index": "B",
+      "name": "Suit and Tie",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 995,
+      "index": "A",
+      "name": "Tesla",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1902,
+    "name": "Educational Codeforces Round 159 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1701614100,
+    "relativeTimeSeconds": 66740532
+  },
+  "problems": [
+    {
+      "contestId": 1902,
+      "index": "F",
+      "name": "Trees and XOR Queries Again",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1902,
+      "index": "E",
+      "name": "Collapsing Strings",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1902,
+      "index": "D",
+      "name": "Robot Queries",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1902,
+      "index": "C",
+      "name": "Insert and Equalize",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1902,
+      "index": "B",
+      "name": "Getting Points",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1902,
+      "index": "A",
+      "name": "Binary Imbalance",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

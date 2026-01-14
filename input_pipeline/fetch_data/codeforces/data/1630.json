@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1630,
+    "name": "Codeforces Round 768 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1643294100,
+    "relativeTimeSeconds": 125060532
+  },
+  "problems": [
+    {
+      "contestId": 1630,
+      "index": "F",
+      "name": "Making It Bipartite",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1630,
+      "index": "E",
+      "name": "Expected Components",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1630,
+      "index": "D",
+      "name": "Flipping Range",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1630,
+      "index": "C",
+      "name": "Paint the Middle",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1630,
+      "index": "B",
+      "name": "Range and Partition",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1630,
+      "index": "A",
+      "name": "And Matching",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

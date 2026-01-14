@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 425,
+    "name": "Codeforces Round 243 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1398612600,
+    "relativeTimeSeconds": 369742032
+  },
+  "problems": [
+    {
+      "contestId": 425,
+      "index": "E",
+      "name": "Sereja and Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 425,
+      "index": "D",
+      "name": "Sereja and Squares",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 425,
+      "index": "C",
+      "name": "Sereja and Two Sequences",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 425,
+      "index": "B",
+      "name": "Sereja and Table ",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 425,
+      "index": "A",
+      "name": "Sereja and Swaps",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 722,
+    "name": "Intel Code Challenge Elimination Round (Div. 1 + Div. 2, combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1475330700,
+    "relativeTimeSeconds": 293023932
+  },
+  "problems": [
+    {
+      "contestId": 722,
+      "index": "F",
+      "name": "Cyclic Cipher",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "chinese remainder theorem",
+        "data structures",
+        "implementation",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 722,
+      "index": "E",
+      "name": "Research Rover",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 722,
+      "index": "D",
+      "name": "Generating Sets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 722,
+      "index": "C",
+      "name": "Destroying Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 722,
+      "index": "B",
+      "name": "Verse Pattern",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 722,
+      "index": "A",
+      "name": "Broken Clock",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

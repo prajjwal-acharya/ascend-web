@@ -1,0 +1,56 @@
+{
+  "contest": {
+    "id": 644,
+    "name": "CROC 2016 - Qualification",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 172800,
+    "startTimeSeconds": 1458118800,
+    "relativeTimeSeconds": 310235832
+  },
+  "problems": [
+    {
+      "contestId": 644,
+      "index": "C",
+      "name": "Hostname Aliases",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 644,
+      "index": "B",
+      "name": "Processing Queries",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 644,
+      "index": "A",
+      "name": "Parliament of Berland",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

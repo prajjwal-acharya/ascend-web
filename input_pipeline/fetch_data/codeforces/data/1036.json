@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1036,
+    "name": "Educational Codeforces Round 50 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1536330900,
+    "relativeTimeSeconds": 232023732
+  },
+  "problems": [
+    {
+      "contestId": 1036,
+      "index": "G",
+      "name": "Sources and Sinks",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "F",
+      "name": "Relatively Prime Powers",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "E",
+      "name": "Covered Points",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "fft",
+        "geometry",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "D",
+      "name": "Vasya and Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "C",
+      "name": "Classy Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "B",
+      "name": "Diagonal Walking v.2",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1036,
+      "index": "A",
+      "name": "Function Height",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

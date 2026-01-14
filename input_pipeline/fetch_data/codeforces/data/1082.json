@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1082,
+    "name": "Educational Codeforces Round 55 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1543415700,
+    "relativeTimeSeconds": 224938932
+  },
+  "problems": [
+    {
+      "contestId": 1082,
+      "index": "G",
+      "name": "Petya and Graph",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "F",
+      "name": "Speed Dial",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "E",
+      "name": "Increasing Frequency",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "D",
+      "name": "Maximum Diameter Graph",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "C",
+      "name": "Multi-Subject Competition",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "B",
+      "name": "Vova and Trophies",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1082,
+      "index": "A",
+      "name": "Vasya and Book",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

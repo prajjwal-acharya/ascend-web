@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1551,
+    "name": "Codeforces Round 734 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1627050900,
+    "relativeTimeSeconds": 141303732
+  },
+  "problems": [
+    {
+      "contestId": 1551,
+      "index": "F",
+      "name": "Equidistant Vertices",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "E",
+      "name": "Fixed Points",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "D2",
+      "name": "Domino (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "D1",
+      "name": "Domino (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "C",
+      "name": "Interesting Story",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "B2",
+      "name": "Wonderful Coloring - 2",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "B1",
+      "name": "Wonderful Coloring - 1",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1551,
+      "index": "A",
+      "name": "Polycarp and Coins",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

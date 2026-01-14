@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1847,
+    "name": "Codeforces Round 882 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1688654100,
+    "relativeTimeSeconds": 79700532
+  },
+  "problems": [
+    {
+      "contestId": 1847,
+      "index": "F",
+      "name": "The Boss's Identity",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1847,
+      "index": "E",
+      "name": "Triangle Platinum?",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation",
+        "interactive",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1847,
+      "index": "D",
+      "name": "Professor Higashikata",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1847,
+      "index": "C",
+      "name": "Vampiric Powers, anyone?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1847,
+      "index": "B",
+      "name": "Hamon Odyssey",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1847,
+      "index": "A",
+      "name": "The Man who became a God ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

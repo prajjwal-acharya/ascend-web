@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 66,
+    "name": "Codeforces Beta Round 61 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1299513600,
+    "relativeTimeSeconds": 468841033
+  },
+  "problems": [
+    {
+      "contestId": 66,
+      "index": "E",
+      "name": "Petya and Post",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 66,
+      "index": "D",
+      "name": "Petya and His Friends",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 66,
+      "index": "C",
+      "name": "Petya and File System",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 66,
+      "index": "B",
+      "name": "Petya and Countryside",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 66,
+      "index": "A",
+      "name": "Petya and Java",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

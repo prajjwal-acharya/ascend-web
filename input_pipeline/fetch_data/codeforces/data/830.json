@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 830,
+    "name": "Codeforces Round 424 (Div. 1, rated, based on VK Cup Finals)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1499958300,
+    "relativeTimeSeconds": 268396332
+  },
+  "problems": [
+    {
+      "contestId": 830,
+      "index": "E",
+      "name": "Perpetual Motion Machine",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 830,
+      "index": "D",
+      "name": "Singer House",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 830,
+      "index": "C",
+      "name": "Bamboo Partition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 830,
+      "index": "B",
+      "name": "Cards Sorting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 830,
+      "index": "A",
+      "name": "Office Keys",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

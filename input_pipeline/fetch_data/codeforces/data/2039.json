@@ -1,0 +1,162 @@
+{
+  "contest": {
+    "id": 2039,
+    "name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1732372500,
+    "relativeTimeSeconds": 35982132
+  },
+  "problems": [
+    {
+      "contestId": 2039,
+      "index": "H2",
+      "name": "Cool Swap Walk (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "constructive algorithms",
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "H1",
+      "name": "Cool Swap Walk (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "G",
+      "name": "Shohag Loves Pebae",
+      "type": "PROGRAMMING",
+      "points": 4250.0,
+      "rating": 3500,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "F2",
+      "name": "Shohag Loves Counting (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "F1",
+      "name": "Shohag Loves Counting (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "E",
+      "name": "Shohag Loves Inversions",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "D",
+      "name": "Shohag Loves GCD",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "C2",
+      "name": "Shohag Loves XOR (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "C1",
+      "name": "Shohag Loves XOR (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "B",
+      "name": "Shohag Loves Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2039,
+      "index": "A",
+      "name": "Shohag Loves Mod",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    }
+  ]
+}

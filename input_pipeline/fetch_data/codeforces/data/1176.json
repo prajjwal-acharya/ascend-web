@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1176,
+    "name": "Codeforces Round 565 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1560090900,
+    "relativeTimeSeconds": 208263732
+  },
+  "problems": [
+    {
+      "contestId": 1176,
+      "index": "F",
+      "name": "Destroy it!",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1176,
+      "index": "E",
+      "name": "Cover it!",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1176,
+      "index": "D",
+      "name": "Recover it!",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1176,
+      "index": "C",
+      "name": "Lose it!",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1176,
+      "index": "B",
+      "name": "Merge it!",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1176,
+      "index": "A",
+      "name": "Divide it!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

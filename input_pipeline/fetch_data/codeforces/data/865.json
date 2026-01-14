@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 865,
+    "name": "MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1506791100,
+    "relativeTimeSeconds": 261563532
+  },
+  "problems": [
+    {
+      "contestId": 865,
+      "index": "G",
+      "name": "Flowers and Chocolate",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "F",
+      "name": "Egg Roulette",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "divide and conquer",
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "E",
+      "name": "Hex Dyslexia",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "D",
+      "name": "Buy Low Sell High",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "C",
+      "name": "Gotta Go Fast",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "B",
+      "name": "Ordering Pizza",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "sortings",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 865,
+      "index": "A",
+      "name": "Save the problem!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

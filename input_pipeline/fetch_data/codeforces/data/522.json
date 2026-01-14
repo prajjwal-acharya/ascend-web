@@ -1,0 +1,66 @@
+{
+  "contest": {
+    "id": 522,
+    "name": "VK Cup 2015 - Qualification Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1425740400,
+    "relativeTimeSeconds": 342614232
+  },
+  "problems": [
+    {
+      "contestId": 522,
+      "index": "D",
+      "name": "Closest Equals",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 522,
+      "index": "C",
+      "name": "Chicken or Fish?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 522,
+      "index": "B",
+      "name": "Photo to Remember",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 522,
+      "index": "A",
+      "name": "Reposts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    }
+  ]
+}

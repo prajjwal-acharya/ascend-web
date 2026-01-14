@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": 1386,
+    "name": "Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1595415900,
+    "relativeTimeSeconds": 172938732
+  },
+  "problems": [
+    {
+      "contestId": 1386,
+      "index": "C",
+      "name": "Joker",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "*special",
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1386,
+      "index": "B",
+      "name": "Mixture",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "data structures",
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1386,
+      "index": "A",
+      "name": "Colors",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    }
+  ]
+}

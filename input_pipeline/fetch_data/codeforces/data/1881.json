@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1881,
+    "name": "Codeforces Round 903 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1697121300,
+    "relativeTimeSeconds": 71233332
+  },
+  "problems": [
+    {
+      "contestId": 1881,
+      "index": "G",
+      "name": "Anya and the Mysterious String",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "F",
+      "name": "Minimum Maximum Distance",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "E",
+      "name": "Block Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "D",
+      "name": "Divide and Equalize",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "C",
+      "name": "Perfect Square",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "B",
+      "name": "Three Threadlets",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1881,
+      "index": "A",
+      "name": "Don't Try to Count",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    }
+  ]
+}

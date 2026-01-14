@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 1013,
+    "name": "Codeforces Round 500 (Div. 2) [based on EJOI]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1532938500,
+    "relativeTimeSeconds": 235416132
+  },
+  "problems": [
+    {
+      "contestId": 1013,
+      "index": "B",
+      "name": "And",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1013,
+      "index": "A",
+      "name": "Piles With Stones",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

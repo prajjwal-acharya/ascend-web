@@ -1,0 +1,66 @@
+{
+  "contest": {
+    "id": 1443,
+    "name": "Codeforces Round 681 (Div. 2, based on VK Cup 2019-2020 - Final)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1604327700,
+    "relativeTimeSeconds": 164026932
+  },
+  "problems": [
+    {
+      "contestId": 1443,
+      "index": "E",
+      "name": "Long Permutation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1443,
+      "index": "C",
+      "name": "The Delivery Dilemma",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1443,
+      "index": "B",
+      "name": "Saving the City",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1443,
+      "index": "A",
+      "name": "Kids Seating",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

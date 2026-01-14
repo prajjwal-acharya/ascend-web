@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 1428,
+    "name": "Codeforces Raif Round 1 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1602939900,
+    "relativeTimeSeconds": 165414732
+  },
+  "problems": [
+    {
+      "contestId": 1428,
+      "index": "H",
+      "name": "Rotary Laser Lock",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "G2",
+      "name": "Lucky Numbers (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "G1",
+      "name": "Lucky Numbers (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "F",
+      "name": "Fruit Sequences",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "E",
+      "name": "Carrots for Rabbits",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "D",
+      "name": "Bouncing Boomerangs",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "C",
+      "name": "ABBB",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "B",
+      "name": "Belted Rooms",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1428,
+      "index": "A",
+      "name": "Box is Pull",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1728,
+    "name": "Educational Codeforces Round 135 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1662647700,
+    "relativeTimeSeconds": 105706932
+  },
+  "problems": [
+    {
+      "contestId": 1728,
+      "index": "G",
+      "name": "Illumination",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "F",
+      "name": "Fishermen",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "E",
+      "name": "Red-Black Pepper",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "D",
+      "name": "Letter Picking",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "games",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "C",
+      "name": "Digital Logarithm",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "B",
+      "name": "Best Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1728,
+      "index": "A",
+      "name": "Colored Balls: Revisited",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

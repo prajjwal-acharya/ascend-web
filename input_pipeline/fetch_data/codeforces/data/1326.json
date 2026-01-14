@@ -1,0 +1,131 @@
+{
+  "contest": {
+    "id": 1326,
+    "name": "Codeforces Global Round 7",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1584628500,
+    "relativeTimeSeconds": 183726132
+  },
+  "problems": [
+    {
+      "contestId": 1326,
+      "index": "G",
+      "name": "Spiderweb Trees",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "geometry",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "F2",
+      "name": "Wise Men (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "F1",
+      "name": "Wise Men (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "E",
+      "name": "Bombs",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "D2",
+      "name": "Prefix-Suffix Palindrome (Hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "D1",
+      "name": "Prefix-Suffix Palindrome (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "C",
+      "name": "Permutation Partitions",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "B",
+      "name": "Maximums",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1326,
+      "index": "A",
+      "name": "Bad Ugly Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    }
+  ]
+}

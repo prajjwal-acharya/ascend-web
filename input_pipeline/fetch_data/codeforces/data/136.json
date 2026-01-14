@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 136,
+    "name": "Codeforces Beta Round 97 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1323443100,
+    "relativeTimeSeconds": 444911533
+  },
+  "problems": [
+    {
+      "contestId": 136,
+      "index": "B",
+      "name": "Ternary Logic",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 136,
+      "index": "A",
+      "name": "Presents",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

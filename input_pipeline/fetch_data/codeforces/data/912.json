@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 912,
+    "name": "Codeforces Round 456 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1515162900,
+    "relativeTimeSeconds": 253191732
+  },
+  "problems": [
+    {
+      "contestId": 912,
+      "index": "E",
+      "name": "Prime Gift",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "math",
+        "meet-in-the-middle",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 912,
+      "index": "D",
+      "name": "Fishes",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy",
+        "probabilities",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 912,
+      "index": "C",
+      "name": "Perun, Ult!",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 912,
+      "index": "B",
+      "name": "New Year's Eve",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 912,
+      "index": "A",
+      "name": "Tricky Alchemy",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

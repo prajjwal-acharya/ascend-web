@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 48,
+    "name": "School Personal Contest #3 (Winter Computer School 2010/11) - Codeforces Beta Round 45 (ACM-ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1292140800,
+    "relativeTimeSeconds": 476213833
+  },
+  "problems": [
+    {
+      "contestId": 48,
+      "index": "H",
+      "name": "Black and White",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "G",
+      "name": "Galaxy Union",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "F",
+      "name": "Snow sellers",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "E",
+      "name": "Ivan the Fool VS Gorynych the Dragon",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "games",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "D",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "C",
+      "name": "The Race",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "B",
+      "name": "Land Lot",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 48,
+      "index": "A",
+      "name": "Rock-paper-scissors",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "schedules"
+      ]
+    }
+  ]
+}

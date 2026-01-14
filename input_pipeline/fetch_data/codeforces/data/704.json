@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 704,
+    "name": "Codeforces Round 366 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1470578700,
+    "relativeTimeSeconds": 297775932
+  },
+  "problems": [
+    {
+      "contestId": 704,
+      "index": "E",
+      "name": "Iron Man",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "geometry",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 704,
+      "index": "D",
+      "name": "Captain America",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 704,
+      "index": "C",
+      "name": "Black Widow",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 704,
+      "index": "B",
+      "name": "Ant Man",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 704,
+      "index": "A",
+      "name": "Thor",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

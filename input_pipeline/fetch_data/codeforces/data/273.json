@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 273,
+    "name": "Codeforces Round 167 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1360769400,
+    "relativeTimeSeconds": 407585233
+  },
+  "problems": [
+    {
+      "contestId": 273,
+      "index": "E",
+      "name": "Dima and Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 273,
+      "index": "D",
+      "name": "Dima and Figure",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

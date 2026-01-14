@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 2077,
+    "name": "Codeforces Round 1008 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1741617900,
+    "relativeTimeSeconds": 26736732
+  },
+  "problems": [
+    {
+      "contestId": 2077,
+      "index": "G",
+      "name": "RGB Walking",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "chinese remainder theorem",
+        "dfs and similar",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "F",
+      "name": "AND x OR",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "E",
+      "name": "Another Folding Strip",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "D",
+      "name": "Maximum Polygon",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "C",
+      "name": "Binary Subsequence Value Sum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "fft",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "B",
+      "name": "Finding OR Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2077,
+      "index": "A",
+      "name": "Breach of Faith",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

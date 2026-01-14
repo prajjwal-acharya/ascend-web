@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 81,
+    "name": "Yandex.Algorithm Open 2011: Qualification 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1304485200,
+    "relativeTimeSeconds": 463869433
+  },
+  "problems": [
+    {
+      "contestId": 81,
+      "index": "E",
+      "name": "Pairs",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 81,
+      "index": "D",
+      "name": "Polycarp's Picture Gallery",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 81,
+      "index": "C",
+      "name": "Average Score",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 81,
+      "index": "B",
+      "name": "Sequence Formatting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 81,
+      "index": "A",
+      "name": "Plug-in",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

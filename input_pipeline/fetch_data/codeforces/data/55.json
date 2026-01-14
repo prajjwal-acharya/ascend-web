@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 55,
+    "name": "Codeforces Beta Round 51",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1294992000,
+    "relativeTimeSeconds": 473362633
+  },
+  "problems": [
+    {
+      "contestId": 55,
+      "index": "E",
+      "name": "Very simple problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 55,
+      "index": "D",
+      "name": "Beautiful numbers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 55,
+      "index": "C",
+      "name": "Pie or die",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 55,
+      "index": "B",
+      "name": "Smallest number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 55,
+      "index": "A",
+      "name": "Flea travel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

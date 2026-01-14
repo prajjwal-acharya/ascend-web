@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 2118,
+    "name": "Codeforces Round 1030 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1749738900,
+    "relativeTimeSeconds": 18615732
+  },
+  "problems": [
+    {
+      "contestId": 2118,
+      "index": "F",
+      "name": "Shifts and Swaps",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "graphs",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "E",
+      "name": "Grid Coloring",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "D2",
+      "name": "Red Light, Green Light (Hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "D1",
+      "name": "Red Light, Green Light (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "C",
+      "name": "Make It Beautiful",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "B",
+      "name": "Make It Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2118,
+      "index": "A",
+      "name": "Equal Subsequences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

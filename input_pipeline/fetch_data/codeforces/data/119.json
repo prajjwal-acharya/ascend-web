@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 119,
+    "name": "Codeforces Beta Round 90",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1318604400,
+    "relativeTimeSeconds": 449750233
+  },
+  "problems": [
+    {
+      "contestId": 119,
+      "index": "E",
+      "name": "Alternative Reality",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 119,
+      "index": "D",
+      "name": "String Transformation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 119,
+      "index": "C",
+      "name": "Education Reform",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 119,
+      "index": "B",
+      "name": "Before Exam",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 119,
+      "index": "A",
+      "name": "Epic Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

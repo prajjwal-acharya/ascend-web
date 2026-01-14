@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 999,
+    "name": "Codeforces Round 490 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1529591700,
+    "relativeTimeSeconds": 238762932
+  },
+  "problems": [
+    {
+      "contestId": 999,
+      "index": "F",
+      "name": "Cards and Joy",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 999,
+      "index": "E",
+      "name": "Reachability from the Capital",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 999,
+      "index": "D",
+      "name": "Equalize the Remainders",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 999,
+      "index": "C",
+      "name": "Alphabetic Removals",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 999,
+      "index": "B",
+      "name": "Reversing Encryption",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 999,
+      "index": "A",
+      "name": "Mishka and Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

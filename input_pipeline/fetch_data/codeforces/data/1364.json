@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1364,
+    "name": "Codeforces Round 649 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1592060700,
+    "relativeTimeSeconds": 176293932
+  },
+  "problems": [
+    {
+      "contestId": 1364,
+      "index": "E",
+      "name": "X-OR",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1364,
+      "index": "D",
+      "name": "Ehab's Last Corollary",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1364,
+      "index": "C",
+      "name": "Ehab and Prefix MEXs",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1364,
+      "index": "B",
+      "name": "Most socially-distanced subsequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1364,
+      "index": "A",
+      "name": "XXXXX",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "number theory",
+        "two pointers"
+      ]
+    }
+  ]
+}

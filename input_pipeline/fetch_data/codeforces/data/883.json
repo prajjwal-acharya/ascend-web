@@ -1,0 +1,159 @@
+{
+  "contest": {
+    "id": 883,
+    "name": "2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1508573100,
+    "relativeTimeSeconds": 259781532
+  },
+  "problems": [
+    {
+      "contestId": 883,
+      "index": "M",
+      "name": "Quadcopter Competition",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "L",
+      "name": "Berland.Taxi",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "K",
+      "name": "Road Widening",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "J",
+      "name": "Renovation",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "I",
+      "name": "Photo Processing",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "H",
+      "name": "Palindromic Cut",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "G",
+      "name": "Orientation of Edges",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "F",
+      "name": "Lost in Transliteration",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "E",
+      "name": "Field of Wonders",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "D",
+      "name": "Packmen Strike Back",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "C",
+      "name": "Downloading B++",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "B",
+      "name": "Berland Army",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 883,
+      "index": "A",
+      "name": "Automatic Door",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

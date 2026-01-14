@@ -1,0 +1,121 @@
+{
+  "contest": {
+    "id": 1609,
+    "name": "Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1638110100,
+    "relativeTimeSeconds": 130244532
+  },
+  "problems": [
+    {
+      "contestId": 1609,
+      "index": "H",
+      "name": "Pushing Robots",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1609,
+      "index": "G",
+      "name": "A Stroll Around the Matrix",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "F",
+      "name": "Interesting Sections",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "meet-in-the-middle",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "E",
+      "name": "William The Oblivious ",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "D",
+      "name": "Social Network",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "C",
+      "name": "Complex Market Analysis",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "number theory",
+        "schedules",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "B",
+      "name": "William the Vigilant",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1609,
+      "index": "A",
+      "name": "Divide and Multiply",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

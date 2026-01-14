@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1901,
+    "name": "Educational Codeforces Round 158 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1700836500,
+    "relativeTimeSeconds": 67518132
+  },
+  "problems": [
+    {
+      "contestId": 1901,
+      "index": "F",
+      "name": "Landscaping",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1901,
+      "index": "E",
+      "name": "Compressed Tree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1901,
+      "index": "D",
+      "name": "Yet Another Monster Fight",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1901,
+      "index": "C",
+      "name": "Add, Divide and Floor",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1901,
+      "index": "B",
+      "name": "Chip and Ribbon",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1901,
+      "index": "A",
+      "name": "Line Trip",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

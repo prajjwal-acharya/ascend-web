@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 365,
+    "name": "Codeforces Round 213 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1384875000,
+    "relativeTimeSeconds": 383479632
+  },
+  "problems": [
+    {
+      "contestId": 365,
+      "index": "B",
+      "name": "The Fibonacci Segment",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 365,
+      "index": "A",
+      "name": "Good Number",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

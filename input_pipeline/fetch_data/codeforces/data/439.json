@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 439,
+    "name": "Codeforces Round 251 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1401895800,
+    "relativeTimeSeconds": 366458832
+  },
+  "problems": [
+    {
+      "contestId": 439,
+      "index": "E",
+      "name": "Devu and Birthday Celebration",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 439,
+      "index": "D",
+      "name": "Devu and his Brother",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 439,
+      "index": "C",
+      "name": "Devu and Partitioning of the Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 439,
+      "index": "B",
+      "name": "Devu, the Dumb Guy",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 439,
+      "index": "A",
+      "name": "Devu, the Singer and Churu, the Joker",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

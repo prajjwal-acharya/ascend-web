@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 244,
+    "name": "Codeforces Round 150 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1353079800,
+    "relativeTimeSeconds": 415274833
+  },
+  "problems": [
+    {
+      "contestId": 244,
+      "index": "B",
+      "name": "Undoubtedly Lucky Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 244,
+      "index": "A",
+      "name": "Dividing Orange",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

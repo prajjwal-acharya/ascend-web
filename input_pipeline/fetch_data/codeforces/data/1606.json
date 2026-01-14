@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1606,
+    "name": "Educational Codeforces Round 116 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1635518100,
+    "relativeTimeSeconds": 132836532
+  },
+  "problems": [
+    {
+      "contestId": 1606,
+      "index": "F",
+      "name": "Tree Queries",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1606,
+      "index": "E",
+      "name": "Arena",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1606,
+      "index": "D",
+      "name": "Red-Blue Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1606,
+      "index": "C",
+      "name": "Banknotes",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1606,
+      "index": "B",
+      "name": "Update Files",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1606,
+      "index": "A",
+      "name": "AB Balance",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

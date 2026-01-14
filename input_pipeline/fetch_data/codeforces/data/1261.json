@@ -1,0 +1,27 @@
+{
+  "contest": {
+    "id": 1261,
+    "name": "Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1574582700,
+    "relativeTimeSeconds": 193771932
+  },
+  "problems": [
+    {
+      "contestId": 1261,
+      "index": "F",
+      "name": "Xor-Set",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "math"
+      ]
+    }
+  ]
+}

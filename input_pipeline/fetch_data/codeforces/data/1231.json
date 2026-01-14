@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1231,
+    "name": "Dasha Code Championship - Novosibirsk Finals Round (only for onsite-finalists)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1569143100,
+    "relativeTimeSeconds": 199211532
+  },
+  "problems": [
+    {
+      "contestId": 1231,
+      "index": "E",
+      "name": "Middle-Out",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1231,
+      "index": "C",
+      "name": "Increasing Matrix",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1933,
+    "name": "Codeforces Round 929 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1709044500,
+    "relativeTimeSeconds": 59310132
+  },
+  "problems": [
+    {
+      "contestId": 1933,
+      "index": "G",
+      "name": "Turtle Magic: Royal Turtle Shell Pattern",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "F",
+      "name": "Turtle Mission: Robot and the Earthquake",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "E",
+      "name": "Turtle vs. Rabbit Race: Optimal Trainings",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "D",
+      "name": "Turtle Tenacity: Continual Mods",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "C",
+      "name": "Turtle Fingers: Count the Values of k",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "B",
+      "name": "Turtle Math: Fast Three Task",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1933,
+      "index": "A",
+      "name": "Turtle Puzzle: Rearrange and Negate",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

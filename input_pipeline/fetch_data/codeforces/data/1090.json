@@ -1,0 +1,145 @@
+{
+  "contest": {
+    "id": 1090,
+    "name": "2018-2019 Russia Open High School Programming Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1544342700,
+    "relativeTimeSeconds": 224011932
+  },
+  "problems": [
+    {
+      "contestId": 1090,
+      "index": "M",
+      "name": "The Pleasant Walk",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "L",
+      "name": "Berland University",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "K",
+      "name": "Right Expansion Of The Mind",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "J",
+      "name": "Two Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "I",
+      "name": "Minimal Product",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 1090,
+      "index": "H",
+      "name": "Linearization",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "G",
+      "name": "Combostone",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "F",
+      "name": "How to Learn You Score",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "E",
+      "name": "Horseback Riding",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "D",
+      "name": "Similar Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "C",
+      "name": "New Year Presents",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1090,
+      "index": "B",
+      "name": "LaTeX Expert",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 1090,
+      "index": "A",
+      "name": "Company Merging",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1409,
+    "name": "Codeforces Round 667 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1599230100,
+    "relativeTimeSeconds": 169124532
+  },
+  "problems": [
+    {
+      "contestId": 1409,
+      "index": "F",
+      "name": "Subsequences of Length Two",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1409,
+      "index": "E",
+      "name": "Two Platforms",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1409,
+      "index": "D",
+      "name": "Decrease the Sum of Digits",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1409,
+      "index": "C",
+      "name": "Yet Another Array Restoration",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1409,
+      "index": "B",
+      "name": "Minimum Product",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1409,
+      "index": "A",
+      "name": "Yet Another Two Integers Problem",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

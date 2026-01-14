@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 2033,
+    "name": "Codeforces Round 981 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1729780500,
+    "relativeTimeSeconds": 38574132
+  },
+  "problems": [
+    {
+      "contestId": 2033,
+      "index": "G",
+      "name": "Sakurako and Chefir",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "F",
+      "name": "Kosuke's Sloth",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "E",
+      "name": "Sakurako, Kosuke, and the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "D",
+      "name": "Kousuke's Assignment",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "C",
+      "name": "Sakurako's Field Trip",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "B",
+      "name": "Sakurako and Water",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2033,
+      "index": "A",
+      "name": "Sakurako and Kosuke",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

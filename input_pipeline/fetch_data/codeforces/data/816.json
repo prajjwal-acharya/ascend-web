@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 816,
+    "name": "Codeforces Round 419 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1497710100,
+    "relativeTimeSeconds": 270644532
+  },
+  "problems": [
+    {
+      "contestId": 816,
+      "index": "B",
+      "name": "Karen and Coffee",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 816,
+      "index": "A",
+      "name": "Karen and Morning",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

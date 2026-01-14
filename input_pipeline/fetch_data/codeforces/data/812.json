@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 812,
+    "name": "Codeforces Round 417 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1496326500,
+    "relativeTimeSeconds": 272028132
+  },
+  "problems": [
+    {
+      "contestId": 812,
+      "index": "E",
+      "name": "Sagheer and Apple Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 812,
+      "index": "D",
+      "name": "Sagheer and Kindergarten",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 812,
+      "index": "C",
+      "name": "Sagheer and Nubian Market",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 812,
+      "index": "B",
+      "name": "Sagheer, the Hausmeister",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 812,
+      "index": "A",
+      "name": "Sagheer and Crossroads",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

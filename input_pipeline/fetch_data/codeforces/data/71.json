@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 71,
+    "name": "Codeforces Beta Round 65 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1301410800,
+    "relativeTimeSeconds": 466943833
+  },
+  "problems": [
+    {
+      "contestId": 71,
+      "index": "E",
+      "name": "Nuclear Fusion",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 71,
+      "index": "D",
+      "name": "Solitaire",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 71,
+      "index": "C",
+      "name": "Round Table Knights",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 71,
+      "index": "B",
+      "name": "Progress Bar",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 71,
+      "index": "A",
+      "name": "Way Too Long Words",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

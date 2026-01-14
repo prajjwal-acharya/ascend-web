@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1709,
+    "name": "Educational Codeforces Round 132 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1658414100,
+    "relativeTimeSeconds": 109940532
+  },
+  "problems": [
+    {
+      "contestId": 1709,
+      "index": "F",
+      "name": "Multiset of Strings",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "fft",
+        "flows",
+        "graphs",
+        "math",
+        "meet-in-the-middle",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1709,
+      "index": "E",
+      "name": "XOR Tree",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1709,
+      "index": "D",
+      "name": "Rorororobot",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1709,
+      "index": "C",
+      "name": "Recover an RBS",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1709,
+      "index": "B",
+      "name": "Also Try Minecraft",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1709,
+      "index": "A",
+      "name": "Three Doors",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1811,
+    "name": "Codeforces Round 863 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1680618900,
+    "relativeTimeSeconds": 87735732
+  },
+  "problems": [
+    {
+      "contestId": 1811,
+      "index": "G2",
+      "name": "Vlad and the Nice Paths (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "G1",
+      "name": "Vlad and the Nice Paths (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "F",
+      "name": "Is It Flower?",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "E",
+      "name": "Living Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "D",
+      "name": "Umka and a Long Flight",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "C",
+      "name": "Restore the Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "B",
+      "name": "Conveyor Belts",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1811,
+      "index": "A",
+      "name": "Insert Digit",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

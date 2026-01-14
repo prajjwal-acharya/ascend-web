@@ -1,0 +1,151 @@
+{
+  "contest": {
+    "id": 2018,
+    "name": "Codeforces Round 975 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1727444100,
+    "relativeTimeSeconds": 40910532
+  },
+  "problems": [
+    {
+      "contestId": 2018,
+      "index": "F3",
+      "name": "Speedbreaker Counting (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "F2",
+      "name": "Speedbreaker Counting (Medium Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "F1",
+      "name": "Speedbreaker Counting (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "E2",
+      "name": "Complex Segments (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "E1",
+      "name": "Complex Segments (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "D",
+      "name": "Max Plus Min Plus Size",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "matrices",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "C",
+      "name": "Tree Pruning",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "B",
+      "name": "Speedbreaker",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2018,
+      "index": "A",
+      "name": "Cards Partition",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "2-sat",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

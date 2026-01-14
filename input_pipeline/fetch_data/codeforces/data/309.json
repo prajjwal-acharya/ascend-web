@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 309,
+    "name": "Croc Champ 2013 - Finals (online version, Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1368803400,
+    "relativeTimeSeconds": 399551232
+  },
+  "problems": [
+    {
+      "contestId": 309,
+      "index": "E",
+      "name": "Sheep",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 309,
+      "index": "D",
+      "name": "Tennis Rackets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 309,
+      "index": "C",
+      "name": "Memory for Arrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 309,
+      "index": "B",
+      "name": "Context Advertising",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 309,
+      "index": "A",
+      "name": "Morning run",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "math",
+        "two pointers"
+      ]
+    }
+  ]
+}

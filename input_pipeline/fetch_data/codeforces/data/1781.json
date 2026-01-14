@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1781,
+    "name": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1673784300,
+    "relativeTimeSeconds": 94570332
+  },
+  "problems": [
+    {
+      "contestId": 1781,
+      "index": "H2",
+      "name": "Window Signals (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1781,
+      "index": "H1",
+      "name": "Window Signals (easy version)",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 1781,
+      "index": "G",
+      "name": "Diverse Coloring",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "F",
+      "name": "Bracket Insertion",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "E",
+      "name": "Rectangle Shrinking",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "D",
+      "name": "Many Perfect Squares",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "C",
+      "name": "Equal Frequencies",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "B",
+      "name": "Going to the Cinema",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1781,
+      "index": "A",
+      "name": "Parallel Projection",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

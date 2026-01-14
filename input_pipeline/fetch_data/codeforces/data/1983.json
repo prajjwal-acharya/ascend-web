@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1983,
+    "name": "Codeforces Round 956 (Div. 2) and ByteRace 2024",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1720362900,
+    "relativeTimeSeconds": 47991732
+  },
+  "problems": [
+    {
+      "contestId": 1983,
+      "index": "G",
+      "name": "Your Loss",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "F",
+      "name": "array-value",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "E",
+      "name": "I Love Balls",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "D",
+      "name": "Swap Dilemma",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "C",
+      "name": "Have Your Cake and Eat It Too",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "B",
+      "name": "Corner Twist",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1983,
+      "index": "A",
+      "name": "Array Divisibility",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

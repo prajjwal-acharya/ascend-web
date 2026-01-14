@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1210,
+    "name": "Dasha Code Championship - SPb Finals Round (only for onsite-finalists)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1569143100,
+    "relativeTimeSeconds": 199211532
+  },
+  "problems": [
+    {
+      "contestId": 1210,
+      "index": "G",
+      "name": "Mateusz and Escape Room",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "F2",
+      "name": "Marek and Matching (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "F1",
+      "name": "Marek and Matching (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "E",
+      "name": "Wojtek and Card Tricks",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "D",
+      "name": "Konrad and Company Evaluation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "C",
+      "name": "Kamil and Making a Stream",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "B",
+      "name": "Marcin and Training Camp",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1210,
+      "index": "A",
+      "name": "Anadi and Domino",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "graphs"
+      ]
+    }
+  ]
+}

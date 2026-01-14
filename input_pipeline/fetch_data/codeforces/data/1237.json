@@ -1,0 +1,129 @@
+{
+  "contest": {
+    "id": 1237,
+    "name": "Codeforces Global Round 5",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1571236500,
+    "relativeTimeSeconds": 197118132
+  },
+  "problems": [
+    {
+      "contestId": 1237,
+      "index": "H",
+      "name": "Balanced Reversals",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "G",
+      "name": "Balanced Distribution",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "F",
+      "name": "Balanced Domino Placements",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "E",
+      "name": "Balanced Binary Search Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "D",
+      "name": "Balanced Playlist",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "C2",
+      "name": "Balanced Removals (Harder)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "C1",
+      "name": "Balanced Removals (Easier)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "B",
+      "name": "Balanced Tunnel",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1237,
+      "index": "A",
+      "name": "Balanced Rating Changes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

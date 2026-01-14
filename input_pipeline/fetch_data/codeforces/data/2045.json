@@ -1,0 +1,155 @@
+{
+  "contest": {
+    "id": 2045,
+    "name": "2024-2025 ICPC Asia Jakarta Regional Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1733029500,
+    "relativeTimeSeconds": 35325132
+  },
+  "problems": [
+    {
+      "contestId": 2045,
+      "index": "M",
+      "name": "Mirror Maze",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "L",
+      "name": "Buggy DFS",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "K",
+      "name": "GCDDCG",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 2045,
+      "index": "J",
+      "name": "Xorderable Array",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "I",
+      "name": "Microwavable Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "H",
+      "name": "Missing Separators",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "sortings",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "G",
+      "name": "X Aura",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "graphs",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "F",
+      "name": "Grid Game 3-angle",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "E",
+      "name": "Narrower Passageway",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "D",
+      "name": "Aquatic Dragon",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 2045,
+      "index": "C",
+      "name": "Saraga",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "B",
+      "name": "ICPC Square",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2045,
+      "index": "A",
+      "name": "Scrambled Scrabble",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

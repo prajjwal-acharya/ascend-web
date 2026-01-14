@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1284,
+    "name": "Hello 2020",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1578139500,
+    "relativeTimeSeconds": 190215132
+  },
+  "problems": [
+    {
+      "contestId": 1284,
+      "index": "G",
+      "name": "Seollal",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "F",
+      "name": "New Year and Social Network",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "graph matchings",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "E",
+      "name": "New Year and Castle Construction",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "D",
+      "name": "New Year and Conference",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "C",
+      "name": "New Year and Permutation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "B",
+      "name": "New Year and Ascent Sequence",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1284,
+      "index": "A",
+      "name": "New Year and Naming",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

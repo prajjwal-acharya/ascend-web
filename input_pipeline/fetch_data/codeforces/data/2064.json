@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2064,
+    "name": "Codeforces Round 1005 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1739716500,
+    "relativeTimeSeconds": 28638132
+  },
+  "problems": [
+    {
+      "contestId": 2064,
+      "index": "F",
+      "name": "We Be Summing",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2064,
+      "index": "E",
+      "name": "Mycraft Sand Sort",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dsu",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2064,
+      "index": "D",
+      "name": "Eating",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2064,
+      "index": "C",
+      "name": "Remove the Ends",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2064,
+      "index": "B",
+      "name": "Variety is Discouraged",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2064,
+      "index": "A",
+      "name": "Brogramming Contest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

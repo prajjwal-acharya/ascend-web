@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 431,
+    "name": "Codeforces Round 247 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1400686200,
+    "relativeTimeSeconds": 367668432
+  },
+  "problems": [
+    {
+      "contestId": 431,
+      "index": "E",
+      "name": "Chemistry Experiment",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 431,
+      "index": "D",
+      "name": "Random Task",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 431,
+      "index": "C",
+      "name": "k-Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 431,
+      "index": "B",
+      "name": "Shower Line",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 431,
+      "index": "A",
+      "name": "Black Square",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

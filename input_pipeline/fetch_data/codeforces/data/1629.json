@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1629,
+    "name": "Codeforces Round 767 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1642862100,
+    "relativeTimeSeconds": 125492532
+  },
+  "problems": [
+    {
+      "contestId": 1629,
+      "index": "B",
+      "name": "GCD Arrays",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1629,
+      "index": "A",
+      "name": "Download More RAM",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

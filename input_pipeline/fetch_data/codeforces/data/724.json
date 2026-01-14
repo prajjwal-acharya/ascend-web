@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 724,
+    "name": "Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1475928900,
+    "relativeTimeSeconds": 292425732
+  },
+  "problems": [
+    {
+      "contestId": 724,
+      "index": "G",
+      "name": "Xor-matic Number of the Graph",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "F",
+      "name": "Uniformly Branched Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "E",
+      "name": "Goods transportation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "D",
+      "name": "Dense Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "C",
+      "name": "Ray Tracing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "hashing",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "B",
+      "name": "Batch Sort",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 724,
+      "index": "A",
+      "name": "Checking the Calendar",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

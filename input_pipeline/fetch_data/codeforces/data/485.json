@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 485,
+    "name": "Codeforces Round 276 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1415205000,
+    "relativeTimeSeconds": 353149632
+  },
+  "problems": [
+    {
+      "contestId": 485,
+      "index": "B",
+      "name": "Valuable Resources",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 485,
+      "index": "A",
+      "name": "Factory",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math",
+        "matrices"
+      ]
+    }
+  ]
+}

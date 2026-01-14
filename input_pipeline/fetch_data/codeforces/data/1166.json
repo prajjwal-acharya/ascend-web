@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1166,
+    "name": "Codeforces Round 561 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1558105500,
+    "relativeTimeSeconds": 210249132
+  },
+  "problems": [
+    {
+      "contestId": 1166,
+      "index": "F",
+      "name": "Vicky's Delivery Service",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1166,
+      "index": "E",
+      "name": "The LCMs Must be Large",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1166,
+      "index": "D",
+      "name": "Cute Sequences",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1166,
+      "index": "C",
+      "name": "A Tale of Two Lands",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1166,
+      "index": "B",
+      "name": "All the Vowels Please",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1166,
+      "index": "A",
+      "name": "Silent Classroom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "combinatorics",
+        "greedy"
+      ]
+    }
+  ]
+}

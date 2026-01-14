@@ -1,0 +1,136 @@
+{
+  "contest": {
+    "id": 2029,
+    "name": "Refact.ai Match 1 (Codeforces Round 985)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1731162900,
+    "relativeTimeSeconds": 37191732
+  },
+  "problems": [
+    {
+      "contestId": 2029,
+      "index": "I",
+      "name": "Variance Challenge",
+      "type": "PROGRAMMING",
+      "points": 5500.0,
+      "rating": 3400,
+      "tags": [
+        "flows",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "H",
+      "name": "Message Spread",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "G",
+      "name": "Balanced Problem",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "F",
+      "name": "Palindrome Everywhere",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "E",
+      "name": "Common Generator",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "D",
+      "name": "Cool Graph",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "C",
+      "name": "New Rating",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "B",
+      "name": "Replacement",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2029,
+      "index": "A",
+      "name": "Set",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

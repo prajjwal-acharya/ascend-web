@@ -1,0 +1,23 @@
+{
+  "contest": {
+    "id": 1160,
+    "name": "VRt Contest 2019 (marathon)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 1209600,
+    "startTimeSeconds": 1556614800,
+    "relativeTimeSeconds": 211739832
+  },
+  "problems": [
+    {
+      "contestId": 1160,
+      "index": "A2",
+      "name": "Collaboration",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

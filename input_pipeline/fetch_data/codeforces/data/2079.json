@@ -1,0 +1,61 @@
+{
+  "contest": {
+    "id": 2079,
+    "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1741334700,
+    "relativeTimeSeconds": 27019932
+  },
+  "problems": [
+    {
+      "contestId": 2079,
+      "index": "D",
+      "name": "Cute Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2079,
+      "index": "C",
+      "name": "Dreaming Is Not Harmful",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2079,
+      "index": "B",
+      "name": "Arithmetic Exercise",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2079,
+      "index": "A",
+      "name": "Alice, Bob, And Two Arrays",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp",
+        "games"
+      ]
+    }
+  ]
+}

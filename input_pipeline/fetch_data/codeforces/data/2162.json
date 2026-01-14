@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 2162,
+    "name": "Codeforces Round 1059 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1760711700,
+    "relativeTimeSeconds": 7642932
+  },
+  "problems": [
+    {
+      "contestId": 2162,
+      "index": "H",
+      "name": "Beautiful Problem",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "G",
+      "name": "Beautiful Tree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "F",
+      "name": "Beautiful Intervals",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "E",
+      "name": "Beautiful Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "schedules"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "D",
+      "name": "Beautiful Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "C",
+      "name": "Beautiful XOR",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "B",
+      "name": "Beautiful String",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2162,
+      "index": "A",
+      "name": "Beautiful Average",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

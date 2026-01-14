@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 1541,
+    "name": "Codeforces Round 728 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1624635300,
+    "relativeTimeSeconds": 143719332
+  },
+  "problems": [
+    {
+      "contestId": 1541,
+      "index": "B",
+      "name": "Pleasant Pairs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1541,
+      "index": "A",
+      "name": "Pretty Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

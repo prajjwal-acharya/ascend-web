@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 7,
+    "name": "Codeforces Beta Round 7",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1270136700,
+    "relativeTimeSeconds": 498217933
+  },
+  "problems": [
+    {
+      "contestId": 7,
+      "index": "E",
+      "name": "Defining Macros",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 7,
+      "index": "D",
+      "name": "Palindrome Degree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 7,
+      "index": "C",
+      "name": "Line",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 7,
+      "index": "B",
+      "name": "Memory Manager",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 7,
+      "index": "A",
+      "name": "Kalevitch and Chess",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

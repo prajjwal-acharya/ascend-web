@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 1214,
+    "name": "Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1567587900,
+    "relativeTimeSeconds": 200766732
+  },
+  "problems": [
+    {
+      "contestId": 1214,
+      "index": "H",
+      "name": "Tiles Placement",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "G",
+      "name": "Feeling Good",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "F",
+      "name": "Employment",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "E",
+      "name": "Petya and Construction Set",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "D",
+      "name": "Treasure Island",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "flows",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "C",
+      "name": "Bad Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "B",
+      "name": "Badges",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1214,
+      "index": "A",
+      "name": "Optimal Currency Exchange",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

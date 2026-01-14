@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 949,
+    "name": "Codeforces Round 469 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1520583000,
+    "relativeTimeSeconds": 247771632
+  },
+  "problems": [
+    {
+      "contestId": 949,
+      "index": "F",
+      "name": "Astronomy",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 949,
+      "index": "E",
+      "name": "Binary Cards",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 949,
+      "index": "D",
+      "name": "Curfew",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 949,
+      "index": "C",
+      "name": "Data Center Maintenance",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 949,
+      "index": "B",
+      "name": "A Leapfrog in the Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 949,
+      "index": "A",
+      "name": "Zebras",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 864,
+    "name": "Codeforces Round 436 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1506335700,
+    "relativeTimeSeconds": 262018932
+  },
+  "problems": [
+    {
+      "contestId": 864,
+      "index": "F",
+      "name": "Cities Excursions",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 864,
+      "index": "E",
+      "name": "Fire",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 864,
+      "index": "D",
+      "name": "Make a Permutation!",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 864,
+      "index": "C",
+      "name": "Bus",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 864,
+      "index": "B",
+      "name": "Polycarp and Letters",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 864,
+      "index": "A",
+      "name": "Fair Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

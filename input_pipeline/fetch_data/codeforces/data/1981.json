@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1981,
+    "name": "Codeforces Round 949 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1717149900,
+    "relativeTimeSeconds": 51204732
+  },
+  "problems": [
+    {
+      "contestId": 1981,
+      "index": "F",
+      "name": "Turtle and Paths on a Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1981,
+      "index": "E",
+      "name": "Turtle and Intersected Segments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1981,
+      "index": "D",
+      "name": "Turtle and Multiplication",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1981,
+      "index": "C",
+      "name": "Turtle and an Incomplete Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1981,
+      "index": "B",
+      "name": "Turtle and an Infinite Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1981,
+      "index": "A",
+      "name": "Turtle and Piggy Are Playing a Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "contest": {
+    "id": 1765,
+    "name": "2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules, Preferably Teams)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1669545300,
+    "relativeTimeSeconds": 98809332
+  },
+  "problems": [
+    {
+      "contestId": 1765,
+      "index": "N",
+      "name": "Number Reduction",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "M",
+      "name": "Minimum LCM",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "L",
+      "name": "Project Manager",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "K",
+      "name": "Torus Path",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "J",
+      "name": "Hero to Zero",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "graph matchings",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "I",
+      "name": "Infinite Chess",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "H",
+      "name": "Hospital Queue",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "G",
+      "name": "Guess the String",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "F",
+      "name": "Chemistry Lab",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "E",
+      "name": "Exchange",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "D",
+      "name": "Watch the Videos",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "C",
+      "name": "Card Guessing",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "B",
+      "name": "Broken Keyboard",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1765,
+      "index": "A",
+      "name": "Access Levels",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dsu",
+        "flows",
+        "graph matchings"
+      ]
+    }
+  ]
+}

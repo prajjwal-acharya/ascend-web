@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1461,
+    "name": "Codeforces Round 689 (Div. 2, based on Zed Code Competition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1607697300,
+    "relativeTimeSeconds": 160657332
+  },
+  "problems": [
+    {
+      "contestId": 1461,
+      "index": "F",
+      "name": "Mathematical Expression",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1461,
+      "index": "E",
+      "name": "Water Level",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1461,
+      "index": "D",
+      "name": "Divide and Summarize",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1461,
+      "index": "C",
+      "name": "Random Events",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1461,
+      "index": "B",
+      "name": "Find the Spruce",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1461,
+      "index": "A",
+      "name": "String Generation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

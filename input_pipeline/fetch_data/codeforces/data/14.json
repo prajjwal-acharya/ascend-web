@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 14,
+    "name": "Codeforces Beta Round 14 (Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1274283000,
+    "relativeTimeSeconds": 494071633
+  },
+  "problems": [
+    {
+      "contestId": 14,
+      "index": "E",
+      "name": "Camels",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 14,
+      "index": "D",
+      "name": "Two Paths",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 14,
+      "index": "C",
+      "name": "Four Segments",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 14,
+      "index": "B",
+      "name": "Young Photographer",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 14,
+      "index": "A",
+      "name": "Letter",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

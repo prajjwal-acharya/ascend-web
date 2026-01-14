@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 676,
+    "name": "Codeforces Round 354 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1464188700,
+    "relativeTimeSeconds": 304165932
+  },
+  "problems": [
+    {
+      "contestId": 676,
+      "index": "E",
+      "name": "The Last Fight Between Human and AI",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 676,
+      "index": "D",
+      "name": "Theseus and labyrinth",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 676,
+      "index": "C",
+      "name": "Vasya and String",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dp",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 676,
+      "index": "B",
+      "name": "Pyramid of Glasses",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "math",
+        "math"
+      ]
+    },
+    {
+      "contestId": 676,
+      "index": "A",
+      "name": "Nicholas and Permutation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

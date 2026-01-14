@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 818,
+    "name": "Educational Codeforces Round 24",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1498748700,
+    "relativeTimeSeconds": 269605932
+  },
+  "problems": [
+    {
+      "contestId": 818,
+      "index": "G",
+      "name": "Four Melodies",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "F",
+      "name": "Level Generation",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "E",
+      "name": "Card Game Again",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "D",
+      "name": "Multicolored Cars",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "C",
+      "name": "Sofa Thief",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "B",
+      "name": "Permutation Game",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 818,
+      "index": "A",
+      "name": "Diplomas and Certificates",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

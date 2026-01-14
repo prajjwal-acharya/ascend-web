@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 128,
+    "name": "Codeforces Beta Round 94 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1321337400,
+    "relativeTimeSeconds": 447017233
+  },
+  "problems": [
+    {
+      "contestId": 128,
+      "index": "E",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 128,
+      "index": "D",
+      "name": "Numbers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 128,
+      "index": "C",
+      "name": "Games with Rectangle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 128,
+      "index": "B",
+      "name": "String",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 128,
+      "index": "A",
+      "name": "Statues",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar"
+      ]
+    }
+  ]
+}

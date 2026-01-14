@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 313,
+    "name": "Codeforces Round 186 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1369927800,
+    "relativeTimeSeconds": 398426832
+  },
+  "problems": [
+    {
+      "contestId": 313,
+      "index": "E",
+      "name": "Ilya and Two Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 313,
+      "index": "D",
+      "name": "Ilya and Roads",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 313,
+      "index": "C",
+      "name": "Ilya and Matrix",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 313,
+      "index": "B",
+      "name": "Ilya and Queries",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 313,
+      "index": "A",
+      "name": "Ilya and Bank Account",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 449,
+    "name": "Codeforces Round 257 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1405774800,
+    "relativeTimeSeconds": 362579832
+  },
+  "problems": [
+    {
+      "contestId": 449,
+      "index": "E",
+      "name": "Jzzhu and Squares",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 449,
+      "index": "D",
+      "name": "Jzzhu and Numbers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 449,
+      "index": "C",
+      "name": "Jzzhu and Apples",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 449,
+      "index": "B",
+      "name": "Jzzhu and Cities",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 449,
+      "index": "A",
+      "name": "Jzzhu and Chocolate",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

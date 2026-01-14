@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 460,
+    "name": "Codeforces Round 262 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1408548600,
+    "relativeTimeSeconds": 359806032
+  },
+  "problems": [
+    {
+      "contestId": 460,
+      "index": "E",
+      "name": "Roland and Rose",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 460,
+      "index": "D",
+      "name": "Little Victor and Set",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 460,
+      "index": "C",
+      "name": "Present",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 460,
+      "index": "B",
+      "name": "Little Dima and Equation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 460,
+      "index": "A",
+      "name": "Vasya and Socks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

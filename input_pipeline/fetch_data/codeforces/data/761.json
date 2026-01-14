@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 761,
+    "name": "Codeforces Round 394 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1485873300,
+    "relativeTimeSeconds": 282481332
+  },
+  "problems": [
+    {
+      "contestId": 761,
+      "index": "F",
+      "name": "Dasha and Photos",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 761,
+      "index": "E",
+      "name": "Dasha and Puzzle",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 761,
+      "index": "D",
+      "name": "Dasha and Very Difficult Problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 761,
+      "index": "C",
+      "name": "Dasha and Password",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 761,
+      "index": "B",
+      "name": "Dasha and friends",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 761,
+      "index": "A",
+      "name": "Dasha and Stairs",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

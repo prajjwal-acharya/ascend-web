@@ -1,0 +1,27 @@
+{
+  "contest": {
+    "id": 860,
+    "name": "Codeforces Round 434 (Div. 1, based on Technocup 2018 Elimination Round 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8400,
+    "startTimeSeconds": 1505653500,
+    "relativeTimeSeconds": 262701132
+  },
+  "problems": [
+    {
+      "contestId": 860,
+      "index": "E",
+      "name": "Arkady and a Nobody-men",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 758,
+    "name": "Codeforces Round 392 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1484838300,
+    "relativeTimeSeconds": 283516332
+  },
+  "problems": [
+    {
+      "contestId": 758,
+      "index": "F",
+      "name": "Geometrical Progression",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 758,
+      "index": "E",
+      "name": "Broken Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 758,
+      "index": "D",
+      "name": "Ability To Convert",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 758,
+      "index": "C",
+      "name": "Unfair Poll",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 758,
+      "index": "B",
+      "name": "Blown Garland",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 758,
+      "index": "A",
+      "name": "Holiday Of Equality",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

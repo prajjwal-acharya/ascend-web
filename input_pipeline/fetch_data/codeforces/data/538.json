@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "id": 538,
+    "name": "Codeforces Round 300",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1430064000,
+    "relativeTimeSeconds": 338290632
+  },
+  "problems": [
+    {
+      "contestId": 538,
+      "index": "H",
+      "name": "Summer Dichotomy",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "2-sat",
+        "data structures",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "G",
+      "name": "Berserk Robot ",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "F",
+      "name": "A Heap of Heaps",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "E",
+      "name": "Demiurges Play Again",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "D",
+      "name": "Weird Chess",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "C",
+      "name": "Tourist's Notes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "B",
+      "name": "Quasi Binary",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 538,
+      "index": "A",
+      "name": "Cutting Banner",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 919,
+    "name": "Codeforces Round 460 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1517403900,
+    "relativeTimeSeconds": 250950732
+  },
+  "problems": [
+    {
+      "contestId": 919,
+      "index": "F",
+      "name": "A Game With Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "games",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 919,
+      "index": "E",
+      "name": "Congruence Equation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 919,
+      "index": "D",
+      "name": "Substring",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 919,
+      "index": "C",
+      "name": "Seat Arrangements",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 919,
+      "index": "B",
+      "name": "Perfect Number",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 919,
+      "index": "A",
+      "name": "Supermarket",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

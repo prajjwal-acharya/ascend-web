@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 851,
+    "name": "Codeforces Round 432 (Div. 2, based on IndiaHacks Final Round 2017)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1504535700,
+    "relativeTimeSeconds": 263818932
+  },
+  "problems": [
+    {
+      "contestId": 851,
+      "index": "B",
+      "name": "Arpa and an exam about geometry",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 851,
+      "index": "A",
+      "name": "Arpa and a research in Mexican wave",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1878,
+    "name": "Codeforces Round 900 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1695738900,
+    "relativeTimeSeconds": 72615732
+  },
+  "problems": [
+    {
+      "contestId": 1878,
+      "index": "G",
+      "name": "wxhtzdy ORO Tree",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "F",
+      "name": "Vasilije Loves Number Theory",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "E",
+      "name": "Iva & Pav",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "D",
+      "name": "Reverse Madness",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "C",
+      "name": "Vasilije in Cacak",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "B",
+      "name": "Aleksa and Stack",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1878,
+      "index": "A",
+      "name": "How Much Does Daytona Cost?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

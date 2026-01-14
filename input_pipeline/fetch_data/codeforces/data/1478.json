@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 1478,
+    "name": "Codeforces Round 698 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1611844500,
+    "relativeTimeSeconds": 156510132
+  },
+  "problems": [
+    {
+      "contestId": 1478,
+      "index": "C",
+      "name": "Nezzar and Symmetric Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1478,
+      "index": "B",
+      "name": "Nezzar and Lucky Number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1478,
+      "index": "A",
+      "name": "Nezzar and Colorful Balls",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

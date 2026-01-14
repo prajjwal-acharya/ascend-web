@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 2009,
+    "name": "Codeforces Round 971 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1725374100,
+    "relativeTimeSeconds": 42980532
+  },
+  "problems": [
+    {
+      "contestId": 2009,
+      "index": "G3",
+      "name": "Yunli's Subarray Queries (extreme version)",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "G2",
+      "name": "Yunli's Subarray Queries (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "G1",
+      "name": "Yunli's Subarray Queries (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "F",
+      "name": "Firefly's Queries",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "flows",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "E",
+      "name": "Klee's SUPER DUPER LARGE Array!!!",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "D",
+      "name": "Satyam and Counting",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "C",
+      "name": "The Legend of Freya the Frog",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "B",
+      "name": "osu!mania",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2009,
+      "index": "A",
+      "name": "Minimize!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

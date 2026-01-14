@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1748,
+    "name": "Codeforces Round 833 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1668263700,
+    "relativeTimeSeconds": 100090932
+  },
+  "problems": [
+    {
+      "contestId": 1748,
+      "index": "F",
+      "name": "Circular Xor Reversal",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1748,
+      "index": "E",
+      "name": "Yet Another Array Counting Problem",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "flows",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1748,
+      "index": "D",
+      "name": "ConstructOR ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "chinese remainder theorem",
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1748,
+      "index": "C",
+      "name": "Zero-Sum Prefixes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1748,
+      "index": "B",
+      "name": "Diverse Substrings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1748,
+      "index": "A",
+      "name": "The Ultimate Square",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

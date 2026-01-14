@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1611,
+    "name": "Codeforces Round 756 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1637850900,
+    "relativeTimeSeconds": 130503732
+  },
+  "problems": [
+    {
+      "contestId": 1611,
+      "index": "G",
+      "name": "Robot and Candies",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "F",
+      "name": "ATM and Students",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "E2",
+      "name": "Escape The Maze (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "E1",
+      "name": "Escape The Maze (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "shortest paths",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "D",
+      "name": "Weights Assignment For Tree Edges",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "C",
+      "name": "Polycarp Recovers the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "B",
+      "name": "Team Composition: Programmers and Mathematicians",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1611,
+      "index": "A",
+      "name": "Make Even",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

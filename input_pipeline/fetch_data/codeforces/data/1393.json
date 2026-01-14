@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1393,
+    "name": "Codeforces Round 662 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1596810900,
+    "relativeTimeSeconds": 171543732
+  },
+  "problems": [
+    {
+      "contestId": 1393,
+      "index": "E2",
+      "name": "Twilight and Ancient Scroll (harder version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1393,
+      "index": "E1",
+      "name": "Twilight and Ancient Scroll (easier version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1393,
+      "index": "D",
+      "name": "Rarity and New Dress",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1393,
+      "index": "C",
+      "name": "Pinkie Pie Eats Patty-cakes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1393,
+      "index": "B",
+      "name": "Applejack and Storages",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1393,
+      "index": "A",
+      "name": "Rainbow Dash, Fluttershy and Chess Coloring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 1424,
+    "name": "Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1601903100,
+    "relativeTimeSeconds": 166451532
+  },
+  "problems": [
+    {
+      "contestId": 1424,
+      "index": "M",
+      "name": "Ancient Language",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1424,
+      "index": "G",
+      "name": "Years",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    }
+  ]
+}

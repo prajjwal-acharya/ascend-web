@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 813,
+    "name": "Educational Codeforces Round 22",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1496675100,
+    "relativeTimeSeconds": 271679532
+  },
+  "problems": [
+    {
+      "contestId": 813,
+      "index": "F",
+      "name": "Bipartite Checking",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 813,
+      "index": "E",
+      "name": "Army Creation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 813,
+      "index": "D",
+      "name": "Two Melodies",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 813,
+      "index": "C",
+      "name": "The Tag Game",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 813,
+      "index": "B",
+      "name": "The Golden Age",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 813,
+      "index": "A",
+      "name": "The Contest",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

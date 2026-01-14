@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 845,
+    "name": "Educational Codeforces Round 27",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1503327900,
+    "relativeTimeSeconds": 265026732
+  },
+  "problems": [
+    {
+      "contestId": 845,
+      "index": "G",
+      "name": "Shortest Path Problem?",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "F",
+      "name": "Guards In The Storehouse",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "E",
+      "name": "Fire in the City",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "D",
+      "name": "Driving Test",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "C",
+      "name": "Two TVs",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "B",
+      "name": "Luba And The Ticket",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 845,
+      "index": "A",
+      "name": "Chess Tourney",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

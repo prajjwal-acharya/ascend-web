@@ -1,0 +1,134 @@
+{
+  "contest": {
+    "id": 1787,
+    "name": "TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1675002900,
+    "relativeTimeSeconds": 93351732
+  },
+  "problems": [
+    {
+      "contestId": 1787,
+      "index": "I",
+      "name": "Treasure Hunt",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "H",
+      "name": "Codeforces Scoreboard",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "G",
+      "name": "Colorful Tree Again",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "F",
+      "name": "Inverse Transformation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "E",
+      "name": "The Harmonization of XOR",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "D",
+      "name": "Game on Axis",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "C",
+      "name": "Remove the Bracket",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "B",
+      "name": "Number Factorization",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1787,
+      "index": "A",
+      "name": "Exponential Equation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "contest": {
+    "id": 178,
+    "name": "ABBYY Cup 2.0 - Hard",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1335614400,
+    "relativeTimeSeconds": 432740233
+  },
+  "problems": [
+    {
+      "contestId": 178,
+      "index": "F3",
+      "name": "Representative Sampling",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2500,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "F2",
+      "name": "Representative Sampling",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 178,
+      "index": "F1",
+      "name": "Representative Sampling",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1800,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "E3",
+      "name": "The Beaver's Problem - 2",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "E2",
+      "name": "The Beaver's Problem - 2",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "E1",
+      "name": "The Beaver's Problem - 2",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "D3",
+      "name": "Magic Squares",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "D2",
+      "name": "Magic Squares",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "D1",
+      "name": "Magic Squares",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1500,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "C3",
+      "name": "Smart Beaver and Resolving Collisions",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "C2",
+      "name": "Smart Beaver and Resolving Collisions",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "C1",
+      "name": "Smart Beaver and Resolving Collisions",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "B3",
+      "name": "Greedy Merchants",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 1800,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "B2",
+      "name": "Greedy Merchants",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "B1",
+      "name": "Greedy Merchants",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 178,
+      "index": "A3",
+      "name": "Educational Game",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 178,
+      "index": "A2",
+      "name": "Educational Game",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 178,
+      "index": "A1",
+      "name": "Educational Game",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1000,
+      "tags": []
+    }
+  ]
+}

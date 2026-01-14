@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1472,
+    "name": "Codeforces Round 693 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1609770900,
+    "relativeTimeSeconds": 158583732
+  },
+  "problems": [
+    {
+      "contestId": 1472,
+      "index": "G",
+      "name": "Moving to the Capital",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "F",
+      "name": "New Year's Puzzle",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "graph matchings",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "E",
+      "name": "Correct Placement",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "D",
+      "name": "Even-Odd Game",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "C",
+      "name": "Long Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "B",
+      "name": "Fair Division",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1472,
+      "index": "A",
+      "name": "Cards for Friends",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

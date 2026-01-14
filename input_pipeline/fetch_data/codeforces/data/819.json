@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 819,
+    "name": "Codeforces Round 421 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1498574100,
+    "relativeTimeSeconds": 269780532
+  },
+  "problems": [
+    {
+      "contestId": 819,
+      "index": "E",
+      "name": "Mister B and Flight to the Moon",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 819,
+      "index": "D",
+      "name": "Mister B and Astronomers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 819,
+      "index": "C",
+      "name": "Mister B and Beacons on Field",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 819,
+      "index": "B",
+      "name": "Mister B and PR Shifts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 819,
+      "index": "A",
+      "name": "Mister B and Boring Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2200,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "contest": {
+    "id": 2035,
+    "name": "Codeforces Global Round 27",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1730039700,
+    "relativeTimeSeconds": 38314932
+  },
+  "problems": [
+    {
+      "contestId": 2035,
+      "index": "H",
+      "name": "Peak Productivity Forces",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "G2",
+      "name": "Go Learn! (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "G1",
+      "name": "Go Learn! (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "F",
+      "name": "Tree Operations",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "E",
+      "name": "Monster",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "D",
+      "name": "Yet Another Real Number Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "C",
+      "name": "Alya and Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "B",
+      "name": "Everyone Loves Tres",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2035,
+      "index": "A",
+      "name": "Sliding",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

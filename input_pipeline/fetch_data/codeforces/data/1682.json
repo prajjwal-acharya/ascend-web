@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1682,
+    "name": "Codeforces Round 793 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1653230100,
+    "relativeTimeSeconds": 115124532
+  },
+  "problems": [
+    {
+      "contestId": 1682,
+      "index": "F",
+      "name": "MCMF?",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "flows",
+        "graphs",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1682,
+      "index": "E",
+      "name": "Unordered Swaps",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1682,
+      "index": "D",
+      "name": "Circular Spanning Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1682,
+      "index": "C",
+      "name": "LIS or Reverse LIS?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1682,
+      "index": "B",
+      "name": "AND Sorting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1682,
+      "index": "A",
+      "name": "Palindromic Indices",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

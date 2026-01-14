@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 484,
+    "name": "Codeforces Round 276 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1415205000,
+    "relativeTimeSeconds": 353149632
+  },
+  "problems": [
+    {
+      "contestId": 484,
+      "index": "E",
+      "name": "Sign on Fence",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 484,
+      "index": "D",
+      "name": "Kindergarten",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 484,
+      "index": "C",
+      "name": "Strange Sorting",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 484,
+      "index": "B",
+      "name": "Maximum Value",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 484,
+      "index": "A",
+      "name": "Bits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

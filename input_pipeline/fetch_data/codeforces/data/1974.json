@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1974,
+    "name": "Codeforces Round 946 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1716215700,
+    "relativeTimeSeconds": 52138932
+  },
+  "problems": [
+    {
+      "contestId": 1974,
+      "index": "G",
+      "name": "Money Buys Less Happiness Now ",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "F",
+      "name": "Cutting Game",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "E",
+      "name": "Money Buys Happiness",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "D",
+      "name": "Ingenuity-2",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "C",
+      "name": "Beautiful Triple Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "B",
+      "name": "Symmetric Encoding",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1974,
+      "index": "A",
+      "name": "Phone Desktop",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

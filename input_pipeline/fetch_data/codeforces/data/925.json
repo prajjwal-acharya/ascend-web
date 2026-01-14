@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 925,
+    "name": "VK Cup 2018 - Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1525007700,
+    "relativeTimeSeconds": 243346932
+  },
+  "problems": [
+    {
+      "contestId": 925,
+      "index": "F",
+      "name": "Parametric Circulation",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 925,
+      "index": "E",
+      "name": "May Holidays",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 925,
+      "index": "D",
+      "name": "Aztec Catacombs",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 925,
+      "index": "C",
+      "name": "Big Secret",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 925,
+      "index": "B",
+      "name": "Resource Distribution",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 925,
+      "index": "A",
+      "name": "Stairs and Elevators",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 1110,
+    "name": "Codeforces Global Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1549546500,
+    "relativeTimeSeconds": 218808132
+  },
+  "problems": [
+    {
+      "contestId": 1110,
+      "index": "H",
+      "name": "Modest Substrings",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "G",
+      "name": "Tree-Tac-Toe ",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "F",
+      "name": "Nearest Leaf",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "E",
+      "name": "Magic Stones",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "D",
+      "name": "Jongmah",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "C",
+      "name": "Meaningless Operations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "B",
+      "name": "Tape",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1110,
+      "index": "A",
+      "name": "Parity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

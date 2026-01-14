@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1337,
+    "name": "Codeforces Round 635 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1586961300,
+    "relativeTimeSeconds": 181393332
+  },
+  "problems": [
+    {
+      "contestId": 1337,
+      "index": "B",
+      "name": "Kana and Dragon Quest game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1337,
+      "index": "A",
+      "name": "Ichihime and Triangle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

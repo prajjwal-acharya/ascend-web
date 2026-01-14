@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1618,
+    "name": "Codeforces Round 760 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1639492500,
+    "relativeTimeSeconds": 128862132
+  },
+  "problems": [
+    {
+      "contestId": 1618,
+      "index": "G",
+      "name": "Trader Problem",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "F",
+      "name": "Reverse",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "E",
+      "name": "Singers' Tour",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "D",
+      "name": "Array and Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "C",
+      "name": "Paint the Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "B",
+      "name": "Missing Bigram",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1618,
+      "index": "A",
+      "name": "Polycarp and Sums of Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

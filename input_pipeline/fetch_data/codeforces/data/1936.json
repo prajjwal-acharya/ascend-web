@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1936,
+    "name": "Codeforces Round 930 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1709217300,
+    "relativeTimeSeconds": 59137332
+  },
+  "problems": [
+    {
+      "contestId": 1936,
+      "index": "F",
+      "name": "Grand Finale: Circles",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1936,
+      "index": "E",
+      "name": "Yet Yet Another Permutation Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "divide and conquer",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1936,
+      "index": "D",
+      "name": "Bitwise Paradox",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1936,
+      "index": "C",
+      "name": "Pok\u00e9mon Arena",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1936,
+      "index": "B",
+      "name": "Pinball",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1936,
+      "index": "A",
+      "name": "Bitwise Operation Wizard",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    }
+  ]
+}

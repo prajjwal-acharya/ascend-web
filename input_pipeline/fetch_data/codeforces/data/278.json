@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 278,
+    "name": "Codeforces Round 170 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1362065400,
+    "relativeTimeSeconds": 406289233
+  },
+  "problems": [
+    {
+      "contestId": 278,
+      "index": "B",
+      "name": "New Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 278,
+      "index": "A",
+      "name": "Circle Line",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

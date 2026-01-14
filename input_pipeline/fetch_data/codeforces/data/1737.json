@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1737,
+    "name": "Dytechlab Cup 2022",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1665153300,
+    "relativeTimeSeconds": 103201332
+  },
+  "problems": [
+    {
+      "contestId": 1737,
+      "index": "G",
+      "name": "Ela Takes Dancing Class",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "F",
+      "name": "Ela and Prime GCD",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "E",
+      "name": "Ela Goes Hiking",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "D",
+      "name": "Ela and the Wiring Wizard",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dp",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "C",
+      "name": "Ela and Crickets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "B",
+      "name": "Ela's Fitness and the Luxury Number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1737,
+      "index": "A",
+      "name": "Ela Sorting Books",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

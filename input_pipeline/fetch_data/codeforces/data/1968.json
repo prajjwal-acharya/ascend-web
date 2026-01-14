@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 1968,
+    "name": "Codeforces Round 943 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1714661100,
+    "relativeTimeSeconds": 53693532
+  },
+  "problems": [
+    {
+      "contestId": 1968,
+      "index": "G2",
+      "name": "Division + LCP (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "hashing",
+        "math",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "G1",
+      "name": "Division + LCP (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "F",
+      "name": "Equal XOR Segments",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "E",
+      "name": "Cells Arrangement",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "D",
+      "name": "Permutation Game",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "games",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "C",
+      "name": "Assembly via Remainders",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "B",
+      "name": "Prefiquence",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1968,
+      "index": "A",
+      "name": "Maximize?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1268,
+    "name": "Codeforces Round 609 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576926300,
+    "relativeTimeSeconds": 191428332
+  },
+  "problems": [
+    {
+      "contestId": 1268,
+      "index": "E",
+      "name": "Happy Cactus",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1268,
+      "index": "D",
+      "name": "Invertation in Tournament",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1268,
+      "index": "C",
+      "name": "K Integers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1268,
+      "index": "B",
+      "name": "Domino for Young",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1268,
+      "index": "A",
+      "name": "Long Beautiful Integer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

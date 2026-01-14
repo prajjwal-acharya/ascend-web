@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 688,
+    "name": "Codeforces Round 360 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1467219900,
+    "relativeTimeSeconds": 301134732
+  },
+  "problems": [
+    {
+      "contestId": 688,
+      "index": "B",
+      "name": "Lovely Palindromes",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 688,
+      "index": "A",
+      "name": "Opponents",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 719,
+    "name": "Codeforces Round 373 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1474635900,
+    "relativeTimeSeconds": 293718732
+  },
+  "problems": [
+    {
+      "contestId": 719,
+      "index": "B",
+      "name": "Anatoly and Cockroaches",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 719,
+      "index": "A",
+      "name": "Vitya in the Countryside",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

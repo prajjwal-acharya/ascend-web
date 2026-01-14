@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1431,
+    "name": "Kotlin Heroes 5: ICPC Round",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1605191700,
+    "relativeTimeSeconds": 163162932
+  },
+  "problems": [
+    {
+      "contestId": 1431,
+      "index": "J",
+      "name": "Zero-XOR Array",
+      "type": "PROGRAMMING",
+      "rating": 3400,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "I",
+      "name": "Cyclic Shifts",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "H",
+      "name": "Rogue-like Game",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "*special",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "G",
+      "name": "Number Deletion Game",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "dp",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "F",
+      "name": "Neural Network Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "E",
+      "name": "Chess Match",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "D",
+      "name": "Used Markers",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "C",
+      "name": "Black Friday",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "B",
+      "name": "Polycarp and the Language of Gods",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1431,
+      "index": "A",
+      "name": "Selling Hamburgers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

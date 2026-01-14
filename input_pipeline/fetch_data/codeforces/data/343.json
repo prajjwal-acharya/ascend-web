@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 343,
+    "name": "Codeforces Round 200 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1379172600,
+    "relativeTimeSeconds": 389182032
+  },
+  "problems": [
+    {
+      "contestId": 343,
+      "index": "E",
+      "name": "Pumping Stations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "divide and conquer",
+        "flows",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 343,
+      "index": "D",
+      "name": "Water Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 343,
+      "index": "C",
+      "name": "Read Time",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 343,
+      "index": "B",
+      "name": "Alternating Current",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 343,
+      "index": "A",
+      "name": "Rational Resistance",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

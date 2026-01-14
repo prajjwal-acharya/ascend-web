@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1303,
+    "name": "Educational Codeforces Round 82 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1581518100,
+    "relativeTimeSeconds": 186836532
+  },
+  "problems": [
+    {
+      "contestId": 1303,
+      "index": "G",
+      "name": "Sum of Prefix Sums",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "geometry",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "F",
+      "name": "Number of Components",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "E",
+      "name": "Erase Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "D",
+      "name": "Fill The Bag",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "C",
+      "name": "Perfect Keyboard",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "B",
+      "name": "National Project",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1303,
+      "index": "A",
+      "name": "Erasing Zeroes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

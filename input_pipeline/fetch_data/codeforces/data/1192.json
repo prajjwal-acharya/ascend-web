@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 1192,
+    "name": "CEOI 2019 day 1 online mirror (unrated, IOI format)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1564063500,
+    "relativeTimeSeconds": 204291132
+  },
+  "problems": [
+    {
+      "contestId": 1192,
+      "index": "C",
+      "name": "Cubeword",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1192,
+      "index": "B",
+      "name": "Dynamic Diameter",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1192,
+      "index": "A",
+      "name": "Building Skyscrapers",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

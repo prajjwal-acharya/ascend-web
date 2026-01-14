@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 261,
+    "name": "Codeforces Round 160 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1358091000,
+    "relativeTimeSeconds": 410263633
+  },
+  "problems": [
+    {
+      "contestId": 261,
+      "index": "E",
+      "name": "Maxim and Calculator",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 261,
+      "index": "D",
+      "name": "Maxim and Increasing Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 261,
+      "index": "C",
+      "name": "Maxim and Matrix",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 261,
+      "index": "B",
+      "name": "Maxim and Restaurant",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 261,
+      "index": "A",
+      "name": "Maxim and Discounts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

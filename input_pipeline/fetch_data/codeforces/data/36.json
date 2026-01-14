@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 36,
+    "name": "Codeforces Beta Round 36",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1287482400,
+    "relativeTimeSeconds": 480872233
+  },
+  "problems": [
+    {
+      "contestId": 36,
+      "index": "E",
+      "name": "Two Paths",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 36,
+      "index": "D",
+      "name": "New Game with a Chess Piece",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 36,
+      "index": "C",
+      "name": "Bowls",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 36,
+      "index": "B",
+      "name": "Fractal",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 36,
+      "index": "A",
+      "name": "Extra-terrestrial Intelligence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

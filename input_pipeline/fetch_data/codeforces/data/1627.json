@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1627,
+    "name": "Codeforces Round 766 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1642257300,
+    "relativeTimeSeconds": 126097332
+  },
+  "problems": [
+    {
+      "contestId": 1627,
+      "index": "F",
+      "name": "Not Splitting",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1627,
+      "index": "E",
+      "name": "Not Escaping",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "shortest paths",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1627,
+      "index": "D",
+      "name": "Not Adding",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1627,
+      "index": "C",
+      "name": "Not Assigning",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1627,
+      "index": "B",
+      "name": "Not Sitting",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1627,
+      "index": "A",
+      "name": "Not Shading",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

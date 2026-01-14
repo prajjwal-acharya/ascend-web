@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 779,
+    "name": "Codeforces Round 402 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1488096300,
+    "relativeTimeSeconds": 280258332
+  },
+  "problems": [
+    {
+      "contestId": 779,
+      "index": "C",
+      "name": "Dishonest Sellers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 779,
+      "index": "B",
+      "name": "Weird Rounding",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 779,
+      "index": "A",
+      "name": "Pupils Redistribution",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

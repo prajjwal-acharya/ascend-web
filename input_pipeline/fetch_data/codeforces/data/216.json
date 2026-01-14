@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 216,
+    "name": "Codeforces Round 133 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1344958200,
+    "relativeTimeSeconds": 423396433
+  },
+  "problems": [
+    {
+      "contestId": 216,
+      "index": "E",
+      "name": "Martian Luck",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 216,
+      "index": "D",
+      "name": "Spider's Web",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 216,
+      "index": "C",
+      "name": "Hiring Staff",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 216,
+      "index": "B",
+      "name": "Forming Teams",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 216,
+      "index": "A",
+      "name": "Tiling with Hexagons",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1788,
+    "name": "Codeforces Round 851 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1675953300,
+    "relativeTimeSeconds": 92401332
+  },
+  "problems": [
+    {
+      "contestId": 1788,
+      "index": "F",
+      "name": "XOR, Tree, and Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1788,
+      "index": "E",
+      "name": "Sum Over Zero",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1788,
+      "index": "D",
+      "name": "Moving Dots",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1788,
+      "index": "C",
+      "name": "Matching Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1788,
+      "index": "B",
+      "name": "Sum of Two Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1788,
+      "index": "A",
+      "name": "One and Two",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

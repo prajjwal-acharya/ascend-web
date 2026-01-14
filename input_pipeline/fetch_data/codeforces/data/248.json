@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 248,
+    "name": "Codeforces Round 152 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1353857400,
+    "relativeTimeSeconds": 414497233
+  },
+  "problems": [
+    {
+      "contestId": 248,
+      "index": "E",
+      "name": "Piglet's Birthday",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 248,
+      "index": "D",
+      "name": "Sweets for Everyone!",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 248,
+      "index": "C",
+      "name": "Robo-Footballer",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 248,
+      "index": "B",
+      "name": "Chilly Willy",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 248,
+      "index": "A",
+      "name": "Cupboards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

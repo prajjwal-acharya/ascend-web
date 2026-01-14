@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 101,
+    "name": "Codeforces Beta Round 79 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1312390800,
+    "relativeTimeSeconds": 455963833
+  },
+  "problems": [
+    {
+      "contestId": 101,
+      "index": "E",
+      "name": "Candies and Stones",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 101,
+      "index": "D",
+      "name": "Castle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "probabilities",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 101,
+      "index": "C",
+      "name": "Vectors",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 101,
+      "index": "B",
+      "name": "Buses",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 101,
+      "index": "A",
+      "name": "Homework",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

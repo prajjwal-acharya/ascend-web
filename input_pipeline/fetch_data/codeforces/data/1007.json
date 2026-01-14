@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1007,
+    "name": "Codeforces Round 497 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1531492500,
+    "relativeTimeSeconds": 236862132
+  },
+  "problems": [
+    {
+      "contestId": 1007,
+      "index": "E",
+      "name": "Mini Metro",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1007,
+      "index": "D",
+      "name": "Ants",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "2-sat",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1007,
+      "index": "C",
+      "name": "Guess two numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1007,
+      "index": "B",
+      "name": "Pave the Parallelepiped",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1007,
+      "index": "A",
+      "name": "Reorder the Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

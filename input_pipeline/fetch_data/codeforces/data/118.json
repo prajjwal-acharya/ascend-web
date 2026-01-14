@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 118,
+    "name": "Codeforces Beta Round 89 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1317999600,
+    "relativeTimeSeconds": 450355033
+  },
+  "problems": [
+    {
+      "contestId": 118,
+      "index": "E",
+      "name": "Bertown roads",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 118,
+      "index": "D",
+      "name": "Caesar's Legions",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 118,
+      "index": "C",
+      "name": "Fancy Number",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 118,
+      "index": "B",
+      "name": "Present from Lena",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 118,
+      "index": "A",
+      "name": "String Task",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

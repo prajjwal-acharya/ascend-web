@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1988,
+    "name": "Codeforces Round 958 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1721054100,
+    "relativeTimeSeconds": 47300532
+  },
+  "problems": [
+    {
+      "contestId": 1988,
+      "index": "F",
+      "name": "Heartbeat",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1988,
+      "index": "E",
+      "name": "Range Minimum Sum",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1988,
+      "index": "D",
+      "name": "The Omnipotent Monster Killer",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1988,
+      "index": "C",
+      "name": "Increasing Sequence with Fixed OR",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1988,
+      "index": "B",
+      "name": "Make Majority",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1988,
+      "index": "A",
+      "name": "Split the Multiset",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

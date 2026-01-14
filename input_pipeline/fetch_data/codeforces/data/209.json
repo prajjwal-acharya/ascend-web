@@ -1,0 +1,52 @@
+{
+  "contest": {
+    "id": 209,
+    "name": "VK Cup 2012 Finals, Practice Session",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 5400,
+    "startTimeSeconds": 1342252500,
+    "relativeTimeSeconds": 426102133
+  },
+  "problems": [
+    {
+      "contestId": 209,
+      "index": "C",
+      "name": "Trails and Glades",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 209,
+      "index": "B",
+      "name": "Pixels",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 209,
+      "index": "A",
+      "name": "Multicolored Marbles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    }
+  ]
+}

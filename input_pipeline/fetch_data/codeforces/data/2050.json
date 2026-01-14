@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2050,
+    "name": "Codeforces Round 991 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1733409300,
+    "relativeTimeSeconds": 34945332
+  },
+  "problems": [
+    {
+      "contestId": 2050,
+      "index": "G",
+      "name": "Tree Destruction",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "F",
+      "name": "Maximum modulo equality",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "E",
+      "name": "Three Strings",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "D",
+      "name": "Digital string maximization",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "C",
+      "name": "Uninteresting Number",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "B",
+      "name": "Transfusion",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2050,
+      "index": "A",
+      "name": "Line Breaks",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

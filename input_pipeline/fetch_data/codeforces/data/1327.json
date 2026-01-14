@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1327,
+    "name": "Educational Codeforces Round 84 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1584974100,
+    "relativeTimeSeconds": 183380532
+  },
+  "problems": [
+    {
+      "contestId": 1327,
+      "index": "G",
+      "name": "Letters and Question Marks",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "F",
+      "name": "AND Segments",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "E",
+      "name": "Count The Blocks",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "D",
+      "name": "Infinite Path",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "C",
+      "name": "Game with Chips",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "B",
+      "name": "Princesses and Princes",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1327,
+      "index": "A",
+      "name": "Sum of Odd Integers",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

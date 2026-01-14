@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": 164,
+    "name": "VK Cup 2012 Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1333897500,
+    "relativeTimeSeconds": 434457133
+  },
+  "problems": [
+    {
+      "contestId": 164,
+      "index": "E",
+      "name": "Polycarpus and Tasks",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 164,
+      "index": "D",
+      "name": "Minimum Diameter",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 164,
+      "index": "C",
+      "name": "Machine Programming",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 164,
+      "index": "B",
+      "name": "Ancient Berland Hieroglyphs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 164,
+      "index": "A",
+      "name": "Variable, or There and Back Again",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    }
+  ]
+}

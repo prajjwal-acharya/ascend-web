@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 587,
+    "name": "Codeforces Round 326 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1444926600,
+    "relativeTimeSeconds": 323428032
+  },
+  "problems": [
+    {
+      "contestId": 587,
+      "index": "F",
+      "name": "Duff is Mad",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 587,
+      "index": "E",
+      "name": "Duff as a Queen",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 587,
+      "index": "D",
+      "name": "Duff in Mafia",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "2-sat",
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 587,
+      "index": "C",
+      "name": "Duff in the Army",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 587,
+      "index": "B",
+      "name": "Duff in Beach",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 587,
+      "index": "A",
+      "name": "Duff and Weight Lifting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "contest": {
+    "id": 1534,
+    "name": "Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1623598500,
+    "relativeTimeSeconds": 144756132
+  },
+  "problems": [
+    {
+      "contestId": 1534,
+      "index": "H",
+      "name": "Lost Nodes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "interactive",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "G",
+      "name": "A New Beginning",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "F2",
+      "name": "Falling Sand (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "F1",
+      "name": "Falling Sand (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "E",
+      "name": "Lost Array",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "greedy",
+        "interactive",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "D",
+      "name": "Lost Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "C",
+      "name": "Little Alawn's Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "dsu",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "B",
+      "name": "Histogram Ugliness",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1534,
+      "index": "A",
+      "name": "Colour the Flag",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

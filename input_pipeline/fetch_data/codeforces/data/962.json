@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 962,
+    "name": "Educational Codeforces Round 42 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1523370900,
+    "relativeTimeSeconds": 244983732
+  },
+  "problems": [
+    {
+      "contestId": 962,
+      "index": "G",
+      "name": "Visible Black Areas",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dsu",
+        "geometry",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "F",
+      "name": "Simple Cycles Edges",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "E",
+      "name": "Byteland, Berland and Disputed Cities",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "D",
+      "name": "Merge Equals",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "C",
+      "name": "Make a Square",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "B",
+      "name": "Students in Railway Carriage",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 962,
+      "index": "A",
+      "name": "Equator",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

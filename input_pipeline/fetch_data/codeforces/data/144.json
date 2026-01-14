@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 144,
+    "name": "Codeforces Round 103 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1326899100,
+    "relativeTimeSeconds": 441455533
+  },
+  "problems": [
+    {
+      "contestId": 144,
+      "index": "E",
+      "name": "Competition",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 144,
+      "index": "D",
+      "name": "Missile Silos",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 144,
+      "index": "C",
+      "name": "Anagram Search",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 144,
+      "index": "B",
+      "name": "Meeting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 144,
+      "index": "A",
+      "name": "Arrival of the General",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

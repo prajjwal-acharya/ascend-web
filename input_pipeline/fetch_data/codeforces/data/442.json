@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 442,
+    "name": "Codeforces Round 253 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1403191800,
+    "relativeTimeSeconds": 365162832
+  },
+  "problems": [
+    {
+      "contestId": 442,
+      "index": "E",
+      "name": "Gena and Second Distance",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 442,
+      "index": "D",
+      "name": "Adam and Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 442,
+      "index": "C",
+      "name": "Artem and Array ",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 442,
+      "index": "B",
+      "name": "Andrey and Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 442,
+      "index": "A",
+      "name": "Borya and Hanabi",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

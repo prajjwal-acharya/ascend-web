@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 552,
+    "name": "Codeforces Round 308 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1434645000,
+    "relativeTimeSeconds": 333709632
+  },
+  "problems": [
+    {
+      "contestId": 552,
+      "index": "E",
+      "name": "Vanya and Brackets",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "expression parsing",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 552,
+      "index": "D",
+      "name": "Vanya and Triangles",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 552,
+      "index": "C",
+      "name": "Vanya and Scales",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 552,
+      "index": "B",
+      "name": "Vanya and Books",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 552,
+      "index": "A",
+      "name": "Vanya and Table",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

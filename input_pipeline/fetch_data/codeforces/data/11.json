@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": 11,
+    "name": "Codeforces Beta Round 11",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1272294000,
+    "relativeTimeSeconds": 496060633
+  },
+  "problems": [
+    {
+      "contestId": 11,
+      "index": "E",
+      "name": "Forward, march!",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 11,
+      "index": "D",
+      "name": "A Simple Task",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 11,
+      "index": "C",
+      "name": "How Many Squares?",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 11,
+      "index": "B",
+      "name": "Jumping Jack",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 11,
+      "index": "A",
+      "name": "Increasing Sequence",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

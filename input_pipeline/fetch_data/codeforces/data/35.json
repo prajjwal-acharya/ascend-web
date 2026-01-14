@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 35,
+    "name": "Codeforces Beta Round 35 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1287471600,
+    "relativeTimeSeconds": 480883033
+  },
+  "problems": [
+    {
+      "contestId": 35,
+      "index": "E",
+      "name": "Parade",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 35,
+      "index": "D",
+      "name": "Animals",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 35,
+      "index": "C",
+      "name": "Fire Again",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 35,
+      "index": "B",
+      "name": "Warehouse",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 35,
+      "index": "A",
+      "name": "Shell Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

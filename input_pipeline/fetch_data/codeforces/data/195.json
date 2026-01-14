@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 195,
+    "name": "Codeforces Round 123 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1339342200,
+    "relativeTimeSeconds": 429012433
+  },
+  "problems": [
+    {
+      "contestId": 195,
+      "index": "E",
+      "name": "Building Forest",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 195,
+      "index": "D",
+      "name": "Analyzing Polyline",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 195,
+      "index": "C",
+      "name": "Try and Catch",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 195,
+      "index": "B",
+      "name": "After Training",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 195,
+      "index": "A",
+      "name": "Let's Watch Football",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

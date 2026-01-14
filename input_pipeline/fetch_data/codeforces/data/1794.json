@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1794,
+    "name": "Codeforces Round 856 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1677951300,
+    "relativeTimeSeconds": 90403332
+  },
+  "problems": [
+    {
+      "contestId": 1794,
+      "index": "E",
+      "name": "Labeling the Tree with Distances",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1794,
+      "index": "D",
+      "name": "Counting Factorizations",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1794,
+      "index": "C",
+      "name": "Scoring Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1794,
+      "index": "B",
+      "name": "Not Dividing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1794,
+      "index": "A",
+      "name": "Prefix and Suffix Array",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

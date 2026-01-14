@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 181,
+    "name": "Croc Champ 2012 - Round 2 (Unofficial Div. 2 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1334934300,
+    "relativeTimeSeconds": 433420333
+  },
+  "problems": [
+    {
+      "contestId": 181,
+      "index": "B",
+      "name": "Number of Triplets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 181,
+      "index": "A",
+      "name": "Series of Crimes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

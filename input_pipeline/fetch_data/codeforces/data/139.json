@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 139,
+    "name": "Codeforces Beta Round 99 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1324728000,
+    "relativeTimeSeconds": 443626633
+  },
+  "problems": [
+    {
+      "contestId": 139,
+      "index": "B",
+      "name": "Wallpaper",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 139,
+      "index": "A",
+      "name": "Petr and Book",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

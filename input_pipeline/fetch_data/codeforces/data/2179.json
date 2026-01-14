@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 2179,
+    "name": "Codeforces Round 1071 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1766501100,
+    "relativeTimeSeconds": 1853532
+  },
+  "problems": [
+    {
+      "contestId": 2179,
+      "index": "H",
+      "name": "Blackslex and Plants",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "G",
+      "name": "Blackslex and Penguin Migration",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "F",
+      "name": "Blackslex and Another RGB Walking",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "interactive",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "E",
+      "name": "Blackslex and Girls",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "D",
+      "name": "Blackslex and Penguin Civilization",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "C",
+      "name": "Blackslex and Number Theory",
+      "type": "PROGRAMMING",
+      "tags": [
+        "implementation",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "B",
+      "name": "Blackslex and Showering",
+      "type": "PROGRAMMING",
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2179,
+      "index": "A",
+      "name": "Blackslex and Password",
+      "type": "PROGRAMMING",
+      "tags": [
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

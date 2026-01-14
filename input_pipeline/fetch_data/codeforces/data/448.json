@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 448,
+    "name": "Codeforces Round 256 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1405605600,
+    "relativeTimeSeconds": 362749032
+  },
+  "problems": [
+    {
+      "contestId": 448,
+      "index": "E",
+      "name": "Divisors",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 448,
+      "index": "D",
+      "name": "Multiplication Table",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 448,
+      "index": "C",
+      "name": "Painting Fence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 448,
+      "index": "B",
+      "name": "Suffix Structures",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 448,
+      "index": "A",
+      "name": "Rewards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

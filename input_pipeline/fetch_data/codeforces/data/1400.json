@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1400,
+    "name": "Educational Codeforces Round 94 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1598366100,
+    "relativeTimeSeconds": 169988532
+  },
+  "problems": [
+    {
+      "contestId": 1400,
+      "index": "G",
+      "name": "Mercenaries",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "dsu",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "F",
+      "name": "x-prime Substrings",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "E",
+      "name": "Clear the Multiset",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "D",
+      "name": "Zigzags",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "C",
+      "name": "Binary String Reconstruction",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "2-sat",
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "B",
+      "name": "RPG Protagonist",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1400,
+      "index": "A",
+      "name": "String Similarity",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

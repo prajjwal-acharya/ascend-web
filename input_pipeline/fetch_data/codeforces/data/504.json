@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 504,
+    "name": "Codeforces Round 285 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1421053200,
+    "relativeTimeSeconds": 347301432
+  },
+  "problems": [
+    {
+      "contestId": 504,
+      "index": "E",
+      "name": "Misha and LCP on Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "hashing",
+        "string suffix structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 504,
+      "index": "D",
+      "name": "Misha and XOR",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks"
+      ]
+    }
+  ]
+}

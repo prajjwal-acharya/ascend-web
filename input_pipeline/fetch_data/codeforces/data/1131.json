@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1131,
+    "name": "Codeforces Round 541 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1550917200,
+    "relativeTimeSeconds": 217437432
+  },
+  "problems": [
+    {
+      "contestId": 1131,
+      "index": "G",
+      "name": "Most Dangerous Shark",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "F",
+      "name": "Asya And Kittens",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "E",
+      "name": "String Multiplication",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "D",
+      "name": "Gourmet choice",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "C",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "B",
+      "name": "Draw!",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1131,
+      "index": "A",
+      "name": "Sea Battle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

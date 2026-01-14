@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1886,
+    "name": "Educational Codeforces Round 156 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1696862100,
+    "relativeTimeSeconds": 71492532
+  },
+  "problems": [
+    {
+      "contestId": 1886,
+      "index": "F",
+      "name": "Diamond Theft",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1886,
+      "index": "E",
+      "name": "I Wanna be the Team Leader",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1886,
+      "index": "D",
+      "name": "Monocarp and the Set",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1886,
+      "index": "C",
+      "name": "Decreasing String",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1886,
+      "index": "B",
+      "name": "Fear of the Dark",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1886,
+      "index": "A",
+      "name": "Sum of Three",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

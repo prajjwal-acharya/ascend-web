@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1344,
+    "name": "Codeforces Round 639 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1588775700,
+    "relativeTimeSeconds": 179578932
+  },
+  "problems": [
+    {
+      "contestId": 1344,
+      "index": "F",
+      "name": "Piet's Palette",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1344,
+      "index": "E",
+      "name": "Train Tracks",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1344,
+      "index": "D",
+      "name": "R\u00e9sum\u00e9 Review",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1344,
+      "index": "C",
+      "name": "Quantifier Question",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1344,
+      "index": "B",
+      "name": "Monopole Magnets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1344,
+      "index": "A",
+      "name": "Hilbert's Hotel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    }
+  ]
+}

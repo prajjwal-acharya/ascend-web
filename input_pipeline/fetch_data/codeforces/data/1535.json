@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1535,
+    "name": "Educational Codeforces Round 110 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1622817300,
+    "relativeTimeSeconds": 145537332
+  },
+  "problems": [
+    {
+      "contestId": 1535,
+      "index": "F",
+      "name": "String Distance",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1535,
+      "index": "E",
+      "name": "Gold Transfer",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1535,
+      "index": "D",
+      "name": "Playoff Tournament",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1535,
+      "index": "C",
+      "name": "Unstable String",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1535,
+      "index": "B",
+      "name": "Array Reodering",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1535,
+      "index": "A",
+      "name": "Fair Playoff",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

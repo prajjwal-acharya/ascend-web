@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": 2168,
+    "name": "Testing Round 20 (Unrated, Communication Problems)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 3600,
+    "startTimeSeconds": 1762180500,
+    "relativeTimeSeconds": 6174132
+  },
+  "problems": [
+    {
+      "contestId": 2168,
+      "index": "C",
+      "name": "Intercepting Butterflies",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2168,
+      "index": "B",
+      "name": "Locate",
+      "type": "PROGRAMMING",
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2168,
+      "index": "A2",
+      "name": "Encode and Decode (Hard Version)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2168,
+      "index": "A1",
+      "name": "Encode and Decode (Easy Version)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 489,
+    "name": "Codeforces Round 277.5 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1416238500,
+    "relativeTimeSeconds": 352116132
+  },
+  "problems": [
+    {
+      "contestId": 489,
+      "index": "F",
+      "name": "Special Matrices",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 489,
+      "index": "E",
+      "name": "Hiking",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 489,
+      "index": "D",
+      "name": "Unbearable Controversy of Being",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 489,
+      "index": "C",
+      "name": "Given Length and Sum of Digits...",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 489,
+      "index": "B",
+      "name": "BerSU Ball",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graph matchings",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 489,
+      "index": "A",
+      "name": "SwapSort",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

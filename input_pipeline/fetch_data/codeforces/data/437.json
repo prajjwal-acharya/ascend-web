@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 437,
+    "name": "Codeforces Round 250 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1401627600,
+    "relativeTimeSeconds": 366727032
+  },
+  "problems": [
+    {
+      "contestId": 437,
+      "index": "E",
+      "name": "The Child and Polygon",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 437,
+      "index": "D",
+      "name": "The Child and Zoo",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dsu",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 437,
+      "index": "C",
+      "name": "The Child and Toy",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 437,
+      "index": "B",
+      "name": "The Child and Set",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 437,
+      "index": "A",
+      "name": "The Child and Homework",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

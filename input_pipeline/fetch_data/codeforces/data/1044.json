@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1044,
+    "name": "Lyft Level 5 Challenge 2018 - Final Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1541355000,
+    "relativeTimeSeconds": 226999632
+  },
+  "problems": [
+    {
+      "contestId": 1044,
+      "index": "F",
+      "name": "DFS",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1044,
+      "index": "E",
+      "name": "Grid Sort",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1044,
+      "index": "D",
+      "name": "Deduction Queries",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1044,
+      "index": "C",
+      "name": "Optimal Polygon Perimeter",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1044,
+      "index": "B",
+      "name": "Intersecting Subtrees",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1044,
+      "index": "A",
+      "name": "The Tower is Going Home",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "two pointers"
+      ]
+    }
+  ]
+}

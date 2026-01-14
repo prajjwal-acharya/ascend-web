@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 1193,
+    "name": "CEOI 2019 day 2 online mirror (unrated, IOI format)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1564301100,
+    "relativeTimeSeconds": 204053532
+  },
+  "problems": [
+    {
+      "contestId": 1193,
+      "index": "C",
+      "name": "Scissors and Tape",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1193,
+      "index": "B",
+      "name": "Magic Tree",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1193,
+      "index": "A",
+      "name": "Amusement Park",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dp",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 1059,
+    "name": "Codeforces Round 514 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1538750100,
+    "relativeTimeSeconds": 229604532
+  },
+  "problems": [
+    {
+      "contestId": 1059,
+      "index": "E",
+      "name": "Split the Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1059,
+      "index": "D",
+      "name": "Nature Reserve",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1059,
+      "index": "C",
+      "name": "Sequence Transformation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1059,
+      "index": "B",
+      "name": "Forgery",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1059,
+      "index": "A",
+      "name": "Cashier",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

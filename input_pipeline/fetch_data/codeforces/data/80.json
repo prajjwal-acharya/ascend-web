@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 80,
+    "name": "Codeforces Beta Round 69 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1303226100,
+    "relativeTimeSeconds": 465128533
+  },
+  "problems": [
+    {
+      "contestId": 80,
+      "index": "B",
+      "name": "Depression",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 80,
+      "index": "A",
+      "name": "Panoramix's Prediction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

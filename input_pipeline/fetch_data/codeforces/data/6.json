@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 6,
+    "name": "Codeforces Beta Round 6 (Div. 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1269673200,
+    "relativeTimeSeconds": 498681433
+  },
+  "problems": [
+    {
+      "contestId": 6,
+      "index": "E",
+      "name": "Exposition",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 6,
+      "index": "D",
+      "name": "Lizards and Basements 2",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 6,
+      "index": "C",
+      "name": "Alice, Bob and Chocolate",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 6,
+      "index": "B",
+      "name": "President's Office",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 6,
+      "index": "A",
+      "name": "Triangle",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    }
+  ]
+}

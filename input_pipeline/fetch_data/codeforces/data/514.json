@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 514,
+    "name": "Codeforces Round 291 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1423931400,
+    "relativeTimeSeconds": 344423232
+  },
+  "problems": [
+    {
+      "contestId": 514,
+      "index": "E",
+      "name": "Darth Vader and Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 514,
+      "index": "D",
+      "name": "R2D2 and Droid Army",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 514,
+      "index": "C",
+      "name": "Watto and Mechanism",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 514,
+      "index": "B",
+      "name": "Han Solo and Lazer Gun",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 514,
+      "index": "A",
+      "name": "Chewba\u0441ca and Number",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

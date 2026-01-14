@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1898,
+    "name": "Codeforces Round 910 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1700404500,
+    "relativeTimeSeconds": 67950132
+  },
+  "problems": [
+    {
+      "contestId": 1898,
+      "index": "F",
+      "name": "Vova Escapes the Matrix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "divide and conquer",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1898,
+      "index": "E",
+      "name": "Sofia and Strings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1898,
+      "index": "D",
+      "name": "Absolute Beauty",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1898,
+      "index": "C",
+      "name": "Colorful Grid",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1898,
+      "index": "B",
+      "name": "Milena and Admirer",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1898,
+      "index": "A",
+      "name": "Milica and String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "contest": {
+    "id": 2152,
+    "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1759502100,
+    "relativeTimeSeconds": 8852532
+  },
+  "problems": [
+    {
+      "contestId": 2152,
+      "index": "H2",
+      "name": "Victorious Coloring (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "schedules"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "H1",
+      "name": "Victorious Coloring (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "G",
+      "name": "Query Jungle",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "matrices",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "F",
+      "name": "Triple Attack",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "E",
+      "name": "Monotone Subsequence",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "D",
+      "name": "Division Versus Addition",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "C",
+      "name": "Triple Removal",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "B",
+      "name": "Catching the Krug",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2152,
+      "index": "A",
+      "name": "Increase or Smash",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

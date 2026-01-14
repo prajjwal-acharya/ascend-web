@@ -1,0 +1,187 @@
+{
+  "contest": {
+    "id": 2038,
+    "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1731926100,
+    "relativeTimeSeconds": 36428532
+  },
+  "problems": [
+    {
+      "contestId": 2038,
+      "index": "N",
+      "name": "Fixing the Expression",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "M",
+      "name": "Royal Flush",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "L",
+      "name": "Bridge Renovation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "K",
+      "name": "Grid Walk",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "J",
+      "name": "Waiting for...",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "I",
+      "name": "Polyathlon",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "H",
+      "name": "Galactic Council",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "G",
+      "name": "Guess One Character",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "F",
+      "name": "Alternative Platforms",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "fft",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "E",
+      "name": "Barrels",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "D",
+      "name": "Divide OR Conquer",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "C",
+      "name": "DIY",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "geometry",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "B",
+      "name": "Make It Equal",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2038,
+      "index": "A",
+      "name": "Bonus Project",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    }
+  ]
+}

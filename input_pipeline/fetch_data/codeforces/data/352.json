@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 352,
+    "name": "Codeforces Round 204 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1380900600,
+    "relativeTimeSeconds": 387454032
+  },
+  "problems": [
+    {
+      "contestId": 352,
+      "index": "B",
+      "name": "Jeff and Periods",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 352,
+      "index": "A",
+      "name": "Jeff and Digits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

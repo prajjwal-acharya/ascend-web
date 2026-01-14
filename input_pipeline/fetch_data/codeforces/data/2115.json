@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 2115,
+    "name": "Codeforces Round 1028 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1748702100,
+    "relativeTimeSeconds": 19652532
+  },
+  "problems": [
+    {
+      "contestId": 2115,
+      "index": "F2",
+      "name": "Gellyfish and Lycoris Radiata (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "F1",
+      "name": "Gellyfish and Lycoris Radiata (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "E",
+      "name": "Gellyfish and Mayflower",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "D",
+      "name": "Gellyfish and Forget-Me-Not",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "C",
+      "name": "Gellyfish and Eternal Violet",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "B",
+      "name": "Gellyfish and Camellia Japonica",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2115,
+      "index": "A",
+      "name": "Gellyfish and Flaming Peony",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

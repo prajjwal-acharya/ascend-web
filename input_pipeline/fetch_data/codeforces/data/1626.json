@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1626,
+    "name": "Educational Codeforces Round 121 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1642343700,
+    "relativeTimeSeconds": 126010932
+  },
+  "problems": [
+    {
+      "contestId": 1626,
+      "index": "F",
+      "name": "A Random Code Problem",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1626,
+      "index": "E",
+      "name": "Black and White Tree",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1626,
+      "index": "D",
+      "name": "Martial Arts Tournament",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1626,
+      "index": "C",
+      "name": "Monsters And Spells",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1626,
+      "index": "B",
+      "name": "Minor Reduction",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1626,
+      "index": "A",
+      "name": "Equidistant Letters",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    }
+  ]
+}

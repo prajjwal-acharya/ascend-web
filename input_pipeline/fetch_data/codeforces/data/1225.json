@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1225,
+    "name": "Technocup 2020 - Elimination Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1572087900,
+    "relativeTimeSeconds": 196266732
+  },
+  "problems": [
+    {
+      "contestId": 1225,
+      "index": "G",
+      "name": "To Make 1",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "F",
+      "name": "Tree Factory",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "E",
+      "name": "Rock Is Push",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "D",
+      "name": "Power Products",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "C",
+      "name": "p-binary",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "B2",
+      "name": "TV Subscriptions (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "B1",
+      "name": "TV Subscriptions (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1225,
+      "index": "A",
+      "name": "Forgetting Things",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

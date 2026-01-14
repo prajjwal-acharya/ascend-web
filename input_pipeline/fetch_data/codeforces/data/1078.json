@@ -1,0 +1,25 @@
+{
+  "contest": {
+    "id": 1078,
+    "name": "Codeforces Round 522 (Div. 1, based on Technocup 2019 Elimination Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8400,
+    "startTimeSeconds": 1542557100,
+    "relativeTimeSeconds": 225797532
+  },
+  "problems": [
+    {
+      "contestId": 1078,
+      "index": "E",
+      "name": "Negative Time Summation",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

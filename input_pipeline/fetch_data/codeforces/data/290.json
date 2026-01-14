@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 290,
+    "name": "April Fools Day Contest 2013",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1364830200,
+    "relativeTimeSeconds": 403524433
+  },
+  "problems": [
+    {
+      "contestId": 290,
+      "index": "F",
+      "name": "Greedy Petya",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 290,
+      "index": "E",
+      "name": "HQ",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 290,
+      "index": "D",
+      "name": "Orange",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 290,
+      "index": "C",
+      "name": "WTF?",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "graph matchings",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 290,
+      "index": "B",
+      "name": "QR code",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 290,
+      "index": "A",
+      "name": "Mysterious strings",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

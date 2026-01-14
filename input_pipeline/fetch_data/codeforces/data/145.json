@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 145,
+    "name": "Codeforces Round 104 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1327215600,
+    "relativeTimeSeconds": 441139033
+  },
+  "problems": [
+    {
+      "contestId": 145,
+      "index": "E",
+      "name": "Lucky Queries",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 145,
+      "index": "D",
+      "name": "Lucky Pair",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 145,
+      "index": "C",
+      "name": "Lucky Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 145,
+      "index": "B",
+      "name": "Lucky Number 2",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 145,
+      "index": "A",
+      "name": "Lucky Conversion",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

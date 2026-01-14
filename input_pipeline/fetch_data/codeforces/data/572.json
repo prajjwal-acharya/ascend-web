@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 572,
+    "name": "Codeforces Round 317 [AimFund Thanks-Round] (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1440261000,
+    "relativeTimeSeconds": 328093632
+  },
+  "problems": [
+    {
+      "contestId": 572,
+      "index": "B",
+      "name": "Order Book",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 572,
+      "index": "A",
+      "name": "Arrays",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

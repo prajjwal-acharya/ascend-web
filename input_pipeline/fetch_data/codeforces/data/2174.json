@@ -1,0 +1,122 @@
+{
+  "contest": {
+    "id": 2174,
+    "name": "Codeforces Round 1069 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1765008900,
+    "relativeTimeSeconds": 3345732
+  },
+  "problems": [
+    {
+      "contestId": 2174,
+      "index": "F",
+      "name": "Mosaic Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "E2",
+      "name": "Game of Scientists (Version 2)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "chinese remainder theorem",
+        "dfs and similar",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "E1",
+      "name": "Game of Scientists (Version 1)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "D",
+      "name": "Secret Message",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "C2",
+      "name": "Beautiful Patterns (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "C1",
+      "name": "Beautiful Patterns (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "B",
+      "name": "Wishing Cards",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2174,
+      "index": "A",
+      "name": "Needle in a Haystack",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    }
+  ]
+}

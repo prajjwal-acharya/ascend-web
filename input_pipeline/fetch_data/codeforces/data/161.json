@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 161,
+    "name": "VK Cup 2012 Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1331478300,
+    "relativeTimeSeconds": 436876333
+  },
+  "problems": [
+    {
+      "contestId": 161,
+      "index": "E",
+      "name": "Polycarpus the Safecracker",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 161,
+      "index": "D",
+      "name": "Distance in Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 161,
+      "index": "C",
+      "name": "Abracadabra",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 161,
+      "index": "B",
+      "name": "Discounts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 161,
+      "index": "A",
+      "name": "Dress'em in Vests!",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    }
+  ]
+}

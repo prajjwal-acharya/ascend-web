@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1182,
+    "name": "Codeforces Round 566 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1560258300,
+    "relativeTimeSeconds": 208096332
+  },
+  "problems": [
+    {
+      "contestId": 1182,
+      "index": "F",
+      "name": "Maximum Sine",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1182,
+      "index": "E",
+      "name": "Product Oriented Recurrence",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1182,
+      "index": "D",
+      "name": "Complete Mirror",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "hashing",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1182,
+      "index": "C",
+      "name": "Beautiful Lyrics",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1182,
+      "index": "B",
+      "name": "Plus from Picture",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1182,
+      "index": "A",
+      "name": "Filling Shapes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    }
+  ]
+}

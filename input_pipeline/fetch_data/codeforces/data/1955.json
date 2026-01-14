@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1955,
+    "name": "Codeforces Round 938 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1712586900,
+    "relativeTimeSeconds": 55767732
+  },
+  "problems": [
+    {
+      "contestId": 1955,
+      "index": "H",
+      "name": "The Most Reckless Defense",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "flows",
+        "graph matchings",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "G",
+      "name": "GCD on a grid",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "F",
+      "name": "Unfair Game",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "math",
+        "schedules"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "E",
+      "name": "Long Inversions",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "D",
+      "name": "Inaccurate Subsequence Search",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "C",
+      "name": "Inhabitant of the Deep Sea",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "B",
+      "name": "Progressive Square",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1955,
+      "index": "A",
+      "name": "Yogurt Sale",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 2167,
+    "name": "Codeforces Round 1062 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1761662100,
+    "relativeTimeSeconds": 6692532
+  },
+  "problems": [
+    {
+      "contestId": 2167,
+      "index": "G",
+      "name": "Mukhammadali and the Smooth Array",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "F",
+      "name": "Tree, TREE!!!",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "E",
+      "name": "khba Loves to Sleep!",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "D",
+      "name": "Yet Another Array Problem",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "C",
+      "name": "Isamatdin and His Magic Wand!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "B",
+      "name": "Your Name",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2167,
+      "index": "A",
+      "name": "Square?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

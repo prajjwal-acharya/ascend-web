@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 1186,
+    "name": "Codeforces Round 571 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1561710000,
+    "relativeTimeSeconds": 206644632
+  },
+  "problems": [
+    {
+      "contestId": 1186,
+      "index": "F",
+      "name": "Vus the Cossack and a Graph",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1186,
+      "index": "E",
+      "name": "Vus the Cossack and a Field",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "divide and conquer",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1186,
+      "index": "D",
+      "name": "Vus the Cossack and Numbers",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1186,
+      "index": "C",
+      "name": "Vus the Cossack and Strings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1186,
+      "index": "A",
+      "name": "Vus the Cossack and a Contest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

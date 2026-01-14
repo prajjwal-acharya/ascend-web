@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 887,
+    "name": "Codeforces Round 444 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1509725100,
+    "relativeTimeSeconds": 258629532
+  },
+  "problems": [
+    {
+      "contestId": 887,
+      "index": "F",
+      "name": "Row of Models",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 887,
+      "index": "E",
+      "name": "Little Brother",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 887,
+      "index": "D",
+      "name": "Ratings and Reality Shows",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 887,
+      "index": "C",
+      "name": "Solution for Cube",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 887,
+      "index": "B",
+      "name": "Cubes for Masha",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 887,
+      "index": "A",
+      "name": "Div. 64",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

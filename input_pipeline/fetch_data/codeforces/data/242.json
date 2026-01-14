@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 242,
+    "name": "Codeforces Round 149 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1352647800,
+    "relativeTimeSeconds": 415706832
+  },
+  "problems": [
+    {
+      "contestId": 242,
+      "index": "E",
+      "name": "XOR on Segment",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 242,
+      "index": "D",
+      "name": "Dispute",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 242,
+      "index": "C",
+      "name": "King's Path",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 242,
+      "index": "B",
+      "name": "Big Segment",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 242,
+      "index": "A",
+      "name": "Heads or Tails",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

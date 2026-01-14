@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 978,
+    "name": "Codeforces Round 481 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1526202300,
+    "relativeTimeSeconds": 242152332
+  },
+  "problems": [
+    {
+      "contestId": 978,
+      "index": "G",
+      "name": "Petya's Exams",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "F",
+      "name": "Mentors",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "E",
+      "name": "Bus Video System",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "D",
+      "name": "Almost Arithmetic Progression",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "C",
+      "name": "Letters",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "B",
+      "name": "File Name",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 978,
+      "index": "A",
+      "name": "Remove Duplicates",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

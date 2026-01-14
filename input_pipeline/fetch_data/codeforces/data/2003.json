@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 2003,
+    "name": "Codeforces Round 968 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1724596500,
+    "relativeTimeSeconds": 43758132
+  },
+  "problems": [
+    {
+      "contestId": 2003,
+      "index": "F",
+      "name": "Turtle and Three Sequences",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "E2",
+      "name": "Turtle and Inversions (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "E1",
+      "name": "Turtle and Inversions (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "D2",
+      "name": "Turtle and a MEX Problem (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "D1",
+      "name": "Turtle and a MEX Problem (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "C",
+      "name": "Turtle and Good Pairs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "B",
+      "name": "Turtle and Piggy Are Playing a Game 2",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2003,
+      "index": "A",
+      "name": "Turtle and Good Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

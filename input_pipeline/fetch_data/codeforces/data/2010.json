@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": 2010,
+    "name": "Testing Round 19 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 2700,
+    "startTimeSeconds": 1724877300,
+    "relativeTimeSeconds": 43477332
+  },
+  "problems": [
+    {
+      "contestId": 2010,
+      "index": "C2",
+      "name": "Message Transmission Error (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2010,
+      "index": "C1",
+      "name": "Message Transmission Error (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2010,
+      "index": "B",
+      "name": "Three Brothers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2010,
+      "index": "A",
+      "name": "Alternating Sum of Numbers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

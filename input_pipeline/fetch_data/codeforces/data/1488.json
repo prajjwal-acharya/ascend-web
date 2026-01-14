@@ -1,0 +1,135 @@
+{
+  "contest": {
+    "id": 1488,
+    "name": "Kotlin Heroes: Episode 6",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1615300500,
+    "relativeTimeSeconds": 153054132
+  },
+  "problems": [
+    {
+      "contestId": 1488,
+      "index": "J",
+      "name": "Flower Shop",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "*special",
+        "data structures",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "I",
+      "name": "Demonic Invasion",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "*special",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "H",
+      "name": "Build From Suffixes",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "*special",
+        "combinatorics",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "G",
+      "name": "Painting Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special",
+        "data structures",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "F",
+      "name": "Dogecoin",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "*special",
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "E",
+      "name": "Palindromic Doubles",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "D",
+      "name": "Problemsolving Marathon",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "C",
+      "name": "Two Policemen",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "B",
+      "name": "RBS Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1488,
+      "index": "A",
+      "name": "From Zero To Y",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    }
+  ]
+}

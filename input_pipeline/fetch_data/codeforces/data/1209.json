@@ -1,0 +1,150 @@
+{
+  "contest": {
+    "id": 1209,
+    "name": "Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1568466300,
+    "relativeTimeSeconds": 199888332
+  },
+  "problems": [
+    {
+      "contestId": 1209,
+      "index": "H",
+      "name": "Moving Walkways",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "G2",
+      "name": "Into Blocks (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "G1",
+      "name": "Into Blocks (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "F",
+      "name": "Koala and Notebook",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "E2",
+      "name": "Rotate Columns (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "E1",
+      "name": "Rotate Columns (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "D",
+      "name": "Cow and Snacks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "C",
+      "name": "Paint the Digits",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "B",
+      "name": "Koala and Lights",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1209,
+      "index": "A",
+      "name": "Paint the Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

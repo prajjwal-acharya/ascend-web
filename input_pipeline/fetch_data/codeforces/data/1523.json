@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1523,
+    "name": "Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1622385300,
+    "relativeTimeSeconds": 145969332
+  },
+  "problems": [
+    {
+      "contestId": 1523,
+      "index": "H",
+      "name": "Hopping Around the Array ",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "G",
+      "name": "Try Booking",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "F",
+      "name": "Favorite Game",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "E",
+      "name": "Crypto Lights",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "D",
+      "name": "Love-Hate",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "C",
+      "name": "Compression and Expansion",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "B",
+      "name": "Lord of the Values",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1523,
+      "index": "A",
+      "name": "Game of Life",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

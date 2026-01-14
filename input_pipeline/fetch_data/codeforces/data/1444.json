@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 1444,
+    "name": "Codeforces Round 680 (Div. 1, based on Moscow Team Olympiad)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1604228700,
+    "relativeTimeSeconds": 164125932
+  },
+  "problems": [
+    {
+      "contestId": 1444,
+      "index": "E",
+      "name": "Finding the Vertex",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1444,
+      "index": "D",
+      "name": "Rectangular Polyline",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1444,
+      "index": "C",
+      "name": "Team-Building",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1444,
+      "index": "B",
+      "name": "Divide and Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1444,
+      "index": "A",
+      "name": "Division",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

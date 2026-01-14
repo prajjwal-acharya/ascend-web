@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1159,
+    "name": "Codeforces Round 559 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1557671700,
+    "relativeTimeSeconds": 210682932
+  },
+  "problems": [
+    {
+      "contestId": 1159,
+      "index": "B",
+      "name": "Expansion coefficient of the array",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1159,
+      "index": "A",
+      "name": "A pile of stones",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

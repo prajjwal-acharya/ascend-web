@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 67,
+    "name": "Manthan 2011",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1300033800,
+    "relativeTimeSeconds": 468320833
+  },
+  "problems": [
+    {
+      "contestId": 67,
+      "index": "E",
+      "name": "Save the City!",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 67,
+      "index": "D",
+      "name": "Optical Experiment",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 67,
+      "index": "C",
+      "name": "Sequence of Balls",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 67,
+      "index": "B",
+      "name": "Restoration of the Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 67,
+      "index": "A",
+      "name": "Partial Teacher",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

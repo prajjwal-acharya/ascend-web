@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 896,
+    "name": "Codeforces Round 449 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1512223500,
+    "relativeTimeSeconds": 256131132
+  },
+  "problems": [
+    {
+      "contestId": 896,
+      "index": "E",
+      "name": "Welcome home, Chtholly",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 896,
+      "index": "D",
+      "name": "Nephren Runs a Cinema",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "chinese remainder theorem",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 896,
+      "index": "C",
+      "name": "Willem, Chtholly and Seniorious",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 896,
+      "index": "B",
+      "name": "Ithea Plays With Chtholly",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 896,
+      "index": "A",
+      "name": "Nephren gives a riddle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dfs and similar"
+      ]
+    }
+  ]
+}

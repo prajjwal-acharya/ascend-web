@@ -1,0 +1,136 @@
+{
+  "contest": {
+    "id": 1987,
+    "name": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1719758100,
+    "relativeTimeSeconds": 48596532
+  },
+  "problems": [
+    {
+      "contestId": 1987,
+      "index": "H",
+      "name": "Fumo Temple",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "G2",
+      "name": "Spinning Round (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "G1",
+      "name": "Spinning Round (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "F2",
+      "name": "Interesting Problem (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "F1",
+      "name": "Interesting Problem (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "E",
+      "name": "Wonderful Tree!",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "D",
+      "name": "World is Mine",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "C",
+      "name": "Basil's Garden",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "B",
+      "name": "K-Sort",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1987,
+      "index": "A",
+      "name": "Upload More RAM",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

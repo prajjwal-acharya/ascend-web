@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1420,
+    "name": "Codeforces Round 672 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1600958100,
+    "relativeTimeSeconds": 167396532
+  },
+  "problems": [
+    {
+      "contestId": 1420,
+      "index": "E",
+      "name": "Battle Lemmings",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1420,
+      "index": "D",
+      "name": "Rescue Nibel!",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1420,
+      "index": "C2",
+      "name": "Pok\u00e9mon Army (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1420,
+      "index": "C1",
+      "name": "Pok\u00e9mon Army (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1420,
+      "index": "B",
+      "name": "Rock and Lever",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1420,
+      "index": "A",
+      "name": "Cubes Sorting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

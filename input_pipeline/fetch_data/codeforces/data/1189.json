@@ -1,0 +1,52 @@
+{
+  "contest": {
+    "id": 1189,
+    "name": "Codeforces Round 572 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1562339100,
+    "relativeTimeSeconds": 206015532
+  },
+  "problems": [
+    {
+      "contestId": 1189,
+      "index": "C",
+      "name": "Candies!",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1189,
+      "index": "B",
+      "name": "Number Circle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1189,
+      "index": "A",
+      "name": "Keanu Reeves",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

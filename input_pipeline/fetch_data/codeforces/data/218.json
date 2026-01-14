@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 218,
+    "name": "Codeforces Round 134 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1345273500,
+    "relativeTimeSeconds": 423081133
+  },
+  "problems": [
+    {
+      "contestId": 218,
+      "index": "B",
+      "name": "Airport",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 218,
+      "index": "A",
+      "name": "Mountain Scenery",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

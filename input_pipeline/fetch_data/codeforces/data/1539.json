@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1539,
+    "name": "Codeforces Round 727 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1624183500,
+    "relativeTimeSeconds": 144171132
+  },
+  "problems": [
+    {
+      "contestId": 1539,
+      "index": "F",
+      "name": "Strange Array",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1539,
+      "index": "E",
+      "name": "Game with Cards",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1539,
+      "index": "D",
+      "name": "PriceFixed",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1539,
+      "index": "C",
+      "name": "Stable Groups",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1539,
+      "index": "B",
+      "name": "Love Song",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1539,
+      "index": "A",
+      "name": "Contest Start",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "combinatorics",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

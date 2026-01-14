@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 543,
+    "name": "Codeforces Round 302 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1431016200,
+    "relativeTimeSeconds": 337338432
+  },
+  "problems": [
+    {
+      "contestId": 543,
+      "index": "E",
+      "name": "Listening to Music",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 543,
+      "index": "D",
+      "name": "Road Improvement",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 543,
+      "index": "C",
+      "name": "Remembering Strings",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 543,
+      "index": "B",
+      "name": "Destroying Roads",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 543,
+      "index": "A",
+      "name": "Writing Code",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

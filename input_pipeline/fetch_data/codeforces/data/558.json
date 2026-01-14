@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 558,
+    "name": "Codeforces Round 312 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1436886600,
+    "relativeTimeSeconds": 331468032
+  },
+  "problems": [
+    {
+      "contestId": 558,
+      "index": "E",
+      "name": "A Simple Task",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 558,
+      "index": "D",
+      "name": "Guess Your Way Out! II",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 558,
+      "index": "C",
+      "name": "Amr and Chemistry",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 558,
+      "index": "B",
+      "name": "Amr and The Large Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 558,
+      "index": "A",
+      "name": "Lala Land and Apple Trees",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

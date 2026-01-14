@@ -1,0 +1,154 @@
+{
+  "contest": {
+    "id": 331,
+    "name": "ABBYY Cup 3.0 - Finals (online version)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1374075000,
+    "relativeTimeSeconds": 394279632
+  },
+  "problems": [
+    {
+      "contestId": 331,
+      "index": "E2",
+      "name": "Deja Vu",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "E1",
+      "name": "Deja Vu",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "D3",
+      "name": "Escaping on Beaveractor",
+      "type": "PROGRAMMING",
+      "points": 40.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "D2",
+      "name": "Escaping on Beaveractor",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2600,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "D1",
+      "name": "Escaping on Beaveractor",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "C3",
+      "name": "The Great Julya Calendar",
+      "type": "PROGRAMMING",
+      "points": 60.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "C2",
+      "name": "The Great Julya Calendar",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "C1",
+      "name": "The Great Julya Calendar",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "B2",
+      "name": "Shave Beaver!",
+      "type": "PROGRAMMING",
+      "points": 70.0,
+      "rating": 1900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "B1",
+      "name": "Shave Beaver!",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "A2",
+      "name": "Oh Sweet Beaverette",
+      "type": "PROGRAMMING",
+      "points": 70.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 331,
+      "index": "A1",
+      "name": "Oh Sweet Beaverette",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

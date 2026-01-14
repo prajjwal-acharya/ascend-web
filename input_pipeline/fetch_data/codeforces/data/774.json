@@ -1,0 +1,155 @@
+{
+  "contest": {
+    "id": 774,
+    "name": "VK Cup 2017 - Wild Card Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1491406500,
+    "relativeTimeSeconds": 276948132
+  },
+  "problems": [
+    {
+      "contestId": 774,
+      "index": "L",
+      "name": "Bars",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "K",
+      "name": "Stepan and Vowels",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "J",
+      "name": "Stepan's Series",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "I",
+      "name": "Composing Of String",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "H",
+      "name": "Repairing Of String",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "G",
+      "name": "Perfectionist Arkadiy",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "F",
+      "name": "Pens And Days Of Week",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "binary search",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "E",
+      "name": "Big Number and Remainder",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "D",
+      "name": "Lie or Truth",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "C",
+      "name": "Maximum Number",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "B",
+      "name": "Significant Cups",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 774,
+      "index": "A",
+      "name": "Amusement Park",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "ternary search"
+      ]
+    }
+  ]
+}

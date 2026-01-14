@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1530,
+    "name": "Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1626532500,
+    "relativeTimeSeconds": 141822132
+  },
+  "problems": [
+    {
+      "contestId": 1530,
+      "index": "H",
+      "name": "Turing's Award",
+      "type": "PROGRAMMING",
+      "points": 4750.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "G",
+      "name": "What a Reversal",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "F",
+      "name": "Bingo",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "E",
+      "name": "Minimax",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "D",
+      "name": "Secret Santa",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "C",
+      "name": "Pursuit",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "B",
+      "name": "Putting Plates",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1530,
+      "index": "A",
+      "name": "Binary Decimal",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

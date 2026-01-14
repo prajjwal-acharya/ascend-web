@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 691,
+    "name": "Educational Codeforces Round 14",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1468425600,
+    "relativeTimeSeconds": 299929032
+  },
+  "problems": [
+    {
+      "contestId": 691,
+      "index": "F",
+      "name": "Couple Cover",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 691,
+      "index": "E",
+      "name": "Xor-sequences",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 691,
+      "index": "D",
+      "name": "Swaps in Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "contestId": 691,
+      "index": "C",
+      "name": "Exponential notation",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 691,
+      "index": "B",
+      "name": "s-palindrome",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 691,
+      "index": "A",
+      "name": "Fashion in Berland",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

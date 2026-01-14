@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 933,
+    "name": "Codeforces Round 462 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1518609900,
+    "relativeTimeSeconds": 249744732
+  },
+  "problems": [
+    {
+      "contestId": 933,
+      "index": "E",
+      "name": "A Preponderant Reunion",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 933,
+      "index": "D",
+      "name": "A Creative Cutout",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 933,
+      "index": "C",
+      "name": "A Colourful Prospect",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 933,
+      "index": "B",
+      "name": "A Determined Cleanup",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 933,
+      "index": "A",
+      "name": "A Twisty Movement",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 1270,
+    "name": "Good Bye 2019",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1577628300,
+    "relativeTimeSeconds": 190726332
+  },
+  "problems": [
+    {
+      "contestId": 1270,
+      "index": "I",
+      "name": "Xor on Figures",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "H",
+      "name": "Number of Components",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "G",
+      "name": "Subset with Zero Sum",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "F",
+      "name": "Awesome Substrings",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2600,
+      "tags": [
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "E",
+      "name": "Divide Points",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "D",
+      "name": "Strange Device",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "C",
+      "name": "Make Good",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "B",
+      "name": "Interesting Subarray",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1270,
+      "index": "A",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

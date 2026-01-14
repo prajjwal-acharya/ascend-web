@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 1812,
+    "name": "April Fools Day Contest 2023",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1680359700,
+    "relativeTimeSeconds": 87994932
+  },
+  "problems": [
+    {
+      "contestId": 1812,
+      "index": "J",
+      "name": "Unmysterious Language",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "I",
+      "name": "Mountain Climber",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "H",
+      "name": "Expected Twist",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "G",
+      "name": "Colour Vision",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "F",
+      "name": "Factorization",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "E",
+      "name": "Not a Geometry Problem",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "D",
+      "name": "Trivial Conjecture",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "C",
+      "name": "Digits",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "B",
+      "name": "Was it Rated?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "*special",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1812,
+      "index": "A",
+      "name": "Are You a Robot?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "*special",
+        "expression parsing",
+        "strings"
+      ]
+    }
+  ]
+}

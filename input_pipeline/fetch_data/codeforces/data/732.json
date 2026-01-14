@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 732,
+    "name": "Codeforces Round 377 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1476714900,
+    "relativeTimeSeconds": 291639732
+  },
+  "problems": [
+    {
+      "contestId": 732,
+      "index": "F",
+      "name": "Tourist Reform",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 732,
+      "index": "E",
+      "name": "Sockets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 732,
+      "index": "D",
+      "name": "Exams",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 732,
+      "index": "C",
+      "name": "Sanatorium",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 732,
+      "index": "B",
+      "name": "Cormen --- The Best Friend Of a Man",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 732,
+      "index": "A",
+      "name": "Buy a Shovel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contest": {
+    "id": 957,
+    "name": "Codeforces Round 472 (rated, Div. 2, based on VK Cup 2018 Round 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1521905700,
+    "relativeTimeSeconds": 246448932
+  },
+  "problems": [
+    {
+      "contestId": 957,
+      "index": "A",
+      "name": "Tritonic Iridescence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

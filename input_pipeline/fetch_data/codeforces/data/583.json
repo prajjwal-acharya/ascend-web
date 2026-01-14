@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 583,
+    "name": "Codeforces Round 323 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1443890700,
+    "relativeTimeSeconds": 324463932
+  },
+  "problems": [
+    {
+      "contestId": 583,
+      "index": "B",
+      "name": "Robot's Task",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 583,
+      "index": "A",
+      "name": "Asphalting Roads",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

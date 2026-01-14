@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1141,
+    "name": "Codeforces Round 547 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1553006100,
+    "relativeTimeSeconds": 215348532
+  },
+  "problems": [
+    {
+      "contestId": 1141,
+      "index": "G",
+      "name": "Privatization of Roads in Treeland",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "F2",
+      "name": "Same Sum Blocks (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "F1",
+      "name": "Same Sum Blocks (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "E",
+      "name": "Superhero Battle",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "D",
+      "name": "Colored Boots",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "C",
+      "name": "Polycarp Restores Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "B",
+      "name": "Maximal Continuous Rest",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1141,
+      "index": "A",
+      "name": "Game 23",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

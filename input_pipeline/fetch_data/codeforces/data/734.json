@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 734,
+    "name": "Codeforces Round 379 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1479227700,
+    "relativeTimeSeconds": 289126932
+  },
+  "problems": [
+    {
+      "contestId": 734,
+      "index": "F",
+      "name": "Anton and School",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 734,
+      "index": "E",
+      "name": "Anton and Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 734,
+      "index": "D",
+      "name": "Anton and Chess",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 734,
+      "index": "C",
+      "name": "Anton and Making Potions",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 734,
+      "index": "B",
+      "name": "Anton and Digits",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 734,
+      "index": "A",
+      "name": "Anton and Danik",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

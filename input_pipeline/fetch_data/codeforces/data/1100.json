@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1100,
+    "name": "Codeforces Round 532 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1547390100,
+    "relativeTimeSeconds": 220964532
+  },
+  "problems": [
+    {
+      "contestId": 1100,
+      "index": "F",
+      "name": "Ivan and Burgers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1100,
+      "index": "E",
+      "name": "Andrew and Taxi",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1100,
+      "index": "D",
+      "name": "Dasha and Chess",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1100,
+      "index": "C",
+      "name": "NN and the Optical Illusion",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1100,
+      "index": "B",
+      "name": "Build a Contest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1100,
+      "index": "A",
+      "name": "Roman and Browser",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

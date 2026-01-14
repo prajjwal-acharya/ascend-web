@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1187,
+    "name": "Educational Codeforces Round 67 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1561905900,
+    "relativeTimeSeconds": 206448732
+  },
+  "problems": [
+    {
+      "contestId": 1187,
+      "index": "G",
+      "name": "Gang Up",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "F",
+      "name": "Expected Square Beauty",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "E",
+      "name": "Tree Painting",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "D",
+      "name": "Subarray Sorting",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "C",
+      "name": "Vasya And Array",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "B",
+      "name": "Letters Shop",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1187,
+      "index": "A",
+      "name": "Stickers and Toys",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "contest": {
+    "id": 1764,
+    "name": "Codeforces Global Round 24",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1669471500,
+    "relativeTimeSeconds": 98883132
+  },
+  "problems": [
+    {
+      "contestId": 1764,
+      "index": "H",
+      "name": "Doremy's Paint 2",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "G3",
+      "name": "Doremy's Perfect DS Class (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "G2",
+      "name": "Doremy's Perfect DS Class (Medium Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "G1",
+      "name": "Doremy's Perfect DS Class (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "F",
+      "name": "Doremy's Experimental Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "E",
+      "name": "Doremy's Number Line",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "D",
+      "name": "Doremy's Pegging Game",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "C",
+      "name": "Doremy's City Construction",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "B",
+      "name": "Doremy's Perfect Math Class",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1764,
+      "index": "A",
+      "name": "Doremy's Paint",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

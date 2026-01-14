@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1060,
+    "name": "Codeforces Round 513 by Barcelona Bootcamp (rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1538636700,
+    "relativeTimeSeconds": 229717932
+  },
+  "problems": [
+    {
+      "contestId": 1060,
+      "index": "H",
+      "name": "Sophisticated Device",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "G",
+      "name": "Balls and Pockets",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "F",
+      "name": "Shrinking Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "E",
+      "name": "Sergey and Subway",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "D",
+      "name": "Social Circles",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "C",
+      "name": "Maximum Subrectangle",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "B",
+      "name": "Maximum Sum of Digits",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1060,
+      "index": "A",
+      "name": "Phone Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1419,
+    "name": "Codeforces Round 671 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1600526100,
+    "relativeTimeSeconds": 167828532
+  },
+  "problems": [
+    {
+      "contestId": 1419,
+      "index": "F",
+      "name": "Rain of Fire",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "E",
+      "name": "Decryption",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "D2",
+      "name": "Sage's Birthday (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "D1",
+      "name": "Sage's Birthday (easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "C",
+      "name": "Killjoy",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "B",
+      "name": "Stairs",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1419,
+      "index": "A",
+      "name": "Digit Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

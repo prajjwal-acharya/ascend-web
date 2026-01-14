@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1302,
+    "name": "AIM Tech Poorly Prepared Contest (unrated, funny, Div. 1 preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1580746500,
+    "relativeTimeSeconds": 187608132
+  },
+  "problems": [
+    {
+      "contestId": 1302,
+      "index": "J",
+      "name": "Keep talking and nobody explodes -- hard",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "I",
+      "name": "Deja vu",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "H",
+      "name": "Who needs suffix structures?",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "G",
+      "name": "Keep talking and nobody explodes -- medium",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "F",
+      "name": "Keep talking and nobody explodes -- easy",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 1302,
+      "index": "E",
+      "name": "Amazing bitset",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "D",
+      "name": "Dijkstra",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1302,
+      "index": "C",
+      "name": "Segment tree or Fenwick?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1302,
+      "index": "B",
+      "name": "DAG",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1302,
+      "index": "A",
+      "name": "Nash equilibrium",
+      "type": "PROGRAMMING",
+      "tags": []
+    }
+  ]
+}

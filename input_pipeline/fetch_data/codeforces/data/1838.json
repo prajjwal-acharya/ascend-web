@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1838,
+    "name": "Codeforces Round 877 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1685889900,
+    "relativeTimeSeconds": 82464732
+  },
+  "problems": [
+    {
+      "contestId": 1838,
+      "index": "F",
+      "name": "Stuck Conveyor",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1838,
+      "index": "E",
+      "name": "Count Supersequences",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1838,
+      "index": "D",
+      "name": "Bracket Walk",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1838,
+      "index": "C",
+      "name": "No Prime Differences",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1838,
+      "index": "B",
+      "name": "Minimize Permutation Subarrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1838,
+      "index": "A",
+      "name": "Blackboard List",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

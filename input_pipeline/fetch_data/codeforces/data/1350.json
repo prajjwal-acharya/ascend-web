@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1350,
+    "name": "Codeforces Round 641 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1589286900,
+    "relativeTimeSeconds": 179067732
+  },
+  "problems": [
+    {
+      "contestId": 1350,
+      "index": "B",
+      "name": "Orac and Models",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1350,
+      "index": "A",
+      "name": "Orac and Factors",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

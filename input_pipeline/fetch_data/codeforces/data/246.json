@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 246,
+    "name": "Codeforces Round 151 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1353511800,
+    "relativeTimeSeconds": 414842833
+  },
+  "problems": [
+    {
+      "contestId": 246,
+      "index": "E",
+      "name": "Blood Cousins Return",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 246,
+      "index": "D",
+      "name": "Colorful Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 246,
+      "index": "C",
+      "name": "Beauty Pageant",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 246,
+      "index": "B",
+      "name": "Increase and Decrease",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 246,
+      "index": "A",
+      "name": "Buggy Sorting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

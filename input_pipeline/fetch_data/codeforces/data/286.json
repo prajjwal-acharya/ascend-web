@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 286,
+    "name": "Codeforces Round 176 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1364025600,
+    "relativeTimeSeconds": 404329033
+  },
+  "problems": [
+    {
+      "contestId": 286,
+      "index": "E",
+      "name": "Ladies' Shop",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 286,
+      "index": "D",
+      "name": "Tourists",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 286,
+      "index": "C",
+      "name": "Main Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 286,
+      "index": "B",
+      "name": "Shifting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 286,
+      "index": "A",
+      "name": "Lucky Permutation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

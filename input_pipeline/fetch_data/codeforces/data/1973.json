@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1973,
+    "name": "Codeforces Round 945 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1715956500,
+    "relativeTimeSeconds": 52398132
+  },
+  "problems": [
+    {
+      "contestId": 1973,
+      "index": "F",
+      "name": "Maximum GCD Sum Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1973,
+      "index": "E",
+      "name": "Cat, Fox and Swaps ",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "graphs",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1973,
+      "index": "D",
+      "name": "Cat, Fox and Maximum Array Split",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1973,
+      "index": "C",
+      "name": "Cat, Fox and Double Maximum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1973,
+      "index": "B",
+      "name": "Cat, Fox and the Lonely Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1973,
+      "index": "A",
+      "name": "Chess For Three",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

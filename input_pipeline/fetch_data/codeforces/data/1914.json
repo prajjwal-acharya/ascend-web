@@ -1,0 +1,132 @@
+{
+  "contest": {
+    "id": 1914,
+    "name": "Codeforces Round 916 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1702996500,
+    "relativeTimeSeconds": 65358132
+  },
+  "problems": [
+    {
+      "contestId": 1914,
+      "index": "G2",
+      "name": "Light Bulbs (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "G1",
+      "name": "Light Bulbs (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "F",
+      "name": "Programming Competition",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graph matchings",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "E2",
+      "name": "Game with Marbles (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "E1",
+      "name": "Game with Marbles (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "D",
+      "name": "Three Activities",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "C",
+      "name": "Quests",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "B",
+      "name": "Preparing for the Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1914,
+      "index": "A",
+      "name": "Problemsolving Log",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

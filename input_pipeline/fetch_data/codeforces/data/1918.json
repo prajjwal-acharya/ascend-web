@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 1918,
+    "name": "Codeforces Round 922 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1706625300,
+    "relativeTimeSeconds": 61729332
+  },
+  "problems": [
+    {
+      "contestId": 1918,
+      "index": "G",
+      "name": "Permutation of Given",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "F",
+      "name": "Caterpillar on a Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "E",
+      "name": "ace5 and Task Order",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "implementation",
+        "interactive",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "D",
+      "name": "Blocking Elements",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "C",
+      "name": "XOR-distance",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "B",
+      "name": "Minimize Inversions",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1918,
+      "index": "A",
+      "name": "Brick Wall",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

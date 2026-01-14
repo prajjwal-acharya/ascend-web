@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1190,
+    "name": "Codeforces Round 573 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1562942100,
+    "relativeTimeSeconds": 205412532
+  },
+  "problems": [
+    {
+      "contestId": 1190,
+      "index": "F",
+      "name": "Tokitsukaze and Powers",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1190,
+      "index": "E",
+      "name": "Tokitsukaze and Explosion",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1190,
+      "index": "D",
+      "name": "Tokitsukaze and Strange Rectangle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1190,
+      "index": "C",
+      "name": "Tokitsukaze and Duel",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1190,
+      "index": "B",
+      "name": "Tokitsukaze, CSL and Stone Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1190,
+      "index": "A",
+      "name": "Tokitsukaze and Discard Items",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

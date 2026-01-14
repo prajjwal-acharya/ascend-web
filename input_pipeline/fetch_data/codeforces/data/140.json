@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 140,
+    "name": "Codeforces Round 100",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1325689200,
+    "relativeTimeSeconds": 442665433
+  },
+  "problems": [
+    {
+      "contestId": 140,
+      "index": "F",
+      "name": "New Year Snowflake",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 140,
+      "index": "E",
+      "name": "New Year Garland",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 140,
+      "index": "D",
+      "name": "New Year Contest",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 140,
+      "index": "C",
+      "name": "New Year Snowmen",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 140,
+      "index": "B",
+      "name": "New Year Cards",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 140,
+      "index": "A",
+      "name": "New Year Table",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

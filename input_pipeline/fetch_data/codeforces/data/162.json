@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 162,
+    "name": "VK Cup 2012 Wild-card Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1332083400,
+    "relativeTimeSeconds": 436271233
+  },
+  "problems": [
+    {
+      "contestId": 162,
+      "index": "J",
+      "name": "Brackets",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "I",
+      "name": "Truncatable primes",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "H",
+      "name": "Alternating case",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "G",
+      "name": "Non-decimal sum",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "F",
+      "name": "Factorial zeros",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "E",
+      "name": "HQ9+",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "D",
+      "name": "Remove digits",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "C",
+      "name": "Prime factorization",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "B",
+      "name": "Binary notation",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 162,
+      "index": "A",
+      "name": "Pentagonal numbers",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 349,
+    "name": "Codeforces Round 202 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1380295800,
+    "relativeTimeSeconds": 388058832
+  },
+  "problems": [
+    {
+      "contestId": 349,
+      "index": "B",
+      "name": "Color the Fence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 349,
+      "index": "A",
+      "name": "Cinema Line",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 2130,
+    "name": "Codeforces Round 1040 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1753972500,
+    "relativeTimeSeconds": 14382132
+  },
+  "problems": [
+    {
+      "contestId": 2130,
+      "index": "B",
+      "name": "Pathless",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2130,
+      "index": "A",
+      "name": "Submission is All You Need",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

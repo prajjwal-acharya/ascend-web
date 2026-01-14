@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1851,
+    "name": "Codeforces Round 888 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1690295700,
+    "relativeTimeSeconds": 78058932
+  },
+  "problems": [
+    {
+      "contestId": 1851,
+      "index": "G",
+      "name": "Vlad and the Mountains",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "F",
+      "name": "Lisa and the Martians",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "E",
+      "name": "Nastya and Potions",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "D",
+      "name": "Prefix Permutation Sums",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "C",
+      "name": "Tiles Comeback",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "B",
+      "name": "Parity Sort",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1851,
+      "index": "A",
+      "name": "Escalator Conversations",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

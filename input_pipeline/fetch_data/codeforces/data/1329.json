@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 1329,
+    "name": "Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1585924500,
+    "relativeTimeSeconds": 182430132
+  },
+  "problems": [
+    {
+      "contestId": 1329,
+      "index": "E",
+      "name": "Dreamoon Loves AA",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1329,
+      "index": "D",
+      "name": "Dreamoon Likes Strings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1329,
+      "index": "C",
+      "name": "Drazil Likes Heap",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1329,
+      "index": "B",
+      "name": "Dreamoon Likes Sequences",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1329,
+      "index": "A",
+      "name": "Dreamoon Likes Coloring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

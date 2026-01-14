@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 453,
+    "name": "Codeforces Round 259 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1406907000,
+    "relativeTimeSeconds": 361447632
+  },
+  "problems": [
+    {
+      "contestId": 453,
+      "index": "E",
+      "name": "Little Pony and Lord Tirek",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 453,
+      "index": "D",
+      "name": "Little Pony and Elements of Harmony",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 453,
+      "index": "C",
+      "name": "Little Pony and Summer Sun Celebration",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 453,
+      "index": "B",
+      "name": "Little Pony and Harmony Chest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 453,
+      "index": "A",
+      "name": "Little Pony and Expected Maximum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "probabilities"
+      ]
+    }
+  ]
+}

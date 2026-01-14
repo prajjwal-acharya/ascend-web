@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1793,
+    "name": "Codeforces Round 852 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1676190900,
+    "relativeTimeSeconds": 92163732
+  },
+  "problems": [
+    {
+      "contestId": 1793,
+      "index": "F",
+      "name": "Rebrending",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1793,
+      "index": "E",
+      "name": "Velepin and Marketing",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1793,
+      "index": "D",
+      "name": "Moscow Gorillas",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1793,
+      "index": "C",
+      "name": "Dora and Search",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1793,
+      "index": "B",
+      "name": "Fedya and Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1793,
+      "index": "A",
+      "name": "Yet Another Promotion",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

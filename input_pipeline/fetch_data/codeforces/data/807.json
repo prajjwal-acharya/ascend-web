@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 807,
+    "name": "Codeforces Round 412 (rated, Div. 2, base on VK Cup 2017 Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1494171900,
+    "relativeTimeSeconds": 274182732
+  },
+  "problems": [
+    {
+      "contestId": 807,
+      "index": "B",
+      "name": "T-Shirt Hunt",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 807,
+      "index": "A",
+      "name": "Is it rated?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

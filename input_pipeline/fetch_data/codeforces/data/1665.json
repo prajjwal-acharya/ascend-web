@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1665,
+    "name": "Codeforces Round 781 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1649428500,
+    "relativeTimeSeconds": 118926132
+  },
+  "problems": [
+    {
+      "contestId": 1665,
+      "index": "E",
+      "name": "MinimizOR",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1665,
+      "index": "D",
+      "name": "GCD Guess",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "games",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1665,
+      "index": "C",
+      "name": "Tree Infection",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1665,
+      "index": "B",
+      "name": "Array Cloning Technique",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1665,
+      "index": "A",
+      "name": "GCD vs LCM",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

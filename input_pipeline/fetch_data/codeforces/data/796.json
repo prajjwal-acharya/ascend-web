@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 796,
+    "name": "Codeforces Round 408 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1491842100,
+    "relativeTimeSeconds": 276512532
+  },
+  "problems": [
+    {
+      "contestId": 796,
+      "index": "F",
+      "name": "Sequence Recovery",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 796,
+      "index": "E",
+      "name": "Exam Cheating",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 796,
+      "index": "D",
+      "name": "Police Stations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 796,
+      "index": "C",
+      "name": "Bank Hacking",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 796,
+      "index": "B",
+      "name": "Find The Bone",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 796,
+      "index": "A",
+      "name": "Buying A House",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

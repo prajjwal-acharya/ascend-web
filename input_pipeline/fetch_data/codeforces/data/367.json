@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 367,
+    "name": "Codeforces Round 215 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1385479800,
+    "relativeTimeSeconds": 382874832
+  },
+  "problems": [
+    {
+      "contestId": 367,
+      "index": "E",
+      "name": "Sereja and Intervals",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 367,
+      "index": "D",
+      "name": "Sereja and Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 367,
+      "index": "C",
+      "name": "Sereja and the Arrangement of Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 367,
+      "index": "B",
+      "name": "Sereja ans Anagrams",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 367,
+      "index": "A",
+      "name": "Sereja and Algorithm ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 283,
+    "name": "Codeforces Round 174 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1363534200,
+    "relativeTimeSeconds": 404820433
+  },
+  "problems": [
+    {
+      "contestId": 283,
+      "index": "E",
+      "name": "Cow Tennis Tournament",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 283,
+      "index": "D",
+      "name": "Cows and Cool Sequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 283,
+      "index": "C",
+      "name": "Coin Troubles",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 283,
+      "index": "B",
+      "name": "Cow Program",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 283,
+      "index": "A",
+      "name": "Cows and Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

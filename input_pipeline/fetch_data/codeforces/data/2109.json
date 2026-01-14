@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "id": 2109,
+    "name": "Codeforces Round 1025 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1747492500,
+    "relativeTimeSeconds": 20862132
+  },
+  "problems": [
+    {
+      "contestId": 2109,
+      "index": "F",
+      "name": "Penguin Steps",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "flows",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "E",
+      "name": "Binary String Wowee",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "D",
+      "name": "D/D/D",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "C3",
+      "name": "Hacking Numbers (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "C2",
+      "name": "Hacking Numbers (Medium Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "C1",
+      "name": "Hacking Numbers (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "B",
+      "name": "Slice to Survive",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2109,
+      "index": "A",
+      "name": "It's Time To Duel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

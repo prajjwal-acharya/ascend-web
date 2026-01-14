@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 134,
+    "name": "Codeforces Testing Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 3600,
+    "startTimeSeconds": 1322838000,
+    "relativeTimeSeconds": 445516633
+  },
+  "problems": [
+    {
+      "contestId": 134,
+      "index": "C",
+      "name": "Swaps",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 134,
+      "index": "B",
+      "name": "Pairs of Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 134,
+      "index": "A",
+      "name": "Average Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

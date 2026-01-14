@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1572,
+    "name": "Codeforces Round 743 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1631975700,
+    "relativeTimeSeconds": 136378932
+  },
+  "problems": [
+    {
+      "contestId": 1572,
+      "index": "F",
+      "name": "Stations",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1572,
+      "index": "E",
+      "name": "Polygon",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1572,
+      "index": "D",
+      "name": "Bridge Club",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1572,
+      "index": "C",
+      "name": "Paint",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1572,
+      "index": "B",
+      "name": "Xor of 3",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1572,
+      "index": "A",
+      "name": "Book",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "graphs",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

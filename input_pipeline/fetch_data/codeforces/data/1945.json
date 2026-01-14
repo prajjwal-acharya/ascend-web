@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1945,
+    "name": "Codeforces Round 935 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1710835500,
+    "relativeTimeSeconds": 57519132
+  },
+  "problems": [
+    {
+      "contestId": 1945,
+      "index": "H",
+      "name": "GCD is Greater",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "G",
+      "name": "Cook and Porridge",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "F",
+      "name": "Kirill and Mushrooms",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "E",
+      "name": "Binary Search",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "D",
+      "name": "Seraphim the Owl",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "C",
+      "name": "Left and Right Houses",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "B",
+      "name": "Fireworks",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1945,
+      "index": "A",
+      "name": "Setting up Camp",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1913,
+    "name": "Educational Codeforces Round 160 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1702910100,
+    "relativeTimeSeconds": 65444532
+  },
+  "problems": [
+    {
+      "contestId": 1913,
+      "index": "F",
+      "name": "Palindromic Problem",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1913,
+      "index": "E",
+      "name": "Matrix Problem",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1913,
+      "index": "D",
+      "name": "Array Collapse",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1913,
+      "index": "C",
+      "name": "Game with Multiset",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1913,
+      "index": "B",
+      "name": "Swap and Delete",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1913,
+      "index": "A",
+      "name": "Rating Increase",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

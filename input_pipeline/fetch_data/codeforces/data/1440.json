@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1440,
+    "name": "Codeforces Round 684 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1605623700,
+    "relativeTimeSeconds": 162730932
+  },
+  "problems": [
+    {
+      "contestId": 1440,
+      "index": "B",
+      "name": "Sum of Medians",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1440,
+      "index": "A",
+      "name": "Buy the String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 808,
+    "name": "Educational Codeforces Round 21",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1494860700,
+    "relativeTimeSeconds": 273493932
+  },
+  "problems": [
+    {
+      "contestId": 808,
+      "index": "G",
+      "name": "Anthem of Berland",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "F",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "E",
+      "name": "Selling Souvenirs",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "D",
+      "name": "Array Division",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "C",
+      "name": "Tea Party",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "B",
+      "name": "Average Sleep Time",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 808,
+      "index": "A",
+      "name": "Lucky Year",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

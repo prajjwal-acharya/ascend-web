@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1188,
+    "name": "Codeforces Round 572 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1562339100,
+    "relativeTimeSeconds": 206015532
+  },
+  "problems": [
+    {
+      "contestId": 1188,
+      "index": "E",
+      "name": "Problem from Red Panda",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1188,
+      "index": "D",
+      "name": "Make Equal",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1188,
+      "index": "C",
+      "name": "Array Beauty",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1188,
+      "index": "B",
+      "name": "Count Pairs",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "math",
+        "matrices",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1188,
+      "index": "A2",
+      "name": "Add on a Tree: Revolution",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1188,
+      "index": "A1",
+      "name": "Add on a Tree",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1600,
+      "tags": [
+        "trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1525,
+    "name": "Educational Codeforces Round 109 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1621152000,
+    "relativeTimeSeconds": 147202632
+  },
+  "problems": [
+    {
+      "contestId": 1525,
+      "index": "F",
+      "name": "Goblins And Gnomes",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1525,
+      "index": "E",
+      "name": "Assimilation IV",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1525,
+      "index": "D",
+      "name": "Armchairs",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "flows",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1525,
+      "index": "C",
+      "name": "Robot Collisions",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1525,
+      "index": "B",
+      "name": "Permutation Sort",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1525,
+      "index": "A",
+      "name": "Potion-making",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

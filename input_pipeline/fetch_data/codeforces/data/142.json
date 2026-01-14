@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 142,
+    "name": "Codeforces Round 102 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1326380700,
+    "relativeTimeSeconds": 441973933
+  },
+  "problems": [
+    {
+      "contestId": 142,
+      "index": "E",
+      "name": "Help Greg the Dwarf 2",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 142,
+      "index": "D",
+      "name": "Help Shrek and Donkey 2",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 142,
+      "index": "C",
+      "name": "Help Caretaker",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 142,
+      "index": "B",
+      "name": "Help General",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 142,
+      "index": "A",
+      "name": "Help Farmer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 220,
+    "name": "Codeforces Round 136 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1346427000,
+    "relativeTimeSeconds": 421927633
+  },
+  "problems": [
+    {
+      "contestId": 220,
+      "index": "E",
+      "name": "Little Elephant and Inversions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 220,
+      "index": "D",
+      "name": "Little Elephant and Triangle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 220,
+      "index": "C",
+      "name": "Little Elephant and Shifts",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 220,
+      "index": "B",
+      "name": "Little Elephant and Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 220,
+      "index": "A",
+      "name": "Little Elephant and Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

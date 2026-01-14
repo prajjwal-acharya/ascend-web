@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1529,
+    "name": "Codeforces Round 722 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1621866900,
+    "relativeTimeSeconds": 146487732
+  },
+  "problems": [
+    {
+      "contestId": 1529,
+      "index": "B",
+      "name": "Sifid and Strange Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1529,
+      "index": "A",
+      "name": "Eshag Loves Big Arrays",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

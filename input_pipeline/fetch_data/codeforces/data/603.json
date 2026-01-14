@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 603,
+    "name": "Codeforces Round 334 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1448984100,
+    "relativeTimeSeconds": 319370532
+  },
+  "problems": [
+    {
+      "contestId": 603,
+      "index": "E",
+      "name": "Pastoral Oddities",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 603,
+      "index": "D",
+      "name": "Ruminations on Ruminants",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 603,
+      "index": "C",
+      "name": "Lieges of Legendre",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 603,
+      "index": "B",
+      "name": "Moodular Arithmetic",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 603,
+      "index": "A",
+      "name": "Alternative Thinking",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 544,
+    "name": "Codeforces Round 302 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1431016200,
+    "relativeTimeSeconds": 337338432
+  },
+  "problems": [
+    {
+      "contestId": 544,
+      "index": "B",
+      "name": "Sea and Islands",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 544,
+      "index": "A",
+      "name": "Set of Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

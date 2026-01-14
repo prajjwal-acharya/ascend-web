@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1117,
+    "name": "Educational Codeforces Round 60 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1550504400,
+    "relativeTimeSeconds": 217850232
+  },
+  "problems": [
+    {
+      "contestId": 1117,
+      "index": "G",
+      "name": "Recursive Queries",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "F",
+      "name": "Crisp String",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "E",
+      "name": "Decypher the String",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "D",
+      "name": "Magic Gems",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "C",
+      "name": "Magic Ship",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "B",
+      "name": "Emotes",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1117,
+      "index": "A",
+      "name": "Best Subsegment",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

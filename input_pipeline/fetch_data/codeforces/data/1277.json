@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 1277,
+    "name": "Codeforces Round 606 (Div. 2, based on Technocup 2020 Elimination Round 4)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576321500,
+    "relativeTimeSeconds": 192033132
+  },
+  "problems": [
+    {
+      "contestId": 1277,
+      "index": "D",
+      "name": "Let's Play the Words?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "hashing",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1277,
+      "index": "B",
+      "name": "Make Them Odd",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1277,
+      "index": "A",
+      "name": "Happy Birthday, Polycarp!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

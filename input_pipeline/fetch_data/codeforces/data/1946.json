@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1946,
+    "name": "Codeforces Round 936 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1711118100,
+    "relativeTimeSeconds": 57236532
+  },
+  "problems": [
+    {
+      "contestId": 1946,
+      "index": "F",
+      "name": "Nobody is needed",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "2-sat",
+        "data structures",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1946,
+      "index": "E",
+      "name": "Girl Permutation",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1946,
+      "index": "D",
+      "name": "Birthday Gift",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1946,
+      "index": "C",
+      "name": "Tree Cutting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1946,
+      "index": "B",
+      "name": "Maximum Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1946,
+      "index": "A",
+      "name": "Median of an Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

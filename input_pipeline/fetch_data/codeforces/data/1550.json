@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1550,
+    "name": "Educational Codeforces Round 111 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1626273300,
+    "relativeTimeSeconds": 142081332
+  },
+  "problems": [
+    {
+      "contestId": 1550,
+      "index": "F",
+      "name": "Jumping Around",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1550,
+      "index": "E",
+      "name": "Stringforces",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1550,
+      "index": "D",
+      "name": "Excellent Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1550,
+      "index": "C",
+      "name": "Manhattan Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1550,
+      "index": "B",
+      "name": "Maximum Cost Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1550,
+      "index": "A",
+      "name": "Find The Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

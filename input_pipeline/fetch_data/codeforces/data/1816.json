@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1816,
+    "name": "Codeforces Round 865 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1681051500,
+    "relativeTimeSeconds": 87303132
+  },
+  "problems": [
+    {
+      "contestId": 1816,
+      "index": "B",
+      "name": "Grid Reconstruction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1816,
+      "index": "A",
+      "name": "Ian Visits Mary",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "number theory"
+      ]
+    }
+  ]
+}

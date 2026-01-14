@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1041,
+    "name": "Codeforces Round 509 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1537094100,
+    "relativeTimeSeconds": 231260532
+  },
+  "problems": [
+    {
+      "contestId": 1041,
+      "index": "F",
+      "name": "Ray in the tube",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1041,
+      "index": "E",
+      "name": "Tree Reconstruction",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1041,
+      "index": "D",
+      "name": "Glider",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1041,
+      "index": "C",
+      "name": "Coffee Break",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1041,
+      "index": "B",
+      "name": "Buying a TV Set",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1041,
+      "index": "A",
+      "name": "Heist",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

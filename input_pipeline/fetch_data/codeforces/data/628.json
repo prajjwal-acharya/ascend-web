@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 628,
+    "name": "Educational Codeforces Round 8",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1455894000,
+    "relativeTimeSeconds": 312460632
+  },
+  "problems": [
+    {
+      "contestId": 628,
+      "index": "F",
+      "name": "Bear and Fair Set",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 628,
+      "index": "E",
+      "name": "Zbazi in Zeydabad",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 628,
+      "index": "D",
+      "name": "Magic Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 628,
+      "index": "C",
+      "name": "Bear and String Distance",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 628,
+      "index": "B",
+      "name": "New Skateboard",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 628,
+      "index": "A",
+      "name": "Tennis Tournament",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

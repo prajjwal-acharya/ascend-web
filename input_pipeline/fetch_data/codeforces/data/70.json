@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 70,
+    "name": "Codeforces Beta Round 64",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1301155200,
+    "relativeTimeSeconds": 467199433
+  },
+  "problems": [
+    {
+      "contestId": 70,
+      "index": "E",
+      "name": "Information Reform",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 70,
+      "index": "D",
+      "name": "Professor's task",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 70,
+      "index": "C",
+      "name": "Lucky Tickets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 70,
+      "index": "B",
+      "name": "Text Messaging",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "expression parsing",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 70,
+      "index": "A",
+      "name": "Cookies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1425,
+    "name": "2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1601182800,
+    "relativeTimeSeconds": 167171832
+  },
+  "problems": [
+    {
+      "contestId": 1425,
+      "index": "I",
+      "name": "Impressive Harvesting of The Orchard",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "H",
+      "name": "Huge Boxes of Animal Toys",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "F",
+      "name": "Flamingoes of Mystery",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "E",
+      "name": "Excitation of Atoms",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "D",
+      "name": "Danger of Mad Snakes",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "C",
+      "name": "Captain of Knights",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "B",
+      "name": "Blue and Red of Our Faculty!",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1425,
+      "index": "A",
+      "name": "Arena of Greed",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    }
+  ]
+}

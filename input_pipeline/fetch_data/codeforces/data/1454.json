@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1454,
+    "name": "Codeforces Round 686 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1606228500,
+    "relativeTimeSeconds": 162126132
+  },
+  "problems": [
+    {
+      "contestId": 1454,
+      "index": "F",
+      "name": "Array Partition",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1454,
+      "index": "E",
+      "name": "Number of Simple Paths",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1454,
+      "index": "D",
+      "name": "Number into Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1454,
+      "index": "C",
+      "name": "Sequence Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1454,
+      "index": "B",
+      "name": "Unique Bid Auction",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1454,
+      "index": "A",
+      "name": "Special Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "probabilities"
+      ]
+    }
+  ]
+}

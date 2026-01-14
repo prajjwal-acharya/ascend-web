@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1903,
+    "name": "Codeforces Round 912 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1701362100,
+    "relativeTimeSeconds": 66992532
+  },
+  "problems": [
+    {
+      "contestId": 1903,
+      "index": "F",
+      "name": "Babysitting",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2500,
+      "tags": [
+        "2-sat",
+        "binary search",
+        "data structures",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "E",
+      "name": "Geo Game",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "D2",
+      "name": "Maximum And Queries (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "D1",
+      "name": "Maximum And Queries (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "C",
+      "name": "Theofanis' Nightmare",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "B",
+      "name": "StORage room",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1903,
+      "index": "A",
+      "name": "Halloumi Boxes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

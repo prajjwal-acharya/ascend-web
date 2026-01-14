@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 475,
+    "name": "Bayan 2015 Contest Warm Up",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1412514000,
+    "relativeTimeSeconds": 355840632
+  },
+  "problems": [
+    {
+      "contestId": 475,
+      "index": "F",
+      "name": "Meta-universe",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 475,
+      "index": "E",
+      "name": "Strongly Connected City 2",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 475,
+      "index": "D",
+      "name": "CGCDSSQ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 475,
+      "index": "C",
+      "name": "Kamal-ol-molk's Painting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 475,
+      "index": "B",
+      "name": "Strongly Connected City",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 475,
+      "index": "A",
+      "name": "Bayan Bus",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

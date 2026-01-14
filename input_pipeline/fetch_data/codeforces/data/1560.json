@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1560,
+    "name": "Codeforces Round 739 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1629297300,
+    "relativeTimeSeconds": 139057332
+  },
+  "problems": [
+    {
+      "contestId": 1560,
+      "index": "F2",
+      "name": "Nearest Beautiful Number (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "F1",
+      "name": "Nearest Beautiful Number (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "E",
+      "name": "Polycarp and String Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "D",
+      "name": "Make a Power of Two",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "C",
+      "name": "Infinity Table",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "B",
+      "name": "Who's Opposite?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1560,
+      "index": "A",
+      "name": "Dislike of Threes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

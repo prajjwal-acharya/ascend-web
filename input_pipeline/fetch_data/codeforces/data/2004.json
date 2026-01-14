@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2004,
+    "name": "Educational Codeforces Round 169 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1723732500,
+    "relativeTimeSeconds": 44622132
+  },
+  "problems": [
+    {
+      "contestId": 2004,
+      "index": "G",
+      "name": "Substring Compression",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "F",
+      "name": "Make a Palindrome",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "E",
+      "name": "Not a Nim Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "games",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "D",
+      "name": "Colored Portals",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "C",
+      "name": "Splitting Items",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "B",
+      "name": "Game with Doors",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2004,
+      "index": "A",
+      "name": "Closest Point",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

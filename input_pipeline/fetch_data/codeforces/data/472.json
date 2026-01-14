@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 472,
+    "name": "Codeforces Round 270",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1411918500,
+    "relativeTimeSeconds": 356436132
+  },
+  "problems": [
+    {
+      "contestId": 472,
+      "index": "G",
+      "name": "Design Tutorial: Increase the Constraints",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 472,
+      "index": "F",
+      "name": "Design Tutorial: Change the Goal",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 472,
+      "index": "E",
+      "name": "Design Tutorial: Learn from a Game",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 472,
+      "index": "D",
+      "name": "Design Tutorial: Inverse the Problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 472,
+      "index": "C",
+      "name": "Design Tutorial: Make It Nondeterministic",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 472,
+      "index": "B",
+      "name": "Design Tutorial: Learn from Life",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": []
+    },
+    {
+      "contestId": 472,
+      "index": "A",
+      "name": "Design Tutorial: Learn from Math",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 285,
+    "name": "Codeforces Round 175 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1363879800,
+    "relativeTimeSeconds": 404474833
+  },
+  "problems": [
+    {
+      "contestId": 285,
+      "index": "E",
+      "name": "Positions in Permutations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 285,
+      "index": "D",
+      "name": "Permutation Sum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 285,
+      "index": "C",
+      "name": "Building Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 285,
+      "index": "B",
+      "name": "Find Marble",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 285,
+      "index": "A",
+      "name": "Slightly Decreasing Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

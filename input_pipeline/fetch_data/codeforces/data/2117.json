@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 2117,
+    "name": "Codeforces Round 1029 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1749393300,
+    "relativeTimeSeconds": 18961332
+  },
+  "problems": [
+    {
+      "contestId": 2117,
+      "index": "H",
+      "name": "Incessant Rain",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "G",
+      "name": "Omg Graph",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dsu",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "F",
+      "name": "Wildflower",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "E",
+      "name": "Lost Soul",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "D",
+      "name": "Retaliation",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "C",
+      "name": "Cool Partition",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "B",
+      "name": "Shrink",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2117,
+      "index": "A",
+      "name": "False Alarm",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

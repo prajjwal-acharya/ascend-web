@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 910,
+    "name": "Testing Round 14 (Unrated)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 5400,
+    "startTimeSeconds": 1513940700,
+    "relativeTimeSeconds": 254413932
+  },
+  "problems": [
+    {
+      "contestId": 910,
+      "index": "C",
+      "name": "Minimum Sum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 910,
+      "index": "B",
+      "name": "Door Frames",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 910,
+      "index": "A",
+      "name": "The Way to Home",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

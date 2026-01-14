@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1009,
+    "name": "Educational Codeforces Round 47 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1531578900,
+    "relativeTimeSeconds": 236775732
+  },
+  "problems": [
+    {
+      "contestId": 1009,
+      "index": "G",
+      "name": "Allowed Letters",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "F",
+      "name": "Dominant Indices",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "E",
+      "name": "Intercity Travelling",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "D",
+      "name": "Relatively Prime Graph",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "C",
+      "name": "Annoying Present",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "B",
+      "name": "Minimum Ternary String",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1009,
+      "index": "A",
+      "name": "Game Shopping",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1733,
+    "name": "Codeforces Round 821 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1663598100,
+    "relativeTimeSeconds": 104756532
+  },
+  "problems": [
+    {
+      "contestId": 1733,
+      "index": "E",
+      "name": "Conveyor",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1733,
+      "index": "D2",
+      "name": "Zero-One (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1733,
+      "index": "D1",
+      "name": "Zero-One (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1733,
+      "index": "C",
+      "name": "Parity Shuffle Sorting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1733,
+      "index": "B",
+      "name": "Rule of League",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1733,
+      "index": "A",
+      "name": "Consecutive Sum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1624,
+    "name": "Codeforces Round 764 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1641825300,
+    "relativeTimeSeconds": 126529332
+  },
+  "problems": [
+    {
+      "contestId": 1624,
+      "index": "G",
+      "name": "MinOr Tree",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "F",
+      "name": "Interacdive Problem",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "E",
+      "name": "Masha-forgetful",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "D",
+      "name": "Palindromes Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "C",
+      "name": "Division by Two and Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graph matchings",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "B",
+      "name": "Make AP",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1624,
+      "index": "A",
+      "name": "Plus One on the Subset",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

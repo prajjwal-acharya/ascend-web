@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 710,
+    "name": "Educational Codeforces Round 16",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1471875000,
+    "relativeTimeSeconds": 296479632
+  },
+  "problems": [
+    {
+      "contestId": 710,
+      "index": "F",
+      "name": "String Set Queries",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "hashing",
+        "interactive",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 710,
+      "index": "E",
+      "name": "Generate a String",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 710,
+      "index": "D",
+      "name": "Two Arithmetic Progressions",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 710,
+      "index": "C",
+      "name": "Magic Odd Square",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 710,
+      "index": "B",
+      "name": "Optimal Point on a Line",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 710,
+      "index": "A",
+      "name": "King Moves",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

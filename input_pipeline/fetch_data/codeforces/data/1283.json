@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1283,
+    "name": "Codeforces Round 611 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1577552700,
+    "relativeTimeSeconds": 190801932
+  },
+  "problems": [
+    {
+      "contestId": 1283,
+      "index": "F",
+      "name": "DIY Garland",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1283,
+      "index": "E",
+      "name": "New Year Parties",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1283,
+      "index": "D",
+      "name": "Christmas Trees",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1283,
+      "index": "C",
+      "name": "Friends and Gifts",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1283,
+      "index": "B",
+      "name": "Candies Division",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1283,
+      "index": "A",
+      "name": "Minutes Before the New Year",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

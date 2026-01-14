@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 284,
+    "name": "Codeforces Round 174 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1363534200,
+    "relativeTimeSeconds": 404820433
+  },
+  "problems": [
+    {
+      "contestId": 284,
+      "index": "B",
+      "name": "Cows and Poker Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 284,
+      "index": "A",
+      "name": "Cows and Primitive Roots",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

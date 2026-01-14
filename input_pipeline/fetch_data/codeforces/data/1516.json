@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 1516,
+    "name": "Codeforces Round 717 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1619012100,
+    "relativeTimeSeconds": 149342532
+  },
+  "problems": [
+    {
+      "contestId": 1516,
+      "index": "E",
+      "name": "Baby Ehab Plays with Permutations",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1516,
+      "index": "D",
+      "name": "Cut",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "graphs",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1516,
+      "index": "C",
+      "name": "Baby Ehab Partitions Again",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1516,
+      "index": "B",
+      "name": "AGAGA XOOORRR",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1516,
+      "index": "A",
+      "name": "Tit for Tat",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

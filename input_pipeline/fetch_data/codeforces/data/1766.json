@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 1766,
+    "name": "Educational Codeforces Round 139 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1670855700,
+    "relativeTimeSeconds": 97498932
+  },
+  "problems": [
+    {
+      "contestId": 1766,
+      "index": "F",
+      "name": "MCF",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1766,
+      "index": "E",
+      "name": "Decomposition",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1766,
+      "index": "D",
+      "name": "Lucky Chains",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1766,
+      "index": "C",
+      "name": "Hamiltonian Wall",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1766,
+      "index": "B",
+      "name": "Notepad#",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1766,
+      "index": "A",
+      "name": "Extremely Round",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

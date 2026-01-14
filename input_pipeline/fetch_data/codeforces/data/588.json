@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 588,
+    "name": "Codeforces Round 326 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1444926600,
+    "relativeTimeSeconds": 323428032
+  },
+  "problems": [
+    {
+      "contestId": 588,
+      "index": "B",
+      "name": "Duff in Love",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 588,
+      "index": "A",
+      "name": "Duff and Meat",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

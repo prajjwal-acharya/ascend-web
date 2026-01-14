@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1879,
+    "name": "Educational Codeforces Round 155 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1695566100,
+    "relativeTimeSeconds": 72788532
+  },
+  "problems": [
+    {
+      "contestId": 1879,
+      "index": "F",
+      "name": "Last Man Standing",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1879,
+      "index": "E",
+      "name": "Interactive Game with Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1879,
+      "index": "D",
+      "name": "Sum of XOR Functions",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1879,
+      "index": "C",
+      "name": "Make it Alternating",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1879,
+      "index": "B",
+      "name": "Chips on the Board",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1879,
+      "index": "A",
+      "name": "Rigged!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

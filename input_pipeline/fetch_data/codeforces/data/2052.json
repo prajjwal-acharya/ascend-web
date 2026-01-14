@@ -1,0 +1,152 @@
+{
+  "contest": {
+    "id": 2052,
+    "name": "2024-2025 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1734248100,
+    "relativeTimeSeconds": 34106532
+  },
+  "problems": [
+    {
+      "contestId": 2052,
+      "index": "M",
+      "name": "Managing Cluster",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "L",
+      "name": "Legacy Screensaver",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 2052,
+      "index": "K",
+      "name": "Knowns and Unknowns",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 2052,
+      "index": "J",
+      "name": "Judicious Watching",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "I",
+      "name": "Incompetent Delivery Guy",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "H",
+      "name": "Hunting Hoglins in Hogwarts",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "G",
+      "name": "Geometric Balance",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "F",
+      "name": "Fix Flooded Floor",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "E",
+      "name": "Expression Correction",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "expression parsing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "D",
+      "name": "DAG Serialization",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "C",
+      "name": "Cactus without Bridges",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2052,
+      "index": "B",
+      "name": "BitBitJump",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 2052,
+      "index": "A",
+      "name": "Adrenaline Rush",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

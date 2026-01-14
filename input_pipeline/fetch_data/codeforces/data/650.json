@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 650,
+    "name": "Codeforces Round 345 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1457342700,
+    "relativeTimeSeconds": 311011932
+  },
+  "problems": [
+    {
+      "contestId": 650,
+      "index": "E",
+      "name": "Clockwork Bomb",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 650,
+      "index": "D",
+      "name": "Zip-line",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 650,
+      "index": "C",
+      "name": "Table Compression",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 650,
+      "index": "B",
+      "name": "Image Preview",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 650,
+      "index": "A",
+      "name": "Watchmen",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

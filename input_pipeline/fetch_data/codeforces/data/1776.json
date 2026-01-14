@@ -1,0 +1,175 @@
+{
+  "contest": {
+    "id": 1776,
+    "name": "SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1676804700,
+    "relativeTimeSeconds": 91549932
+  },
+  "problems": [
+    {
+      "contestId": 1776,
+      "index": "N",
+      "name": "Count Permutations",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "M",
+      "name": "Parmigiana With Seafood",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "L",
+      "name": "Controllers",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "K",
+      "name": "Uniform Chemistry",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "J",
+      "name": "Italian Data Centers",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "I",
+      "name": "Spinach Pizza",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "games",
+        "geometry",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "H",
+      "name": "Beppa and SwerChat",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "G",
+      "name": "Another Wine Tasting Event",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "F",
+      "name": "Train Splitting",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "E",
+      "name": "Crossing the Railways",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "D",
+      "name": "Teamwork",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "C",
+      "name": "Library game",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "games",
+        "greedy",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "B",
+      "name": "Vittorio Plays with LEGO Bricks",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1776,
+      "index": "A",
+      "name": "Walking Boy",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

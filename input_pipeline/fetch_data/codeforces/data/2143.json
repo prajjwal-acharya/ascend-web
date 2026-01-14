@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 2143,
+    "name": "Codeforces Round 1051 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1758119700,
+    "relativeTimeSeconds": 10234932
+  },
+  "problems": [
+    {
+      "contestId": 2143,
+      "index": "F",
+      "name": "Increasing Xor",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "E",
+      "name": "Make Good",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "D2",
+      "name": "Inversion Graph Coloring (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "D1",
+      "name": "Inversion Graph Coloring (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "C",
+      "name": "Max Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "B",
+      "name": "Discounts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2143,
+      "index": "A",
+      "name": "All Lengths Subtraction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ]
+    }
+  ]
+}

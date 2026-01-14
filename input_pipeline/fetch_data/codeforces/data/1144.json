@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1144,
+    "name": "Codeforces Round 550 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1554041100,
+    "relativeTimeSeconds": 214313532
+  },
+  "problems": [
+    {
+      "contestId": 1144,
+      "index": "G",
+      "name": "Two Merged Sequences",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "F",
+      "name": "Graph Without Long Directed Paths",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "E",
+      "name": "Median String",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "D",
+      "name": "Equalize Them All",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "C",
+      "name": "Two Shuffled Sequences",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "B",
+      "name": "Parity Alternated Deletions",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1144,
+      "index": "A",
+      "name": "Diverse Strings",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

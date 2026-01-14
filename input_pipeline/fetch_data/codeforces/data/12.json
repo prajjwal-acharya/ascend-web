@@ -1,0 +1,68 @@
+{
+  "contest": {
+    "id": 12,
+    "name": "Codeforces Beta Round 12 (Div 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1272538800,
+    "relativeTimeSeconds": 495815833
+  },
+  "problems": [
+    {
+      "contestId": 12,
+      "index": "E",
+      "name": "Start of the session",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 12,
+      "index": "D",
+      "name": "Ball",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 12,
+      "index": "C",
+      "name": "Fruits",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 12,
+      "index": "B",
+      "name": "Correct Solution?",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 12,
+      "index": "A",
+      "name": "Super Agent",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

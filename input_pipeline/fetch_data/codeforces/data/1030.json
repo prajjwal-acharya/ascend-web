@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1030,
+    "name": "Technocup 2019 - Elimination Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1537707900,
+    "relativeTimeSeconds": 230646732
+  },
+  "problems": [
+    {
+      "contestId": 1030,
+      "index": "G",
+      "name": "Linear Congruential Generator",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "F",
+      "name": "Putting Boxes Together",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "E",
+      "name": "Vasya and Good Sequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "D",
+      "name": "Vasya and Triangle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "geometry",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "C",
+      "name": "Vasya and Golden Ticket",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "B",
+      "name": "Vasya and Cornfield",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1030,
+      "index": "A",
+      "name": "In Search of an Easy Problem",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 409,
+    "name": "April Fools Day Contest 2014",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1396366200,
+    "relativeTimeSeconds": 371988432
+  },
+  "problems": [
+    {
+      "contestId": 409,
+      "index": "I",
+      "name": "Feed the Golorp",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "H",
+      "name": "A + B Strikes Back",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "brute force",
+        "constructive algorithms",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "G",
+      "name": "On a plane",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "F",
+      "name": "000001",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "E",
+      "name": "Dome",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "D",
+      "name": "Big Data",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "C",
+      "name": "Magnum Opus",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "B",
+      "name": "Mysterious Language",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 409,
+      "index": "A",
+      "name": "The Great Game",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

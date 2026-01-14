@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1221,
+    "name": "Educational Codeforces Round 73 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1568903700,
+    "relativeTimeSeconds": 199450932
+  },
+  "problems": [
+    {
+      "contestId": 1221,
+      "index": "G",
+      "name": "Graph And Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "F",
+      "name": "Choose a Square",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "E",
+      "name": "Game With String",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "D",
+      "name": "Make The Fence Great Again",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "C",
+      "name": "Perfect Team",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "B",
+      "name": "Knights",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1221,
+      "index": "A",
+      "name": "2048 Game",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

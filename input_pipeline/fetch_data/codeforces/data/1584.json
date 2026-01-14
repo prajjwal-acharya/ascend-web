@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1584,
+    "name": "Technocup 2022 - Elimination Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1636869900,
+    "relativeTimeSeconds": 131484732
+  },
+  "problems": [
+    {
+      "contestId": 1584,
+      "index": "G",
+      "name": "Eligible Segments",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "F",
+      "name": "Strange LCS",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "E",
+      "name": "Game with Stones",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "D",
+      "name": "Guess the Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "C",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "B",
+      "name": "Coloring Rectangles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1584,
+      "index": "A",
+      "name": "Mathematical Addition",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

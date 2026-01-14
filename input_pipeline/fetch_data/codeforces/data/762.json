@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 762,
+    "name": "Educational Codeforces Round 17",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1485354900,
+    "relativeTimeSeconds": 282999732
+  },
+  "problems": [
+    {
+      "contestId": 762,
+      "index": "F",
+      "name": "Tree nesting",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 762,
+      "index": "E",
+      "name": "Radio stations",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 762,
+      "index": "D",
+      "name": "Maximum path",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 762,
+      "index": "C",
+      "name": "Two strings",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 762,
+      "index": "B",
+      "name": "USB vs. PS/2",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 762,
+      "index": "A",
+      "name": "k-th divisor",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1989,
+    "name": "Educational Codeforces Round 167 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1719498900,
+    "relativeTimeSeconds": 48855732
+  },
+  "problems": [
+    {
+      "contestId": 1989,
+      "index": "F",
+      "name": "Simultaneous Coloring",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "divide and conquer",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1989,
+      "index": "E",
+      "name": "Distance to Different",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1989,
+      "index": "D",
+      "name": "Smithing Skill",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1989,
+      "index": "C",
+      "name": "Two Movies",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1989,
+      "index": "B",
+      "name": "Substring and Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1989,
+      "index": "A",
+      "name": "Catch the Coin",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

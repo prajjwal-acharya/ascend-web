@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1661,
+    "name": "Educational Codeforces Round 126 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1649514900,
+    "relativeTimeSeconds": 118839732
+  },
+  "problems": [
+    {
+      "contestId": 1661,
+      "index": "F",
+      "name": "Teleporters",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1661,
+      "index": "E",
+      "name": "Narrow Components",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1661,
+      "index": "D",
+      "name": "Progressions Covering",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1661,
+      "index": "C",
+      "name": "Water the Trees",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1661,
+      "index": "B",
+      "name": "Getting Zero",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1661,
+      "index": "A",
+      "name": "Array Balancing",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "contest": {
+    "id": 1684,
+    "name": "Codeforces Round 792 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1652970900,
+    "relativeTimeSeconds": 115383732
+  },
+  "problems": [
+    {
+      "contestId": 1684,
+      "index": "H",
+      "name": "Hard Cut",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "G",
+      "name": "Euclid Guess",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graph matchings",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "F",
+      "name": "Diverse Segments",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "E",
+      "name": "MEX vs DIFF",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "D",
+      "name": "Traps",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "C",
+      "name": "Column Swapping",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "B",
+      "name": "Z mod X = C",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1684,
+      "index": "A",
+      "name": "Digit Minimization",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

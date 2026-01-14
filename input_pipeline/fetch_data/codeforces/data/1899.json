@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1899,
+    "name": "Codeforces Round 909 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1700231700,
+    "relativeTimeSeconds": 68122932
+  },
+  "problems": [
+    {
+      "contestId": 1899,
+      "index": "G",
+      "name": "Unusual Entertainment",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "shortest paths",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "F",
+      "name": "Alex's whims",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "E",
+      "name": "Queue Sort",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "D",
+      "name": "Yarik and Musical Notes",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "C",
+      "name": "Yarik and Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "B",
+      "name": "250 Thousand Tons of TNT",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1899,
+      "index": "A",
+      "name": "Game with Integers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "games",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

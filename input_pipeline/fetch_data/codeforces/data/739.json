@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 739,
+    "name": "Codeforces Round 381 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1479918900,
+    "relativeTimeSeconds": 288435732
+  },
+  "problems": [
+    {
+      "contestId": 739,
+      "index": "E",
+      "name": "Gosha is hunting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "flows",
+        "math",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 739,
+      "index": "D",
+      "name": "Recover a functional graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3400,
+      "tags": [
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 739,
+      "index": "C",
+      "name": "Alyona and towers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 739,
+      "index": "B",
+      "name": "Alyona and a tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 739,
+      "index": "A",
+      "name": "Alyona and mex",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

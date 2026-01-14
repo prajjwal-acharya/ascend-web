@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 793,
+    "name": "Tinkoff Challenge - Elimination Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1492965900,
+    "relativeTimeSeconds": 275388732
+  },
+  "problems": [
+    {
+      "contestId": 793,
+      "index": "G",
+      "name": "Oleg and chess",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "F",
+      "name": "Julia the snail",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "E",
+      "name": "Problem of offices",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "D",
+      "name": "Presents in Bankopolis",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "C",
+      "name": "Mice problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "B",
+      "name": "Igor and his way to work",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 793,
+      "index": "A",
+      "name": "Oleg and shares",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

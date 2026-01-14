@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1093,
+    "name": "Educational Codeforces Round 56 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1544884500,
+    "relativeTimeSeconds": 223470132
+  },
+  "problems": [
+    {
+      "contestId": 1093,
+      "index": "G",
+      "name": "Multidimensional Queries",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "F",
+      "name": "Vasya and Array",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "E",
+      "name": "Intersection of Permutations",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "D",
+      "name": "Beautiful Graph",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "C",
+      "name": "Mishka and the Last Exam",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "B",
+      "name": "Letters Rearranging",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1093,
+      "index": "A",
+      "name": "Dice Rolling",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

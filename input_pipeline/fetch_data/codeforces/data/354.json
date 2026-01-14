@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 354,
+    "name": "Codeforces Round 206 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1381678200,
+    "relativeTimeSeconds": 386676432
+  },
+  "problems": [
+    {
+      "contestId": 354,
+      "index": "E",
+      "name": "Lucky Number Representation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 354,
+      "index": "D",
+      "name": "Transferring Pyramid",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 354,
+      "index": "C",
+      "name": "Vasya and Beautiful Arrays",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 354,
+      "index": "B",
+      "name": "Game with Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 354,
+      "index": "A",
+      "name": "Vasya and Robot",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

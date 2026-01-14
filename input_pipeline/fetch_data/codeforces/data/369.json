@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 369,
+    "name": "Codeforces Round 216 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1385739000,
+    "relativeTimeSeconds": 382615632
+  },
+  "problems": [
+    {
+      "contestId": 369,
+      "index": "E",
+      "name": "Valera and Queries",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 369,
+      "index": "D",
+      "name": "Valera and Fools",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 369,
+      "index": "C",
+      "name": "Valera and Elections",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 369,
+      "index": "B",
+      "name": "Valera and Contest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 369,
+      "index": "A",
+      "name": "Valera and Plates",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

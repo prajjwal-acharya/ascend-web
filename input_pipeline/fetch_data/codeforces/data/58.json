@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 58,
+    "name": "Codeforces Beta Round 54 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1296489600,
+    "relativeTimeSeconds": 471865033
+  },
+  "problems": [
+    {
+      "contestId": 58,
+      "index": "E",
+      "name": "Expression",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 58,
+      "index": "D",
+      "name": "Calendar",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 58,
+      "index": "C",
+      "name": "Trees",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 58,
+      "index": "B",
+      "name": "Coins",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 58,
+      "index": "A",
+      "name": "Chat room",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

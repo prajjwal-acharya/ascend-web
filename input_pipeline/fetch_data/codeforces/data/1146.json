@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1146,
+    "name": "Forethought Future Cup - Elimination Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1555783500,
+    "relativeTimeSeconds": 212571132
+  },
+  "problems": [
+    {
+      "contestId": 1146,
+      "index": "H",
+      "name": "Satanic Panic",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "G",
+      "name": "Zoning Restrictions",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "F",
+      "name": "Leaf Partition",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "E",
+      "name": "Hot is Cold",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "D",
+      "name": "Frog Jumping",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "C",
+      "name": "Tree Diameter",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "B",
+      "name": "Hate \"A\"",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1146,
+      "index": "A",
+      "name": "Love \"A\"",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

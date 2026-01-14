@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1361,
+    "name": "Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1591281300,
+    "relativeTimeSeconds": 177073332
+  },
+  "problems": [
+    {
+      "contestId": 1361,
+      "index": "F",
+      "name": "Johnny and New Toy",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1361,
+      "index": "E",
+      "name": "James and the Chase",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1361,
+      "index": "D",
+      "name": "Johnny and James",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1361,
+      "index": "C",
+      "name": "Johnny and Megan's Necklace",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1361,
+      "index": "B",
+      "name": "Johnny and Grandmaster",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1361,
+      "index": "A",
+      "name": "Johnny and Contribution",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

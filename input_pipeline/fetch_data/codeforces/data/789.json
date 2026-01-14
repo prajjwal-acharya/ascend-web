@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 789,
+    "name": "Codeforces Round 407 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1490803500,
+    "relativeTimeSeconds": 277551132
+  },
+  "problems": [
+    {
+      "contestId": 789,
+      "index": "B",
+      "name": "Masha and geometric depression",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 789,
+      "index": "A",
+      "name": "Anastasia and pebbles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

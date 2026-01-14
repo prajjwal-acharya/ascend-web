@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 356,
+    "name": "Codeforces Round 207 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1381838400,
+    "relativeTimeSeconds": 386516232
+  },
+  "problems": [
+    {
+      "contestId": 356,
+      "index": "E",
+      "name": "Xenia and String Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 356,
+      "index": "D",
+      "name": "Bags and Coins",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 356,
+      "index": "C",
+      "name": "Compartments",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 356,
+      "index": "B",
+      "name": "Xenia and Hamming",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 356,
+      "index": "A",
+      "name": "Knight Tournament",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    }
+  ]
+}

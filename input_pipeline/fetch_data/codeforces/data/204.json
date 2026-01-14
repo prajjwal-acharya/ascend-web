@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 204,
+    "name": "Codeforces Round 129 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1342020600,
+    "relativeTimeSeconds": 426334033
+  },
+  "problems": [
+    {
+      "contestId": 204,
+      "index": "E",
+      "name": "Little Elephant and Strings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "implementation",
+        "string suffix structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 204,
+      "index": "D",
+      "name": "Little Elephant and Retro Strings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 204,
+      "index": "C",
+      "name": "Little Elephant and Furik and Rubik",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 204,
+      "index": "B",
+      "name": "Little Elephant and Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 204,
+      "index": "A",
+      "name": "Little Elephant and Interval",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp"
+      ]
+    }
+  ]
+}

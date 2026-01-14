@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 446,
+    "name": "Codeforces Round #FF (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1405256400,
+    "relativeTimeSeconds": 363098232
+  },
+  "problems": [
+    {
+      "contestId": 446,
+      "index": "E",
+      "name": "DZY Loves Bridges",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 446,
+      "index": "D",
+      "name": "DZY Loves Games",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "math",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 446,
+      "index": "C",
+      "name": "DZY Loves Fibonacci Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 446,
+      "index": "B",
+      "name": "DZY Loves Modification",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 446,
+      "index": "A",
+      "name": "DZY Loves Sequences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

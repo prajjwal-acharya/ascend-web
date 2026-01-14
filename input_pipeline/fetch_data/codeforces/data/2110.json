@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 2110,
+    "name": "Codeforces Round 1026 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1748097300,
+    "relativeTimeSeconds": 20257332
+  },
+  "problems": [
+    {
+      "contestId": 2110,
+      "index": "F",
+      "name": "Faculty",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2110,
+      "index": "E",
+      "name": "Melody",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2110,
+      "index": "D",
+      "name": "Fewer Batteries",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 2110,
+      "index": "C",
+      "name": "Racing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2110,
+      "index": "B",
+      "name": "Down with Brackets",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2110,
+      "index": "A",
+      "name": "Fashionable Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

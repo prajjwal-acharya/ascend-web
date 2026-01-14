@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 788,
+    "name": "Codeforces Round 407 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1490803500,
+    "relativeTimeSeconds": 277551132
+  },
+  "problems": [
+    {
+      "contestId": 788,
+      "index": "E",
+      "name": "New task",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 788,
+      "index": "D",
+      "name": "Finding lines",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 788,
+      "index": "C",
+      "name": "The Great Mixing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 788,
+      "index": "B",
+      "name": "Weird journey",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 788,
+      "index": "A",
+      "name": "Functions again",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "two pointers"
+      ]
+    }
+  ]
+}

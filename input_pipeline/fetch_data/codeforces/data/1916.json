@@ -1,0 +1,142 @@
+{
+  "contest": {
+    "id": 1916,
+    "name": "Good Bye 2023",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1703947800,
+    "relativeTimeSeconds": 64406832
+  },
+  "problems": [
+    {
+      "contestId": 1916,
+      "index": "H2",
+      "name": "Matrix Rank (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "matrices",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "H1",
+      "name": "Matrix Rank (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "G",
+      "name": "Optimizations From Chelsu",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "F",
+      "name": "Group Division",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "E",
+      "name": "Happy Life in University",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "D",
+      "name": "Mathematical Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "C",
+      "name": "Training Before the Olympiad",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "B",
+      "name": "Two Divisors",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1916,
+      "index": "A",
+      "name": "2023",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

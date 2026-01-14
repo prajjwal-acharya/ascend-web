@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1199,
+    "name": "Codeforces Round 576 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1564497300,
+    "relativeTimeSeconds": 203857332
+  },
+  "problems": [
+    {
+      "contestId": 1199,
+      "index": "B",
+      "name": "Water Lily",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1199,
+      "index": "A",
+      "name": "City Day",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

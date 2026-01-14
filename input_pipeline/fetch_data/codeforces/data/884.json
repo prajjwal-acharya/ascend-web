@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 884,
+    "name": "Educational Codeforces Round 31",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1509113100,
+    "relativeTimeSeconds": 259241532
+  },
+  "problems": [
+    {
+      "contestId": 884,
+      "index": "F",
+      "name": "Anti-Palindromize",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "flows",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 884,
+      "index": "E",
+      "name": "Binary Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 884,
+      "index": "D",
+      "name": "Boxes And Balls",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 884,
+      "index": "C",
+      "name": "Bertown Subway",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 884,
+      "index": "B",
+      "name": "Japanese Crosswords Strike Back",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 884,
+      "index": "A",
+      "name": "Book Reading",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 294,
+    "name": "Codeforces Round 178 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1365348600,
+    "relativeTimeSeconds": 403006033
+  },
+  "problems": [
+    {
+      "contestId": 294,
+      "index": "E",
+      "name": "Shaass the Great",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 294,
+      "index": "D",
+      "name": "Shaass and Painter Robot",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 294,
+      "index": "C",
+      "name": "Shaass and Lights",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 294,
+      "index": "B",
+      "name": "Shaass and Bookshelf",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 294,
+      "index": "A",
+      "name": "Shaass and Oskols",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

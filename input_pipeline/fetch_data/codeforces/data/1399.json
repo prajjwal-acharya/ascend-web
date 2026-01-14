@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1399,
+    "name": "Codeforces Round 661 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1596638100,
+    "relativeTimeSeconds": 171716532
+  },
+  "problems": [
+    {
+      "contestId": 1399,
+      "index": "F",
+      "name": "Yet Another Segments Subset",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "E2",
+      "name": "Weights Division (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "greedy",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "E1",
+      "name": "Weights Division (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "D",
+      "name": "Binary String To Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "C",
+      "name": "Boats Competition",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "B",
+      "name": "Gifts Fixing",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1399,
+      "index": "A",
+      "name": "Remove Smallest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

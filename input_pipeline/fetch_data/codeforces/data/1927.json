@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1927,
+    "name": "Codeforces Round 923 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1707230700,
+    "relativeTimeSeconds": 61123932
+  },
+  "problems": [
+    {
+      "contestId": 1927,
+      "index": "G",
+      "name": "Paint Charges",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "F",
+      "name": "Microcycle",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "E",
+      "name": "Klever Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "D",
+      "name": "Find the Different Ones!",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "C",
+      "name": "Choose the Different Ones!",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "B",
+      "name": "Following the String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1927,
+      "index": "A",
+      "name": "Make it White",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

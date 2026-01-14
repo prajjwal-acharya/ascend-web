@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1257,
+    "name": "Educational Codeforces Round 76 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1573655700,
+    "relativeTimeSeconds": 194698932
+  },
+  "problems": [
+    {
+      "contestId": 1257,
+      "index": "G",
+      "name": "Divisor Set",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "divide and conquer",
+        "fft",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "F",
+      "name": "Make Them Similar",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "E",
+      "name": "The Contest",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "D",
+      "name": "Yet Another Monster Killing Problem",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "C",
+      "name": "Dominated Subarray",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "B",
+      "name": "Magic Stick",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1257,
+      "index": "A",
+      "name": "Two Rival Students",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

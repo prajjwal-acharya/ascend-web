@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1170,
+    "name": "Kotlin Heroes: Episode 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1559054100,
+    "relativeTimeSeconds": 209300532
+  },
+  "problems": [
+    {
+      "contestId": 1170,
+      "index": "I",
+      "name": "Good Subsets",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "H",
+      "name": "Longest Saw",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "G",
+      "name": "Graph Decomposition",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "F",
+      "name": "Wheels",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "E",
+      "name": "Sliding Doors",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "D",
+      "name": "Decoding of Integer Sequences",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "C",
+      "name": "Minus and Minus Give Plus",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "B",
+      "name": "Bad Days",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1170,
+      "index": "A",
+      "name": "Three Integers Again",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "math"
+      ]
+    }
+  ]
+}

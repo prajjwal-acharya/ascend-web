@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1103,
+    "name": "Codeforces Round 534 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1548167700,
+    "relativeTimeSeconds": 220186932
+  },
+  "problems": [
+    {
+      "contestId": 1103,
+      "index": "E",
+      "name": "Radix sum",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1103,
+      "index": "D",
+      "name": "Professional layer",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1103,
+      "index": "C",
+      "name": "Johnny Solving",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1103,
+      "index": "B",
+      "name": "Game with modulo",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1103,
+      "index": "A",
+      "name": "Grid game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 843,
+    "name": "AIM Tech Round 4 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1503592500,
+    "relativeTimeSeconds": 264762132
+  },
+  "problems": [
+    {
+      "contestId": 843,
+      "index": "E",
+      "name": "Maximum Flow",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3000,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 843,
+      "index": "D",
+      "name": "Dynamic Shortest Path",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3400,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 843,
+      "index": "C",
+      "name": "Upgrading Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 843,
+      "index": "B",
+      "name": "Interactive LowerBound",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 843,
+      "index": "A",
+      "name": "Sorting by Subsequences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

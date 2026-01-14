@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1657,
+    "name": "Educational Codeforces Round 125 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1647960300,
+    "relativeTimeSeconds": 120394332
+  },
+  "problems": [
+    {
+      "contestId": 1657,
+      "index": "F",
+      "name": "Words on Tree",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1657,
+      "index": "E",
+      "name": "Star MST",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graph matchings",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1657,
+      "index": "D",
+      "name": "For Gamers. By Gamers.",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1657,
+      "index": "C",
+      "name": "Bracket Sequence Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1657,
+      "index": "B",
+      "name": "XY Sequence",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1657,
+      "index": "A",
+      "name": "Integer Moves",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

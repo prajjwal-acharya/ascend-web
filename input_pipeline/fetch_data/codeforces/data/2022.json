@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 2022,
+    "name": "Codeforces Round 978 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1728848100,
+    "relativeTimeSeconds": 39506532
+  },
+  "problems": [
+    {
+      "contestId": 2022,
+      "index": "E2",
+      "name": "Billetes MX (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "E1",
+      "name": "Billetes MX (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "2-sat",
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "D2",
+      "name": "Asesino (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "D1",
+      "name": "Asesino (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "C",
+      "name": "Gerrymandering",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "B",
+      "name": "Kar Salesman",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2022,
+      "index": "A",
+      "name": "Bus to P\u00e9njamo",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "contest": {
+    "id": 2063,
+    "name": "Codeforces Round 1000 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1737547500,
+    "relativeTimeSeconds": 30807132
+  },
+  "problems": [
+    {
+      "contestId": 2063,
+      "index": "F2",
+      "name": "Counting Is Not Fun (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "F1",
+      "name": "Counting Is Not Fun (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "hashing",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "E",
+      "name": "Triangle Tree",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "D",
+      "name": "Game With Triangles",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "C",
+      "name": "Remove Exactly Two",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "B",
+      "name": "Subsequence Update",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2063,
+      "index": "A",
+      "name": "Minimal Coprime",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

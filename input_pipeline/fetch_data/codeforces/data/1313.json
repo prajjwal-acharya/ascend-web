@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1313,
+    "name": "Codeforces Round 622 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1582448700,
+    "relativeTimeSeconds": 185905932
+  },
+  "problems": [
+    {
+      "contestId": 1313,
+      "index": "E",
+      "name": "Concatenation with intersection",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1313,
+      "index": "D",
+      "name": "Happy New Year",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1313,
+      "index": "C2",
+      "name": "Skyscrapers (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1313,
+      "index": "C1",
+      "name": "Skyscrapers (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1313,
+      "index": "B",
+      "name": "Different Rules",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1313,
+      "index": "A",
+      "name": "Fast Food Restaurant",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

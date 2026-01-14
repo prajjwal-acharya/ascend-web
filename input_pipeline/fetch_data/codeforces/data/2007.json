@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 2007,
+    "name": "Codeforces Round 969 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1725028500,
+    "relativeTimeSeconds": 43326132
+  },
+  "problems": [
+    {
+      "contestId": 2007,
+      "index": "C",
+      "name": "Dora and C++",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2007,
+      "index": "B",
+      "name": "Index and Maximum Value",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2007,
+      "index": "A",
+      "name": "Dora's Set",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 766,
+    "name": "Codeforces Round 396 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1486487100,
+    "relativeTimeSeconds": 281867532
+  },
+  "problems": [
+    {
+      "contestId": 766,
+      "index": "E",
+      "name": "Mahmoud and a xor trip",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 766,
+      "index": "D",
+      "name": "Mahmoud and a Dictionary",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 766,
+      "index": "C",
+      "name": "Mahmoud and a Message",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 766,
+      "index": "B",
+      "name": "Mahmoud and a Triangle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 766,
+      "index": "A",
+      "name": "Mahmoud and Longest Uncommon Subsequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

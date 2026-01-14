@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1926,
+    "name": "Codeforces Round 928 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1708353300,
+    "relativeTimeSeconds": 60001332
+  },
+  "problems": [
+    {
+      "contestId": 1926,
+      "index": "G",
+      "name": "Vlad and Trouble at MIT",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "F",
+      "name": "Vlad and Avoiding X",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "E",
+      "name": "Vlad and an Odd Ordering",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "D",
+      "name": "Vlad and Division",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "C",
+      "name": "Vlad and a Sum of Sum of Digits",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "B",
+      "name": "Vlad and Shapes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1926,
+      "index": "A",
+      "name": "Vlad and the Best of Five",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 441,
+    "name": "Codeforces Round 252 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1402241400,
+    "relativeTimeSeconds": 366113232
+  },
+  "problems": [
+    {
+      "contestId": 441,
+      "index": "E",
+      "name": "Valera and Number",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 441,
+      "index": "D",
+      "name": "Valera and Swaps",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "implementation",
+        "math",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 441,
+      "index": "C",
+      "name": "Valera and Tubes ",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 441,
+      "index": "B",
+      "name": "Valera and Fruits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 441,
+      "index": "A",
+      "name": "Valera and Antique Items",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

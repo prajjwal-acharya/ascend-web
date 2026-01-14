@@ -1,0 +1,121 @@
+{
+  "contest": {
+    "id": 1958,
+    "name": "Kotlin Heroes: Episode 10",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1715610900,
+    "relativeTimeSeconds": 52743732
+  },
+  "problems": [
+    {
+      "contestId": 1958,
+      "index": "J",
+      "name": "Necromancer",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "I",
+      "name": "Equal Trees",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "*special",
+        "graphs",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "H",
+      "name": "Composite Spells",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "G",
+      "name": "Observation Towers",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "F",
+      "name": "Narrow Paths",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "E",
+      "name": "Yet Another Permutation Constructive",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "D",
+      "name": "Staircase",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "C",
+      "name": "Firewood",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "B",
+      "name": "Clock in the Pool",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1958,
+      "index": "A",
+      "name": "1-3-5",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    }
+  ]
+}

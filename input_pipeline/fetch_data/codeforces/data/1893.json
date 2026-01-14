@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 1893,
+    "name": "Codeforces Round 908 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1699367700,
+    "relativeTimeSeconds": 68986932
+  },
+  "problems": [
+    {
+      "contestId": 1893,
+      "index": "E",
+      "name": "Cacti Symphony",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1893,
+      "index": "D",
+      "name": "Colorful Constructive",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1893,
+      "index": "C",
+      "name": "Freedom of Choice",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1893,
+      "index": "B",
+      "name": "Neutral Tonality",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1893,
+      "index": "A",
+      "name": "Anonymous Informant",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    }
+  ]
+}

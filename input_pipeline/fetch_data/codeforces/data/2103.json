@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 2103,
+    "name": "Codeforces Round 1019 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1745246100,
+    "relativeTimeSeconds": 23108532
+  },
+  "problems": [
+    {
+      "contestId": 2103,
+      "index": "F",
+      "name": "Maximize Nor",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dp",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2103,
+      "index": "E",
+      "name": "Keep the Sum",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2103,
+      "index": "D",
+      "name": "Local Construction",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2103,
+      "index": "C",
+      "name": "Median Splits",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2103,
+      "index": "B",
+      "name": "Binary Typewriter",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2103,
+      "index": "A",
+      "name": "Common Multiple",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

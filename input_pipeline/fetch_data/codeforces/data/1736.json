@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1736,
+    "name": "Codeforces Round 825 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1665412500,
+    "relativeTimeSeconds": 102942132
+  },
+  "problems": [
+    {
+      "contestId": 1736,
+      "index": "E",
+      "name": "Swap and Take",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1736,
+      "index": "D",
+      "name": "Equal Binary Subsequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1736,
+      "index": "C2",
+      "name": "Good Subarrays (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1736,
+      "index": "C1",
+      "name": "Good Subarrays (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "schedules",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1736,
+      "index": "B",
+      "name": "Playing with GCD",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1736,
+      "index": "A",
+      "name": "Make A Equal to B",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

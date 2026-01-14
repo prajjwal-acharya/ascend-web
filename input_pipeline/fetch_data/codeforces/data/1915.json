@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1915,
+    "name": "Codeforces Round 918 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1703774100,
+    "relativeTimeSeconds": 64580532
+  },
+  "problems": [
+    {
+      "contestId": 1915,
+      "index": "G",
+      "name": "Bicycles",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "F",
+      "name": "Greetings",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "E",
+      "name": "Romantic Glasses",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "D",
+      "name": "Unnatural Language Processing",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "C",
+      "name": "Can I Square?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "B",
+      "name": "Not Quite Latin Square",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1915,
+      "index": "A",
+      "name": "Odd One Out",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "implementation"
+      ]
+    }
+  ]
+}

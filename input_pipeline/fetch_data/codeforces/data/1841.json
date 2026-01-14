@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1841,
+    "name": "Educational Codeforces Round 150 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1686580500,
+    "relativeTimeSeconds": 81774132
+  },
+  "problems": [
+    {
+      "contestId": 1841,
+      "index": "F",
+      "name": "Monocarp and a Strategic Game",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1841,
+      "index": "E",
+      "name": "Fill the Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1841,
+      "index": "D",
+      "name": "Pairs of Segments",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1841,
+      "index": "C",
+      "name": "Ranom Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1841,
+      "index": "B",
+      "name": "Keep it Beautiful",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1841,
+      "index": "A",
+      "name": "Game with Board",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "games"
+      ]
+    }
+  ]
+}

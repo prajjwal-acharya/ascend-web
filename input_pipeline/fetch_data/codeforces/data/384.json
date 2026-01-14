@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 384,
+    "name": "Codeforces Round 225 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1390231800,
+    "relativeTimeSeconds": 378122832
+  },
+  "problems": [
+    {
+      "contestId": 384,
+      "index": "B",
+      "name": "Multitasking",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 384,
+      "index": "A",
+      "name": "Coder",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

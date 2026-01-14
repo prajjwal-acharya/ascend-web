@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1941,
+    "name": "Codeforces Round 933 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1710167700,
+    "relativeTimeSeconds": 58186932
+  },
+  "problems": [
+    {
+      "contestId": 1941,
+      "index": "G",
+      "name": "Rudolf and Subway",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "F",
+      "name": "Rudolf and Imbalance",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "E",
+      "name": "Rudolf and k Bridges",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "D",
+      "name": "Rudolf and the Ball Game",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "C",
+      "name": "Rudolf and the Ugly String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "B",
+      "name": "Rudolf and 121",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1941,
+      "index": "A",
+      "name": "Rudolf and the Ticket",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

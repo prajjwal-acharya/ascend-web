@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1417,
+    "name": "Codeforces Round 673 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1601219100,
+    "relativeTimeSeconds": 167135532
+  },
+  "problems": [
+    {
+      "contestId": 1417,
+      "index": "B",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1417,
+      "index": "A",
+      "name": "Copy-paste",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

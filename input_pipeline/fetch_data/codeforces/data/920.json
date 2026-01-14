@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 920,
+    "name": "Educational Codeforces Round 37 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1517582100,
+    "relativeTimeSeconds": 250772532
+  },
+  "problems": [
+    {
+      "contestId": 920,
+      "index": "G",
+      "name": "List Of Integers",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "F",
+      "name": "SUM and REPLACE",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "E",
+      "name": "Connected Components?",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "D",
+      "name": "Tanks",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "C",
+      "name": "Swap Adjacent Elements",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "B",
+      "name": "Tea Queue",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 920,
+      "index": "A",
+      "name": "Water The Garden",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

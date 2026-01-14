@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1857,
+    "name": "Codeforces Round 891 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1691418900,
+    "relativeTimeSeconds": 76935732
+  },
+  "problems": [
+    {
+      "contestId": 1857,
+      "index": "G",
+      "name": "Counting Graphs",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "F",
+      "name": "Sum and Product",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "E",
+      "name": "Power of Points",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "D",
+      "name": "Strong Vertices",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "C",
+      "name": "Assembly via Minimums",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "B",
+      "name": "Maximum Rounding",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1857,
+      "index": "A",
+      "name": "Array Coloring",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

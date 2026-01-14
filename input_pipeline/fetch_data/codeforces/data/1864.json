@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": 1864,
+    "name": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1693060500,
+    "relativeTimeSeconds": 75294132
+  },
+  "problems": [
+    {
+      "contestId": 1864,
+      "index": "I",
+      "name": "Future Dominators",
+      "type": "PROGRAMMING",
+      "points": 4250.0,
+      "rating": 3500,
+      "tags": [
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "H",
+      "name": "Asterism Stream",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "G",
+      "name": "Magic Square",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "F",
+      "name": "Exotic Queries",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "E",
+      "name": "Guess Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "games",
+        "math",
+        "probabilities",
+        "sortings",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "D",
+      "name": "Matrix Cascade",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "C",
+      "name": "Divisor Chain",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "B",
+      "name": "Swap and Reverse",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1864,
+      "index": "A",
+      "name": "Increasing and Decreasing",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

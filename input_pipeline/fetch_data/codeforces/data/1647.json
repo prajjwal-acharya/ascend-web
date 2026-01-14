@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1647,
+    "name": "Codeforces Round 777 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1647009300,
+    "relativeTimeSeconds": 121345332
+  },
+  "problems": [
+    {
+      "contestId": 1647,
+      "index": "F",
+      "name": "Madoka and Laziness",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1647,
+      "index": "E",
+      "name": "Madoka and the Sixth-graders",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1647,
+      "index": "D",
+      "name": "Madoka and the Best School in Russia",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1647,
+      "index": "C",
+      "name": "Madoka and Childish Pranks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1647,
+      "index": "B",
+      "name": "Madoka and the Elegant Gift",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1647,
+      "index": "A",
+      "name": "Madoka and Math Dad",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

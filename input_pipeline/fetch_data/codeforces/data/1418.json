@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1418,
+    "name": "Educational Codeforces Round 95 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1600094100,
+    "relativeTimeSeconds": 168260532
+  },
+  "problems": [
+    {
+      "contestId": 1418,
+      "index": "G",
+      "name": "Three Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "hashing",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "F",
+      "name": "Equal Product",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "E",
+      "name": "Expected Damage",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "D",
+      "name": "Trash Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "C",
+      "name": "Mortal Kombat Tower",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "B",
+      "name": "Negative Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1418,
+      "index": "A",
+      "name": "Buying Torches",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

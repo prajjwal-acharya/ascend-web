@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1023,
+    "name": "Codeforces Round 504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1534516500,
+    "relativeTimeSeconds": 233838132
+  },
+  "problems": [
+    {
+      "contestId": 1023,
+      "index": "G",
+      "name": "Pisces",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "flows",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "F",
+      "name": "Mobile Phone Network",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "E",
+      "name": "Down or Right",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "D",
+      "name": "Array Restoration",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "C",
+      "name": "Bracket Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "B",
+      "name": "Pair of Toys",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1023,
+      "index": "A",
+      "name": "Single Wildcard Pattern Matching",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

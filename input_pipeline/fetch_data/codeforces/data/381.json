@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 381,
+    "name": "Codeforces Round 223 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1389540600,
+    "relativeTimeSeconds": 378814032
+  },
+  "problems": [
+    {
+      "contestId": 381,
+      "index": "B",
+      "name": "Sereja and Stairs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 381,
+      "index": "A",
+      "name": "Sereja and Dima",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

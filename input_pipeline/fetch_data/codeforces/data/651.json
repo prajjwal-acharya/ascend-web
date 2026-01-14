@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 651,
+    "name": "Codeforces Round 345 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1457342700,
+    "relativeTimeSeconds": 311011932
+  },
+  "problems": [
+    {
+      "contestId": 651,
+      "index": "B",
+      "name": "Beautiful Paintings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 651,
+      "index": "A",
+      "name": "Joysticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

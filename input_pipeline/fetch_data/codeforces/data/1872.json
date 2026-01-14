@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1872,
+    "name": "Codeforces Round 895 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1694097300,
+    "relativeTimeSeconds": 74257332
+  },
+  "problems": [
+    {
+      "contestId": 1872,
+      "index": "G",
+      "name": "Replace With Product",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "F",
+      "name": "Selling a Menagerie",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "E",
+      "name": "Data Structures Fan",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "D",
+      "name": "Plus Minus Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "C",
+      "name": "Non-coprime Split",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "B",
+      "name": "The Corridor or There and Back Again",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1872,
+      "index": "A",
+      "name": "Two Vessels",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

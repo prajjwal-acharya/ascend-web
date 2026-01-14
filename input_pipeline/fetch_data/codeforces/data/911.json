@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 911,
+    "name": "Educational Codeforces Round 35 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1514469900,
+    "relativeTimeSeconds": 253884732
+  },
+  "problems": [
+    {
+      "contestId": 911,
+      "index": "G",
+      "name": "Mass Change Queries",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "F",
+      "name": "Tree Destruction",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "E",
+      "name": "Stack Sorting",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "D",
+      "name": "Inversion Counting",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "C",
+      "name": "Three Garlands",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "B",
+      "name": "Two Cakes",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 911,
+      "index": "A",
+      "name": "Nearest Minimums",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

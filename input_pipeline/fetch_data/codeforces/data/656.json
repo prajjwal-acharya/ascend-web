@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 656,
+    "name": "April Fools Day Contest 2016",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1459526400,
+    "relativeTimeSeconds": 308828232
+  },
+  "problems": [
+    {
+      "contestId": 656,
+      "index": "G",
+      "name": "You're a Professional",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "F",
+      "name": "Ace It!",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "E",
+      "name": "Out of Controls",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "D",
+      "name": "Rosetta Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "C",
+      "name": "Without Text",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "B",
+      "name": "Scrambled",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 656,
+      "index": "A",
+      "name": "Da Vinci Powers",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

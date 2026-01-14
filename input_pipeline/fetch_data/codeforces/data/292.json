@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 292,
+    "name": "Croc Champ 2013 - Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1366040100,
+    "relativeTimeSeconds": 402314533
+  },
+  "problems": [
+    {
+      "contestId": 292,
+      "index": "E",
+      "name": "Copying Data",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 292,
+      "index": "D",
+      "name": "Connected Components",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 292,
+      "index": "C",
+      "name": "Beautiful IP Addresses",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 292,
+      "index": "B",
+      "name": "Network Topology",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 292,
+      "index": "A",
+      "name": "SMSC",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

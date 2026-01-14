@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1931,
+    "name": "Codeforces Round 925 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1707834900,
+    "relativeTimeSeconds": 60519732
+  },
+  "problems": [
+    {
+      "contestId": 1931,
+      "index": "G",
+      "name": "One-Dimensional Puzzle",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "F",
+      "name": "Chat Screenshots",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "E",
+      "name": "Anna and the Valentine's Day Gift",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "D",
+      "name": "Divisible Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "C",
+      "name": "Make Equal Again",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "B",
+      "name": "Make Equal",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1931,
+      "index": "A",
+      "name": "Recovering a Small String",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    }
+  ]
+}

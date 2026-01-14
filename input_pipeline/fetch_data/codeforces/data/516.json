@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 516,
+    "name": "Codeforces Round 292 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1424190900,
+    "relativeTimeSeconds": 344163732
+  },
+  "problems": [
+    {
+      "contestId": 516,
+      "index": "E",
+      "name": "Drazil and His Happy Friends",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 516,
+      "index": "D",
+      "name": "Drazil and Morning Exercise",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "trees",
+        "two pointers"
+      ]
+    }
+  ]
+}

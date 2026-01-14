@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 84,
+    "name": "Codeforces Beta Round 72 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1305299400,
+    "relativeTimeSeconds": 463055233
+  },
+  "problems": [
+    {
+      "contestId": 84,
+      "index": "C",
+      "name": "Biathlon",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 84,
+      "index": "A",
+      "name": "Toy Army",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

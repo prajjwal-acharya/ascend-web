@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1469,
+    "name": "Educational Codeforces Round 101 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1609166100,
+    "relativeTimeSeconds": 159188532
+  },
+  "problems": [
+    {
+      "contestId": 1469,
+      "index": "F",
+      "name": "Power Sockets",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1469,
+      "index": "E",
+      "name": "A Bit Similar",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1469,
+      "index": "D",
+      "name": "Ceil Divisions",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1469,
+      "index": "C",
+      "name": "Building a Fence",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1469,
+      "index": "B",
+      "name": "Red and Blue",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1469,
+      "index": "A",
+      "name": "Regular Bracket Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

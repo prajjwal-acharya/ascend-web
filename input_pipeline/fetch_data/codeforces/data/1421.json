@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1421,
+    "name": "Codeforces Round 676 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1603011900,
+    "relativeTimeSeconds": 165342732
+  },
+  "problems": [
+    {
+      "contestId": 1421,
+      "index": "E",
+      "name": "Swedish Heroes",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1421,
+      "index": "D",
+      "name": "Hexagons",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1421,
+      "index": "C",
+      "name": "Palindromifier",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1421,
+      "index": "B",
+      "name": "Putting Bricks in the Wall",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1421,
+      "index": "A",
+      "name": "XORwice",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

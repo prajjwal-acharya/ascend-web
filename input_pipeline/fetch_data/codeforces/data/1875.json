@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 1875,
+    "name": "Codeforces Round 901 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1696084500,
+    "relativeTimeSeconds": 72270132
+  },
+  "problems": [
+    {
+      "contestId": 1875,
+      "index": "D",
+      "name": "Jellyfish and Mex",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1875,
+      "index": "C",
+      "name": "Jellyfish and Green Apple",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1875,
+      "index": "A",
+      "name": "Jellyfish and Undertale",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

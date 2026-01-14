@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1196,
+    "name": "Codeforces Round 575 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1563978900,
+    "relativeTimeSeconds": 204375732
+  },
+  "problems": [
+    {
+      "contestId": 1196,
+      "index": "F",
+      "name": "K-th Path",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "E",
+      "name": "Connected Component on a Chessboard",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "D2",
+      "name": "RGB Substring (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "D1",
+      "name": "RGB Substring (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "C",
+      "name": "Robot Breakout",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "B",
+      "name": "Odd Sum Segments",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1196,
+      "index": "A",
+      "name": "Three Piles of Candies",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

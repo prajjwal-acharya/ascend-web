@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1113,
+    "name": "Codeforces Round 539 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1550334900,
+    "relativeTimeSeconds": 218019732
+  },
+  "problems": [
+    {
+      "contestId": 1113,
+      "index": "B",
+      "name": "Sasha and Magnetic Machines",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1113,
+      "index": "A",
+      "name": "Sasha and His Trip",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

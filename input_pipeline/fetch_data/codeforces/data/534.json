@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 534,
+    "name": "Codeforces Round 298 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1428854400,
+    "relativeTimeSeconds": 339500232
+  },
+  "problems": [
+    {
+      "contestId": 534,
+      "index": "F",
+      "name": "Simplified Nonogram",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "hashing",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 534,
+      "index": "E",
+      "name": "Berland Local Positioning System",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 534,
+      "index": "D",
+      "name": "Handshakes",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 534,
+      "index": "C",
+      "name": "Polycarpus' Dice",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 534,
+      "index": "B",
+      "name": "Covered Path",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 534,
+      "index": "A",
+      "name": "Exam",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

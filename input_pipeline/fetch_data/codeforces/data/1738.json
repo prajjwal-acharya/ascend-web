@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1738,
+    "name": "Codeforces Global Round 22",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1664548500,
+    "relativeTimeSeconds": 103806132
+  },
+  "problems": [
+    {
+      "contestId": 1738,
+      "index": "H",
+      "name": "Palindrome Addicts",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "G",
+      "name": "Anti-Increasing Addicts",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "F",
+      "name": "Connectivity Addicts",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "interactive",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "E",
+      "name": "Balance Addicts",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "D",
+      "name": "Permutation Addicts",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "C",
+      "name": "Even Number Addicts",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "B",
+      "name": "Prefix Sum Addicts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1738,
+      "index": "A",
+      "name": "Glory Addicts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

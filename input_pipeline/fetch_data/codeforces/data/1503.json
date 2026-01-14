@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1503,
+    "name": "Codeforces Round 712 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1617460500,
+    "relativeTimeSeconds": 150894132
+  },
+  "problems": [
+    {
+      "contestId": 1503,
+      "index": "F",
+      "name": "Balance the Cards",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "geometry",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1503,
+      "index": "E",
+      "name": "2-Coloring",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1503,
+      "index": "D",
+      "name": "Flip the Cards",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1503,
+      "index": "C",
+      "name": "Travelling Salesman Problem",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1503,
+      "index": "B",
+      "name": "3-Coloring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1503,
+      "index": "A",
+      "name": "Balance the Bits",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

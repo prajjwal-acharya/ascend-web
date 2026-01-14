@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 2139,
+    "name": "Codeforces Round 1048 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1757342100,
+    "relativeTimeSeconds": 11012532
+  },
+  "problems": [
+    {
+      "contestId": 2139,
+      "index": "B",
+      "name": "Cake Collection",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2139,
+      "index": "A",
+      "name": "Maple and Multiplication",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

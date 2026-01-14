@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 560,
+    "name": "Codeforces Round 313 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1437573600,
+    "relativeTimeSeconds": 330781032
+  },
+  "problems": [
+    {
+      "contestId": 560,
+      "index": "B",
+      "name": "Gerald is into Art",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 560,
+      "index": "A",
+      "name": "Currency System in Geraldion",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 113,
+    "name": "Codeforces Beta Round 86 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1315494000,
+    "relativeTimeSeconds": 452860633
+  },
+  "problems": [
+    {
+      "contestId": 113,
+      "index": "E",
+      "name": "Sleeping",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 113,
+      "index": "D",
+      "name": "Museum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "math",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 113,
+      "index": "C",
+      "name": "Double Happiness",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 113,
+      "index": "B",
+      "name": "Petr#",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 113,
+      "index": "A",
+      "name": "Grammar Lessons",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

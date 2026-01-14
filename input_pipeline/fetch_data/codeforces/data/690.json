@@ -1,0 +1,171 @@
+{
+  "contest": {
+    "id": 690,
+    "name": "Helvetic Coding Contest 2016 online mirror (teams, unrated)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 16200,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1468137600,
+    "relativeTimeSeconds": 300217032
+  },
+  "problems": [
+    {
+      "contestId": 690,
+      "index": "F3",
+      "name": "Tree of Life (hard)",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "trees"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "F2",
+      "name": "Tree of Life (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "F1",
+      "name": "Tree of Life (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "E2",
+      "name": "Photographs (II)",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "E1",
+      "name": "Photographs (I)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "D3",
+      "name": "The Wall (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "D2",
+      "name": "The Wall (medium)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "D1",
+      "name": "The Wall (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "C3",
+      "name": "Brain Network (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "trees"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "C2",
+      "name": "Brain Network (medium)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "C1",
+      "name": "Brain Network (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "B3",
+      "name": "Recover Polygon (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "B2",
+      "name": "Recover Polygon (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 690,
+      "index": "B1",
+      "name": "Recover Polygon (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "A3",
+      "name": "Collective Mindsets (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "A2",
+      "name": "Collective Mindsets (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 690,
+      "index": "A1",
+      "name": "Collective Mindsets (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": []
+    }
+  ]
+}

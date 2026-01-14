@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 172,
+    "name": "Croc Champ 2012 - Qualification Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1333440000,
+    "relativeTimeSeconds": 434914633
+  },
+  "problems": [
+    {
+      "contestId": 172,
+      "index": "E",
+      "name": "BHTML+BCSS",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 172,
+      "index": "D",
+      "name": "Calendar Reform",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 172,
+      "index": "C",
+      "name": "Bus",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 172,
+      "index": "B",
+      "name": "Pseudorandom Sequence Period",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 172,
+      "index": "A",
+      "name": "Phone Code",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "*special",
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

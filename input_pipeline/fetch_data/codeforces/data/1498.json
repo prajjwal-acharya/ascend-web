@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1498,
+    "name": "CodeCraft-21 and Codeforces Round 711 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1617028500,
+    "relativeTimeSeconds": 151326132
+  },
+  "problems": [
+    {
+      "contestId": 1498,
+      "index": "F",
+      "name": "Christmas Game",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "games",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1498,
+      "index": "E",
+      "name": "Two Houses",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1498,
+      "index": "D",
+      "name": "Bananas in a Microwave",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1498,
+      "index": "C",
+      "name": "Planar Reflections",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1498,
+      "index": "B",
+      "name": "Box Fitting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1498,
+      "index": "A",
+      "name": "GCD Sum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

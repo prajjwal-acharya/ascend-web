@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 916,
+    "name": "Codeforces Round 457 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1516372500,
+    "relativeTimeSeconds": 251982132
+  },
+  "problems": [
+    {
+      "contestId": 916,
+      "index": "E",
+      "name": "Jamie and Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 916,
+      "index": "D",
+      "name": "Jamie and To-do List",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 916,
+      "index": "C",
+      "name": "Jamie and Interesting Graph",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 916,
+      "index": "B",
+      "name": "Jamie and Binary Sequence (changed after round)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 916,
+      "index": "A",
+      "name": "Jamie and Alarm Snooze",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

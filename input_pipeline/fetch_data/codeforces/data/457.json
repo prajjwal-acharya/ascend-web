@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 457,
+    "name": "MemSQL Start[c]UP 2.0 - Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1407690000,
+    "relativeTimeSeconds": 360664632
+  },
+  "problems": [
+    {
+      "contestId": 457,
+      "index": "F",
+      "name": "An easy problem about trees",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 457,
+      "index": "E",
+      "name": "Flow Optimality",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "math"
+      ]
+    },
+    {
+      "contestId": 457,
+      "index": "D",
+      "name": "Bingo!",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 457,
+      "index": "C",
+      "name": "Elections",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 457,
+      "index": "B",
+      "name": "Distributed Join",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 457,
+      "index": "A",
+      "name": "Golden System",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "math",
+        "meet-in-the-middle"
+      ]
+    }
+  ]
+}

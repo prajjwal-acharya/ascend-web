@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 1145,
+    "name": "April Fools Day Contest 2019",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1554131100,
+    "relativeTimeSeconds": 214223532
+  },
+  "problems": [
+    {
+      "contestId": 1145,
+      "index": "G",
+      "name": "AI Takeover",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1145,
+      "index": "F",
+      "name": "Neat Words",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1145,
+      "index": "E",
+      "name": "Fourier Doodles",
+      "type": "PROGRAMMING",
+      "tags": []
+    },
+    {
+      "contestId": 1145,
+      "index": "D",
+      "name": "Pigeon d'Or",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1145,
+      "index": "C",
+      "name": "Mystery Circuit",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1145,
+      "index": "B",
+      "name": "Kanban Numbers",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1145,
+      "index": "A",
+      "name": "Thanos Sort",
+      "type": "PROGRAMMING",
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

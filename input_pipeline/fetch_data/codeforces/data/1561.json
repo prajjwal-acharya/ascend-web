@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": 1561,
+    "name": "Codeforces Round 740 (Div. 2, based on VK Cup 2021 - Final (Engine))",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1629815700,
+    "relativeTimeSeconds": 138538932
+  },
+  "problems": [
+    {
+      "contestId": 1561,
+      "index": "D1",
+      "name": "Up the Strip (simplified version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1561,
+      "index": "C",
+      "name": "Deep Down Below",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1561,
+      "index": "A",
+      "name": "Simply Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

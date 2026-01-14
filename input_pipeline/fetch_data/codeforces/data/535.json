@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 535,
+    "name": "Codeforces Round 299 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1429029300,
+    "relativeTimeSeconds": 339325332
+  },
+  "problems": [
+    {
+      "contestId": 535,
+      "index": "E",
+      "name": "Tavas and Pashmaks",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 535,
+      "index": "D",
+      "name": "Tavas and Malekas",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 535,
+      "index": "C",
+      "name": "Tavas and Karafs",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 535,
+      "index": "B",
+      "name": "Tavas and SaDDas",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 535,
+      "index": "A",
+      "name": "Tavas and Nafas",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1545,
+    "name": "Codeforces Round 732 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1626012300,
+    "relativeTimeSeconds": 142342332
+  },
+  "problems": [
+    {
+      "contestId": 1545,
+      "index": "F",
+      "name": "AquaMoon and Potatoes",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "E2",
+      "name": "AquaMoon and Time Stop (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "E1",
+      "name": "AquaMoon and Time Stop (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "D",
+      "name": "AquaMoon and Wrong Coordinate",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "C",
+      "name": "AquaMoon and Permutations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "2-sat",
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "B",
+      "name": "AquaMoon and Chess",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1545,
+      "index": "A",
+      "name": "AquaMoon and Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

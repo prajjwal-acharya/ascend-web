@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 319,
+    "name": "Codeforces Round 189 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1371992400,
+    "relativeTimeSeconds": 396362232
+  },
+  "problems": [
+    {
+      "contestId": 319,
+      "index": "E",
+      "name": "Ping-Pong",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 319,
+      "index": "D",
+      "name": "Have You Ever Heard About the Word?",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "greedy",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 319,
+      "index": "C",
+      "name": "Kalila and Dimna in the Logging Industry",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 319,
+      "index": "B",
+      "name": "Psychos in a Line",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 319,
+      "index": "A",
+      "name": "Malek Dance Club",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    }
+  ]
+}

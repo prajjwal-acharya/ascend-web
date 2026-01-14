@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 652,
+    "name": "Educational Codeforces Round 10",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1458910800,
+    "relativeTimeSeconds": 309443832
+  },
+  "problems": [
+    {
+      "contestId": 652,
+      "index": "F",
+      "name": "Ants on a Circle",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 652,
+      "index": "E",
+      "name": "Pursuit For Artifacts",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 652,
+      "index": "D",
+      "name": "Nested Segments",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 652,
+      "index": "C",
+      "name": "Foe Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 652,
+      "index": "B",
+      "name": "z-sort",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 652,
+      "index": "A",
+      "name": "Gabriel and Caterpillar",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

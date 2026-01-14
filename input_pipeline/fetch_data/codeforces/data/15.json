@@ -1,0 +1,68 @@
+{
+  "contest": {
+    "id": 15,
+    "name": "Codeforces Beta Round 15",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1275145200,
+    "relativeTimeSeconds": 493209433
+  },
+  "problems": [
+    {
+      "contestId": 15,
+      "index": "E",
+      "name": "Triangles",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 15,
+      "index": "D",
+      "name": "Map",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 15,
+      "index": "C",
+      "name": "Industrial Nim",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 15,
+      "index": "B",
+      "name": "Laser",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 15,
+      "index": "A",
+      "name": "Cottage Village",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

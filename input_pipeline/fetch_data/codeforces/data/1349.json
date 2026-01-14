@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1349,
+    "name": "Codeforces Round 641 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1589286900,
+    "relativeTimeSeconds": 179067732
+  },
+  "problems": [
+    {
+      "contestId": 1349,
+      "index": "F2",
+      "name": "Slime and Sequences (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "F1",
+      "name": "Slime and Sequences (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "E",
+      "name": "Slime and Hats",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "D",
+      "name": "Slime and Biscuits",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3200,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "C",
+      "name": "Orac and Game of Life",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "B",
+      "name": "Orac and Medians",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1349,
+      "index": "A",
+      "name": "Orac and LCM",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

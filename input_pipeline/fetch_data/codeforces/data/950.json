@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 950,
+    "name": "Codeforces Round 469 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1520583000,
+    "relativeTimeSeconds": 247771632
+  },
+  "problems": [
+    {
+      "contestId": 950,
+      "index": "B",
+      "name": "Intercepted Message",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 950,
+      "index": "A",
+      "name": "Left-handers, Right-handers and Ambidexters",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

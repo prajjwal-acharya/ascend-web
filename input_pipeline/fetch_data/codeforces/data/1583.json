@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1583,
+    "name": "Technocup 2022 - Elimination Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1634468700,
+    "relativeTimeSeconds": 133885932
+  },
+  "problems": [
+    {
+      "contestId": 1583,
+      "index": "H",
+      "name": "Omkar and Tours",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "G",
+      "name": "Omkar and Time Travel",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "F",
+      "name": "Defender of Childhood Dreams",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "E",
+      "name": "Moment of Bloom",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graph matchings",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "D",
+      "name": "Omkar and the Meaning of Life",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "C",
+      "name": "Omkar and Determination",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "B",
+      "name": "Omkar and Heavenly Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1583,
+      "index": "A",
+      "name": "Windblume Ode",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

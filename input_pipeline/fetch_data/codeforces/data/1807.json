@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1807,
+    "name": "Codeforces Round 859 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1679237700,
+    "relativeTimeSeconds": 89116932
+  },
+  "problems": [
+    {
+      "contestId": 1807,
+      "index": "G2",
+      "name": "Subsequence Addition (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "G1",
+      "name": "Subsequence Addition (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "F",
+      "name": "Bouncy Ball",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "E",
+      "name": "Interview",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "D",
+      "name": "Odd Queries",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "C",
+      "name": "Find and Replace",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "B",
+      "name": "Grab the Candies",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1807,
+      "index": "A",
+      "name": "Plus or Minus",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

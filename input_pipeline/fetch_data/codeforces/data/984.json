@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 984,
+    "name": "Codeforces Round 483 (Div. 2) [Thanks, Botan Investments and Victor Shaburov!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1526395500,
+    "relativeTimeSeconds": 241959132
+  },
+  "problems": [
+    {
+      "contestId": 984,
+      "index": "B",
+      "name": "Minesweeper",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 984,
+      "index": "A",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

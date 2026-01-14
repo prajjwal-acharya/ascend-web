@@ -1,0 +1,125 @@
+{
+  "contest": {
+    "id": 39,
+    "name": "School Team Contest 1 (Winter Computer School 2010/11)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1287904200,
+    "relativeTimeSeconds": 480450433
+  },
+  "problems": [
+    {
+      "contestId": 39,
+      "index": "K",
+      "name": "Testing",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": []
+    },
+    {
+      "contestId": 39,
+      "index": "J",
+      "name": "Spelling Check",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "I",
+      "name": "Tram",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": []
+    },
+    {
+      "contestId": 39,
+      "index": "H",
+      "name": "Multiplication Table",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "G",
+      "name": "Inverse Function",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "F",
+      "name": "Pacifist frogs",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "E",
+      "name": "What Has Dirichlet Got to Do with That?",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "D",
+      "name": "Cubical Planet",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "C",
+      "name": "Moon Craters",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "B",
+      "name": "Company Income Growth",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 39,
+      "index": "A",
+      "name": "C*++ Calculations",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "expression parsing",
+        "greedy"
+      ]
+    }
+  ]
+}

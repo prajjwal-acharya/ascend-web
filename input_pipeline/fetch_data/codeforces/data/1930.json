@@ -1,0 +1,149 @@
+{
+  "contest": {
+    "id": 1930,
+    "name": "think-cell Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1708180500,
+    "relativeTimeSeconds": 60174132
+  },
+  "problems": [
+    {
+      "contestId": 1930,
+      "index": "I",
+      "name": "Counting Is Fun",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "H",
+      "name": "Interactive Mex Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "G",
+      "name": "Prefix Max Set Counting",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "F",
+      "name": "Maximize the Difference",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "E",
+      "name": "2..3...4.... Wonderful! Wonderful!",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "D2",
+      "name": "Sum over all Substrings (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "D1",
+      "name": "Sum over all Substrings (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "C",
+      "name": "Lexicographically Largest",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "B",
+      "name": "Permutation Printing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1930,
+      "index": "A",
+      "name": "Maximise The Score",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

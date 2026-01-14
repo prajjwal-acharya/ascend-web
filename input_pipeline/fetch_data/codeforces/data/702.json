@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 702,
+    "name": "Educational Codeforces Round 15",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1469804400,
+    "relativeTimeSeconds": 298550232
+  },
+  "problems": [
+    {
+      "contestId": 702,
+      "index": "F",
+      "name": "T-Shirts",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 702,
+      "index": "E",
+      "name": "Analysis of Pathes in Functional Graph",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 702,
+      "index": "D",
+      "name": "Road to Post Office",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 702,
+      "index": "C",
+      "name": "Cellular Network",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 702,
+      "index": "B",
+      "name": "Powers of Two",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 702,
+      "index": "A",
+      "name": "Maximum Increase",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

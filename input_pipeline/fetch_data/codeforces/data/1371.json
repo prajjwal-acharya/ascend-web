@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1371,
+    "name": "Codeforces Round 654 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1593610500,
+    "relativeTimeSeconds": 174744132
+  },
+  "problems": [
+    {
+      "contestId": 1371,
+      "index": "F",
+      "name": "Raging Thunder",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "E2",
+      "name": "Asterism (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "E1",
+      "name": "Asterism (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "D",
+      "name": "Grid-00100",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "C",
+      "name": "A Cookie for You",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "B",
+      "name": "Magical Calendar",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1371,
+      "index": "A",
+      "name": "Magical Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

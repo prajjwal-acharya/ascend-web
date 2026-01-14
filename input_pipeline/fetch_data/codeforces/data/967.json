@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 967,
+    "name": "Codeforces Round 477 (rated, Div. 2, based on VK Cup 2018 Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1525007700,
+    "relativeTimeSeconds": 243346932
+  },
+  "problems": [
+    {
+      "contestId": 967,
+      "index": "B",
+      "name": "Watering System",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 967,
+      "index": "A",
+      "name": "Mind the Gap",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1355,
+    "name": "Codeforces Round 643 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1589628900,
+    "relativeTimeSeconds": 178725732
+  },
+  "problems": [
+    {
+      "contestId": 1355,
+      "index": "F",
+      "name": "Guess Divisors Count",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1355,
+      "index": "E",
+      "name": "Restorer Distance",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1355,
+      "index": "D",
+      "name": "Game With Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1355,
+      "index": "C",
+      "name": "Count Triangles",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1355,
+      "index": "B",
+      "name": "Young Explorers",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1355,
+      "index": "A",
+      "name": "Sequence with Digits",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

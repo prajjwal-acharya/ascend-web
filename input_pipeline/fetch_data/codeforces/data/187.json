@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 187,
+    "name": "Codeforces Round 119 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1336663800,
+    "relativeTimeSeconds": 431690833
+  },
+  "problems": [
+    {
+      "contestId": 187,
+      "index": "E",
+      "name": "Heaven Tour",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 187,
+      "index": "D",
+      "name": "BRT Contract ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 187,
+      "index": "C",
+      "name": "Weak Memory",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 187,
+      "index": "B",
+      "name": "AlgoRace",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 187,
+      "index": "A",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

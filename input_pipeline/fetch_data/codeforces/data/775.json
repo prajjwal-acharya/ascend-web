@@ -1,0 +1,24 @@
+{
+  "contest": {
+    "id": 775,
+    "name": "VK Cup 2017 - Wild Card Round 2",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 604800,
+    "startTimeSeconds": 1493220900,
+    "relativeTimeSeconds": 275133732
+  },
+  "problems": [
+    {
+      "contestId": 775,
+      "index": "A",
+      "name": "University Schedule",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

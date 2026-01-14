@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": 10,
+    "name": "Codeforces Beta Round 10",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1271346300,
+    "relativeTimeSeconds": 497008333
+  },
+  "problems": [
+    {
+      "contestId": 10,
+      "index": "E",
+      "name": "Greedy Change",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 10,
+      "index": "D",
+      "name": "LCIS",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 10,
+      "index": "C",
+      "name": "Digital Root",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 10,
+      "index": "B",
+      "name": "Cinema Cashier",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 10,
+      "index": "A",
+      "name": "Power Consumption Calculation",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1658,
+    "name": "Codeforces Round 779 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1648391700,
+    "relativeTimeSeconds": 119962932
+  },
+  "problems": [
+    {
+      "contestId": 1658,
+      "index": "F",
+      "name": "Juju and Binary String",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "E",
+      "name": "Gojou and Matrix Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dp",
+        "games",
+        "hashing",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "D2",
+      "name": "388535 (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "D1",
+      "name": "388535 (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "C",
+      "name": "Shinju and the Lost Permutation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "B",
+      "name": "Marin and Anti-coprime Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1658,
+      "index": "A",
+      "name": "Marin and Photoshoot",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

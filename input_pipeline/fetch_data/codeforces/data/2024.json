@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 2024,
+    "name": "Codeforces Round 980 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729415100,
+    "relativeTimeSeconds": 38939532
+  },
+  "problems": [
+    {
+      "contestId": 2024,
+      "index": "B",
+      "name": "Buying Lemonade",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2024,
+      "index": "A",
+      "name": "Profitable Interest Rate",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

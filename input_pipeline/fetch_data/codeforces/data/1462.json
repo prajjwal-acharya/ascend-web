@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1462,
+    "name": "Codeforces Round 690 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1608042900,
+    "relativeTimeSeconds": 160311732
+  },
+  "problems": [
+    {
+      "contestId": 1462,
+      "index": "F",
+      "name": "The Treasure of The Segments",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "E2",
+      "name": "Close Tuples (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "E1",
+      "name": "Close Tuples (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "D",
+      "name": "Add to Neighbour and Remove",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "C",
+      "name": "Unique Number",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "B",
+      "name": "Last Year's Substring",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1462,
+      "index": "A",
+      "name": "Favorite Sequence",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

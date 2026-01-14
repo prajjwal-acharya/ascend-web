@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 424,
+    "name": "Codeforces Round 242 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1398409200,
+    "relativeTimeSeconds": 369945432
+  },
+  "problems": [
+    {
+      "contestId": 424,
+      "index": "E",
+      "name": "Colored Jenga",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 424,
+      "index": "D",
+      "name": "Biathlon Track",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 424,
+      "index": "C",
+      "name": "Magic Formulas",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 424,
+      "index": "B",
+      "name": "Megacity",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 424,
+      "index": "A",
+      "name": "Squats",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

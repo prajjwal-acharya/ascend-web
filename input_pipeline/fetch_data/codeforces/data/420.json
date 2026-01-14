@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 420,
+    "name": "Coder-Strike 2014 - Finals (online edition, Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1398169140,
+    "relativeTimeSeconds": 370185492
+  },
+  "problems": [
+    {
+      "contestId": 420,
+      "index": "E",
+      "name": "Playing the ball",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 420,
+      "index": "D",
+      "name": "Cup Trick",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 420,
+      "index": "C",
+      "name": "Bug in Code",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "graphs",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 420,
+      "index": "B",
+      "name": "Online Meeting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 420,
+      "index": "A",
+      "name": "Start Up",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 828,
+    "name": "Codeforces Round 423 (Div. 2, rated, based on VK Cup Finals)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1499791500,
+    "relativeTimeSeconds": 268563132
+  },
+  "problems": [
+    {
+      "contestId": 828,
+      "index": "B",
+      "name": "Black Square",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 828,
+      "index": "A",
+      "name": "Restaurant Tables",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

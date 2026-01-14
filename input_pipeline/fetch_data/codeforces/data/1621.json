@@ -1,0 +1,133 @@
+{
+  "contest": {
+    "id": 1621,
+    "name": "Hello 2022",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1641220500,
+    "relativeTimeSeconds": 127134132
+  },
+  "problems": [
+    {
+      "contestId": 1621,
+      "index": "I",
+      "name": "Two Sequences",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "hashing",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "H",
+      "name": "Trains and Airplanes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "G",
+      "name": "Weighted Increasing Subsequences",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "F",
+      "name": "Strange Instructions",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "E",
+      "name": "New School",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "D",
+      "name": "The Winter Hike",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "C",
+      "name": "Hidden Permutations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "B",
+      "name": "Integers Shop",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1621,
+      "index": "A",
+      "name": "Stable Arrangement of Rooks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

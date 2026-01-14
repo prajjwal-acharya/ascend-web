@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1510,
+    "name": "2020-2021 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1617523500,
+    "relativeTimeSeconds": 150831132
+  },
+  "problems": [
+    {
+      "contestId": 1510,
+      "index": "K",
+      "name": "King's Task",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "J",
+      "name": "Japanese Game",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "I",
+      "name": "Is It Rated?",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "greedy",
+        "interactive",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "H",
+      "name": "Hard Optimization",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "G",
+      "name": "Guide",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 1510,
+      "index": "F",
+      "name": "Fiber Shape",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 1510,
+      "index": "E",
+      "name": "Equilibrium Point /\\textbackslash/\\textbackslash",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": []
+    },
+    {
+      "contestId": 1510,
+      "index": "D",
+      "name": "Digits",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "C",
+      "name": "Cactus Not Enough",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "B",
+      "name": "Button Lock",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1510,
+      "index": "A",
+      "name": "ASCII Automata Art",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    }
+  ]
+}

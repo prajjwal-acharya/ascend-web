@@ -1,0 +1,136 @@
+{
+  "contest": {
+    "id": 1740,
+    "name": "Codeforces Round 831 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9900,
+    "startTimeSeconds": 1667034600,
+    "relativeTimeSeconds": 101320032
+  },
+  "problems": [
+    {
+      "contestId": 1740,
+      "index": "I",
+      "name": "Arranging Crystal Balls",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "divide and conquer",
+        "dp",
+        "geometry",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "H",
+      "name": "MEX Tree Manipulation",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "G",
+      "name": "Dangerous Laser Power",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "F",
+      "name": "Conditional Mix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "E",
+      "name": "Hanging Hearts",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "D",
+      "name": "Knowledge Cards",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "C",
+      "name": "Bricks and Bags",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "B",
+      "name": "Jumbo Extra Cheese 2",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1740,
+      "index": "A",
+      "name": "Factorise N+M",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 533,
+    "name": "VK Cup 2015 - Round 2 (unofficial online mirror, Div. 1 only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1429286400,
+    "relativeTimeSeconds": 339068232
+  },
+  "problems": [
+    {
+      "contestId": 533,
+      "index": "F",
+      "name": "Encoding",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 533,
+      "index": "E",
+      "name": "Correcting Mistakes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 533,
+      "index": "D",
+      "name": "Landmarks",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 533,
+      "index": "C",
+      "name": "Board Game",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 533,
+      "index": "B",
+      "name": "Work Group",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 533,
+      "index": "A",
+      "name": "Berland Miners",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    }
+  ]
+}

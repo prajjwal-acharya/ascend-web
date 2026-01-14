@@ -1,0 +1,126 @@
+{
+  "contest": {
+    "id": 921,
+    "name": "AIM Tech Mini Marathon 1",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1517500800,
+    "relativeTimeSeconds": 250853832
+  },
+  "problems": [
+    {
+      "contestId": 921,
+      "index": "14",
+      "name": "Labyrinth-14",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "13",
+      "name": "Labyrinth-13",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "12",
+      "name": "Labyrinth-12",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "11",
+      "name": "Labyrinth-11",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "10",
+      "name": "Labyrinth-10",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "09",
+      "name": "Labyrinth-9",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "08",
+      "name": "Labyrinth-8",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "07",
+      "name": "Labyrinth-7",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "06",
+      "name": "Labyrinth-6",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "05",
+      "name": "Labyrinth-5",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "04",
+      "name": "Labyrinth-4",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "03",
+      "name": "Labyrinth-3",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "02",
+      "name": "Labyrinth-2",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 921,
+      "index": "01",
+      "name": "Labyrinth-1",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    }
+  ]
+}

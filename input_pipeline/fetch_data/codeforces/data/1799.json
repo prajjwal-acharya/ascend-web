@@ -1,0 +1,135 @@
+{
+  "contest": {
+    "id": 1799,
+    "name": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1677508500,
+    "relativeTimeSeconds": 90846132
+  },
+  "problems": [
+    {
+      "contestId": 1799,
+      "index": "H",
+      "name": "Tree Cutting",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "G",
+      "name": "Count Voting",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "F",
+      "name": "Halve or Subtract",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "E",
+      "name": "City Union",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "D2",
+      "name": "Hot Start Up (hard version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "D1",
+      "name": "Hot Start Up (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "C",
+      "name": "Double Lexicographically Minimum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "B",
+      "name": "Equalize by Divide",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1799,
+      "index": "A",
+      "name": "Recent Actions",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

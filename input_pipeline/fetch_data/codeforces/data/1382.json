@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1382,
+    "name": "Codeforces Round 658 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1595342100,
+    "relativeTimeSeconds": 173012532
+  },
+  "problems": [
+    {
+      "contestId": 1382,
+      "index": "B",
+      "name": "Sequential Nim",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1382,
+      "index": "A",
+      "name": "Common Subsequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

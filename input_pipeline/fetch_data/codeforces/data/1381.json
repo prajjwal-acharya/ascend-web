@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1381,
+    "name": "Codeforces Round 658 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1595342100,
+    "relativeTimeSeconds": 173012532
+  },
+  "problems": [
+    {
+      "contestId": 1381,
+      "index": "E",
+      "name": "Origami",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1381,
+      "index": "D",
+      "name": "The Majestic Brown Tree Snake",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1381,
+      "index": "C",
+      "name": "Mastermind",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "graph matchings",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1381,
+      "index": "B",
+      "name": "Unmerge",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1381,
+      "index": "A2",
+      "name": "Prefix Flip (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1381,
+      "index": "A1",
+      "name": "Prefix Flip (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "strings"
+      ]
+    }
+  ]
+}

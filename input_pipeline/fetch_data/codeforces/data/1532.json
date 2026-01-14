@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 1532,
+    "name": "Kotlin Heroes: Practice 7",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 604800,
+    "startTimeSeconds": 1624368900,
+    "relativeTimeSeconds": 143985732
+  },
+  "problems": [
+    {
+      "contestId": 1532,
+      "index": "F",
+      "name": "Prefixes and Suffixes",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1532,
+      "index": "E",
+      "name": "Good Array",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1532,
+      "index": "D",
+      "name": "Teams Forming",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1532,
+      "index": "C",
+      "name": "Uniform String",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1532,
+      "index": "B",
+      "name": "Frog Jumping",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1532,
+      "index": "A",
+      "name": "A+B (Trial Problem)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

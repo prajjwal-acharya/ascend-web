@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 1395,
+    "name": "Codeforces Round 664 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1597242900,
+    "relativeTimeSeconds": 171111732
+  },
+  "problems": [
+    {
+      "contestId": 1395,
+      "index": "C",
+      "name": "Boboniu and Bit Operations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1395,
+      "index": "B",
+      "name": "Boboniu Plays Chess",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1395,
+      "index": "A",
+      "name": "Boboniu Likes to Color Balls",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "contest": {
+    "id": 1408,
+    "name": "Grakn Forces 2020",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9900,
+    "startTimeSeconds": 1601476500,
+    "relativeTimeSeconds": 166878132
+  },
+  "problems": [
+    {
+      "contestId": 1408,
+      "index": "I",
+      "name": "Bitwise Magic",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "H",
+      "name": "Rainbow Triples",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "G",
+      "name": "Clusterization Counting",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "dsu",
+        "fft",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "F",
+      "name": "Two Different",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "E",
+      "name": "Avoid Rainbow Cycles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "D",
+      "name": "Searchlights",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "C",
+      "name": "Discrete Acceleration",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "B",
+      "name": "Arrays Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1408,
+      "index": "A",
+      "name": "Circle Coloring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

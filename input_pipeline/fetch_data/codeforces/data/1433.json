@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1433,
+    "name": "Codeforces Round 677 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1603204500,
+    "relativeTimeSeconds": 165150132
+  },
+  "problems": [
+    {
+      "contestId": 1433,
+      "index": "G",
+      "name": "Reducing Delivery Cost",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "F",
+      "name": "Zero Remainder Sum ",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "E",
+      "name": "Two Round Dances",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "D",
+      "name": "Districts Connection",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "C",
+      "name": "Dominant Piranha",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "B",
+      "name": "Yet Another Bookshelf",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1433,
+      "index": "A",
+      "name": "Boring Apartments",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

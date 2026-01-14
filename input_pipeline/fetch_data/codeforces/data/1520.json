@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1520,
+    "name": "Codeforces Round 719 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1620225300,
+    "relativeTimeSeconds": 148129332
+  },
+  "problems": [
+    {
+      "contestId": 1520,
+      "index": "G",
+      "name": "To Go Or Not To Go?",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "F2",
+      "name": "Guess the K-th Zero (Hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "F1",
+      "name": "Guess the K-th Zero (Easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "E",
+      "name": "Arranging The Sheep",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "D",
+      "name": "Same Differences",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "C",
+      "name": "Not Adjacent Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "B",
+      "name": "Ordinary Numbers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1520,
+      "index": "A",
+      "name": "Do Not Be Distracted!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

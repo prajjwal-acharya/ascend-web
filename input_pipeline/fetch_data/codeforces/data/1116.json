@@ -1,0 +1,131 @@
+{
+  "contest": {
+    "id": 1116,
+    "name": "Microsoft Q# Coding Contest - Winter 2019",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1551459600,
+    "relativeTimeSeconds": 216895032
+  },
+  "problems": [
+    {
+      "contestId": 1116,
+      "index": "D6",
+      "name": "Hessenberg matrix",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "D5",
+      "name": "Creeper",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "D4",
+      "name": "TIE fighter",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "D3",
+      "name": "X-wing fighter",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "D2",
+      "name": "Pattern of increasing blocks",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "D1",
+      "name": "Block diagonal matrix",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "C3",
+      "name": "``Is the number of ones divisible by 3?'' oracle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "C2",
+      "name": "``Is the bit string periodic?'' oracle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "C1",
+      "name": "Alternating bits oracle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "B2",
+      "name": "Not A, not B or not C?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "B1",
+      "name": "Distinguish three-qubit states",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "A2",
+      "name": "Generate equal superposition of four basis states",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1116,
+      "index": "A1",
+      "name": "Generate state |00\u27e9 + |01\u27e9 + |10\u27e9",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

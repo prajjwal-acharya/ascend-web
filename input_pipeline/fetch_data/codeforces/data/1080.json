@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1080,
+    "name": "Codeforces Round 524 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1543044900,
+    "relativeTimeSeconds": 225309732
+  },
+  "problems": [
+    {
+      "contestId": 1080,
+      "index": "F",
+      "name": "Katya and Segments Sets",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1080,
+      "index": "E",
+      "name": "Sonya and Matrix Beauty",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1080,
+      "index": "D",
+      "name": "Olya and magical square",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1080,
+      "index": "C",
+      "name": "Masha and two friends",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1080,
+      "index": "B",
+      "name": "Margarite and the best present",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1080,
+      "index": "A",
+      "name": "Petya and Origami",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

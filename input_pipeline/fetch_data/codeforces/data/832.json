@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 832,
+    "name": "Codeforces Round 425 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1500906900,
+    "relativeTimeSeconds": 267447732
+  },
+  "problems": [
+    {
+      "contestId": 832,
+      "index": "E",
+      "name": "Vasya and Shifts",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 832,
+      "index": "D",
+      "name": "Misha, Grisha and Underground",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 832,
+      "index": "C",
+      "name": "Strange Radiation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 832,
+      "index": "B",
+      "name": "Petya and Exam",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 832,
+      "index": "A",
+      "name": "Sasha and Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

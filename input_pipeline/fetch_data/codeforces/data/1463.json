@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1463,
+    "name": "Educational Codeforces Round 100 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1608215700,
+    "relativeTimeSeconds": 160138932
+  },
+  "problems": [
+    {
+      "contestId": 1463,
+      "index": "F",
+      "name": "Max Correct Set",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1463,
+      "index": "E",
+      "name": "Plan of Lectures",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1463,
+      "index": "D",
+      "name": "Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1463,
+      "index": "C",
+      "name": "Busy Robot",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1463,
+      "index": "B",
+      "name": "Find The Array",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1463,
+      "index": "A",
+      "name": "Dungeon",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    }
+  ]
+}

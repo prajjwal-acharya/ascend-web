@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2028,
+    "name": "Codeforces Round 986 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1731252900,
+    "relativeTimeSeconds": 37101732
+  },
+  "problems": [
+    {
+      "contestId": 2028,
+      "index": "F",
+      "name": "Alice's Adventures in Addition",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2028,
+      "index": "E",
+      "name": "Alice's Adventures in the Rabbit Hole",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "games",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2028,
+      "index": "D",
+      "name": "Alice's Adventures in Cards",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "graphs",
+        "greedy",
+        "implementation",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2028,
+      "index": "C",
+      "name": "Alice's Adventures in Cutting Cake",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2028,
+      "index": "B",
+      "name": "Alice's Adventures in Permuting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2028,
+      "index": "A",
+      "name": "Alice's Adventures in ''Chess''",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

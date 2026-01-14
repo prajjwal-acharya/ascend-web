@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 803,
+    "name": "Educational Codeforces Round 20",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1493391900,
+    "relativeTimeSeconds": 274962732
+  },
+  "problems": [
+    {
+      "contestId": 803,
+      "index": "G",
+      "name": "Periodic RMQ Problem",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "F",
+      "name": "Coprime Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "E",
+      "name": "Roma and Poker",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "D",
+      "name": "Magazine Ad",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "C",
+      "name": "Maximal GCD",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "B",
+      "name": "Distances to Zero",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 803,
+      "index": "A",
+      "name": "Maximal Binary Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

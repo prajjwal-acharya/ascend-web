@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 708,
+    "name": "AIM Tech Round 3 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1472056500,
+    "relativeTimeSeconds": 296298132
+  },
+  "problems": [
+    {
+      "contestId": 708,
+      "index": "E",
+      "name": "Student's Camp",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 708,
+      "index": "D",
+      "name": "Incorrect Flow",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 708,
+      "index": "C",
+      "name": "Centroids",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 708,
+      "index": "B",
+      "name": "Recover the String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 708,
+      "index": "A",
+      "name": "Letters Cyclic Shift",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

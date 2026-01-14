@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 1971,
+    "name": "Codeforces Round 944 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1715351700,
+    "relativeTimeSeconds": 53002932
+  },
+  "problems": [
+    {
+      "contestId": 1971,
+      "index": "H",
+      "name": "\u00b11",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "G",
+      "name": "XOUR",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dsu",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "F",
+      "name": "Circle Perimeter",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "E",
+      "name": "Find the Car",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "D",
+      "name": "Binary Cut",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "C",
+      "name": "Clock and Strings",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "B",
+      "name": "Different String",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1971,
+      "index": "A",
+      "name": "My First Sorting Problem",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

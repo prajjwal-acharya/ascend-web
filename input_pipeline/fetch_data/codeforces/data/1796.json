@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1796,
+    "name": "Educational Codeforces Round 144 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1677594900,
+    "relativeTimeSeconds": 90759732
+  },
+  "problems": [
+    {
+      "contestId": 1796,
+      "index": "F",
+      "name": "Strange Triples",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1796,
+      "index": "E",
+      "name": "Colored Subgraphs",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1796,
+      "index": "D",
+      "name": "Maximum Subarray",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1796,
+      "index": "C",
+      "name": "Maximum Set",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1796,
+      "index": "B",
+      "name": "Asterisk-Minor Template",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1796,
+      "index": "A",
+      "name": "Typical Interview Problem",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 994,
+    "name": "Codeforces Round 488 by NEAR (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1529166900,
+    "relativeTimeSeconds": 239187732
+  },
+  "problems": [
+    {
+      "contestId": 994,
+      "index": "B",
+      "name": "Knights of a Polygonal Table",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 994,
+      "index": "A",
+      "name": "Fingerprints",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

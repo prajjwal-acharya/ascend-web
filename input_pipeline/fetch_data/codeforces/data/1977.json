@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1977,
+    "name": "Codeforces Round 948 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1716734100,
+    "relativeTimeSeconds": 51620532
+  },
+  "problems": [
+    {
+      "contestId": 1977,
+      "index": "E",
+      "name": "Tensor",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1977,
+      "index": "D",
+      "name": "XORificator",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1977,
+      "index": "C",
+      "name": "Nikita and LCM",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1977,
+      "index": "B",
+      "name": "Binary Colouring",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1977,
+      "index": "A",
+      "name": "Little Nikita",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

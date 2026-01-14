@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 741,
+    "name": "Codeforces Round 383 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1481034900,
+    "relativeTimeSeconds": 287319732
+  },
+  "problems": [
+    {
+      "contestId": 741,
+      "index": "E",
+      "name": "Arpa\u2019s abnormal DNA and Mehrdad\u2019s deep interest",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 741,
+      "index": "D",
+      "name": "Arpa\u2019s letter-marked tree and Mehrdad\u2019s Dokhtar-kosh paths",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 741,
+      "index": "C",
+      "name": "Arpa\u2019s overnight party and Mehrdad\u2019s silent entering",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 741,
+      "index": "B",
+      "name": "Arpa's weak amphitheater and Mehrdad's valuable Hoses",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 741,
+      "index": "A",
+      "name": "Arpa's loud Owf and Mehrdad's evil plan",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "math"
+      ]
+    }
+  ]
+}

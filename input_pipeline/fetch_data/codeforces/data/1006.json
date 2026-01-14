@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1006,
+    "name": "Codeforces Round 498 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1531751700,
+    "relativeTimeSeconds": 236602932
+  },
+  "problems": [
+    {
+      "contestId": 1006,
+      "index": "F",
+      "name": "Xor-Paths",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1006,
+      "index": "E",
+      "name": "Military Problem",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1006,
+      "index": "D",
+      "name": "Two Strings Swaps",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1006,
+      "index": "C",
+      "name": "Three Parts of the Array",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1006,
+      "index": "B",
+      "name": "Polycarp's Practice",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1006,
+      "index": "A",
+      "name": "Adjacent Replacements",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

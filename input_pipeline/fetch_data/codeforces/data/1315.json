@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": 1315,
+    "name": "Codeforces Round 623 (Div. 2, based on VK Cup 2019-2020 - Elimination Round, Engine)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1582473900,
+    "relativeTimeSeconds": 185880732
+  },
+  "problems": [
+    {
+      "contestId": 1315,
+      "index": "C",
+      "name": "Restoring Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1315,
+      "index": "B",
+      "name": "Homecoming",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1315,
+      "index": "A",
+      "name": "Dead Pixel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

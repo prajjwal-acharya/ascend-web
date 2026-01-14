@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": 267,
+    "name": "Codeforces Testing Round 5",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 6300,
+    "startTimeSeconds": 1358002800,
+    "relativeTimeSeconds": 410351833
+  },
+  "problems": [
+    {
+      "contestId": 267,
+      "index": "C",
+      "name": "Berland Traffic",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 267,
+      "index": "B",
+      "name": "Dominoes",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 267,
+      "index": "A",
+      "name": "Subtractions",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

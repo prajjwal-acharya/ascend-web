@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1980,
+    "name": "Codeforces Round 950 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1717425300,
+    "relativeTimeSeconds": 50929332
+  },
+  "problems": [
+    {
+      "contestId": 1980,
+      "index": "G",
+      "name": "Yasya and the Mysterious Tree",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "F2",
+      "name": "Field Division (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "F1",
+      "name": "Field Division (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "E",
+      "name": "Permutation of Rows and Columns",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "hashing",
+        "implementation",
+        "math",
+        "matrices",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "D",
+      "name": "GCD-sequence",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "C",
+      "name": "Sofia and the Lost Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "B",
+      "name": "Choosing Cubes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "sortings",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1980,
+      "index": "A",
+      "name": "Problem Generator",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

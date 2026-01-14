@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 62,
+    "name": "Codeforces Beta Round 58",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1298649600,
+    "relativeTimeSeconds": 469705033
+  },
+  "problems": [
+    {
+      "contestId": 62,
+      "index": "E",
+      "name": "World Evil",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 62,
+      "index": "D",
+      "name": "Wormhouse",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 62,
+      "index": "C",
+      "name": "Inquisition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "geometry",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 62,
+      "index": "B",
+      "name": "Tyndex.Brome",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 62,
+      "index": "A",
+      "name": "A Student's Dream",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

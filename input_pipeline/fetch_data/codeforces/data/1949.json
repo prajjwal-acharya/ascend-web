@@ -1,0 +1,146 @@
+{
+  "contest": {
+    "id": 1949,
+    "name": "European Championship 2024 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1711274400,
+    "relativeTimeSeconds": 57080232
+  },
+  "problems": [
+    {
+      "contestId": 1949,
+      "index": "K",
+      "name": "Make Triangle",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "J",
+      "name": "Amanda the Amoeba",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "graphs",
+        "implementation",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "I",
+      "name": "Disks",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "geometry",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "H",
+      "name": "Division Avoidance",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "G",
+      "name": "Scooter",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "F",
+      "name": "Dating",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "E",
+      "name": "Damage per Second",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "D",
+      "name": "Funny or Scary?",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "C",
+      "name": "Annual Ants' Gathering",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "B",
+      "name": "Charming Meals",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1949,
+      "index": "A",
+      "name": "Grove",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "geometry",
+        "probabilities"
+      ]
+    }
+  ]
+}

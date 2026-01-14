@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2176,
+    "name": "Codeforces Round 1070 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1765463700,
+    "relativeTimeSeconds": 2890932
+  },
+  "problems": [
+    {
+      "contestId": 2176,
+      "index": "F",
+      "name": "Omega Numbers",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2176,
+      "index": "E",
+      "name": "Remove at the lowest cost",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2176,
+      "index": "D",
+      "name": "Fibonacci Paths",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2176,
+      "index": "C",
+      "name": "Odd Process",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2176,
+      "index": "B",
+      "name": "Optimal Shifts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2176,
+      "index": "A",
+      "name": "Operations with Inversions",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

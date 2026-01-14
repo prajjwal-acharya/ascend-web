@@ -1,0 +1,178 @@
+{
+  "contest": {
+    "id": 2041,
+    "name": "2024 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1732431900,
+    "relativeTimeSeconds": 35922732
+  },
+  "problems": [
+    {
+      "contestId": 2041,
+      "index": "N",
+      "name": "Railway Construction",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 2041,
+      "index": "M",
+      "name": "Selection Sort",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "L",
+      "name": "Building Castle",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 2041,
+      "index": "K",
+      "name": "Trophic Balance Species",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "J",
+      "name": "Bottle Arrangement",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "I",
+      "name": "Auto Complete",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "implementation",
+        "sortings",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "H",
+      "name": "Sheet Music",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "G",
+      "name": "Grid Game",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 2041,
+      "index": "F",
+      "name": "Segmentation Folds",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "E",
+      "name": "Beautiful Array",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "D",
+      "name": "Drunken Maze",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "C",
+      "name": "Cube",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "B",
+      "name": "Bowling Frame",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2041,
+      "index": "A",
+      "name": "The Bento Box Adventure",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

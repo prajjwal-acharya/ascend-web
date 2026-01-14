@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1288,
+    "name": "Educational Codeforces Round 80 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1579012500,
+    "relativeTimeSeconds": 189342132
+  },
+  "problems": [
+    {
+      "contestId": 1288,
+      "index": "F",
+      "name": "Red-Blue Graph",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1288,
+      "index": "E",
+      "name": "Messenger Simulator",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1288,
+      "index": "D",
+      "name": "Minimax Problem",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1288,
+      "index": "C",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1288,
+      "index": "B",
+      "name": "Yet Another Meme Problem",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1288,
+      "index": "A",
+      "name": "Deadline",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "ternary search"
+      ]
+    }
+  ]
+}

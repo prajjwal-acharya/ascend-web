@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 820,
+    "name": "Codeforces Round 421 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1498574100,
+    "relativeTimeSeconds": 269780532
+  },
+  "problems": [
+    {
+      "contestId": 820,
+      "index": "B",
+      "name": "Mister B and Angle in Polygon",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 820,
+      "index": "A",
+      "name": "Mister B and Book Reading",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

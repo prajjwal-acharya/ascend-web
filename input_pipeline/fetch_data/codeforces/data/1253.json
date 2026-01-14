@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1253,
+    "name": "Codeforces Round 600 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1573914900,
+    "relativeTimeSeconds": 194439732
+  },
+  "problems": [
+    {
+      "contestId": 1253,
+      "index": "F",
+      "name": "Cheap Robot",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dsu",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1253,
+      "index": "E",
+      "name": "Antenna Coverage",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1253,
+      "index": "D",
+      "name": "Harmonious Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1253,
+      "index": "C",
+      "name": "Sweets Eating",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1253,
+      "index": "B",
+      "name": "Silly Mistake",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1253,
+      "index": "A",
+      "name": "Single Push",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

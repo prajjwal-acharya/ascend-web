@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1710,
+    "name": "Codeforces Round 810 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1658673300,
+    "relativeTimeSeconds": 109681332
+  },
+  "problems": [
+    {
+      "contestId": 1710,
+      "index": "E",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "games",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1710,
+      "index": "D",
+      "name": "Recover the Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1710,
+      "index": "C",
+      "name": "XOR Triangle",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1710,
+      "index": "B",
+      "name": "Rain",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1710,
+      "index": "A",
+      "name": "Color the Picture",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

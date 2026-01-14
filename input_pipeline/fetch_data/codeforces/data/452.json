@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 452,
+    "name": "MemSQL Start[c]UP 2.0 - Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1406480400,
+    "relativeTimeSeconds": 361874232
+  },
+  "problems": [
+    {
+      "contestId": 452,
+      "index": "F",
+      "name": "Permutation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 452,
+      "index": "E",
+      "name": "Three strings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dsu",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 452,
+      "index": "D",
+      "name": "Washer, Dryer, Folder",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 452,
+      "index": "C",
+      "name": "Magic Trick",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 452,
+      "index": "B",
+      "name": "4-point polyline",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 452,
+      "index": "A",
+      "name": "Eevee",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

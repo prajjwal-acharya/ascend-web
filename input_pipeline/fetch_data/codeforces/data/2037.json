@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2037,
+    "name": "Codeforces Round 988 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1731854100,
+    "relativeTimeSeconds": 36500532
+  },
+  "problems": [
+    {
+      "contestId": 2037,
+      "index": "G",
+      "name": "Natlan Exploring",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "F",
+      "name": "Ardent Flames",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "E",
+      "name": "Kachina's Favorite Binary String",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "interactive",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "D",
+      "name": "Sharky Surfing",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "C",
+      "name": "Superultra's Favorite Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "B",
+      "name": "Intercepted Inputs",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2037,
+      "index": "A",
+      "name": "Twice",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

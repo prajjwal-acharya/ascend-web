@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1531,
+    "name": "VK Cup 2021 - \u041a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f (Engine)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 561600,
+    "startTimeSeconds": 1621846800,
+    "relativeTimeSeconds": 146507832
+  },
+  "problems": [
+    {
+      "contestId": 1531,
+      "index": "E3",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "E2",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "E1",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "D",
+      "name": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u0443\u0435\u043c \u0417\u0438\u043d\u0433\u0435\u0440 | color",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "C",
+      "name": "\u0421\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u0439 \u0430\u043c\u0444\u0438\u0442\u0435\u0430\u0442\u0440",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "B2",
+      "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "B1",
+      "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1531,
+      "index": "A",
+      "name": "\u0417\u0438\u043d\u0433\u0435\u0440 | color",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

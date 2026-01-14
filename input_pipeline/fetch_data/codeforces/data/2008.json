@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 2008,
+    "name": "Codeforces Round 970 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1725201300,
+    "relativeTimeSeconds": 43153332
+  },
+  "problems": [
+    {
+      "contestId": 2008,
+      "index": "H",
+      "name": "Sakurako's Test",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "G",
+      "name": "Sakurako's Task",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "F",
+      "name": "Sakurako's Box",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "E",
+      "name": "Alternating String",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "D",
+      "name": "Sakurako's Hobby",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "dsu",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "C",
+      "name": "Longest Good Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "B",
+      "name": "Square or Not",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2008,
+      "index": "A",
+      "name": "Sakurako's Exam",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

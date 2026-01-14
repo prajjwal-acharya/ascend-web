@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1076,
+    "name": "Educational Codeforces Round 54 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1542033300,
+    "relativeTimeSeconds": 226321332
+  },
+  "problems": [
+    {
+      "contestId": 1076,
+      "index": "G",
+      "name": "Array Game",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "F",
+      "name": "Summer Practice Report",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "E",
+      "name": "Vasya and a Tree",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "D",
+      "name": "Edge Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "C",
+      "name": "Meme Problem",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "B",
+      "name": "Divisor Subtraction",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1076,
+      "index": "A",
+      "name": "Minimizing the String",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

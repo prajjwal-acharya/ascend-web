@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1979,
+    "name": "Codeforces Round 951 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1717684500,
+    "relativeTimeSeconds": 50670132
+  },
+  "problems": [
+    {
+      "contestId": 1979,
+      "index": "F",
+      "name": "Kostyanych's Theorem",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1979,
+      "index": "E",
+      "name": "Manhattan Triangle",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "geometry",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1979,
+      "index": "D",
+      "name": "Fixing a Binary String",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1979,
+      "index": "C",
+      "name": "Earning on Bets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1979,
+      "index": "B",
+      "name": "XOR Sequences",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1979,
+      "index": "A",
+      "name": "Guess the Maximum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "contest": {
+    "id": 2180,
+    "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1766154900,
+    "relativeTimeSeconds": 2199732
+  },
+  "problems": [
+    {
+      "contestId": 2180,
+      "index": "H2",
+      "name": "Bug Is Feature (Conditional Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "H1",
+      "name": "Bug Is Feature (Unconditional Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "G",
+      "name": "Balance",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "F2",
+      "name": "Control Car (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "F1",
+      "name": "Control Car (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "E",
+      "name": "No Effect XOR",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "D",
+      "name": "Insolvable Disks",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "C",
+      "name": "XOR-factorization",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "B",
+      "name": "Ashmal",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2180,
+      "index": "A",
+      "name": "Carnival Wheel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    }
+  ]
+}

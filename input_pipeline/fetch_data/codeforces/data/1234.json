@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1234,
+    "name": "Codeforces Round 590 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1569940500,
+    "relativeTimeSeconds": 198414132
+  },
+  "problems": [
+    {
+      "contestId": 1234,
+      "index": "F",
+      "name": "Yet Another Substring Reverse",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "E",
+      "name": "Special Permutations",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "D",
+      "name": "Distinct Characters Queries",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "C",
+      "name": "Pipes",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "B2",
+      "name": "Social Network (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "B1",
+      "name": "Social Network (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1234,
+      "index": "A",
+      "name": "Equalize Prices Again",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

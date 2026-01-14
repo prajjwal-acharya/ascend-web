@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 2119,
+    "name": "Codeforces Round 1035 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1751726100,
+    "relativeTimeSeconds": 16628532
+  },
+  "problems": [
+    {
+      "contestId": 2119,
+      "index": "F",
+      "name": "Volcanic Eruptions",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2119,
+      "index": "E",
+      "name": "And Constraint",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2119,
+      "index": "D",
+      "name": "Token Removing",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2119,
+      "index": "C",
+      "name": "A Good Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2119,
+      "index": "B",
+      "name": "Line Segments",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2119,
+      "index": "A",
+      "name": "Add or XOR",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

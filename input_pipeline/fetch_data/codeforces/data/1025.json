@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1025,
+    "name": "Codeforces Round 505 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1534685700,
+    "relativeTimeSeconds": 233668932
+  },
+  "problems": [
+    {
+      "contestId": 1025,
+      "index": "G",
+      "name": "Company Acquisitions",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "F",
+      "name": "Disjoint Triangles",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "E",
+      "name": "Colored Cubes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "D",
+      "name": "Recovering BST",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "C",
+      "name": "Plasticine zebra",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "B",
+      "name": "Weakened Common Divisor",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1025,
+      "index": "A",
+      "name": "Doggo Recoloring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

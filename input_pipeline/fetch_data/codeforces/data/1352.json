@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1352,
+    "name": "Codeforces Round 640 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1589034900,
+    "relativeTimeSeconds": 179319732
+  },
+  "problems": [
+    {
+      "contestId": 1352,
+      "index": "G",
+      "name": "Special Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "F",
+      "name": "Binary String Reconstruction",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "E",
+      "name": "Special Elements",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "D",
+      "name": "Alice, Bob and Candies",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "C",
+      "name": "K-th Not Divisible by n",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "B",
+      "name": "Same Parity Summands",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1352,
+      "index": "A",
+      "name": "Sum of Round Numbers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

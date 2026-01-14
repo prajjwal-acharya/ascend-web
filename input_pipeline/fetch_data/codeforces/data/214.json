@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 214,
+    "name": "Codeforces Round 131 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1343662200,
+    "relativeTimeSeconds": 424692433
+  },
+  "problems": [
+    {
+      "contestId": 214,
+      "index": "B",
+      "name": "Hometask",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 214,
+      "index": "A",
+      "name": "System of Equations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

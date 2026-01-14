@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1508,
+    "name": "Codeforces Round 715 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1618583700,
+    "relativeTimeSeconds": 149770932
+  },
+  "problems": [
+    {
+      "contestId": 1508,
+      "index": "F",
+      "name": "Optimal Encoding",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1508,
+      "index": "E",
+      "name": "Tree Calendar",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1508,
+      "index": "D",
+      "name": "Swap Pass",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1508,
+      "index": "C",
+      "name": "Complete the MST",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1508,
+      "index": "B",
+      "name": "Almost Sorted",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1508,
+      "index": "A",
+      "name": "Binary Literature",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    }
+  ]
+}

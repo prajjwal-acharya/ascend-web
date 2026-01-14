@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1995,
+    "name": "Codeforces Round 961 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1721745300,
+    "relativeTimeSeconds": 46609332
+  },
+  "problems": [
+    {
+      "contestId": 1995,
+      "index": "E2",
+      "name": "Let Me Teach You a Lesson (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "E1",
+      "name": "Let Me Teach You a Lesson (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "2-sat",
+        "data structures",
+        "dp",
+        "matrices",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "D",
+      "name": "Cases",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "C",
+      "name": "Squaring",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "B2",
+      "name": "Bouquet (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "B1",
+      "name": "Bouquet (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1995,
+      "index": "A",
+      "name": "Diagonals",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

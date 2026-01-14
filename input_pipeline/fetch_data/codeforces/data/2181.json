@@ -1,0 +1,170 @@
+{
+  "contest": {
+    "id": 2181,
+    "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1765958700,
+    "relativeTimeSeconds": 2395932
+  },
+  "problems": [
+    {
+      "contestId": 2181,
+      "index": "M",
+      "name": "Medical Parity",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "L",
+      "name": "LLM Training",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "math",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "K",
+      "name": "Knit the Grid",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "graphs",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "J",
+      "name": "Jinx or Jackpot",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "I",
+      "name": "Irrigation Interlock",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "H",
+      "name": "Honey Cake",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "G",
+      "name": "Greta's Game",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "F",
+      "name": "Fragmented Nim",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "E",
+      "name": "Elevator Against Humanity",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "D",
+      "name": "Doorway",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "C",
+      "name": "Cacti Classification",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "B",
+      "name": "Battle of Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2181,
+      "index": "A",
+      "name": "Alphabet City",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

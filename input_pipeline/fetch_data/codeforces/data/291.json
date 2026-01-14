@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 291,
+    "name": "Croc Champ 2013 - Qualification Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 172800,
+    "startTimeSeconds": 1365796800,
+    "relativeTimeSeconds": 402557833
+  },
+  "problems": [
+    {
+      "contestId": 291,
+      "index": "E",
+      "name": "Tree-String Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 291,
+      "index": "D",
+      "name": "Parallel Programming",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 291,
+      "index": "C",
+      "name": "Network Mask",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "bitmasks",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 291,
+      "index": "B",
+      "name": "Command Line Arguments",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 291,
+      "index": "A",
+      "name": "Spyke Talks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 673,
+    "name": "Codeforces Round 351 (VK Cup 2016 Round 3, Div. 2 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1462633500,
+    "relativeTimeSeconds": 305721132
+  },
+  "problems": [
+    {
+      "contestId": 673,
+      "index": "B",
+      "name": "Problems for Round",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 673,
+      "index": "A",
+      "name": "Bear and Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

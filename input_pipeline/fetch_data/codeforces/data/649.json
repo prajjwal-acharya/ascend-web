@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 649,
+    "name": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2016 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0420\u0430\u0443\u043d\u0434 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1458975600,
+    "relativeTimeSeconds": 309379032
+  },
+  "problems": [
+    {
+      "contestId": 649,
+      "index": "E",
+      "name": "\u0410\u0432\u0442\u043e\u0431\u0443\u0441",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 649,
+      "index": "D",
+      "name": "\u0414\u0435\u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043f\u0430\u043c\u044f\u0442\u0438",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 649,
+      "index": "C",
+      "name": "\u041f\u0435\u0447\u0430\u0442\u044c \u0443\u0441\u043b\u043e\u0432\u0438\u0439",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 649,
+      "index": "B",
+      "name": "\u042d\u0442\u0430\u0436\u0438",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 649,
+      "index": "A",
+      "name": "\u041b\u044e\u0431\u0438\u043c\u044b\u0435 \u0447\u0438\u0441\u043b\u0430 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u0430",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "contest": {
+    "id": 2048,
+    "name": "Codeforces Global Round 28",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1734618900,
+    "relativeTimeSeconds": 33735732
+  },
+  "problems": [
+    {
+      "contestId": 2048,
+      "index": "I2",
+      "name": "Kevin and Puzzle (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "I1",
+      "name": "Kevin and Puzzle (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "H",
+      "name": "Kevin and Strange Operation",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "G",
+      "name": "Kevin and Matrices",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "F",
+      "name": "Kevin and Math Class",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "E",
+      "name": "Kevin and Bipartite Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "D",
+      "name": "Kevin and Competition Memories",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "C",
+      "name": "Kevin and Binary Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "B",
+      "name": "Kevin and Permutation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2048,
+      "index": "A",
+      "name": "Kevin and Combination Lock",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

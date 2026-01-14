@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 988,
+    "name": "Codeforces Round 486 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1527863700,
+    "relativeTimeSeconds": 240490932
+  },
+  "problems": [
+    {
+      "contestId": 988,
+      "index": "F",
+      "name": "Rain and Umbrellas",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 988,
+      "index": "E",
+      "name": "Divisibility by 25",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 988,
+      "index": "D",
+      "name": "Points and Powers of Two",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 988,
+      "index": "C",
+      "name": "Equal Sums",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 988,
+      "index": "B",
+      "name": "Substrings Sort",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 988,
+      "index": "A",
+      "name": "Diverse Team",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

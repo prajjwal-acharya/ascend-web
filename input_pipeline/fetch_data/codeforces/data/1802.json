@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1802,
+    "name": "Codeforces Round 857 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1678354500,
+    "relativeTimeSeconds": 90000132
+  },
+  "problems": [
+    {
+      "contestId": 1802,
+      "index": "B",
+      "name": "Settlement of Guinea Pigs",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1802,
+      "index": "A",
+      "name": "Likes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

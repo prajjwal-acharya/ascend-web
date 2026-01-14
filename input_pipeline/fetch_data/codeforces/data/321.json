@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 321,
+    "name": "Codeforces Round 190 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1372433400,
+    "relativeTimeSeconds": 395921232
+  },
+  "problems": [
+    {
+      "contestId": 321,
+      "index": "E",
+      "name": "Ciel and Gondolas",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 321,
+      "index": "D",
+      "name": "Ciel and Flipboard",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 321,
+      "index": "C",
+      "name": "Ciel the Commander",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "divide and conquer",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 321,
+      "index": "B",
+      "name": "Ciel and Duel",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 321,
+      "index": "A",
+      "name": "Ciel and Robot",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

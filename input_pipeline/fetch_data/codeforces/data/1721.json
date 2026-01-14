@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1721,
+    "name": "Educational Codeforces Round 134 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1661610900,
+    "relativeTimeSeconds": 106743732
+  },
+  "problems": [
+    {
+      "contestId": 1721,
+      "index": "F",
+      "name": "Matching Reduction",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1721,
+      "index": "E",
+      "name": "Prefix Function Queries",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1721,
+      "index": "D",
+      "name": "Maximum AND",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "divide and conquer",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1721,
+      "index": "C",
+      "name": "Min-Max Array Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1721,
+      "index": "B",
+      "name": "Deadly Laser",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1721,
+      "index": "A",
+      "name": "Image",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

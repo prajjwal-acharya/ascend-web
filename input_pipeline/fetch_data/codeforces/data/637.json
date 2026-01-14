@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": 637,
+    "name": "VK Cup 2016 - Qualification Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1457870400,
+    "relativeTimeSeconds": 310484232
+  },
+  "problems": [
+    {
+      "contestId": 637,
+      "index": "D",
+      "name": "Running with Obstacles",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 637,
+      "index": "C",
+      "name": "Promocodes with Mistakes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 637,
+      "index": "B",
+      "name": "Chat Order",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 637,
+      "index": "A",
+      "name": "Voting for Photos",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

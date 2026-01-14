@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 443,
+    "name": "Codeforces Round 253 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1403191800,
+    "relativeTimeSeconds": 365162832
+  },
+  "problems": [
+    {
+      "contestId": 443,
+      "index": "B",
+      "name": "Kolya and Tandem Repeat",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 443,
+      "index": "A",
+      "name": "Anton and Letters",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

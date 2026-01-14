@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1476,
+    "name": "Educational Codeforces Round 103 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1611930900,
+    "relativeTimeSeconds": 156423732
+  },
+  "problems": [
+    {
+      "contestId": 1476,
+      "index": "G",
+      "name": "Minimum Difference",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "hashing",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "F",
+      "name": "Lanterns",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "E",
+      "name": "Pattern Matching",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "D",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "C",
+      "name": "Longest Simple Cycle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "B",
+      "name": "Inflation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1476,
+      "index": "A",
+      "name": "K-divisible Sum",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

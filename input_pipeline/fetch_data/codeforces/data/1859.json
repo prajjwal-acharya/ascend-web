@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1859,
+    "name": "Codeforces Round 892 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1691850900,
+    "relativeTimeSeconds": 76503732
+  },
+  "problems": [
+    {
+      "contestId": 1859,
+      "index": "F",
+      "name": "Teleportation in Byteland",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1859,
+      "index": "E",
+      "name": "Maximum Monogonosity",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1859,
+      "index": "D",
+      "name": "Andrey and Escape from Capygrad",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1859,
+      "index": "C",
+      "name": "Another Permutation Problem",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1859,
+      "index": "B",
+      "name": "Olya and Game with Arrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1859,
+      "index": "A",
+      "name": "United We Stand",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

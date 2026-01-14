@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": 928,
+    "name": "VK Cup 2018 - \u041a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1519486500,
+    "relativeTimeSeconds": 248868132
+  },
+  "problems": [
+    {
+      "contestId": 928,
+      "index": "D",
+      "name": "Autocompletion",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 928,
+      "index": "C",
+      "name": "Dependency management",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 928,
+      "index": "B",
+      "name": "Chat",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 928,
+      "index": "A",
+      "name": "Login Verification",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1691,
+    "name": "CodeCraft-22 and Codeforces Round 795 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1654007700,
+    "relativeTimeSeconds": 114346932
+  },
+  "problems": [
+    {
+      "contestId": 1691,
+      "index": "F",
+      "name": "K-Set Tree",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1691,
+      "index": "E",
+      "name": "Number of Groups",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1691,
+      "index": "D",
+      "name": "Max GEQ Sum",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1691,
+      "index": "C",
+      "name": "Sum of Substrings",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1691,
+      "index": "B",
+      "name": "Shoe Shuffling",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1691,
+      "index": "A",
+      "name": "Beat The Odds",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

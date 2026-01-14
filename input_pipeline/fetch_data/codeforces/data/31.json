@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 31,
+    "name": "Codeforces Beta Round 31 (Div. 2, Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1285599600,
+    "relativeTimeSeconds": 482755033
+  },
+  "problems": [
+    {
+      "contestId": 31,
+      "index": "E",
+      "name": "TV Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 31,
+      "index": "D",
+      "name": "Chocolate",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 31,
+      "index": "C",
+      "name": "Schedule",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 31,
+      "index": "B",
+      "name": "Sysadmin Bob",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 31,
+      "index": "A",
+      "name": "Worms Evolution",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

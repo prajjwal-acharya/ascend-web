@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1854,
+    "name": "Codeforces Round 889 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1690641300,
+    "relativeTimeSeconds": 77713332
+  },
+  "problems": [
+    {
+      "contestId": 1854,
+      "index": "F",
+      "name": "Mark and Spaceship",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "E",
+      "name": "Game Bundles",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "D",
+      "name": "Michael and Hotel",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "C",
+      "name": "Expected Destruction",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "B",
+      "name": "Earn or Unlock",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "A2",
+      "name": "Dual (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1854,
+      "index": "A1",
+      "name": "Dual (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1612,
+    "name": "Educational Codeforces Round 117 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1637573700,
+    "relativeTimeSeconds": 130780932
+  },
+  "problems": [
+    {
+      "contestId": 1612,
+      "index": "G",
+      "name": "Max Sum Array",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "F",
+      "name": "Armor and Weapons",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "E",
+      "name": "Messages",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "D",
+      "name": "X-Magic Pair",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "C",
+      "name": "Chat Ban",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "B",
+      "name": "Special Permutation",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1612,
+      "index": "A",
+      "name": "Distance",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1716,
+    "name": "Educational Codeforces Round 133 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1659623700,
+    "relativeTimeSeconds": 108730932
+  },
+  "problems": [
+    {
+      "contestId": 1716,
+      "index": "F",
+      "name": "Bags with Balls",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1716,
+      "index": "E",
+      "name": "Swap and Maximum Block",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1716,
+      "index": "D",
+      "name": "Chip Move",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1716,
+      "index": "C",
+      "name": "Robot in a Hallway",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1716,
+      "index": "B",
+      "name": "Permutation Chain",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1716,
+      "index": "A",
+      "name": "2-3 Moves",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 662,
+    "name": "CROC 2016 - Final Round [Private, For Onsite Finalists Only]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1460729700,
+    "relativeTimeSeconds": 307624932
+  },
+  "problems": [
+    {
+      "contestId": 662,
+      "index": "E",
+      "name": "To Hack or not to Hack",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 662,
+      "index": "D",
+      "name": "International Olympiad",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 662,
+      "index": "C",
+      "name": "Binary Table",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 662,
+      "index": "B",
+      "name": "Graph Coloring",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 662,
+      "index": "A",
+      "name": "Gambling Nim",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "math",
+        "matrices",
+        "probabilities"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 8,
+    "name": "Codeforces Beta Round 8",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1270741500,
+    "relativeTimeSeconds": 497613133
+  },
+  "problems": [
+    {
+      "contestId": 8,
+      "index": "E",
+      "name": "Beads",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 8,
+      "index": "D",
+      "name": "Two Friends",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 8,
+      "index": "C",
+      "name": "Looking for Order",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 8,
+      "index": "B",
+      "name": "Obsession with Robots",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 8,
+      "index": "A",
+      "name": "Train and Peter",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

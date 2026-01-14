@@ -1,0 +1,139 @@
+{
+  "contest": {
+    "id": 1267,
+    "name": "2019-2020 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1575183600,
+    "relativeTimeSeconds": 193171032
+  },
+  "problems": [
+    {
+      "contestId": 1267,
+      "index": "L",
+      "name": "Lexicography",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "K",
+      "name": "Key Storage",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "J",
+      "name": "Just Arrange the Icons",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "I",
+      "name": "Intriguing Selection",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "H",
+      "name": "Help BerLine",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "G",
+      "name": "Game Relics",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "F",
+      "name": "Foolpr\u00fcf Security",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "E",
+      "name": "Elections",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "D",
+      "name": "DevOps Best Practices",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "C",
+      "name": "Cactus Revenge",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1267,
+      "index": "B",
+      "name": "Balls of Buma",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": []
+    },
+    {
+      "contestId": 1267,
+      "index": "A",
+      "name": "Apprentice Learning Trajectory",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    }
+  ]
+}

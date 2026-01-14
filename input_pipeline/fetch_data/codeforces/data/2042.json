@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 2042,
+    "name": "Educational Codeforces Round 172 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1733150100,
+    "relativeTimeSeconds": 35204532
+  },
+  "problems": [
+    {
+      "contestId": 2042,
+      "index": "F",
+      "name": "Two Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2042,
+      "index": "E",
+      "name": "Vertex Pairs",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2042,
+      "index": "D",
+      "name": "Recommendations",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2042,
+      "index": "C",
+      "name": "Competitive Fishing",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2042,
+      "index": "B",
+      "name": "Game with Colored Marbles",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2042,
+      "index": "A",
+      "name": "Greedy Monocarp",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

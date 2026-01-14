@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": 1549,
+    "name": "Codeforces Round 736 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8700,
+    "startTimeSeconds": 1627828500,
+    "relativeTimeSeconds": 140526132
+  },
+  "problems": [
+    {
+      "contestId": 1549,
+      "index": "B",
+      "name": "Gregor and the Pawn Game",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1549,
+      "index": "A",
+      "name": "Gregor and Cryptography",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1705,
+    "name": "Codeforces Round 807 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1657892100,
+    "relativeTimeSeconds": 110462532
+  },
+  "problems": [
+    {
+      "contestId": 1705,
+      "index": "F",
+      "name": "Mark and the Online Exam",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1705,
+      "index": "E",
+      "name": "Mark and Professor Koro",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1705,
+      "index": "D",
+      "name": "Mark and Lightbulbs",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1705,
+      "index": "C",
+      "name": "Mark and His Unfinished Essay",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1705,
+      "index": "B",
+      "name": "Mark the Dust Sweeper",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1705,
+      "index": "A",
+      "name": "Mark the Photographer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

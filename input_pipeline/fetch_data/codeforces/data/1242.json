@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1242,
+    "name": "Codeforces Round 599 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1573052700,
+    "relativeTimeSeconds": 195301932
+  },
+  "problems": [
+    {
+      "contestId": 1242,
+      "index": "E",
+      "name": "Planar Perimeter",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1242,
+      "index": "D",
+      "name": "Number Discovery",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1242,
+      "index": "C",
+      "name": "Sum Balance",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1242,
+      "index": "B",
+      "name": "0-1 MST",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1242,
+      "index": "A",
+      "name": "Tile Painting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

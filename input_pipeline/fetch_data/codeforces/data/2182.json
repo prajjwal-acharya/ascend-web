@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 2182,
+    "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1767018900,
+    "relativeTimeSeconds": 1335732
+  },
+  "problems": [
+    {
+      "contestId": 2182,
+      "index": "G",
+      "name": "Short Garland",
+      "type": "PROGRAMMING",
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "F2",
+      "name": "Christmas Reindeer (hard version)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "F1",
+      "name": "Christmas Reindeer (easy version)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "E",
+      "name": "New Year's Gifts",
+      "type": "PROGRAMMING",
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "D",
+      "name": "Christmas Tree Decoration",
+      "type": "PROGRAMMING",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "C",
+      "name": "Production of Snowmen",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "B",
+      "name": "New Year Cake",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 2182,
+      "index": "A",
+      "name": "New Year String",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

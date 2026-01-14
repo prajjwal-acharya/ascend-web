@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 413,
+    "name": "Coder-Strike 2014 - Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1397977200,
+    "relativeTimeSeconds": 370377432
+  },
+  "problems": [
+    {
+      "contestId": 413,
+      "index": "E",
+      "name": "Maze 2D",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 413,
+      "index": "D",
+      "name": "2048",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 413,
+      "index": "C",
+      "name": "Jeopardy!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 413,
+      "index": "B",
+      "name": "Spyke Chatting",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 413,
+      "index": "A",
+      "name": "Data Recovery",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1809,
+    "name": "Educational Codeforces Round 145 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1679582100,
+    "relativeTimeSeconds": 88772532
+  },
+  "problems": [
+    {
+      "contestId": 1809,
+      "index": "G",
+      "name": "Prediction",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "F",
+      "name": "Traveling in Berland",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "E",
+      "name": "Two Tanks",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "D",
+      "name": "Binary String Sorting",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "C",
+      "name": "Sum on Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "B",
+      "name": "Points on Plane",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1809,
+      "index": "A",
+      "name": "Garland",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

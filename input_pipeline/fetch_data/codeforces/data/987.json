@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 987,
+    "name": "Codeforces Round 485 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1527608100,
+    "relativeTimeSeconds": 240746532
+  },
+  "problems": [
+    {
+      "contestId": 987,
+      "index": "C",
+      "name": "Three displays",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 987,
+      "index": "B",
+      "name": "High School: Become Human",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 987,
+      "index": "A",
+      "name": "Infinity Gauntlet",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

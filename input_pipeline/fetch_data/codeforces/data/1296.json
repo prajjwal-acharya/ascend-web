@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1296,
+    "name": "Codeforces Round 617 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1580826900,
+    "relativeTimeSeconds": 187527732
+  },
+  "problems": [
+    {
+      "contestId": 1296,
+      "index": "F",
+      "name": "Berland Beauty",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "E2",
+      "name": "String Coloring (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "E1",
+      "name": "String Coloring (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "D",
+      "name": "Fight with Monsters",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "C",
+      "name": "Yet Another Walking Robot",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "B",
+      "name": "Food Buying",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1296,
+      "index": "A",
+      "name": "Array with Odd Sum",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 474,
+    "name": "Codeforces Round 271 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1412609400,
+    "relativeTimeSeconds": 355745232
+  },
+  "problems": [
+    {
+      "contestId": 474,
+      "index": "F",
+      "name": "Ant colony",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 474,
+      "index": "E",
+      "name": "Pillars",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 474,
+      "index": "D",
+      "name": "Flowers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 474,
+      "index": "C",
+      "name": "Captain Marmot",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 474,
+      "index": "B",
+      "name": "Worms",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 474,
+      "index": "A",
+      "name": "Keyboard",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 271,
+    "name": "Codeforces Round 166 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1360596600,
+    "relativeTimeSeconds": 407758033
+  },
+  "problems": [
+    {
+      "contestId": 271,
+      "index": "E",
+      "name": "Three Horses",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 271,
+      "index": "D",
+      "name": "Good Substrings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 271,
+      "index": "C",
+      "name": "Secret",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 271,
+      "index": "B",
+      "name": "Prime Matrix",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 271,
+      "index": "A",
+      "name": "Beautiful Year",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

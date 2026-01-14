@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 618,
+    "name": "Wunder Fund Round 2016 (Div. 1 + Div. 2 combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1454087400,
+    "relativeTimeSeconds": 314267232
+  },
+  "problems": [
+    {
+      "contestId": 618,
+      "index": "G",
+      "name": "Combining Slimes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "math",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "F",
+      "name": "Double Knapsack",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "E",
+      "name": "Robot Arm",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "D",
+      "name": "Hamiltonian Spanning Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graph matchings",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "C",
+      "name": "Constellation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "B",
+      "name": "Guess the Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 618,
+      "index": "A",
+      "name": "Slime Combining",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

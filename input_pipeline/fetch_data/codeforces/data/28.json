@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 28,
+    "name": "Codeforces Beta Round 28 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1284735600,
+    "relativeTimeSeconds": 483619033
+  },
+  "problems": [
+    {
+      "contestId": 28,
+      "index": "E",
+      "name": "DravDe saves the world",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 28,
+      "index": "D",
+      "name": "Don't fear, DravDe is kind",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 28,
+      "index": "C",
+      "name": "Bath Queue",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 28,
+      "index": "B",
+      "name": "pSort",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 28,
+      "index": "A",
+      "name": "Bender Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

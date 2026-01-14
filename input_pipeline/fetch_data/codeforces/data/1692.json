@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1692,
+    "name": "Codeforces Round 799 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1655217300,
+    "relativeTimeSeconds": 113137332
+  },
+  "problems": [
+    {
+      "contestId": 1692,
+      "index": "H",
+      "name": "Gambling",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "G",
+      "name": "2^Sort",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "F",
+      "name": "3SUM",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "E",
+      "name": "Binary Deque",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "D",
+      "name": "The Clock",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "C",
+      "name": "Where's the Bishop?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "B",
+      "name": "All Distinct",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1692,
+      "index": "A",
+      "name": "Marathon",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1051,
+    "name": "Educational Codeforces Round 51 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1537454700,
+    "relativeTimeSeconds": 230899932
+  },
+  "problems": [
+    {
+      "contestId": 1051,
+      "index": "G",
+      "name": "Distinctification",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "F",
+      "name": "The Shortest Statement",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "E",
+      "name": "Vasya and Big Integers",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "D",
+      "name": "Bicolorings",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "C",
+      "name": "Vasya and Multisets",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "B",
+      "name": "Relatively Prime Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1051,
+      "index": "A",
+      "name": "Vasya And Password",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

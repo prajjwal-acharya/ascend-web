@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 51,
+    "name": "Codeforces Beta Round 48",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1293552000,
+    "relativeTimeSeconds": 474802633
+  },
+  "problems": [
+    {
+      "contestId": 51,
+      "index": "F",
+      "name": "Caterpillar",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 51,
+      "index": "E",
+      "name": "Pentagon",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 51,
+      "index": "D",
+      "name": "Geometrical problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 51,
+      "index": "C",
+      "name": "Three Base Stations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 51,
+      "index": "B",
+      "name": "bHTML Tables Analisys",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 51,
+      "index": "A",
+      "name": "Cheaterius's Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

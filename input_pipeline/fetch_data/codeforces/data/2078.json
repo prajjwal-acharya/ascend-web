@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 2078,
+    "name": "Codeforces Round 1008 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1741617900,
+    "relativeTimeSeconds": 26736732
+  },
+  "problems": [
+    {
+      "contestId": 2078,
+      "index": "D",
+      "name": "Scammy Game Ad",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2078,
+      "index": "B",
+      "name": "Vicious Labyrinth",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2078,
+      "index": "A",
+      "name": "Final Verdict",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

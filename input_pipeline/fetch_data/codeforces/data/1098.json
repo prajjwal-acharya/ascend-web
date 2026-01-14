@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1098,
+    "name": "Codeforces Round 530 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1546706100,
+    "relativeTimeSeconds": 221648532
+  },
+  "problems": [
+    {
+      "contestId": 1098,
+      "index": "F",
+      "name": "\u0416-function",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1098,
+      "index": "E",
+      "name": "Fedya the Potter",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1098,
+      "index": "D",
+      "name": "Eels",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1098,
+      "index": "C",
+      "name": "Construct a tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1098,
+      "index": "B",
+      "name": "Nice table",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1098,
+      "index": "A",
+      "name": "Sum in the tree",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    }
+  ]
+}

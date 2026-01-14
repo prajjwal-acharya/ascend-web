@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 777,
+    "name": "Codeforces Round 401 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1487930700,
+    "relativeTimeSeconds": 280423932
+  },
+  "problems": [
+    {
+      "contestId": 777,
+      "index": "E",
+      "name": "Hanoi Factory",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 777,
+      "index": "D",
+      "name": "Cloud of Hashtags",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 777,
+      "index": "C",
+      "name": "Alyona and Spreadsheet",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 777,
+      "index": "B",
+      "name": "Game of Credit Cards",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 777,
+      "index": "A",
+      "name": "Shell Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

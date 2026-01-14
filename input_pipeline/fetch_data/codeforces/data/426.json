@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 426,
+    "name": "Codeforces Round 243 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1398612600,
+    "relativeTimeSeconds": 369742032
+  },
+  "problems": [
+    {
+      "contestId": 426,
+      "index": "B",
+      "name": "Sereja and Mirroring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 426,
+      "index": "A",
+      "name": "Sereja and Mugs",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1354,
+    "name": "Educational Codeforces Round 87 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1589707200,
+    "relativeTimeSeconds": 178647432
+  },
+  "problems": [
+    {
+      "contestId": 1354,
+      "index": "G",
+      "name": "Find a Gift",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "F",
+      "name": "Summoning Minions",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "flows",
+        "graph matchings",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "E",
+      "name": "Graph Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "D",
+      "name": "Multiset",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "C2",
+      "name": "Not So Simple Polygon Embedding",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "C1",
+      "name": "Simple Polygon Embedding",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "geometry",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "B",
+      "name": "Ternary String",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1354,
+      "index": "A",
+      "name": "Alarm Clock",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 946,
+    "name": "Educational Codeforces Round 39 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1520348700,
+    "relativeTimeSeconds": 248005932
+  },
+  "problems": [
+    {
+      "contestId": 946,
+      "index": "G",
+      "name": "Almost Increasing Array",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "F",
+      "name": "Fibonacci String Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "E",
+      "name": "Largest Beautiful Number",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "D",
+      "name": "Timetable",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "C",
+      "name": "String Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "B",
+      "name": "Weird Subtraction Process",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 946,
+      "index": "A",
+      "name": "Partition",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 2060,
+    "name": "Codeforces Round 998 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1737297300,
+    "relativeTimeSeconds": 31057332
+  },
+  "problems": [
+    {
+      "contestId": 2060,
+      "index": "G",
+      "name": "Bugged Sort",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "F",
+      "name": "Multiplicative Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "E",
+      "name": "Graph Composition",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "D",
+      "name": "Subtract Min Sort",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "C",
+      "name": "Game of Mathletes",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "B",
+      "name": "Farmer John's Card Game",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2060,
+      "index": "A",
+      "name": "Fibonacciness",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

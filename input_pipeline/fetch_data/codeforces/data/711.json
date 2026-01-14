@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 711,
+    "name": "Codeforces Round 369 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1472472300,
+    "relativeTimeSeconds": 295882332
+  },
+  "problems": [
+    {
+      "contestId": 711,
+      "index": "E",
+      "name": "ZS and The Birthday Paradox",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 711,
+      "index": "D",
+      "name": "Directed Roads",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 711,
+      "index": "C",
+      "name": "Coloring Trees",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 711,
+      "index": "B",
+      "name": "Chris and Magic Square",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 711,
+      "index": "A",
+      "name": "Bus to Udayland",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

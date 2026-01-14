@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 17,
+    "name": "Codeforces Beta Round 17",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1276182000,
+    "relativeTimeSeconds": 492172633
+  },
+  "problems": [
+    {
+      "contestId": 17,
+      "index": "E",
+      "name": "Palisection",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 17,
+      "index": "D",
+      "name": "Notepad",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 17,
+      "index": "C",
+      "name": "Balance",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 17,
+      "index": "B",
+      "name": "Hierarchy",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 17,
+      "index": "A",
+      "name": "Noldbach problem",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

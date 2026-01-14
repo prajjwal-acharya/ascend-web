@@ -1,0 +1,126 @@
+{
+  "contest": {
+    "id": 1533,
+    "name": "Kotlin Heroes: Episode 7",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1624977300,
+    "relativeTimeSeconds": 143377332
+  },
+  "problems": [
+    {
+      "contestId": 1533,
+      "index": "J",
+      "name": "Pawns",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "I",
+      "name": "Excursions",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dfs and similar",
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "H",
+      "name": "Submatrices",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "bitmasks",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "G",
+      "name": "Biome Map",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "F",
+      "name": "Binary String Partition",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "E",
+      "name": "Chess Team Forming",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "D",
+      "name": "String Searching",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "C",
+      "name": "Sweets",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "B",
+      "name": "Nearest Point Function",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1533,
+      "index": "A",
+      "name": "Travel to Bertown",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

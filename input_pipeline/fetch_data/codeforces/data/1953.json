@@ -1,0 +1,23 @@
+{
+  "contest": {
+    "id": 1953,
+    "name": "2023 Post World Finals Online ICPC Challenge powered by Huawei",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 1472400,
+    "startTimeSeconds": 1715007600,
+    "relativeTimeSeconds": 53347032
+  },
+  "problems": [
+    {
+      "contestId": 1953,
+      "index": "A",
+      "name": "Accuracy-Preserving Summation Algorithm",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

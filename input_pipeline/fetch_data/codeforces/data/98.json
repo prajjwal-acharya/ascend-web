@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 98,
+    "name": "Codeforces Beta Round 78 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1311346800,
+    "relativeTimeSeconds": 457007833
+  },
+  "problems": [
+    {
+      "contestId": 98,
+      "index": "E",
+      "name": "Help Shrek and Donkey",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "games",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 98,
+      "index": "D",
+      "name": "Help Monks",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 98,
+      "index": "C",
+      "name": "Help Greg the Dwarf",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 98,
+      "index": "B",
+      "name": "Help King",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "implementation",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 98,
+      "index": "A",
+      "name": "Help Victoria the Wise",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

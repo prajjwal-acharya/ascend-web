@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1447,
+    "name": "Codeforces Round 683 (Div. 2, by Meet IT)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1605450900,
+    "relativeTimeSeconds": 162903732
+  },
+  "problems": [
+    {
+      "contestId": 1447,
+      "index": "B",
+      "name": "Numbers Box",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1447,
+      "index": "A",
+      "name": "Add Candies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

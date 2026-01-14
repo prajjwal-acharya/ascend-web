@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 131,
+    "name": "Codeforces Beta Round 95 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1322233200,
+    "relativeTimeSeconds": 446121433
+  },
+  "problems": [
+    {
+      "contestId": 131,
+      "index": "F",
+      "name": "Present to Mom",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 131,
+      "index": "E",
+      "name": "Yet Another Task with Queens",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1700,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 131,
+      "index": "D",
+      "name": "Subway",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 131,
+      "index": "C",
+      "name": "The World is a Theatre",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 131,
+      "index": "B",
+      "name": "Opposites Attract",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 131,
+      "index": "A",
+      "name": "cAPS lOCK",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

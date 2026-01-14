@@ -1,0 +1,142 @@
+{
+  "contest": {
+    "id": 1252,
+    "name": "2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1572147000,
+    "relativeTimeSeconds": 196207632
+  },
+  "problems": [
+    {
+      "contestId": 1252,
+      "index": "L",
+      "name": "Road Construction",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "K",
+      "name": "Addition Robot",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "J",
+      "name": "Tiling Terrace",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "I",
+      "name": "Mission Possible",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": []
+    },
+    {
+      "contestId": 1252,
+      "index": "H",
+      "name": "Twin Buildings",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "G",
+      "name": "Performance Review",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "F",
+      "name": "Regular Forestation",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "E",
+      "name": "Songwriter",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "D",
+      "name": "Find String in a Grid",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "C",
+      "name": "Even Path",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "B",
+      "name": "Cleaning Robots",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1252,
+      "index": "A",
+      "name": "Copying Homework",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2085,
+    "name": "Codeforces Round 1011 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1742654100,
+    "relativeTimeSeconds": 25700532
+  },
+  "problems": [
+    {
+      "contestId": 2085,
+      "index": "F2",
+      "name": "Serval and Colorful Array (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "F1",
+      "name": "Serval and Colorful Array (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "E",
+      "name": "Serval and Modulo",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "D",
+      "name": "Serval and Kaitenzushi Buffet",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "C",
+      "name": "Serval and The Formula",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "B",
+      "name": "Serval and Final MEX",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2085,
+      "index": "A",
+      "name": "Serval and String Theory",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

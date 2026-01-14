@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1016,
+    "name": "Educational Codeforces Round 48 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1533307500,
+    "relativeTimeSeconds": 235047132
+  },
+  "problems": [
+    {
+      "contestId": 1016,
+      "index": "G",
+      "name": "Appropriate Team",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "F",
+      "name": "Road Projects",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "E",
+      "name": "Rest In The Shades",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "D",
+      "name": "Vasya And The Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "C",
+      "name": "Vasya And The Mushrooms",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "B",
+      "name": "Segment Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1016,
+      "index": "A",
+      "name": "Death Note",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

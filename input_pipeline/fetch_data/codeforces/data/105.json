@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 105,
+    "name": "Codeforces Beta Round 81",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1313247600,
+    "relativeTimeSeconds": 455107033
+  },
+  "problems": [
+    {
+      "contestId": 105,
+      "index": "E",
+      "name": "Lift and Throw",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 105,
+      "index": "D",
+      "name": "Entertaining Geodetics",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 105,
+      "index": "C",
+      "name": "Item World",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 105,
+      "index": "B",
+      "name": "Dark Assembly",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 105,
+      "index": "A",
+      "name": "Transmigration",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

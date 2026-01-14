@@ -1,0 +1,51 @@
+{
+  "contest": {
+    "id": 1291,
+    "name": "Codeforces Round 616 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1580652300,
+    "relativeTimeSeconds": 187702332
+  },
+  "problems": [
+    {
+      "contestId": 1291,
+      "index": "F",
+      "name": "Coffee Varieties (easy version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1291,
+      "index": "B",
+      "name": "Array Sharpening",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1291,
+      "index": "A",
+      "name": "Even But Not Even",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

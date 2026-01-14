@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 427,
+    "name": "Codeforces Round 244 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1399044600,
+    "relativeTimeSeconds": 369310032
+  },
+  "problems": [
+    {
+      "contestId": 427,
+      "index": "E",
+      "name": "Police Patrol",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 427,
+      "index": "D",
+      "name": "Match & Catch",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 427,
+      "index": "C",
+      "name": "Checkposts",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 427,
+      "index": "B",
+      "name": "Prison Transfer",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 427,
+      "index": "A",
+      "name": "Police Recruits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 2159,
+    "name": "Codeforces Round 1058 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1760279700,
+    "relativeTimeSeconds": 8074932
+  },
+  "problems": [
+    {
+      "contestId": 2159,
+      "index": "F",
+      "name": "Grand Finale: Snakes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "interactive",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "E",
+      "name": "Super-Short-Polynomial-San",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "D2",
+      "name": "Inverse Minimum Partition (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "D1",
+      "name": "Inverse Minimum Partition (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "geometry",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "C",
+      "name": "Twin Polynomials",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "graph matchings",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "B",
+      "name": "Rectangles",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2159,
+      "index": "A",
+      "name": "MAD Interactive Problem",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    }
+  ]
+}

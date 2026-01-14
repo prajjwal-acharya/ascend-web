@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 683,
+    "name": "Surprise Language Round 8",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1466092800,
+    "relativeTimeSeconds": 302261832
+  },
+  "problems": [
+    {
+      "contestId": 683,
+      "index": "J",
+      "name": "The Hero with Bombs",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "I",
+      "name": "Loader",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "H",
+      "name": "Exchange of Books",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "G",
+      "name": "The Fraction",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "F",
+      "name": "Reformat the String",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "E",
+      "name": "Hammer throwing",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "D",
+      "name": "Chocolate Bar",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "C",
+      "name": "Symmetric Difference",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "B",
+      "name": "The Teacher of Physical Education",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 683,
+      "index": "A",
+      "name": "The Check of the Point",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "geometry"
+      ]
+    }
+  ]
+}

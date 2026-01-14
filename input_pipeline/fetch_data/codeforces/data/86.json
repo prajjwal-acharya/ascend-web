@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 86,
+    "name": "Yandex.Algorithm 2011: Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1306077000,
+    "relativeTimeSeconds": 462277633
+  },
+  "problems": [
+    {
+      "contestId": 86,
+      "index": "E",
+      "name": "Long sequence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 86,
+      "index": "D",
+      "name": "Powerful array",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 86,
+      "index": "C",
+      "name": "Genetic engineering",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "string suffix structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 86,
+      "index": "B",
+      "name": "Tetris revisited",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "graph matchings",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 86,
+      "index": "A",
+      "name": "Reflection",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

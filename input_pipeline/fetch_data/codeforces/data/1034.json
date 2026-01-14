@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 1034,
+    "name": "Codeforces Round 511 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1537540500,
+    "relativeTimeSeconds": 230814132
+  },
+  "problems": [
+    {
+      "contestId": 1034,
+      "index": "E",
+      "name": "Little C Loves 3 III",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1034,
+      "index": "D",
+      "name": "Intervals of Intervals",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1034,
+      "index": "C",
+      "name": "Region Separation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1034,
+      "index": "B",
+      "name": "Little C Loves 3 II",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1034,
+      "index": "A",
+      "name": "Enlarge GCD",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1800,
+      "tags": [
+        "number theory"
+      ]
+    }
+  ]
+}

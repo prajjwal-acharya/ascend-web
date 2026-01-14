@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 45,
+    "name": "School Team Contest 3 (Winter Computer School 2010/11)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1289646000,
+    "relativeTimeSeconds": 478708633
+  },
+  "problems": [
+    {
+      "contestId": 45,
+      "index": "J",
+      "name": "Planting Trees",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "I",
+      "name": "TCMCF+++",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "H",
+      "name": "Road Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "G",
+      "name": "Prime Problem",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "F",
+      "name": "Goats and Wolves",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "E",
+      "name": "Director",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "D",
+      "name": "Event Dates",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "meet-in-the-middle",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "C",
+      "name": "Dancing Lessons",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "B",
+      "name": "School",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 45,
+      "index": "A",
+      "name": "Codecraft III",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

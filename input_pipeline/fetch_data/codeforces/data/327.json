@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 327,
+    "name": "Codeforces Round 191 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1372941000,
+    "relativeTimeSeconds": 395413632
+  },
+  "problems": [
+    {
+      "contestId": 327,
+      "index": "E",
+      "name": "Axis Walking",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 327,
+      "index": "D",
+      "name": "Block Tower",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 327,
+      "index": "C",
+      "name": "Magic Five",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 327,
+      "index": "B",
+      "name": "Hungry Sequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 327,
+      "index": "A",
+      "name": "Flipping Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    }
+  ]
+}

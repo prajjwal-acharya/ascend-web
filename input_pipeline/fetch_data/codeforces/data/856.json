@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 856,
+    "name": "Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1505050500,
+    "relativeTimeSeconds": 263304132
+  },
+  "problems": [
+    {
+      "contestId": 856,
+      "index": "F",
+      "name": "To Play or not to Play",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 856,
+      "index": "E",
+      "name": "Satellites",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 856,
+      "index": "D",
+      "name": "Masha and Cactus",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 856,
+      "index": "C",
+      "name": "Eleventh Birthday",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 856,
+      "index": "B",
+      "name": "Similar Words",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "hashing",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 856,
+      "index": "A",
+      "name": "Set Theory",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

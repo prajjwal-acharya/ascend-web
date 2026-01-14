@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 27,
+    "name": "Codeforces Beta Round 27 (Codeforces format, Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1284130800,
+    "relativeTimeSeconds": 484223833
+  },
+  "problems": [
+    {
+      "contestId": 27,
+      "index": "E",
+      "name": "Number With The Given Amount Of Divisors",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 27,
+      "index": "D",
+      "name": "Ring Road 2",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 27,
+      "index": "C",
+      "name": "Unordered Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 27,
+      "index": "B",
+      "name": "Tournament",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 27,
+      "index": "A",
+      "name": "Next Test",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

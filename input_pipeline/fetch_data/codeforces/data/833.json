@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 833,
+    "name": "Codeforces Round 426 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1501425300,
+    "relativeTimeSeconds": 266929332
+  },
+  "problems": [
+    {
+      "contestId": 833,
+      "index": "E",
+      "name": "Caramel Clouds",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 833,
+      "index": "D",
+      "name": "Red-Black Cobweb",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 833,
+      "index": "C",
+      "name": "Ever-Hungry Krakozyabra",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 833,
+      "index": "B",
+      "name": "The Bakery",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 833,
+      "index": "A",
+      "name": "The Meaningless Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

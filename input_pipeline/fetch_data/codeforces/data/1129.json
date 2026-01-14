@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1129,
+    "name": "Codeforces Round 542 [Alex Lopashev Thanks-Round] (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1551022500,
+    "relativeTimeSeconds": 217332132
+  },
+  "problems": [
+    {
+      "contestId": 1129,
+      "index": "E",
+      "name": "Legendary Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1129,
+      "index": "D",
+      "name": "Isolation",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1129,
+      "index": "C",
+      "name": "Morse Code",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "hashing",
+        "sortings",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1129,
+      "index": "B",
+      "name": "Wrong Answer",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1129,
+      "index": "A2",
+      "name": "Toy Train",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1129,
+      "index": "A1",
+      "name": "Toy Train (Simplified)",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

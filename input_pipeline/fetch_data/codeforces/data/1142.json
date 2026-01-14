@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 1142,
+    "name": "Codeforces Round 549 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1553965800,
+    "relativeTimeSeconds": 214388832
+  },
+  "problems": [
+    {
+      "contestId": 1142,
+      "index": "E",
+      "name": "Pink Floyd",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1142,
+      "index": "D",
+      "name": "Foreigner",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1142,
+      "index": "C",
+      "name": "U2",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1142,
+      "index": "B",
+      "name": "Lynyrd Skynyrd",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1142,
+      "index": "A",
+      "name": "The Beatles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

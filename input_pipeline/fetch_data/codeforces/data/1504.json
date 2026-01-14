@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1504,
+    "name": "Codeforces Round 712 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1617460500,
+    "relativeTimeSeconds": 150894132
+  },
+  "problems": [
+    {
+      "contestId": 1504,
+      "index": "B",
+      "name": "Flip the Bits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1504,
+      "index": "A",
+      "name": " D\u00e9j\u00e0 Vu",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

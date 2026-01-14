@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 127,
+    "name": "Codeforces Beta Round 93 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1320858000,
+    "relativeTimeSeconds": 447496633
+  },
+  "problems": [
+    {
+      "contestId": 127,
+      "index": "B",
+      "name": "Canvas Frames",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 127,
+      "index": "A",
+      "name": "Wasted Time",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "geometry"
+      ]
+    }
+  ]
+}

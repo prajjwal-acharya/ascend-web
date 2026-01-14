@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 412,
+    "name": "Coder-Strike 2014 - Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1397837400,
+    "relativeTimeSeconds": 370517232
+  },
+  "problems": [
+    {
+      "contestId": 412,
+      "index": "E",
+      "name": "E-mail Addresses",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 412,
+      "index": "D",
+      "name": "Giving Awards",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 412,
+      "index": "C",
+      "name": "Pattern",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 412,
+      "index": "B",
+      "name": "Network Configuration",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 412,
+      "index": "A",
+      "name": "Poster",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

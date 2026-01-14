@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1119,
+    "name": "Codeforces Global Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1554550500,
+    "relativeTimeSeconds": 213804132
+  },
+  "problems": [
+    {
+      "contestId": 1119,
+      "index": "H",
+      "name": "Triple",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3200,
+      "tags": [
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "G",
+      "name": "Get Ready for the Battle",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "F",
+      "name": "Niyaz and Small Degrees",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "E",
+      "name": "Pavel and Triangles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "fft",
+        "greedy",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "D",
+      "name": "Frets On Fire",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "C",
+      "name": "Ramesses and Corner Inversion",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "B",
+      "name": "Alyona and a Narrow Fridge",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "flows",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1119,
+      "index": "A",
+      "name": "Ilya and a Colorful Walk",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

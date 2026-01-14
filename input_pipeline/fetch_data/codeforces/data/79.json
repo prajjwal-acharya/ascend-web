@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 79,
+    "name": "Codeforces Beta Round 71",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1304175600,
+    "relativeTimeSeconds": 464179033
+  },
+  "problems": [
+    {
+      "contestId": 79,
+      "index": "E",
+      "name": "Security System",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 79,
+      "index": "D",
+      "name": "Password",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 79,
+      "index": "C",
+      "name": "Beaver",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 79,
+      "index": "B",
+      "name": "Colorful Field",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 79,
+      "index": "A",
+      "name": "Bus Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1540,
+    "name": "Codeforces Round 728 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1624635300,
+    "relativeTimeSeconds": 143719332
+  },
+  "problems": [
+    {
+      "contestId": 1540,
+      "index": "E",
+      "name": "Tasty Dishes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1540,
+      "index": "D",
+      "name": "Inverse Inversions",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1540,
+      "index": "C2",
+      "name": "Converging Array (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1540,
+      "index": "C1",
+      "name": "Converging Array (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1540,
+      "index": "B",
+      "name": "Tree Array",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1540,
+      "index": "A",
+      "name": "Great Graphs",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    }
+  ]
+}

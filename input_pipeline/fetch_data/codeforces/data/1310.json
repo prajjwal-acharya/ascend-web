@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1310,
+    "name": "VK Cup 2019-2020 - Elimination Round (Engine)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1582473900,
+    "relativeTimeSeconds": 185880732
+  },
+  "problems": [
+    {
+      "contestId": 1310,
+      "index": "F",
+      "name": "Bad Cryptography",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1310,
+      "index": "E",
+      "name": "Strange Function",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1310,
+      "index": "D",
+      "name": "Tourism",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "graphs",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1310,
+      "index": "C",
+      "name": "Au Pont Rouge",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1310,
+      "index": "B",
+      "name": "Double Elimination",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1310,
+      "index": "A",
+      "name": "Recommendations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

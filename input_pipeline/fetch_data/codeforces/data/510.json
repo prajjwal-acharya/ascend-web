@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 510,
+    "name": "Codeforces Round 290 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1422894600,
+    "relativeTimeSeconds": 345460032
+  },
+  "problems": [
+    {
+      "contestId": 510,
+      "index": "E",
+      "name": "Fox And Dinner",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 510,
+      "index": "D",
+      "name": "Fox And Jumping",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 510,
+      "index": "C",
+      "name": "Fox And Names",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 510,
+      "index": "B",
+      "name": "Fox And Two Dots",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 510,
+      "index": "A",
+      "name": "Fox And Snake",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 370,
+    "name": "Codeforces Round 217 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1386399600,
+    "relativeTimeSeconds": 381955032
+  },
+  "problems": [
+    {
+      "contestId": 370,
+      "index": "E",
+      "name": "Summer Reading",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 370,
+      "index": "D",
+      "name": "Broken Monitor",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 370,
+      "index": "C",
+      "name": "Mittens",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 370,
+      "index": "B",
+      "name": "Berland Bingo",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 370,
+      "index": "A",
+      "name": "Rook, Bishop and King",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "graphs",
+        "math",
+        "shortest paths"
+      ]
+    }
+  ]
+}

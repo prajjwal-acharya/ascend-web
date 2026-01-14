@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1690,
+    "name": "Codeforces Round 797 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1654612500,
+    "relativeTimeSeconds": 113742132
+  },
+  "problems": [
+    {
+      "contestId": 1690,
+      "index": "G",
+      "name": "Count the Trains",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "F",
+      "name": "Shifting String",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "graphs",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "E",
+      "name": "Price Maximization",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "D",
+      "name": "Black and White Stripe",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "C",
+      "name": "Restoring the Duration of Tasks",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "B",
+      "name": "Array Decrements",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1690,
+      "index": "A",
+      "name": "Print a Pedestal (Codeforces logo?)",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

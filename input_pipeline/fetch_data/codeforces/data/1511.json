@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1511,
+    "name": "Educational Codeforces Round 107 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1618238100,
+    "relativeTimeSeconds": 150116532
+  },
+  "problems": [
+    {
+      "contestId": 1511,
+      "index": "G",
+      "name": "Chips on a Board",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dp",
+        "games",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "F",
+      "name": "Chainword",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "matrices",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "E",
+      "name": "Colorings and Dominoes",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "D",
+      "name": "Min Cost String",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "C",
+      "name": "Yet Another Card Deck",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "B",
+      "name": "GCD Length",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1511,
+      "index": "A",
+      "name": "Review Site",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

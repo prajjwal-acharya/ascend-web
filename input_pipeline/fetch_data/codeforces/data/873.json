@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 873,
+    "name": "Educational Codeforces Round 30",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1507817100,
+    "relativeTimeSeconds": 260537532
+  },
+  "problems": [
+    {
+      "contestId": 873,
+      "index": "F",
+      "name": "Forbidden Indices",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dsu",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 873,
+      "index": "E",
+      "name": "Awards For Contestants",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 873,
+      "index": "D",
+      "name": "Merge Sort",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 873,
+      "index": "C",
+      "name": "Strange Game On Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 873,
+      "index": "B",
+      "name": "Balanced Substring",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 873,
+      "index": "A",
+      "name": "Chores",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

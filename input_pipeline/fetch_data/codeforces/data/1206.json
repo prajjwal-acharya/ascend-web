@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1206,
+    "name": "Codeforces Round 580 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1566135900,
+    "relativeTimeSeconds": 202218732
+  },
+  "problems": [
+    {
+      "contestId": 1206,
+      "index": "B",
+      "name": "Make Product Equal One",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1206,
+      "index": "A",
+      "name": "Choose Two Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

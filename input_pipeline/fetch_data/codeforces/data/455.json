@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 455,
+    "name": "Codeforces Round 260 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1407511800,
+    "relativeTimeSeconds": 360842832
+  },
+  "problems": [
+    {
+      "contestId": 455,
+      "index": "E",
+      "name": "Function",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 455,
+      "index": "D",
+      "name": "Serega and Fun",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 455,
+      "index": "C",
+      "name": "Civilization",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "ternary search",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 455,
+      "index": "B",
+      "name": "A Lot of Games",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "implementation",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 455,
+      "index": "A",
+      "name": "Boredom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

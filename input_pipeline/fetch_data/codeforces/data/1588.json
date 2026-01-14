@@ -1,0 +1,28 @@
+{
+  "contest": {
+    "id": 1588,
+    "name": "Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1636869900,
+    "relativeTimeSeconds": 131484732
+  },
+  "problems": [
+    {
+      "contestId": 1588,
+      "index": "F",
+      "name": "Jumping Through the Array",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "graphs",
+        "two pointers"
+      ]
+    }
+  ]
+}

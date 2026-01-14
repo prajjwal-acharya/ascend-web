@@ -1,0 +1,147 @@
+{
+  "contest": {
+    "id": 2183,
+    "name": "Hello 2026",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1767796500,
+    "relativeTimeSeconds": 558132
+  },
+  "problems": [
+    {
+      "contestId": 2183,
+      "index": "I2",
+      "name": "Pairs Flipping (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "I1",
+      "name": "Pairs Flipping (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "H",
+      "name": "Minimise Cost",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "G",
+      "name": "Snake Instructions",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "F",
+      "name": "Jumping Man",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "E",
+      "name": "LCM is Legendary Counting Master",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "D2",
+      "name": "Tree Coloring (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "D1",
+      "name": "Tree Coloring (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "C",
+      "name": "War Strategy",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "B",
+      "name": "Yet Another MEX Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2183,
+      "index": "A",
+      "name": "Binary Array Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": [
+        "games"
+      ]
+    }
+  ]
+}

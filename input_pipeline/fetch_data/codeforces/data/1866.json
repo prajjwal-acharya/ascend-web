@@ -1,0 +1,170 @@
+{
+  "contest": {
+    "id": 1866,
+    "name": "COMPFEST 15 - Preliminary Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1693742700,
+    "relativeTimeSeconds": 74611932
+  },
+  "problems": [
+    {
+      "contestId": 1866,
+      "index": "M",
+      "name": "Mighty Rock Tower",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "L",
+      "name": "Lihmuf Balling",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "K",
+      "name": "Keen Tree Calculation",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "geometry",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "J",
+      "name": "Jackets and Packets",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "I",
+      "name": "Imagination Castle",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "games",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "H",
+      "name": "Happy Sets",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "G",
+      "name": "Grouped Carriages",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "F",
+      "name": "Freak Joker Process",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "E",
+      "name": "Elevators of Tamem",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "D",
+      "name": "Digital Wallet",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "C",
+      "name": "Completely Searching for Inversions",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "B",
+      "name": "Battling with Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1866,
+      "index": "A",
+      "name": "Ambitious Kid",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

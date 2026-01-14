@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2137,
+    "name": "Codeforces Round 1047 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1757255700,
+    "relativeTimeSeconds": 11098932
+  },
+  "problems": [
+    {
+      "contestId": 2137,
+      "index": "G",
+      "name": "Cry Me a River",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "F",
+      "name": "Prefix Maximum Invariance",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "E",
+      "name": "Mexification",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "D",
+      "name": "Replace with Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "C",
+      "name": "Maximum Even Sum",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "B",
+      "name": "Fun Permutation",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2137,
+      "index": "A",
+      "name": "Collatz Conjecture",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

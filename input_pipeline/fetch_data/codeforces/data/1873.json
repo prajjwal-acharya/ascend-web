@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1873,
+    "name": "Codeforces Round 898 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1695306900,
+    "relativeTimeSeconds": 73047732
+  },
+  "problems": [
+    {
+      "contestId": 1873,
+      "index": "H",
+      "name": "Mad City",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "games",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "G",
+      "name": "ABBC or BACB",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "F",
+      "name": "Money Trees",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "E",
+      "name": "Building an Aquarium",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "D",
+      "name": "1D Eraser",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "C",
+      "name": "Target Practice",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "B",
+      "name": "Good Kid",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1873,
+      "index": "A",
+      "name": "Short Sort",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

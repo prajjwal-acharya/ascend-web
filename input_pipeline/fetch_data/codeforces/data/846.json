@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 846,
+    "name": "Educational Codeforces Round 28",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1504623900,
+    "relativeTimeSeconds": 263730732
+  },
+  "problems": [
+    {
+      "contestId": 846,
+      "index": "F",
+      "name": "Random Query",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "math",
+        "probabilities",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 846,
+      "index": "E",
+      "name": "Chemistry in Berland",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 846,
+      "index": "D",
+      "name": "Monitor",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 846,
+      "index": "C",
+      "name": "Four Segments",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 846,
+      "index": "B",
+      "name": "Math Show",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 846,
+      "index": "A",
+      "name": "Curriculum Vitae",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "id": 1599,
+    "name": "Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 1)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 14400,
+    "startTimeSeconds": 1633770300,
+    "relativeTimeSeconds": 134584332
+  },
+  "problems": [
+    {
+      "contestId": 1599,
+      "index": "J",
+      "name": "Bob's Beautiful Array",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "I",
+      "name": "Desert",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "H",
+      "name": "Hidden Fortress",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "G",
+      "name": "Shortest path",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "F",
+      "name": "Mars",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "E",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "D",
+      "name": "Bubble Popping",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 1599,
+      "index": "C",
+      "name": "Bubble Strike",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1599,
+      "index": "B",
+      "name": "Restaurant Game",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 1599,
+      "index": "A",
+      "name": "Weights",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    }
+  ]
+}

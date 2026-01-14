@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1324,
+    "name": "Codeforces Round 627 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1584018300,
+    "relativeTimeSeconds": 184336332
+  },
+  "problems": [
+    {
+      "contestId": 1324,
+      "index": "F",
+      "name": "Maximum White Subtree",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1324,
+      "index": "E",
+      "name": "Sleeping Schedule",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1324,
+      "index": "D",
+      "name": "Pair of Topics",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1324,
+      "index": "C",
+      "name": "Frog Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1324,
+      "index": "B",
+      "name": "Yet Another Palindrome Problem",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1324,
+      "index": "A",
+      "name": "Yet Another Tetris Problem",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "number theory"
+      ]
+    }
+  ]
+}

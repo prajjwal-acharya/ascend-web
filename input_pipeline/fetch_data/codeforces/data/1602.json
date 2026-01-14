@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1602,
+    "name": "Codeforces Round 751 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1635143700,
+    "relativeTimeSeconds": 133210932
+  },
+  "problems": [
+    {
+      "contestId": 1602,
+      "index": "B",
+      "name": "Divine Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1602,
+      "index": "A",
+      "name": "Two Subsequences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

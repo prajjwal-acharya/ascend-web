@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 228,
+    "name": "Codeforces Round 141 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1348759800,
+    "relativeTimeSeconds": 419594833
+  },
+  "problems": [
+    {
+      "contestId": 228,
+      "index": "E",
+      "name": "The Road to Berland is Paved With Good Intentions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 228,
+      "index": "D",
+      "name": "Zigzag",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 228,
+      "index": "C",
+      "name": "Fractal Detector",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 228,
+      "index": "B",
+      "name": "Two Tables",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 228,
+      "index": "A",
+      "name": "Is your horseshoe on the other hoof?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

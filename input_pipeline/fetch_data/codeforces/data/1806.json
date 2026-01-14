@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1806,
+    "name": "Codeforces Round 858 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1679141100,
+    "relativeTimeSeconds": 89213532
+  },
+  "problems": [
+    {
+      "contestId": 1806,
+      "index": "F2",
+      "name": "GCD Master (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "F1",
+      "name": "GCD Master (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "E",
+      "name": "Tree Master",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "D",
+      "name": "DSU Master",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "C",
+      "name": "Sequence Master",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "B",
+      "name": "Mex Master",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1806,
+      "index": "A",
+      "name": "Walking Master",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "contest": {
+    "id": 1885,
+    "name": "ICPC 2023 Online Challenge powered by Huawei",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 1209600,
+    "startTimeSeconds": 1700463600,
+    "relativeTimeSeconds": 67891032
+  },
+  "problems": [
+    {
+      "contestId": 1885,
+      "index": "A",
+      "name": "Deterministic Scheduling for Extended Reality over 5G and Beyond",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

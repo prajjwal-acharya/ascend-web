@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 199,
+    "name": "Codeforces Round 125 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1340379000,
+    "relativeTimeSeconds": 427975633
+  },
+  "problems": [
+    {
+      "contestId": 199,
+      "index": "B",
+      "name": "Special Olympics",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 199,
+      "index": "A",
+      "name": "Hexadecimal's theorem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "number theory"
+      ]
+    }
+  ]
+}

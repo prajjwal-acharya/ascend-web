@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 689,
+    "name": "Codeforces Round 361 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1467822900,
+    "relativeTimeSeconds": 300531732
+  },
+  "problems": [
+    {
+      "contestId": 689,
+      "index": "E",
+      "name": "Mike and Geometry Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 689,
+      "index": "D",
+      "name": "Friends and Subsequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 689,
+      "index": "C",
+      "name": "Mike and Chocolate Thieves",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 689,
+      "index": "B",
+      "name": "Mike and Shortcuts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 689,
+      "index": "A",
+      "name": "Mike and Cellphone",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

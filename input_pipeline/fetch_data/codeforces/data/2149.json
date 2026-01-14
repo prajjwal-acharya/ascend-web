@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 2149,
+    "name": "Codeforces Round 1054 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1758810900,
+    "relativeTimeSeconds": 9543732
+  },
+  "problems": [
+    {
+      "contestId": 2149,
+      "index": "G",
+      "name": "Buratsuta 3",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "F",
+      "name": "Nezuko in the Clearing",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "E",
+      "name": "Hidden Knowledge of the Ancients",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "D",
+      "name": "A and B",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "C",
+      "name": "MEX rose",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "B",
+      "name": "Unconventional Pairs",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2149,
+      "index": "A",
+      "name": "Be Positive",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

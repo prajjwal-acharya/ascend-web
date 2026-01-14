@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 979,
+    "name": "Codeforces Round 482 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1526308500,
+    "relativeTimeSeconds": 242046132
+  },
+  "problems": [
+    {
+      "contestId": 979,
+      "index": "E",
+      "name": "Kuro and Topological Parity",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 979,
+      "index": "D",
+      "name": "Kuro and GCD and XOR and SUM",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "math",
+        "number theory",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 979,
+      "index": "C",
+      "name": "Kuro and Walking Route",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 979,
+      "index": "B",
+      "name": "Treasure Hunt",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 979,
+      "index": "A",
+      "name": "Pizza, Pizza, Pizza!!!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

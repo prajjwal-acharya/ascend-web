@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1805,
+    "name": "Codeforces Round 862 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1680446100,
+    "relativeTimeSeconds": 87908532
+  },
+  "problems": [
+    {
+      "contestId": 1805,
+      "index": "F2",
+      "name": "Survival of the Weakest (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "F1",
+      "name": "Survival of the Weakest (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "E",
+      "name": "There Should Be a Lot of Maximums",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "D",
+      "name": "A Wide, Wide Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "C",
+      "name": "Place for a Selfie",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "B",
+      "name": "The String Has a Target",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1805,
+      "index": "A",
+      "name": "We Need the Zero",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    }
+  ]
+}

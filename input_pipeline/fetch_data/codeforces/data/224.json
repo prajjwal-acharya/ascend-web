@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 224,
+    "name": "Codeforces Round 138 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1347809400,
+    "relativeTimeSeconds": 420545233
+  },
+  "problems": [
+    {
+      "contestId": 224,
+      "index": "B",
+      "name": "Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 224,
+      "index": "A",
+      "name": "Parallelepiped",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 665,
+    "name": "Educational Codeforces Round 12",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1461164400,
+    "relativeTimeSeconds": 307190232
+  },
+  "problems": [
+    {
+      "contestId": 665,
+      "index": "F",
+      "name": "Four Divisors",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 665,
+      "index": "E",
+      "name": "Beautiful Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 665,
+      "index": "D",
+      "name": "Simple Subset",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 665,
+      "index": "C",
+      "name": "Simple Strings",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 665,
+      "index": "B",
+      "name": "Shopping",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 665,
+      "index": "A",
+      "name": "Buses Between Cities",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

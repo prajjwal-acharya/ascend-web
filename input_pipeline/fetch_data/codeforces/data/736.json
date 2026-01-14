@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 736,
+    "name": "Codeforces Round 382 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1480264500,
+    "relativeTimeSeconds": 288090132
+  },
+  "problems": [
+    {
+      "contestId": 736,
+      "index": "E",
+      "name": "Chess Championship",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 736,
+      "index": "D",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    }
+  ]
+}

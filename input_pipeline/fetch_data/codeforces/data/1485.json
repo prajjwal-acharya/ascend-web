@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1485,
+    "name": "Codeforces Round 701 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1613141400,
+    "relativeTimeSeconds": 155213232
+  },
+  "problems": [
+    {
+      "contestId": 1485,
+      "index": "F",
+      "name": "Copy or Prefix Sum",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1485,
+      "index": "E",
+      "name": "Move and Swap",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1485,
+      "index": "D",
+      "name": "Multiples and Power Differences",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1485,
+      "index": "C",
+      "name": "Floor and Mod",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1485,
+      "index": "B",
+      "name": "Replace and Keep Sorted",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1485,
+      "index": "A",
+      "name": "Add and Divide",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

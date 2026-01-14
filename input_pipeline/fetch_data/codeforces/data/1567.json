@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1567,
+    "name": "Codeforces Round 742 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1630852500,
+    "relativeTimeSeconds": 137502132
+  },
+  "problems": [
+    {
+      "contestId": 1567,
+      "index": "F",
+      "name": "One-Four Overload",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1567,
+      "index": "E",
+      "name": "Non-Decreasing Dilemma",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1567,
+      "index": "D",
+      "name": "Expression Evaluation Error",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1567,
+      "index": "C",
+      "name": "Carrying Conundrum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1567,
+      "index": "B",
+      "name": "MEXor Mixup",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1567,
+      "index": "A",
+      "name": "Domino Disaster",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

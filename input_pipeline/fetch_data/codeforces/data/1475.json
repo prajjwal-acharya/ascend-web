@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1475,
+    "name": "Codeforces Round 697 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1611586800,
+    "relativeTimeSeconds": 156767832
+  },
+  "problems": [
+    {
+      "contestId": 1475,
+      "index": "G",
+      "name": "Strange Beauty",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "F",
+      "name": "Unusual Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "2-sat",
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "E",
+      "name": "Advertising Agency",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "D",
+      "name": "Cleaning the Phone",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "C",
+      "name": "Ball in Berland",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "B",
+      "name": "New Year's Number",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1475,
+      "index": "A",
+      "name": "Odd Divisor",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

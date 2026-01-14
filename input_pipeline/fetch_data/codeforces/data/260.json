@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 260,
+    "name": "Codeforces Round 158 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1356622500,
+    "relativeTimeSeconds": 411732133
+  },
+  "problems": [
+    {
+      "contestId": 260,
+      "index": "E",
+      "name": "Dividing Kingdom",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 260,
+      "index": "D",
+      "name": "Black and White Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 260,
+      "index": "C",
+      "name": "Balls and Boxes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 260,
+      "index": "B",
+      "name": "Ancient Prophesy",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 260,
+      "index": "A",
+      "name": "Adding Digits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

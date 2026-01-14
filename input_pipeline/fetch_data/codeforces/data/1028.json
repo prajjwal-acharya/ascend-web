@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1028,
+    "name": "AIM Tech Round 5 (rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1535387700,
+    "relativeTimeSeconds": 232966932
+  },
+  "problems": [
+    {
+      "contestId": 1028,
+      "index": "H",
+      "name": "Make Square",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "G",
+      "name": "Guess the number",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "F",
+      "name": "Make Symmetrical",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "E",
+      "name": "Restore Array",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "D",
+      "name": "Order book",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "C",
+      "name": "Rectangles",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "geometry",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "B",
+      "name": "Unnatural Conditions",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1028,
+      "index": "A",
+      "name": "Find Square",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

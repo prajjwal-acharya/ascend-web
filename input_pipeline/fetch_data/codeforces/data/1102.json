@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1102,
+    "name": "Codeforces Round 531 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1547044500,
+    "relativeTimeSeconds": 221310132
+  },
+  "problems": [
+    {
+      "contestId": 1102,
+      "index": "F",
+      "name": "Elongated Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1102,
+      "index": "E",
+      "name": "Monotonic Renumeration",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1102,
+      "index": "D",
+      "name": "Balanced Ternary String",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1102,
+      "index": "C",
+      "name": "Doors Breaking and Repairing",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1102,
+      "index": "B",
+      "name": "Array K-Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1102,
+      "index": "A",
+      "name": "Integer Sequence Dividing",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}
