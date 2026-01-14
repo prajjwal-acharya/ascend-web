@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1641,
+    "name": "Codeforces Round 773 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1645611000,
+    "relativeTimeSeconds": 122743632
+  },
+  "problems": [
+    {
+      "contestId": 1641,
+      "index": "F",
+      "name": "Covering Circle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1641,
+      "index": "E",
+      "name": "Special Positions",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1641,
+      "index": "D",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "hashing",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1641,
+      "index": "C",
+      "name": "Anonymity Is Important",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1641,
+      "index": "B",
+      "name": "Repetitions Decoding",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1641,
+      "index": "A",
+      "name": "Great Sequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 318,
+    "name": "Codeforces Round 188 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1371223800,
+    "relativeTimeSeconds": 397130832
+  },
+  "problems": [
+    {
+      "contestId": 318,
+      "index": "B",
+      "name": "Strings of Power",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 318,
+      "index": "A",
+      "name": "Even Odds",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "contest": {
+    "id": 2073,
+    "name": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1740794700,
+    "relativeTimeSeconds": 27559932
+  },
+  "problems": [
+    {
+      "contestId": 2073,
+      "index": "M",
+      "name": "Can You Reach There?",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "L",
+      "name": "Boarding Queue",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "K",
+      "name": "Book Sorting",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "J",
+      "name": "Gathering Sharks",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "I",
+      "name": "Squares on Grid Lines",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "H",
+      "name": "Secret Lilies and Roses",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2073,
+      "index": "G",
+      "name": "Corrupted File",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "F",
+      "name": "Hold the Star",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "E",
+      "name": "Minus Operator",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2073,
+      "index": "D",
+      "name": "Tower of Hanoi",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "C",
+      "name": "Cactus Connectivity",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "B",
+      "name": "Three-Dimensional Embedding",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 2073,
+      "index": "A",
+      "name": "Control Towers",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": []
+    }
+  ]
+}

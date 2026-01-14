@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 2049,
+    "name": "Codeforces Round 994 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1734705300,
+    "relativeTimeSeconds": 33649332
+  },
+  "problems": [
+    {
+      "contestId": 2049,
+      "index": "F",
+      "name": "MEX OR Mania",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2049,
+      "index": "E",
+      "name": "Broken Queries",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2049,
+      "index": "D",
+      "name": "Shift + Esc",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2049,
+      "index": "C",
+      "name": "MEX Cycle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2049,
+      "index": "B",
+      "name": "pspspsps",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graph matchings",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2049,
+      "index": "A",
+      "name": "MEX Destruction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

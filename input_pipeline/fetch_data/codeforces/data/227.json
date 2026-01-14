@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 227,
+    "name": "Codeforces Round 140 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1348500600,
+    "relativeTimeSeconds": 419854033
+  },
+  "problems": [
+    {
+      "contestId": 227,
+      "index": "B",
+      "name": "Effective Approach",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 227,
+      "index": "A",
+      "name": "Where do I Turn?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "geometry"
+      ]
+    }
+  ]
+}

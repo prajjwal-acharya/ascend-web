@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1359,
+    "name": "Educational Codeforces Round 88 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1590676500,
+    "relativeTimeSeconds": 177678132
+  },
+  "problems": [
+    {
+      "contestId": 1359,
+      "index": "F",
+      "name": "RC Kaboom Show",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1359,
+      "index": "E",
+      "name": "Modular Stability",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1359,
+      "index": "D",
+      "name": "Yet Another Yet Another Task",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1359,
+      "index": "C",
+      "name": "Mixing Water",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1359,
+      "index": "B",
+      "name": "New Theatre Square",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1359,
+      "index": "A",
+      "name": "Berland Poker",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 1610,
+    "name": "Codeforces Global Round 17",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1637678100,
+    "relativeTimeSeconds": 130676532
+  },
+  "problems": [
+    {
+      "contestId": 1610,
+      "index": "I",
+      "name": "Mashtali vs AtCoder",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3100,
+      "tags": [
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "H",
+      "name": "Squid Game",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "G",
+      "name": "AmShZ Wins a Bet",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "F",
+      "name": "Mashtali: a Space Oddysey",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "E",
+      "name": "AmShZ and G.O.A.T.",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "D",
+      "name": "Not Quite Lee",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "C",
+      "name": "Keshi Is Throwing a Party",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "B",
+      "name": "Kalindrome Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1610,
+      "index": "A",
+      "name": "Anti Light's Cell Guessing",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

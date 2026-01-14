@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 245,
+    "name": "CROC-MBTU 2012, Elimination Round (ACM-ICPC)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1353339000,
+    "relativeTimeSeconds": 415015633
+  },
+  "problems": [
+    {
+      "contestId": 245,
+      "index": "H",
+      "name": "Queries for Number of Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "G",
+      "name": "Suggested Friends",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "F",
+      "name": "Log Stream Analysis",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "E",
+      "name": "Mishap in Club",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "D",
+      "name": "Restoring Table",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "C",
+      "name": "Game with Coins",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "B",
+      "name": "Internet Address",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 245,
+      "index": "A",
+      "name": "System Administrator",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

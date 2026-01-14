@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 114,
+    "name": "Codeforces Beta Round 86 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1315494000,
+    "relativeTimeSeconds": 452860633
+  },
+  "problems": [
+    {
+      "contestId": 114,
+      "index": "B",
+      "name": "PFAST Inc.",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 114,
+      "index": "A",
+      "name": "Cifera",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

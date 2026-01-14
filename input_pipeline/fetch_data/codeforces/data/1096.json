@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1096,
+    "name": "Educational Codeforces Round 57 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1546007700,
+    "relativeTimeSeconds": 222346932
+  },
+  "problems": [
+    {
+      "contestId": 1096,
+      "index": "G",
+      "name": "Lucky Tickets",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "F",
+      "name": "Inversion Expectation",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "E",
+      "name": "The Top Scorer",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "D",
+      "name": "Easy Problem",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "C",
+      "name": "Polygon for the Angle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "B",
+      "name": "Substring Removal",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1096,
+      "index": "A",
+      "name": "Find Divisible",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

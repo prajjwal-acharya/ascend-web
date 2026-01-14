@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 44,
+    "name": "School Team Contest 2 (Winter Computer School 2010/11)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1289041200,
+    "relativeTimeSeconds": 479313433
+  },
+  "problems": [
+    {
+      "contestId": 44,
+      "index": "J",
+      "name": "Triminoes",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "I",
+      "name": "Toys",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "H",
+      "name": "Phone Number",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "G",
+      "name": "Shooting Gallery",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "F",
+      "name": "BerPaint",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "E",
+      "name": "Anfisa the Monkey",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "D",
+      "name": "Hyperdrive",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "C",
+      "name": "Holidays",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "B",
+      "name": "Cola",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 44,
+      "index": "A",
+      "name": "Indian Summer",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

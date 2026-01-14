@@ -1,0 +1,129 @@
+{
+  "contest": {
+    "id": 1045,
+    "name": "Bubble Cup 11 - Finals [Online Mirror, Div. 1]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1537612500,
+    "relativeTimeSeconds": 230742132
+  },
+  "problems": [
+    {
+      "contestId": 1045,
+      "index": "J",
+      "name": "Moonwalk challenge",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "I",
+      "name": "Palindrome Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "H",
+      "name": "Self-exploration",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "G",
+      "name": "AI robots",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "F",
+      "name": "Shady Lady",
+      "type": "PROGRAMMING",
+      "rating": 3400,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "E",
+      "name": "Ancient civilizations",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "D",
+      "name": "Interstellar battle",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "C",
+      "name": "Hyperspace Highways",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "B",
+      "name": "Space Isaac",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "hashing",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1045,
+      "index": "A",
+      "name": "Last chance",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 158,
+    "name": "VK Cup 2012 Qualification Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1330804800,
+    "relativeTimeSeconds": 437549833
+  },
+  "problems": [
+    {
+      "contestId": 158,
+      "index": "E",
+      "name": "Phone Talks",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 158,
+      "index": "D",
+      "name": "Ice Sculptures",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 158,
+      "index": "C",
+      "name": "Cd and pwd commands",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 158,
+      "index": "B",
+      "name": "Taxi",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 158,
+      "index": "A",
+      "name": "Next Round",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

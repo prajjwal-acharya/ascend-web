@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 508,
+    "name": "Codeforces Round 288 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1422376200,
+    "relativeTimeSeconds": 345978432
+  },
+  "problems": [
+    {
+      "contestId": 508,
+      "index": "E",
+      "name": "Arthur and Brackets",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 508,
+      "index": "D",
+      "name": "Tanya and Password",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 508,
+      "index": "C",
+      "name": "Anya and Ghosts",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 508,
+      "index": "B",
+      "name": "Anton and currency you all know",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 508,
+      "index": "A",
+      "name": "Pasha and Pixels",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

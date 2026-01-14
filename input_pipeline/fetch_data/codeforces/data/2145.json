@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2145,
+    "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1759761300,
+    "relativeTimeSeconds": 8593332
+  },
+  "problems": [
+    {
+      "contestId": 2145,
+      "index": "G",
+      "name": "Cost of Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "F",
+      "name": "Long Journey",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "E",
+      "name": "Predicting Popularity",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "D",
+      "name": "Inversion Value of a Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "C",
+      "name": "Monocarp's String",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "B",
+      "name": "Deck of Cards",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2145,
+      "index": "A",
+      "name": "Candies for Nephews",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

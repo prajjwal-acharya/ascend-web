@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1398,
+    "name": "Educational Codeforces Round 93 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1597415700,
+    "relativeTimeSeconds": 170938932
+  },
+  "problems": [
+    {
+      "contestId": 1398,
+      "index": "G",
+      "name": "Running Competition",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "F",
+      "name": "Controversial Rounds",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "E",
+      "name": "Two Types of Spells",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "D",
+      "name": "Colored Rectangles",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "C",
+      "name": "Good Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "B",
+      "name": "Substring Removal Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1398,
+      "index": "A",
+      "name": "Bad Triangle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

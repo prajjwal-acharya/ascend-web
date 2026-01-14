@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1032,
+    "name": "Technocup 2019 - Elimination Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8400,
+    "startTimeSeconds": 1542557100,
+    "relativeTimeSeconds": 225797532
+  },
+  "problems": [
+    {
+      "contestId": 1032,
+      "index": "G",
+      "name": "Chattering",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": []
+    },
+    {
+      "contestId": 1032,
+      "index": "F",
+      "name": "Vasya and Maximum Matching",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1032,
+      "index": "E",
+      "name": "The Unbearable Lightness of Weights",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1032,
+      "index": "D",
+      "name": "Barcelonian Distance",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1032,
+      "index": "C",
+      "name": "Playing Piano",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1032,
+      "index": "B",
+      "name": "Personalized Cup",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": []
+    },
+    {
+      "contestId": 1032,
+      "index": "A",
+      "name": "Kitchen Utensils",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": []
+    }
+  ]
+}

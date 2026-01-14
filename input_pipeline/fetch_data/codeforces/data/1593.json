@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1593,
+    "name": "Codeforces Round 748 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1634135700,
+    "relativeTimeSeconds": 134218932
+  },
+  "problems": [
+    {
+      "contestId": 1593,
+      "index": "G",
+      "name": "Changing Brackets",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "F",
+      "name": "Red-Black Number",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "math",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "E",
+      "name": "Gardener and Tree",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "D2",
+      "name": "Half of Same",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "D1",
+      "name": "All are Same",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "C",
+      "name": "Save More Mice",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "B",
+      "name": "Make it Divisible by 25",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1593,
+      "index": "A",
+      "name": "Elections",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

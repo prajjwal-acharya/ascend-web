@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 2136,
+    "name": "Codeforces Round 1046 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1756391700,
+    "relativeTimeSeconds": 11962932
+  },
+  "problems": [
+    {
+      "contestId": 2136,
+      "index": "B",
+      "name": "Like the Bitset",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2136,
+      "index": "A",
+      "name": "In the Dream",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "contest": {
+    "id": 730,
+    "name": "2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1477209600,
+    "relativeTimeSeconds": 291145032
+  },
+  "problems": [
+    {
+      "contestId": 730,
+      "index": "L",
+      "name": "Expression Queries",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "K",
+      "name": "Roads Orientation Problem",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "J",
+      "name": "Bottles",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "I",
+      "name": "Olympiad in Programming and Sports",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "flows",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "H",
+      "name": "Delete Them",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "G",
+      "name": "Car Repair Shop",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "F",
+      "name": "Ber Patio",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 730,
+      "index": "E",
+      "name": "Award Ceremony",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "D",
+      "name": "Running Over The Bridges",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "C",
+      "name": "Bulmart",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "B",
+      "name": "Minimum and Maximum",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 730,
+      "index": "A",
+      "name": "Toda 2",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

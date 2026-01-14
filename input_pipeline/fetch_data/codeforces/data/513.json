@@ -1,0 +1,166 @@
+{
+  "contest": {
+    "id": 513,
+    "name": "Rockethon 2015",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 11700,
+    "startTimeSeconds": 1423328400,
+    "relativeTimeSeconds": 345026232
+  },
+  "problems": [
+    {
+      "contestId": 513,
+      "index": "G3",
+      "name": "Inversions problem",
+      "type": "PROGRAMMING",
+      "points": 16.0,
+      "rating": 3100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "G2",
+      "name": "Inversions problem",
+      "type": "PROGRAMMING",
+      "points": 5.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "G1",
+      "name": "Inversions problem",
+      "type": "PROGRAMMING",
+      "points": 3.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "F2",
+      "name": "Scaygerboss",
+      "type": "PROGRAMMING",
+      "points": 6.0,
+      "rating": 2800,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "F1",
+      "name": "Scaygerboss",
+      "type": "PROGRAMMING",
+      "points": 14.0,
+      "rating": 2700,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "E2",
+      "name": "Subarray Cuts",
+      "type": "PROGRAMMING",
+      "points": 12.0,
+      "rating": 2700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "E1",
+      "name": "Subarray Cuts",
+      "type": "PROGRAMMING",
+      "points": 9.0,
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "D2",
+      "name": "Constrained Tree",
+      "type": "PROGRAMMING",
+      "points": 8.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "D1",
+      "name": "Constrained Tree",
+      "type": "PROGRAMMING",
+      "points": 9.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "C",
+      "name": "Second price auction",
+      "type": "PROGRAMMING",
+      "points": 8.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "B2",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "points": 4.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "B1",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "points": 3.0,
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 513,
+      "index": "A",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 3.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

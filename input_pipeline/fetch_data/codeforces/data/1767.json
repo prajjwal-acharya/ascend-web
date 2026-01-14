@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1767,
+    "name": "Educational Codeforces Round 140 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1671201300,
+    "relativeTimeSeconds": 97153332
+  },
+  "problems": [
+    {
+      "contestId": 1767,
+      "index": "F",
+      "name": "Two Subtrees",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1767,
+      "index": "E",
+      "name": "Algebra Flash",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs",
+        "math",
+        "meet-in-the-middle",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1767,
+      "index": "D",
+      "name": "Playoff",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1767,
+      "index": "C",
+      "name": "Count Binary Strings",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1767,
+      "index": "B",
+      "name": "Block Towers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1767,
+      "index": "A",
+      "name": "Cut the Triangle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

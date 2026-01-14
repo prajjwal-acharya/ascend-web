@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 496,
+    "name": "Codeforces Round 283 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1418833800,
+    "relativeTimeSeconds": 349520832
+  },
+  "problems": [
+    {
+      "contestId": 496,
+      "index": "E",
+      "name": "Distributing Parts ",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 496,
+      "index": "D",
+      "name": "Tennis Game",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 496,
+      "index": "C",
+      "name": "Removing Columns",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 496,
+      "index": "B",
+      "name": "Secret Combination",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 496,
+      "index": "A",
+      "name": "Minimum Difficulty",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

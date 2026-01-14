@@ -1,0 +1,142 @@
+{
+  "contest": {
+    "id": 2164,
+    "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1762439700,
+    "relativeTimeSeconds": 5914932
+  },
+  "problems": [
+    {
+      "contestId": 2164,
+      "index": "H",
+      "name": "PalindromePalindrome",
+      "type": "PROGRAMMING",
+      "points": 5500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "G",
+      "name": "Pointless Machine",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "F2",
+      "name": "Chain Prefix Rank (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "F1",
+      "name": "Chain Prefix Rank (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "E",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "D",
+      "name": "Copy String",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "C",
+      "name": "Dungeon",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "B",
+      "name": "Even Modulo Pair",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2164,
+      "index": "A",
+      "name": "Sequence Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    }
+  ]
+}

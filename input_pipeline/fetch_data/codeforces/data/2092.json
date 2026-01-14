@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 2092,
+    "name": "Codeforces Round 1014 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1743258900,
+    "relativeTimeSeconds": 25095732
+  },
+  "problems": [
+    {
+      "contestId": 2092,
+      "index": "F",
+      "name": "Andryusha and CCB",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2092,
+      "index": "E",
+      "name": "She knows...",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2092,
+      "index": "D",
+      "name": "Mishkin Energizer",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2092,
+      "index": "C",
+      "name": "Asuna and the Mosquitoes",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2092,
+      "index": "B",
+      "name": "Lady Bug",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2092,
+      "index": "A",
+      "name": "Kamilka and the Sheep",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    }
+  ]
+}

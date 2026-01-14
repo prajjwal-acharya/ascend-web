@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 73,
+    "name": "Codeforces Beta Round 66",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1302422400,
+    "relativeTimeSeconds": 465932233
+  },
+  "problems": [
+    {
+      "contestId": 73,
+      "index": "F",
+      "name": "Plane of Tanks",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 73,
+      "index": "E",
+      "name": "Morrowindows",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 73,
+      "index": "D",
+      "name": "FreeDiv",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 73,
+      "index": "C",
+      "name": "LionAge II",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 73,
+      "index": "B",
+      "name": "Need For Brake",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 73,
+      "index": "A",
+      "name": "The Elder Trolls IV: Oblivon",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

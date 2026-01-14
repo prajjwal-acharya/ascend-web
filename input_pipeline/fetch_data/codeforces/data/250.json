@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 250,
+    "name": "CROC-MBTU 2012, Final Round (Online version, Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1353938400,
+    "relativeTimeSeconds": 414416233
+  },
+  "problems": [
+    {
+      "contestId": 250,
+      "index": "E",
+      "name": "Mad Joe",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 250,
+      "index": "D",
+      "name": "Building Bridge",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "geometry",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 250,
+      "index": "C",
+      "name": "Movie Critics",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 250,
+      "index": "B",
+      "name": "Restoring IPv6",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 250,
+      "index": "A",
+      "name": "Paper Work",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

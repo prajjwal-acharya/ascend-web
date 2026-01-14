@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1396,
+    "name": "Codeforces Round 666 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1598798100,
+    "relativeTimeSeconds": 169556532
+  },
+  "problems": [
+    {
+      "contestId": 1396,
+      "index": "E",
+      "name": "Distance Matching",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1396,
+      "index": "D",
+      "name": "Rainbow Rectangles",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1396,
+      "index": "C",
+      "name": "Monster Invaders",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1396,
+      "index": "B",
+      "name": "Stoned Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1396,
+      "index": "A",
+      "name": "Multiples of Length",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    }
+  ]
+}

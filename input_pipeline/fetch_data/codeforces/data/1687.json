@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1687,
+    "name": "Codeforces Round 796 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1654266900,
+    "relativeTimeSeconds": 114087732
+  },
+  "problems": [
+    {
+      "contestId": 1687,
+      "index": "F",
+      "name": "Koishi's Unconscious Permutation",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1687,
+      "index": "E",
+      "name": "Become Big For Me",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1687,
+      "index": "D",
+      "name": "Cute number",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dsu",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1687,
+      "index": "C",
+      "name": "Sanae and Giant Robot",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1687,
+      "index": "B",
+      "name": "Railway System",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1687,
+      "index": "A",
+      "name": "The Enchanted Forest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

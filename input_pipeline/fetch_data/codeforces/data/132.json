@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 132,
+    "name": "Codeforces Beta Round 96 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1322924400,
+    "relativeTimeSeconds": 445430233
+  },
+  "problems": [
+    {
+      "contestId": 132,
+      "index": "E",
+      "name": "Bits of merry old England",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 132,
+      "index": "D",
+      "name": "Constants in the language of Shakespeare",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 132,
+      "index": "C",
+      "name": "Logo Turtle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 132,
+      "index": "B",
+      "name": "Piet",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 132,
+      "index": "A",
+      "name": "Turing Tape",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

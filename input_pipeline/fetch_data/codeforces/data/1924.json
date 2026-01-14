@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1924,
+    "name": "Codeforces Round 921 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1706366700,
+    "relativeTimeSeconds": 61987932
+  },
+  "problems": [
+    {
+      "contestId": 1924,
+      "index": "F",
+      "name": "Anti-Proxy Attendance",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "interactive",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1924,
+      "index": "E",
+      "name": "Paper Cutting Again",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1924,
+      "index": "D",
+      "name": "Balanced Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1924,
+      "index": "C",
+      "name": "Fractal Origami",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "geometry",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1924,
+      "index": "B",
+      "name": "Space Harbour",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1924,
+      "index": "A",
+      "name": "Did We Get Everything Covered?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "strings"
+      ]
+    }
+  ]
+}

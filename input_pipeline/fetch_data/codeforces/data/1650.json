@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1650,
+    "name": "Codeforces Round 776 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1646750100,
+    "relativeTimeSeconds": 121604532
+  },
+  "problems": [
+    {
+      "contestId": 1650,
+      "index": "G",
+      "name": "Counting Shortcuts",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "F",
+      "name": "Vitaly and Advanced Useless Algorithms",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "E",
+      "name": "Rescheduling the Exam",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "D",
+      "name": "Twist the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "C",
+      "name": "Weight of the System of Nested Segments",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "hashing",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "B",
+      "name": "DIV + MOD",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1650,
+      "index": "A",
+      "name": "Deletions of Two Adjacent Letters",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

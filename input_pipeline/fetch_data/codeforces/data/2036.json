@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 2036,
+    "name": "Codeforces Round 984 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1730558100,
+    "relativeTimeSeconds": 37796532
+  },
+  "problems": [
+    {
+      "contestId": 2036,
+      "index": "G",
+      "name": "Library of Magic",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "F",
+      "name": "XORificator 3000",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "E",
+      "name": "Reverse the Rivers",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "D",
+      "name": "I Love 1543",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "C",
+      "name": "Anya and 1100",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "B",
+      "name": "Startup",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2036,
+      "index": "A",
+      "name": "Quintomania",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

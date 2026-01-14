@@ -1,0 +1,121 @@
+{
+  "contest": {
+    "id": 1616,
+    "name": "Good Bye 2021: 2022 is NEAR",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1640792100,
+    "relativeTimeSeconds": 127562532
+  },
+  "problems": [
+    {
+      "contestId": 1616,
+      "index": "H",
+      "name": "Keep XOR Low",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "G",
+      "name": "Just Add an Edge",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "F",
+      "name": "Tricolor Triangles",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "graphs",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "E",
+      "name": "Lexicographically Small Enough",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "D",
+      "name": "Keep the Average High",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "C",
+      "name": "Representative Edges",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "B",
+      "name": "Mirror in the String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1616,
+      "index": "A",
+      "name": "Integer Diversity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

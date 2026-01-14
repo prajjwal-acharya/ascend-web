@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 121,
+    "name": "Codeforces Beta Round 91 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1319727600,
+    "relativeTimeSeconds": 448627033
+  },
+  "problems": [
+    {
+      "contestId": 121,
+      "index": "E",
+      "name": "Lucky Array",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 121,
+      "index": "D",
+      "name": "Lucky Segments",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 121,
+      "index": "C",
+      "name": "Lucky Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 121,
+      "index": "B",
+      "name": "Lucky Transformation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 121,
+      "index": "A",
+      "name": "Lucky Sum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

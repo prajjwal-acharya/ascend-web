@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1512,
+    "name": "Codeforces Round 713 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1618065300,
+    "relativeTimeSeconds": 150289332
+  },
+  "problems": [
+    {
+      "contestId": 1512,
+      "index": "G",
+      "name": "Short Task",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "F",
+      "name": "Education",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "E",
+      "name": "Permutation by Sum",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "D",
+      "name": "Corrupted Array",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "C",
+      "name": "A-B Palindrome",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "B",
+      "name": "Almost Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1512,
+      "index": "A",
+      "name": "Spy Detected!",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

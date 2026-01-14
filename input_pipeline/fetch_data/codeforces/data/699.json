@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 699,
+    "name": "Codeforces Round 363 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1468933500,
+    "relativeTimeSeconds": 299421132
+  },
+  "problems": [
+    {
+      "contestId": 699,
+      "index": "B",
+      "name": "One Bomb",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 699,
+      "index": "A",
+      "name": "Launch of Collider",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

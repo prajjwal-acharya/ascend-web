@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1158,
+    "name": "Codeforces Round 559 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1557671700,
+    "relativeTimeSeconds": 210682932
+  },
+  "problems": [
+    {
+      "contestId": 1158,
+      "index": "F",
+      "name": "Density of subarrays",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1158,
+      "index": "E",
+      "name": "Strange device",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "interactive",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1158,
+      "index": "D",
+      "name": "Winding polygonal line",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1158,
+      "index": "C",
+      "name": "Permutation recovery",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1158,
+      "index": "B",
+      "name": "The minimal unique substring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1158,
+      "index": "A",
+      "name": "The Party and Sweets",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 680,
+    "name": "Codeforces Round 356 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1465403700,
+    "relativeTimeSeconds": 302950932
+  },
+  "problems": [
+    {
+      "contestId": 680,
+      "index": "B",
+      "name": "Bear and Finding Criminals",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 680,
+      "index": "A",
+      "name": "Bear and Five Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

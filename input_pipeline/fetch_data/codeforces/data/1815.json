@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1815,
+    "name": "Codeforces Round 865 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1681051500,
+    "relativeTimeSeconds": 87303132
+  },
+  "problems": [
+    {
+      "contestId": 1815,
+      "index": "F",
+      "name": "OH NO1 (-2-3-4)",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1815,
+      "index": "E",
+      "name": "Bosco and Particle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1815,
+      "index": "D",
+      "name": "XOR Counting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1815,
+      "index": "C",
+      "name": "Between",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1815,
+      "index": "B",
+      "name": "Sum Graph",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "interactive",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1815,
+      "index": "A",
+      "name": "Ian and Array Sorting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 2097,
+    "name": "Codeforces Round 1021 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1745656500,
+    "relativeTimeSeconds": 22698132
+  },
+  "problems": [
+    {
+      "contestId": 2097,
+      "index": "F",
+      "name": "Lost Luggage",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 2097,
+      "index": "E",
+      "name": "Clearing the Snowdrift",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2097,
+      "index": "D",
+      "name": "Homework",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2097,
+      "index": "C",
+      "name": "Bermuda Triangle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "chinese remainder theorem",
+        "geometry",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2097,
+      "index": "B",
+      "name": "Baggage Claim",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2097,
+      "index": "A",
+      "name": "Sports Betting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "2-sat",
+        "brute force",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

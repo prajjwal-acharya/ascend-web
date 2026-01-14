@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 930,
+    "name": "Codeforces Round 468 (Div. 1, based on Technocup 2018 Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1520177700,
+    "relativeTimeSeconds": 248176932
+  },
+  "problems": [
+    {
+      "contestId": 930,
+      "index": "E",
+      "name": "Coins Exhibition",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 930,
+      "index": "D",
+      "name": "Game with Tokens",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 930,
+      "index": "C",
+      "name": "Teodor is not a liar!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 930,
+      "index": "B",
+      "name": "Game with String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "probabilities",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 930,
+      "index": "A",
+      "name": "Peculiar apple-tree",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1954,
+    "name": "Educational Codeforces Round 164 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1712932500,
+    "relativeTimeSeconds": 55422132
+  },
+  "problems": [
+    {
+      "contestId": 1954,
+      "index": "F",
+      "name": "Unique Strings",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1954,
+      "index": "E",
+      "name": "Chain Reaction",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1954,
+      "index": "D",
+      "name": "Colored Balls",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1954,
+      "index": "C",
+      "name": "Long Multiplication",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1954,
+      "index": "B",
+      "name": "Make It Ugly",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1954,
+      "index": "A",
+      "name": "Painting the Ribbon",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

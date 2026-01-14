@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1948,
+    "name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1710513300,
+    "relativeTimeSeconds": 57841332
+  },
+  "problems": [
+    {
+      "contestId": 1948,
+      "index": "G",
+      "name": "MST with Matching",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dsu",
+        "graph matchings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "F",
+      "name": "Rare Coins",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "E",
+      "name": "Clique Partition",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "D",
+      "name": "Tandem Repeats?",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "C",
+      "name": "Arrow Path",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "B",
+      "name": "Array Fix",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1948,
+      "index": "A",
+      "name": "Special Characters",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

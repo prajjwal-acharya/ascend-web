@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 907,
+    "name": "Codeforces Round 454 (Div. 2, based on Technocup 2018 Elimination Round 4)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1514037900,
+    "relativeTimeSeconds": 254316732
+  },
+  "problems": [
+    {
+      "contestId": 907,
+      "index": "B",
+      "name": "Tic-Tac-Toe",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 907,
+      "index": "A",
+      "name": "Masha and Bears",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 608,
+    "name": "Codeforces Round 336 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1450888500,
+    "relativeTimeSeconds": 317466132
+  },
+  "problems": [
+    {
+      "contestId": 608,
+      "index": "B",
+      "name": "Hamming Distance Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 608,
+      "index": "A",
+      "name": "Saitama Destroys Hotel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

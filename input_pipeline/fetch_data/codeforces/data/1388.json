@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1388,
+    "name": "Codeforces Round 660 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1596119700,
+    "relativeTimeSeconds": 172234932
+  },
+  "problems": [
+    {
+      "contestId": 1388,
+      "index": "E",
+      "name": "Uncle Bogdan and Projections",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1388,
+      "index": "D",
+      "name": "Captain Flint and Treasure",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1388,
+      "index": "C",
+      "name": "Uncle Bogdan and Country Happiness",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1388,
+      "index": "B",
+      "name": "Captain Flint and a Long Voyage",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1388,
+      "index": "A",
+      "name": "Captain Flint and Crew Recruitment",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

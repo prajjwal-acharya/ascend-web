@@ -1,0 +1,138 @@
+{
+  "contest": {
+    "id": 1896,
+    "name": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1700923800,
+    "relativeTimeSeconds": 67430832
+  },
+  "problems": [
+    {
+      "contestId": 1896,
+      "index": "H2",
+      "name": "Cyclic Hamming (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "dp",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "H1",
+      "name": "Cyclic Hamming (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "G",
+      "name": "Pepe Racing",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "F",
+      "name": "Bracket Xoring",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "E",
+      "name": "Permutation Sorting",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "D",
+      "name": "Ones and Twos",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "C",
+      "name": "Matching Arrays",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "B",
+      "name": "AB Flipping",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1896,
+      "index": "A",
+      "name": "Jagged Swaps",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

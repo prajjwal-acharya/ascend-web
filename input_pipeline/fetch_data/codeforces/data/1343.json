@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1343,
+    "name": "Codeforces Round 636 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1587479700,
+    "relativeTimeSeconds": 180874932
+  },
+  "problems": [
+    {
+      "contestId": 1343,
+      "index": "F",
+      "name": "Restore the Permutation by Sorted Segments",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1343,
+      "index": "E",
+      "name": "Weights Distributing",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1343,
+      "index": "D",
+      "name": "Constant Palindrome Sum",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1343,
+      "index": "C",
+      "name": "Alternating Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1343,
+      "index": "B",
+      "name": "Balanced Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1343,
+      "index": "A",
+      "name": "Candies",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

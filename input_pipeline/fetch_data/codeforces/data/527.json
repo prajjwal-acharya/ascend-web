@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 527,
+    "name": "Codeforces Round 296 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1426610700,
+    "relativeTimeSeconds": 341743932
+  },
+  "problems": [
+    {
+      "contestId": 527,
+      "index": "E",
+      "name": "Data Center Drama",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 527,
+      "index": "D",
+      "name": "Clique Problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 527,
+      "index": "C",
+      "name": "Glass Carving",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 527,
+      "index": "B",
+      "name": "Error Correct System",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 527,
+      "index": "A",
+      "name": "Playing with Paper",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

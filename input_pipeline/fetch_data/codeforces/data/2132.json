@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 2132,
+    "name": "Codeforces Round 1043 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1755786900,
+    "relativeTimeSeconds": 12567732
+  },
+  "problems": [
+    {
+      "contestId": 2132,
+      "index": "G",
+      "name": "Famous Choreographer",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "F",
+      "name": "Rada and the Chamomile Valley",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "E",
+      "name": "Arithmetics Competition",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "D",
+      "name": "From 1 to Infinity",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "C2",
+      "name": "The Cunning Seller (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "C1",
+      "name": "The Cunning Seller (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "B",
+      "name": "The Secret Number",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2132,
+      "index": "A",
+      "name": "Homework",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 288,
+    "name": "Codeforces Round 177 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1364916600,
+    "relativeTimeSeconds": 403438033
+  },
+  "problems": [
+    {
+      "contestId": 288,
+      "index": "E",
+      "name": "Polo the Penguin and Lucky Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 288,
+      "index": "D",
+      "name": "Polo the Penguin and Trees ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 288,
+      "index": "C",
+      "name": "Polo the Penguin and XOR operation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 288,
+      "index": "B",
+      "name": "Polo the Penguin and Houses ",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 288,
+      "index": "A",
+      "name": "Polo the Penguin and Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

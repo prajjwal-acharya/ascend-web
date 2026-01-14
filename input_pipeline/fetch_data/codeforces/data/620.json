@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 620,
+    "name": "Educational Codeforces Round 6",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1453388400,
+    "relativeTimeSeconds": 314966232
+  },
+  "problems": [
+    {
+      "contestId": 620,
+      "index": "F",
+      "name": "Xors on Segments",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 620,
+      "index": "E",
+      "name": "New Year Tree",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 620,
+      "index": "D",
+      "name": "Professor GukiZ and Two Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 620,
+      "index": "C",
+      "name": "Pearls in a Row",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 620,
+      "index": "B",
+      "name": "Grandfather Dovlet\u2019s calculator",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 620,
+      "index": "A",
+      "name": "Professor GukiZ's Robot",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

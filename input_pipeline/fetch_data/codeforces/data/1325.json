@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1325,
+    "name": "Codeforces Round 628 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1584196500,
+    "relativeTimeSeconds": 184158132
+  },
+  "problems": [
+    {
+      "contestId": 1325,
+      "index": "F",
+      "name": "Ehab's Last Theorem",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1325,
+      "index": "E",
+      "name": "Ehab's REAL Number Theory Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1325,
+      "index": "D",
+      "name": "Ehab the Xorcist",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1325,
+      "index": "C",
+      "name": "Ehab and Path-etic MEXs",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1325,
+      "index": "B",
+      "name": "CopyCopyCopyCopyCopy",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1325,
+      "index": "A",
+      "name": "EhAb AnD gCd",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    }
+  ]
+}

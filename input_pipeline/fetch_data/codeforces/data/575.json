@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 575,
+    "name": "Bubble Cup 8 - Finals [Online Mirror]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1441526400,
+    "relativeTimeSeconds": 326828232
+  },
+  "problems": [
+    {
+      "contestId": 575,
+      "index": "I",
+      "name": "Robots protection",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "H",
+      "name": "Bots",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "G",
+      "name": "Run for beer",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "F",
+      "name": "Bulbo",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "E",
+      "name": "Spectator Riots",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "D",
+      "name": "Tablecity",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "C",
+      "name": "Party",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "B",
+      "name": "Bribes",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 575,
+      "index": "A",
+      "name": "Fibonotci",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "math",
+        "matrices"
+      ]
+    }
+  ]
+}

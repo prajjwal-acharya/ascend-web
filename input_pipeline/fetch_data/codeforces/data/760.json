@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 760,
+    "name": "Codeforces Round 393 (Div. 2) (8VC Venture Cup 2017 - Final Round Div. 2 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1485108900,
+    "relativeTimeSeconds": 283245732
+  },
+  "problems": [
+    {
+      "contestId": 760,
+      "index": "B",
+      "name": "Frodo and pillows",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 760,
+      "index": "A",
+      "name": "Petr and a calendar",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

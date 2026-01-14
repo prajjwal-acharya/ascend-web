@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1569,
+    "name": "Educational Codeforces Round 113 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1631111700,
+    "relativeTimeSeconds": 137242932
+  },
+  "problems": [
+    {
+      "contestId": 1569,
+      "index": "F",
+      "name": "Palindromic Hamiltonian Path",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1569,
+      "index": "E",
+      "name": "Playoff Restoration",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "implementation",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1569,
+      "index": "D",
+      "name": "Inconvenient Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1569,
+      "index": "C",
+      "name": "Jury Meeting",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1569,
+      "index": "B",
+      "name": "Chess Tournament",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1569,
+      "index": "A",
+      "name": "Balanced Substring",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

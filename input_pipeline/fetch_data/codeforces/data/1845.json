@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1845,
+    "name": "Educational Codeforces Round 151 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1688049300,
+    "relativeTimeSeconds": 80305332
+  },
+  "problems": [
+    {
+      "contestId": 1845,
+      "index": "F",
+      "name": "Swimmers in the Pool",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1845,
+      "index": "E",
+      "name": "Boxes and Balls",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1845,
+      "index": "D",
+      "name": "Rating System",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1845,
+      "index": "C",
+      "name": "Strong Password",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1845,
+      "index": "B",
+      "name": "Come Together",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1845,
+      "index": "A",
+      "name": "Forbidden Integer",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

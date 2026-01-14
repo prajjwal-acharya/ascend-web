@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 616,
+    "name": "Educational Codeforces Round 5",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1452524400,
+    "relativeTimeSeconds": 315830232
+  },
+  "problems": [
+    {
+      "contestId": 616,
+      "index": "F",
+      "name": "Expensive Strings",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "sortings",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 616,
+      "index": "E",
+      "name": "Sum of Remainders",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 616,
+      "index": "D",
+      "name": "Longest k-Good Segment",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 616,
+      "index": "C",
+      "name": "The Labyrinth",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 616,
+      "index": "B",
+      "name": "Dinner with Emma",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 616,
+      "index": "A",
+      "name": "Comparing Two Long Integers",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

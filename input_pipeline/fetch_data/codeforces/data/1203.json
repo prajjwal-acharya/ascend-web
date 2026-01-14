@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1203,
+    "name": "Codeforces Round 579 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8400,
+    "startTimeSeconds": 1565706900,
+    "relativeTimeSeconds": 202647732
+  },
+  "problems": [
+    {
+      "contestId": 1203,
+      "index": "F2",
+      "name": "Complete the Projects (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "F1",
+      "name": "Complete the Projects (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "E",
+      "name": "Boxers",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "D2",
+      "name": "Remove the Substring (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "D1",
+      "name": "Remove the Substring (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "C",
+      "name": "Common Divisors",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "B",
+      "name": "Equal Rectangles",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1203,
+      "index": "A",
+      "name": "Circle of Students",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

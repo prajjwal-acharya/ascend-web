@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2094,
+    "name": "Codeforces Round 1017 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1744558500,
+    "relativeTimeSeconds": 23796132
+  },
+  "problems": [
+    {
+      "contestId": 2094,
+      "index": "H",
+      "name": "La Vaca Saturno Saturnita",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "G",
+      "name": "Chimpanzini Bananini",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "F",
+      "name": "Trulimero Trulicina",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "E",
+      "name": "Boneca Ambalabu",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "bitmasks"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "D",
+      "name": "Tung Tung Sahur",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "C",
+      "name": "Brr Brrr Patapim",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "B",
+      "name": "Bobritto Bandito",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2094,
+      "index": "A",
+      "name": "Trippi Troppi",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

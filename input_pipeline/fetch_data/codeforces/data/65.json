@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 65,
+    "name": "Codeforces Beta Round 60",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1299340800,
+    "relativeTimeSeconds": 469013833
+  },
+  "problems": [
+    {
+      "contestId": 65,
+      "index": "E",
+      "name": "Harry Potter and Moving Staircases",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 65,
+      "index": "D",
+      "name": "Harry Potter and the Sorting Hat",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 65,
+      "index": "C",
+      "name": "Harry Potter and the Golden Snitch",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 65,
+      "index": "B",
+      "name": "Harry Potter and the History of Magic",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 65,
+      "index": "A",
+      "name": "Harry Potter and Three Spells",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

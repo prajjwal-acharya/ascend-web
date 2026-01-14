@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 607,
+    "name": "Codeforces Round 336 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1450888500,
+    "relativeTimeSeconds": 317466132
+  },
+  "problems": [
+    {
+      "contestId": 607,
+      "index": "E",
+      "name": "Cross Sum",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 607,
+      "index": "D",
+      "name": "Power Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 607,
+      "index": "C",
+      "name": "Marbles",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 607,
+      "index": "B",
+      "name": "Zuma",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 607,
+      "index": "A",
+      "name": "Chain Reaction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 754,
+    "name": "Codeforces Round 390 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1483713300,
+    "relativeTimeSeconds": 284641332
+  },
+  "problems": [
+    {
+      "contestId": 754,
+      "index": "E",
+      "name": "Dasha and cyclic table",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "fft",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 754,
+      "index": "D",
+      "name": "Fedor and coupons",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 754,
+      "index": "C",
+      "name": "Vladik and chat",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 754,
+      "index": "B",
+      "name": "Ilya and tic-tac-toe game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 754,
+      "index": "A",
+      "name": "Lesha and array splitting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

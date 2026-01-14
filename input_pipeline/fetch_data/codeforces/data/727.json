@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 727,
+    "name": "Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1476522300,
+    "relativeTimeSeconds": 291832332
+  },
+  "problems": [
+    {
+      "contestId": 727,
+      "index": "F",
+      "name": "Polycarp's problems",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 727,
+      "index": "E",
+      "name": "Games on a CD",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 727,
+      "index": "D",
+      "name": "T-shirts Distribution",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 727,
+      "index": "C",
+      "name": "Guess the Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 727,
+      "index": "B",
+      "name": "Bill Total Value",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "expression parsing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 727,
+      "index": "A",
+      "name": "Transformation: from A to B",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "math"
+      ]
+    }
+  ]
+}

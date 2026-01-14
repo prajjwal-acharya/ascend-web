@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1152,
+    "name": "Codeforces Round 554 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1556116500,
+    "relativeTimeSeconds": 212238132
+  },
+  "problems": [
+    {
+      "contestId": 1152,
+      "index": "F2",
+      "name": "Neko Rules the Catniverse (Large Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "F1",
+      "name": "Neko Rules the Catniverse (Small Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "E",
+      "name": "Neko and Flashback",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "D",
+      "name": "Neko and Aki's Prank",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "C",
+      "name": "Neko does Maths",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "B",
+      "name": "Neko Performs Cat Furrier Transform",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1152,
+      "index": "A",
+      "name": "Neko Finds Grapes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

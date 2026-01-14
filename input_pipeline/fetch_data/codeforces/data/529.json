@@ -1,0 +1,27 @@
+{
+  "contest": {
+    "id": 529,
+    "name": "VK Cup 2015 - Round 1 (unofficial online mirror, Div. 1 only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1426956300,
+    "relativeTimeSeconds": 341398332
+  },
+  "problems": [
+    {
+      "contestId": 529,
+      "index": "B",
+      "name": "Group Photo 2 (online mirror version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

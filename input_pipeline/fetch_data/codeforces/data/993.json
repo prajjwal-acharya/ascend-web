@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 993,
+    "name": "Codeforces Round 488 by NEAR (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1529166900,
+    "relativeTimeSeconds": 239187732
+  },
+  "problems": [
+    {
+      "contestId": 993,
+      "index": "F",
+      "name": "The Moral Dilemma",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 993,
+      "index": "E",
+      "name": "Nikita and Order Statistics",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "chinese remainder theorem",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 993,
+      "index": "D",
+      "name": "Compute Power",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 993,
+      "index": "C",
+      "name": "Careful Maneuvering",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 993,
+      "index": "B",
+      "name": "Open Communication",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 993,
+      "index": "A",
+      "name": "Two Squares",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

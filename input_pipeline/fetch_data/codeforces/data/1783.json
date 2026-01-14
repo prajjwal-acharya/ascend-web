@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1783,
+    "name": "Educational Codeforces Round 141 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1673188500,
+    "relativeTimeSeconds": 95166132
+  },
+  "problems": [
+    {
+      "contestId": 1783,
+      "index": "G",
+      "name": "Weighed Tree Radius",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "F",
+      "name": "Double Sort II",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "E",
+      "name": "Game of the Year",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "D",
+      "name": "Different Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "C",
+      "name": "Yet Another Tournament",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "B",
+      "name": "Matrix of Differences",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1783,
+      "index": "A",
+      "name": "Make it Beautiful",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

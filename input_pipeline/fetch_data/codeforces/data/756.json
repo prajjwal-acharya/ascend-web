@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 756,
+    "name": "8VC Venture Cup 2017 - Final Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1485108900,
+    "relativeTimeSeconds": 283245732
+  },
+  "problems": [
+    {
+      "contestId": 756,
+      "index": "F",
+      "name": "Long number",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "expression parsing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 756,
+      "index": "E",
+      "name": "Byteland coins",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 756,
+      "index": "D",
+      "name": "Bacterial Melee",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 756,
+      "index": "C",
+      "name": "Nikita and stack",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 756,
+      "index": "B",
+      "name": "Travel Card",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 756,
+      "index": "A",
+      "name": "Pavel and barbecue",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar"
+      ]
+    }
+  ]
+}

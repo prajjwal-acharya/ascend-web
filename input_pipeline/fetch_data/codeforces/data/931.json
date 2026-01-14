@@ -1,0 +1,52 @@
+{
+  "contest": {
+    "id": 931,
+    "name": "Codeforces Round 468 (Div. 2, based on Technocup 2018 Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1520177700,
+    "relativeTimeSeconds": 248176932
+  },
+  "problems": [
+    {
+      "contestId": 931,
+      "index": "C",
+      "name": "Laboratory Work",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 931,
+      "index": "B",
+      "name": "World Cup",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 931,
+      "index": "A",
+      "name": "Friends Meeting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

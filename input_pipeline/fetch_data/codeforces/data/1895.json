@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1895,
+    "name": "Educational Codeforces Round 157 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1699022100,
+    "relativeTimeSeconds": 69332532
+  },
+  "problems": [
+    {
+      "contestId": 1895,
+      "index": "G",
+      "name": "Two Characters, Two Colors",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "F",
+      "name": "Fancy Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "E",
+      "name": "Infinite Card Game",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "games",
+        "graphs",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "D",
+      "name": "XOR Construction",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "data structures",
+        "math",
+        "string suffix structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "C",
+      "name": "Torn Lucky Ticket",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "hashing",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "B",
+      "name": "Points and Minimum Distance",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1895,
+      "index": "A",
+      "name": "Treasure Chest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

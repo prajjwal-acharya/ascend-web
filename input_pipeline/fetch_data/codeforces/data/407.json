@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 407,
+    "name": "Codeforces Round 239 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1396162800,
+    "relativeTimeSeconds": 372191832
+  },
+  "problems": [
+    {
+      "contestId": 407,
+      "index": "E",
+      "name": "k-d-sequence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 407,
+      "index": "D",
+      "name": "Largest Submatrix 3",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 407,
+      "index": "C",
+      "name": "Curious Array",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 407,
+      "index": "B",
+      "name": "Long Path",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 407,
+      "index": "A",
+      "name": "Triangle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

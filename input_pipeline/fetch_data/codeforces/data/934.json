@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 934,
+    "name": "Codeforces Round 462 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1518609900,
+    "relativeTimeSeconds": 249744732
+  },
+  "problems": [
+    {
+      "contestId": 934,
+      "index": "B",
+      "name": "A Prosperous Lot",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 934,
+      "index": "A",
+      "name": "A Compatible Pair",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "games"
+      ]
+    }
+  ]
+}

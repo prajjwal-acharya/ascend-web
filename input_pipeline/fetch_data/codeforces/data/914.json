@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "id": 914,
+    "name": "Codecraft-18 and Codeforces Round 458 (Div. 1 + Div. 2, combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1516462500,
+    "relativeTimeSeconds": 251892132
+  },
+  "problems": [
+    {
+      "contestId": 914,
+      "index": "H",
+      "name": "Ember and Storm's Tree Game",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "G",
+      "name": "Sum the Fibonacci",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "F",
+      "name": "Substrings in a String",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "E",
+      "name": "Palindromes in a Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "D",
+      "name": "Bash and a Tough Math Puzzle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "C",
+      "name": "Travelling Salesman and Special Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "B",
+      "name": "Conan and Agasa play a Card Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 914,
+      "index": "A",
+      "name": "Perfect Squares",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

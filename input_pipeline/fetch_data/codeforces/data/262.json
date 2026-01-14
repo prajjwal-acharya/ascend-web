@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 262,
+    "name": "Codeforces Round 160 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1358091000,
+    "relativeTimeSeconds": 410263633
+  },
+  "problems": [
+    {
+      "contestId": 262,
+      "index": "B",
+      "name": "Roma and Changing Signs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 262,
+      "index": "A",
+      "name": "Roma and Lucky Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 2170,
+    "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1764340500,
+    "relativeTimeSeconds": 4014132
+  },
+  "problems": [
+    {
+      "contestId": 2170,
+      "index": "F",
+      "name": "Build XOR on a Segment",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2170,
+      "index": "E",
+      "name": "Binary Strings and Blocks",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2170,
+      "index": "D",
+      "name": "Almost Roman",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2170,
+      "index": "C",
+      "name": "Quotient and Remainder",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2170,
+      "index": "B",
+      "name": "Addition on a Segment",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2170,
+      "index": "A",
+      "name": "Maximum Neighborhood",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 996,
+    "name": "Codeforces Round 492 (Div. 2) [Thanks, uDebug!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1529858100,
+    "relativeTimeSeconds": 238496532
+  },
+  "problems": [
+    {
+      "contestId": 996,
+      "index": "B",
+      "name": "World Cup",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 996,
+      "index": "A",
+      "name": "Hit the Lottery",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    }
+  ]
+}

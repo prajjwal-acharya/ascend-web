@@ -1,0 +1,125 @@
+{
+  "contest": {
+    "id": 2065,
+    "name": "Codeforces Round 1003 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1739111700,
+    "relativeTimeSeconds": 29242932
+  },
+  "problems": [
+    {
+      "contestId": 2065,
+      "index": "H",
+      "name": "Bro Thinks He's Him",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "G",
+      "name": "Skibidus and Capping",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "F",
+      "name": "Skibidus and Slay",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "E",
+      "name": "Skibidus and Rizz",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "D",
+      "name": "Skibidus and Sigma",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "C2",
+      "name": "Skibidus and Fanum Tax (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "C1",
+      "name": "Skibidus and Fanum Tax (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "B",
+      "name": "Skibidus and Ohio",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2065,
+      "index": "A",
+      "name": "Skibidus and Amog'u",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

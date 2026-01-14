@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1198,
+    "name": "Codeforces Round 576 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1564497300,
+    "relativeTimeSeconds": 203857332
+  },
+  "problems": [
+    {
+      "contestId": 1198,
+      "index": "F",
+      "name": "GCD Groups 2",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "greedy",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1198,
+      "index": "E",
+      "name": "Rectangle Painting 2",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1198,
+      "index": "D",
+      "name": "Rectangle Painting 1",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1198,
+      "index": "C",
+      "name": "Matching vs  Independent Set",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1198,
+      "index": "B",
+      "name": "Welfare State",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1198,
+      "index": "A",
+      "name": "MP3",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 1676,
+    "name": "Codeforces Round 790 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1652193900,
+    "relativeTimeSeconds": 116160732
+  },
+  "problems": [
+    {
+      "contestId": 1676,
+      "index": "H2",
+      "name": "Maximum Crossings (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "H1",
+      "name": "Maximum Crossings (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "G",
+      "name": "White-Black Balanced Subtrees",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "F",
+      "name": "Longest Strike",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "E",
+      "name": "Eating Queries",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "D",
+      "name": "X-Sum",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "C",
+      "name": "Most Similar Words",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "B",
+      "name": "Equal Candies",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1676,
+      "index": "A",
+      "name": "Lucky?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

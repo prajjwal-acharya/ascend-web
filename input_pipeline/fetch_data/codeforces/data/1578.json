@@ -1,0 +1,156 @@
+{
+  "contest": {
+    "id": 1578,
+    "name": "ICPC WF Moscow Invitational Contest - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1633093500,
+    "relativeTimeSeconds": 135261132
+  },
+  "problems": [
+    {
+      "contestId": 1578,
+      "index": "M",
+      "name": "The Mind",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "L",
+      "name": "Labyrinth",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "K",
+      "name": "Kingdom of Islands",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "J",
+      "name": "Just Kingdom",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "I",
+      "name": "Interactive Rays",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "geometry",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "H",
+      "name": "Higher Order Functions",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "G",
+      "name": "Game of Chance",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "F",
+      "name": "Framing Pictures",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "E",
+      "name": "Easy Scheduling",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "D",
+      "name": "Dragon Curve",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 1578,
+      "index": "C",
+      "name": "Cactus Lady and her Cing",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1578,
+      "index": "B",
+      "name": "Building Forest Trails",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1578,
+      "index": "A",
+      "name": "Anti-Tetris",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    }
+  ]
+}

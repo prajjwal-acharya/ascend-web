@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": 16,
+    "name": "Codeforces Beta Round 16 (Div. 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1275570000,
+    "relativeTimeSeconds": 492784633
+  },
+  "problems": [
+    {
+      "contestId": 16,
+      "index": "E",
+      "name": "Fish",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 16,
+      "index": "D",
+      "name": "Logging",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 16,
+      "index": "C",
+      "name": "Monitor",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 16,
+      "index": "B",
+      "name": "Burglar and Matches",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 16,
+      "index": "A",
+      "name": "Flag",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

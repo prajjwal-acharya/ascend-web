@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 926,
+    "name": "VK Cup 2018 - Wild-card Round 1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1521300900,
+    "relativeTimeSeconds": 247053732
+  },
+  "problems": [
+    {
+      "contestId": 926,
+      "index": "J",
+      "name": "Segments",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 926,
+      "index": "I",
+      "name": "A Vital Problem",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": []
+    },
+    {
+      "contestId": 926,
+      "index": "H",
+      "name": "Endless Roses Most Beautiful",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": []
+    },
+    {
+      "contestId": 926,
+      "index": "G",
+      "name": "Large Bouquets",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": []
+    },
+    {
+      "contestId": 926,
+      "index": "F",
+      "name": "Mobile Communications",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 926,
+      "index": "E",
+      "name": "Merge Equal Elements",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 926,
+      "index": "D",
+      "name": "Choose Place",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 926,
+      "index": "C",
+      "name": "Is This a Zebra?",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 926,
+      "index": "B",
+      "name": "Add Points",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 926,
+      "index": "A",
+      "name": "2-3-numbers",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

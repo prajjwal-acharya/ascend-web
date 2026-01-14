@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1579,
+    "name": "Codeforces Round 744 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1632839700,
+    "relativeTimeSeconds": 135514932
+  },
+  "problems": [
+    {
+      "contestId": 1579,
+      "index": "G",
+      "name": "Minimal Coverage",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "F",
+      "name": "Array Stabilization (AND version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "graphs",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "E2",
+      "name": "Array Optimization by Deque",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "E1",
+      "name": "Permutation Minimization by Deque",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "D",
+      "name": "Productive Meeting",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "C",
+      "name": "Ticks",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "B",
+      "name": "Shifting Sort",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1579,
+      "index": "A",
+      "name": "Casimir's String Solitaire",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

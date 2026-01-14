@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1638,
+    "name": "Codeforces Round 771 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1644849300,
+    "relativeTimeSeconds": 123505332
+  },
+  "problems": [
+    {
+      "contestId": 1638,
+      "index": "F",
+      "name": "Two Posters",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1638,
+      "index": "E",
+      "name": "Colorful Operations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1638,
+      "index": "D",
+      "name": "Big Brush",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1638,
+      "index": "C",
+      "name": "Inversion Graph",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1638,
+      "index": "B",
+      "name": "Odd Swap Sort",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1638,
+      "index": "A",
+      "name": "Reverse",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

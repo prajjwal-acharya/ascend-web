@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 167,
+    "name": "Codeforces Round 114 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1332860400,
+    "relativeTimeSeconds": 435494233
+  },
+  "problems": [
+    {
+      "contestId": 167,
+      "index": "E",
+      "name": "Wizards and Bets",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 167,
+      "index": "D",
+      "name": "Wizards and Roads",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "graph matchings",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 167,
+      "index": "C",
+      "name": "Wizards and Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 167,
+      "index": "B",
+      "name": "Wizards and Huge Prize",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 167,
+      "index": "A",
+      "name": "Wizards and Trolleybuses",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

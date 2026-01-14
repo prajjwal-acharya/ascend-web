@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 345,
+    "name": "Friday the 13th, Programmers Day",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1379086800,
+    "relativeTimeSeconds": 389267832
+  },
+  "problems": [
+    {
+      "contestId": 345,
+      "index": "G",
+      "name": "Suffix Subgroup",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "F",
+      "name": "Superstitions Inspection",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "E",
+      "name": "Black Cat Rush",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "D",
+      "name": "Chain Letter",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "C",
+      "name": "Counting Fridays",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "B",
+      "name": "Triskaidekaphobia",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 345,
+      "index": "A",
+      "name": "Expecting Trouble",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "probabilities"
+      ]
+    }
+  ]
+}

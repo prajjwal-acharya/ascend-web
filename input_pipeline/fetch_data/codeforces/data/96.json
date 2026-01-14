@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 96,
+    "name": "Codeforces Beta Round 77 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1310137200,
+    "relativeTimeSeconds": 458217433
+  },
+  "problems": [
+    {
+      "contestId": 96,
+      "index": "B",
+      "name": "Lucky Numbers (easy)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 96,
+      "index": "A",
+      "name": "Football",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

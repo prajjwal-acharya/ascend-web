@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 444,
+    "name": "Codeforces Round 254 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1404651900,
+    "relativeTimeSeconds": 363702732
+  },
+  "problems": [
+    {
+      "contestId": 444,
+      "index": "E",
+      "name": "DZY Loves Planting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 444,
+      "index": "D",
+      "name": "DZY Loves Strings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "hashing",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 444,
+      "index": "C",
+      "name": "DZY Loves Colors",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 444,
+      "index": "B",
+      "name": "DZY Loves FFT",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 444,
+      "index": "A",
+      "name": "DZY Loves Physics",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

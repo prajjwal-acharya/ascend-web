@@ -1,0 +1,171 @@
+{
+  "contest": {
+    "id": 1250,
+    "name": "2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1572168900,
+    "relativeTimeSeconds": 196185732
+  },
+  "problems": [
+    {
+      "contestId": 1250,
+      "index": "N",
+      "name": "Wires",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "M",
+      "name": "SmartGarden",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "L",
+      "name": "Divide The Students",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "K",
+      "name": "Projectors",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "J",
+      "name": "The Parade",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "I",
+      "name": "Show Must Go On",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "H",
+      "name": "Happy Birthday",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "G",
+      "name": "Discarding Game",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "F",
+      "name": "Data Center",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "E",
+      "name": "The Coronation",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "D",
+      "name": "Conference Problem",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "C",
+      "name": "Trip to Saint Petersburg",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "B",
+      "name": "The Feast and the Bus",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1250,
+      "index": "A",
+      "name": "Berstagram",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 255,
+    "name": "Codeforces Round 156 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1355671800,
+    "relativeTimeSeconds": 412682833
+  },
+  "problems": [
+    {
+      "contestId": 255,
+      "index": "E",
+      "name": "Furlo and Rublo and Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "games",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 255,
+      "index": "D",
+      "name": "Mr. Bender and Square",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 255,
+      "index": "C",
+      "name": "Almost Arithmetical Progression",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 255,
+      "index": "B",
+      "name": "Code Parsing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 255,
+      "index": "A",
+      "name": "Greg's Workout",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

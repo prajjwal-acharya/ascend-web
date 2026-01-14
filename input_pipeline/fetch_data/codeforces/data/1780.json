@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1780,
+    "name": "Codeforces Round 846 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1674657300,
+    "relativeTimeSeconds": 93697332
+  },
+  "problems": [
+    {
+      "contestId": 1780,
+      "index": "G",
+      "name": "Delicious Dessert",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dsu",
+        "hashing",
+        "math",
+        "number theory",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1780,
+      "index": "F",
+      "name": "Three Chairs",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1780,
+      "index": "E",
+      "name": "Josuke and Complete Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1780,
+      "index": "D",
+      "name": "Bit Guessing Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1780,
+      "index": "B",
+      "name": "GCD Partition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1780,
+      "index": "A",
+      "name": "Hayato and School",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

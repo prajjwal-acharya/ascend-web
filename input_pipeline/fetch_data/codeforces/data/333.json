@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 333,
+    "name": "Codeforces Round 194 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1374913800,
+    "relativeTimeSeconds": 393440832
+  },
+  "problems": [
+    {
+      "contestId": 333,
+      "index": "E",
+      "name": "Summer Earnings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 333,
+      "index": "D",
+      "name": "Characteristics of Rectangles",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 333,
+      "index": "C",
+      "name": "Lucky Tickets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 333,
+      "index": "B",
+      "name": "Chips",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 333,
+      "index": "A",
+      "name": "Secrets",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

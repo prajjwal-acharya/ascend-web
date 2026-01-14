@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1969,
+    "name": "Educational Codeforces Round 165 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1714401300,
+    "relativeTimeSeconds": 53953332
+  },
+  "problems": [
+    {
+      "contestId": 1969,
+      "index": "F",
+      "name": "Card Pairing",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1969,
+      "index": "E",
+      "name": "Unique Array",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1969,
+      "index": "D",
+      "name": "Shop Game",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1969,
+      "index": "C",
+      "name": "Minimizing the Sum",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1969,
+      "index": "B",
+      "name": "Shifts and Sorting",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1969,
+      "index": "A",
+      "name": "Two Friends",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

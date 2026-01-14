@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 815,
+    "name": "Codeforces Round 419 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1497710100,
+    "relativeTimeSeconds": 270644532
+  },
+  "problems": [
+    {
+      "contestId": 815,
+      "index": "E",
+      "name": "Karen and Neighborhood",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 815,
+      "index": "D",
+      "name": "Karen and Cards",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 815,
+      "index": "C",
+      "name": "Karen and Supermarket",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 815,
+      "index": "B",
+      "name": "Karen and Test",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 815,
+      "index": "A",
+      "name": "Karen and Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

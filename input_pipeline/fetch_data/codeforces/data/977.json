@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 977,
+    "name": "Codeforces Round 479 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1525615500,
+    "relativeTimeSeconds": 242739132
+  },
+  "problems": [
+    {
+      "contestId": 977,
+      "index": "F",
+      "name": "Consecutive Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 977,
+      "index": "E",
+      "name": "Cyclic Components",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 977,
+      "index": "D",
+      "name": "Divide by three, multiply by two",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 977,
+      "index": "C",
+      "name": "Less or Equal",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 977,
+      "index": "B",
+      "name": "Two-gram",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 977,
+      "index": "A",
+      "name": "Wrong Subtraction",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

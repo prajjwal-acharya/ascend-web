@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1172,
+    "name": "Codeforces Round 564 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1559909100,
+    "relativeTimeSeconds": 208445532
+  },
+  "problems": [
+    {
+      "contestId": 1172,
+      "index": "F",
+      "name": "Nauuo and Bug",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "E",
+      "name": "Nauuo and ODT",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "D",
+      "name": "Nauuo and Portals",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "C2",
+      "name": "Nauuo and Pictures (hard version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "C1",
+      "name": "Nauuo and Pictures (easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "B",
+      "name": "Nauuo and Circle",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1172,
+      "index": "A",
+      "name": "Nauuo and Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

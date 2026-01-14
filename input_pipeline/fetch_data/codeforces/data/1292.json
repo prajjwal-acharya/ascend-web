@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1292,
+    "name": "Codeforces Round 614 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1579440900,
+    "relativeTimeSeconds": 188913732
+  },
+  "problems": [
+    {
+      "contestId": 1292,
+      "index": "F",
+      "name": "Nora's Toy Boxes",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1292,
+      "index": "E",
+      "name": "Rin and The Unknown Flower",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1292,
+      "index": "D",
+      "name": "Chaotic V.",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1292,
+      "index": "C",
+      "name": "Xenon's Attack on the Gangs",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1292,
+      "index": "B",
+      "name": "Aroma's Search",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1292,
+      "index": "A",
+      "name": "NEKO's Maze Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "dsu",
+        "implementation"
+      ]
+    }
+  ]
+}

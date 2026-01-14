@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 88,
+    "name": "Codeforces Beta Round 73 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1307458800,
+    "relativeTimeSeconds": 460895833
+  },
+  "problems": [
+    {
+      "contestId": 88,
+      "index": "B",
+      "name": "Keyboard",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 88,
+      "index": "A",
+      "name": "Chord",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

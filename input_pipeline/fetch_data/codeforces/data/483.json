@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 483,
+    "name": "Codeforces Round 275 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1414170000,
+    "relativeTimeSeconds": 354184632
+  },
+  "problems": [
+    {
+      "contestId": 483,
+      "index": "B",
+      "name": "Friends and Presents",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 483,
+      "index": "A",
+      "name": "Counterexample ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

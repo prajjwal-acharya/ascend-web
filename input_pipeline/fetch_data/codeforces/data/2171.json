@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 2171,
+    "name": "Codeforces Round 1065 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1763649300,
+    "relativeTimeSeconds": 4705332
+  },
+  "problems": [
+    {
+      "contestId": 2171,
+      "index": "H",
+      "name": "Shiori Miyagi and Maximum Array Score",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "G",
+      "name": "Sakura Adachi and Optimal Sequences",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "F",
+      "name": "Rae Taylor and Trees (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "E",
+      "name": "Anisphia Wynn Palettia and Good Permutations",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "D",
+      "name": "Rae Taylor and Trees (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "C2",
+      "name": "Renako Amaori and XOR Game (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "C1",
+      "name": "Renako Amaori and XOR Game (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "B",
+      "name": "Yuu Koito and Minimum Absolute Sum",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2171,
+      "index": "A",
+      "name": "Shizuku Hoshikawa and Farm Legs",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

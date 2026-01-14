@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 797,
+    "name": "Educational Codeforces Round 19",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1492266900,
+    "relativeTimeSeconds": 276087732
+  },
+  "problems": [
+    {
+      "contestId": 797,
+      "index": "F",
+      "name": "Mice and Holes",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 797,
+      "index": "E",
+      "name": "Array Queries",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 797,
+      "index": "D",
+      "name": "Broken BST",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 797,
+      "index": "C",
+      "name": "Minimal string",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 797,
+      "index": "B",
+      "name": "Odd sum",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 797,
+      "index": "A",
+      "name": "k-Factorization",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

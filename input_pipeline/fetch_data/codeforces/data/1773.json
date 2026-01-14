@@ -1,0 +1,154 @@
+{
+  "contest": {
+    "id": 1773,
+    "name": "2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1670400300,
+    "relativeTimeSeconds": 97954332
+  },
+  "problems": [
+    {
+      "contestId": 1773,
+      "index": "L",
+      "name": "Lisa's Sequences",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "K",
+      "name": "King's Puzzle",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "J",
+      "name": "Jumbled Trees",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "I",
+      "name": "Interactive Factorial Guessing",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "games",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "H",
+      "name": "Hot and Cold",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "G",
+      "name": "Game of Questions",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "fft",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "F",
+      "name": "Football",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "E",
+      "name": "Easy Assembly",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "D",
+      "name": "Dominoes",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "flows",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "C",
+      "name": "Cactus Meets Torus",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1773,
+      "index": "B",
+      "name": "BinCoin",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "hashing",
+        "implementation",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1773,
+      "index": "A",
+      "name": "Amazing Trick",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "graph matchings",
+        "math",
+        "probabilities"
+      ]
+    }
+  ]
+}

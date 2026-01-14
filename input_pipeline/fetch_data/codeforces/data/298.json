@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 298,
+    "name": "Codeforces Round 180 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1366385400,
+    "relativeTimeSeconds": 401969233
+  },
+  "problems": [
+    {
+      "contestId": 298,
+      "index": "B",
+      "name": "Sail",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 298,
+      "index": "A",
+      "name": "Snow Footprints",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

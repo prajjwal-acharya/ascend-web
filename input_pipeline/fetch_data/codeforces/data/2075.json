@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 2075,
+    "name": "Educational Codeforces Round 176 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1742222100,
+    "relativeTimeSeconds": 26132532
+  },
+  "problems": [
+    {
+      "contestId": 2075,
+      "index": "F",
+      "name": "Beautiful Sequence Returns",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2075,
+      "index": "E",
+      "name": "XOR Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2075,
+      "index": "D",
+      "name": "Equalization",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2075,
+      "index": "C",
+      "name": "Two Colors",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2075,
+      "index": "B",
+      "name": "Array Recoloring",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2075,
+      "index": "A",
+      "name": "To Zero",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

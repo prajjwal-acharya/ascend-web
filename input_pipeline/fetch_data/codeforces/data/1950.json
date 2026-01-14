@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1950,
+    "name": "Codeforces Round 937 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1711637100,
+    "relativeTimeSeconds": 56717532
+  },
+  "problems": [
+    {
+      "contestId": 1950,
+      "index": "G",
+      "name": "Shuffling Songs",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "F",
+      "name": "0, 1, 2, Tree!",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "E",
+      "name": "Nearly Shortest Repeating Substring",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "D",
+      "name": "Product of Binary Decimals",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "C",
+      "name": "Clock Conversion",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "B",
+      "name": "Upscaling",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1950,
+      "index": "A",
+      "name": "Stair, Peak, or Neither?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

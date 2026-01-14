@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 900,
+    "name": "Codeforces Round 450 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1513008300,
+    "relativeTimeSeconds": 255346332
+  },
+  "problems": [
+    {
+      "contestId": 900,
+      "index": "E",
+      "name": "Maximum Questions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 900,
+      "index": "D",
+      "name": "Unusual Sequences",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 900,
+      "index": "C",
+      "name": "Remove Extra One",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 900,
+      "index": "B",
+      "name": "Position in Fraction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 900,
+      "index": "A",
+      "name": "Find Extra One",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

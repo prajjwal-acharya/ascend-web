@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1401,
+    "name": "Codeforces Round 665 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1598020500,
+    "relativeTimeSeconds": 170334132
+  },
+  "problems": [
+    {
+      "contestId": 1401,
+      "index": "F",
+      "name": "Reverse and Swap",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1401,
+      "index": "E",
+      "name": "Divide Square",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "geometry",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1401,
+      "index": "D",
+      "name": "Maximum Distributed Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1401,
+      "index": "C",
+      "name": "Mere Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1401,
+      "index": "B",
+      "name": "Ternary Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1401,
+      "index": "A",
+      "name": "Distance and Axis",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

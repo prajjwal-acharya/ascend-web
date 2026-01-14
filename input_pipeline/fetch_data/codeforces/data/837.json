@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 837,
+    "name": "Educational Codeforces Round 26",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1501773300,
+    "relativeTimeSeconds": 266581332
+  },
+  "problems": [
+    {
+      "contestId": 837,
+      "index": "G",
+      "name": "Functions On The Segments",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "F",
+      "name": "Prefix Sums",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "E",
+      "name": "Vasya's Function",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "D",
+      "name": "Round Subset",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "C",
+      "name": "Two Seals",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "B",
+      "name": "Flag of Berland",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 837,
+      "index": "A",
+      "name": "Text Volume",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

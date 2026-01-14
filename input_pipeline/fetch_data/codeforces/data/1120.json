@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1120,
+    "name": "Codeforces Round 543 (Div. 1, based on Technocup 2019 Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1551627300,
+    "relativeTimeSeconds": 216727332
+  },
+  "problems": [
+    {
+      "contestId": 1120,
+      "index": "F",
+      "name": "Secret Letters",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1120,
+      "index": "E",
+      "name": "The very same Munchhausen",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1120,
+      "index": "D",
+      "name": "Power Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1120,
+      "index": "C",
+      "name": "Compress String",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1120,
+      "index": "B",
+      "name": "Once in a casino",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1120,
+      "index": "A",
+      "name": "Diana and Liana",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

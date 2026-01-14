@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1496,
+    "name": "Codeforces Round 706 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1615377900,
+    "relativeTimeSeconds": 152976732
+  },
+  "problems": [
+    {
+      "contestId": 1496,
+      "index": "B",
+      "name": "Max and Mex",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1496,
+      "index": "A",
+      "name": "Split it!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

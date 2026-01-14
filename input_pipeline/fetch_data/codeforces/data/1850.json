@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1850,
+    "name": "Codeforces Round 886 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1689950100,
+    "relativeTimeSeconds": 78404532
+  },
+  "problems": [
+    {
+      "contestId": 1850,
+      "index": "H",
+      "name": "The Third Letter",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "G",
+      "name": "The Morning Star",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "geometry",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "F",
+      "name": "We Were Both Children",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "E",
+      "name": "Cardboard for Pictures",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "D",
+      "name": "Balanced Round",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "C",
+      "name": "Word on the Paper",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "B",
+      "name": "Ten Words of Wisdom",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1850,
+      "index": "A",
+      "name": "To My Critics",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

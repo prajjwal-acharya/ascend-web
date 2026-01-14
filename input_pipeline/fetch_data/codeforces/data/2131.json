@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 2131,
+    "name": "Codeforces Round 1042 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1754836500,
+    "relativeTimeSeconds": 13518132
+  },
+  "problems": [
+    {
+      "contestId": 2131,
+      "index": "H",
+      "name": "Sea, You & copriMe",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "G",
+      "name": "Wafu!",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "F",
+      "name": "Unjust Binary Life",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "E",
+      "name": "Adjacent XOR",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "D",
+      "name": "Arboris Contractio",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "C",
+      "name": "Make it Equal",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "B",
+      "name": "Alternating Series",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2131,
+      "index": "A",
+      "name": "Lever",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

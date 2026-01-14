@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 894,
+    "name": "Codeforces Round 447 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1511099700,
+    "relativeTimeSeconds": 257254932
+  },
+  "problems": [
+    {
+      "contestId": 894,
+      "index": "E",
+      "name": "Ralph and Mushrooms",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 894,
+      "index": "D",
+      "name": "Ralph And His Tour in Binary Country",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 894,
+      "index": "C",
+      "name": "Marco and GCD Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 894,
+      "index": "B",
+      "name": "Ralph And His Magic Field",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 894,
+      "index": "A",
+      "name": "QAQ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    }
+  ]
+}

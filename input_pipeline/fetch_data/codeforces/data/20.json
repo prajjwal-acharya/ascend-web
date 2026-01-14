@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 20,
+    "name": "Codeforces Alpha Round 20 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 5400,
+    "startTimeSeconds": 1276875000,
+    "relativeTimeSeconds": 491479633
+  },
+  "problems": [
+    {
+      "contestId": 20,
+      "index": "C",
+      "name": "Dijkstra?",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 20,
+      "index": "B",
+      "name": "Equation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 20,
+      "index": "A",
+      "name": "BerOS file system",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

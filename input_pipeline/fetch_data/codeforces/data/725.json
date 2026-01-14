@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 725,
+    "name": "Canada Cup 2016",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1477148700,
+    "relativeTimeSeconds": 291205932
+  },
+  "problems": [
+    {
+      "contestId": 725,
+      "index": "G",
+      "name": "Messages on a Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 725,
+      "index": "F",
+      "name": "Family Photos",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 725,
+      "index": "E",
+      "name": "Too Much Money",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 725,
+      "index": "D",
+      "name": "Contest Balloons",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 725,
+      "index": "C",
+      "name": "Hidden Word",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 725,
+      "index": "B",
+      "name": "Food on the Plane",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 725,
+      "index": "A",
+      "name": "Jumping Ball",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

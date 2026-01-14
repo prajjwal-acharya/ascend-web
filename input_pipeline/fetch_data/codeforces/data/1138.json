@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 1138,
+    "name": "Codeforces Round 545 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1552035900,
+    "relativeTimeSeconds": 216318732
+  },
+  "problems": [
+    {
+      "contestId": 1138,
+      "index": "B",
+      "name": "Circus",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1138,
+      "index": "A",
+      "name": "Sushi for Two",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

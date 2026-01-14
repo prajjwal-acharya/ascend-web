@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": 1403,
+    "name": "Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18600,
+    "startTimeSeconds": 1598616300,
+    "relativeTimeSeconds": 169738332
+  },
+  "problems": [
+    {
+      "contestId": 1403,
+      "index": "C",
+      "name": "Chess Rush",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "*special",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1403,
+      "index": "B",
+      "name": "Spring cleaning",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1403,
+      "index": "A",
+      "name": "The Potion of Great Power",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special",
+        "2-sat",
+        "binary search",
+        "data structures",
+        "graphs",
+        "interactive",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

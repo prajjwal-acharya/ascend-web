@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 378,
+    "name": "Codeforces Round 222 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1388331000,
+    "relativeTimeSeconds": 380023632
+  },
+  "problems": [
+    {
+      "contestId": 378,
+      "index": "B",
+      "name": "Semifinals",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 378,
+      "index": "A",
+      "name": "Playing with Dice",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

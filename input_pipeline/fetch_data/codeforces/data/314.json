@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 314,
+    "name": "Codeforces Round 187 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1370619000,
+    "relativeTimeSeconds": 397735632
+  },
+  "problems": [
+    {
+      "contestId": 314,
+      "index": "E",
+      "name": "Sereja and Squares",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 314,
+      "index": "D",
+      "name": "Sereja and Straight Lines",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 314,
+      "index": "C",
+      "name": "Sereja and Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 314,
+      "index": "B",
+      "name": "Sereja and Periods",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 314,
+      "index": "A",
+      "name": "Sereja and Contest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

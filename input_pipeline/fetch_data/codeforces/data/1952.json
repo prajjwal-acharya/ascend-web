@@ -1,0 +1,125 @@
+{
+  "contest": {
+    "id": 1952,
+    "name": "April Fools Day Contest 2024",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1711982100,
+    "relativeTimeSeconds": 56372532
+  },
+  "problems": [
+    {
+      "contestId": 1952,
+      "index": "J",
+      "name": "Help, what does it mean to be \"Based\"",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force",
+        "constructive algorithms",
+        "expression parsing",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "I",
+      "name": "Dark Matter",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "bitmasks",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "H",
+      "name": "Palindrome",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "G",
+      "name": "Mathematician Takeover",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "F",
+      "name": "Grid",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "E",
+      "name": "Sweep Line",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "combinatorics",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "D",
+      "name": "Are You a Procrastinator?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "C",
+      "name": "They Have Fooled",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force",
+        "schedules"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "B",
+      "name": "Is it stated?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1952,
+      "index": "A",
+      "name": "Are You a Robot, Again?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    }
+  ]
+}

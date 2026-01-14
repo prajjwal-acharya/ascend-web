@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1887,
+    "name": "Codeforces Round 905 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1697972700,
+    "relativeTimeSeconds": 70381932
+  },
+  "problems": [
+    {
+      "contestId": 1887,
+      "index": "F",
+      "name": "Minimum Segments",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1887,
+      "index": "E",
+      "name": "Good Colorings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1887,
+      "index": "D",
+      "name": "Split",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "math",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1887,
+      "index": "C",
+      "name": "Minimum Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "hashing",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1887,
+      "index": "B",
+      "name": "Time Travel",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "graphs",
+        "shortest paths"
+      ]
+    }
+  ]
+}

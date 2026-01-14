@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 660,
+    "name": "Educational Codeforces Round 11",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1460127600,
+    "relativeTimeSeconds": 308227032
+  },
+  "problems": [
+    {
+      "contestId": 660,
+      "index": "F",
+      "name": "Bear and Bowling 4",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 660,
+      "index": "E",
+      "name": "Different Subsets For All Tuples",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 660,
+      "index": "D",
+      "name": "Number of Parallelograms",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 660,
+      "index": "C",
+      "name": "Hard Process",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 660,
+      "index": "B",
+      "name": "Seating On Bus",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 660,
+      "index": "A",
+      "name": "Co-prime Array",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

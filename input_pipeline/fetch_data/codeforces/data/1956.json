@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1956,
+    "name": "Codeforces Round 939 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1713018900,
+    "relativeTimeSeconds": 55335732
+  },
+  "problems": [
+    {
+      "contestId": 1956,
+      "index": "F",
+      "name": "Nene and the Passing Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dsu",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "E2",
+      "name": "Nene vs. Monsters (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "E1",
+      "name": "Nene vs. Monsters (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "D",
+      "name": "Nene and the Mex Operator",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "C",
+      "name": "Nene's Magical Matrix",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "B",
+      "name": "Nene and the Card Game",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1956,
+      "index": "A",
+      "name": "Nene's Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "games",
+        "greedy"
+      ]
+    }
+  ]
+}

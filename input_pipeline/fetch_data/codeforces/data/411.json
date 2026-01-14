@@ -1,0 +1,46 @@
+{
+  "contest": {
+    "id": 411,
+    "name": "Coder-Strike 2014 - Qualification Round",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1397505600,
+    "relativeTimeSeconds": 370849032
+  },
+  "problems": [
+    {
+      "contestId": 411,
+      "index": "C",
+      "name": "Kicker",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 411,
+      "index": "B",
+      "name": "Multi-core Processor",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 411,
+      "index": "A",
+      "name": "Password Check",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

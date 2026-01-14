@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 749,
+    "name": "Codeforces Round 388 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1482165300,
+    "relativeTimeSeconds": 286189332
+  },
+  "problems": [
+    {
+      "contestId": 749,
+      "index": "E",
+      "name": "Inversions After Shuffle",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 749,
+      "index": "D",
+      "name": "Leaving Auction",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 749,
+      "index": "C",
+      "name": "Voting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 749,
+      "index": "B",
+      "name": "Parallelogram is Back",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 749,
+      "index": "A",
+      "name": "Bachgold Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

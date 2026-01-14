@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 500,
+    "name": "Good Bye 2014",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1419951600,
+    "relativeTimeSeconds": 348403032
+  },
+  "problems": [
+    {
+      "contestId": 500,
+      "index": "G",
+      "name": "New Year Running",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "F",
+      "name": "New Year Shopping",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "E",
+      "name": "New Year Domino",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "D",
+      "name": "New Year Santa Network",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "C",
+      "name": "New Year Book Reading",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "B",
+      "name": "New Year Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 500,
+      "index": "A",
+      "name": "New Year Transportation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    }
+  ]
+}

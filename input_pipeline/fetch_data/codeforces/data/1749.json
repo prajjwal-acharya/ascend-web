@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1749,
+    "name": "Educational Codeforces Round 138 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1666276500,
+    "relativeTimeSeconds": 102078132
+  },
+  "problems": [
+    {
+      "contestId": 1749,
+      "index": "F",
+      "name": "Distance to the Path",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1749,
+      "index": "E",
+      "name": "Cactus Wall",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1749,
+      "index": "D",
+      "name": "Counting Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1749,
+      "index": "C",
+      "name": "Number Game",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1749,
+      "index": "B",
+      "name": "Death's Blessing",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1749,
+      "index": "A",
+      "name": "Cowardly Rooks",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

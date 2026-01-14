@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 276,
+    "name": "Codeforces Round 169 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1361719800,
+    "relativeTimeSeconds": 406634833
+  },
+  "problems": [
+    {
+      "contestId": 276,
+      "index": "E",
+      "name": "Little Girl and Problem on Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 276,
+      "index": "D",
+      "name": "Little Girl and Maximum XOR",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 276,
+      "index": "C",
+      "name": "Little Girl and Maximum Sum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 276,
+      "index": "B",
+      "name": "Little Girl and Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 276,
+      "index": "A",
+      "name": "Lunch Rush",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

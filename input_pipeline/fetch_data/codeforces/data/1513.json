@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1513,
+    "name": "Divide by Zero 2021 and Codeforces Round 714 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1618151700,
+    "relativeTimeSeconds": 150202932
+  },
+  "problems": [
+    {
+      "contestId": 1513,
+      "index": "F",
+      "name": "Swapping Problem",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1513,
+      "index": "E",
+      "name": "Cost Equilibrium",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1513,
+      "index": "D",
+      "name": "GCD and MST",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1513,
+      "index": "C",
+      "name": "Add One",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1513,
+      "index": "B",
+      "name": "AND Sequences",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1513,
+      "index": "A",
+      "name": "Array and Peaks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

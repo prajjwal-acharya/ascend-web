@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2140,
+    "name": "Codeforces Round 1049 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1757428500,
+    "relativeTimeSeconds": 10926132
+  },
+  "problems": [
+    {
+      "contestId": 2140,
+      "index": "F",
+      "name": "Sum Minimisation",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "E2",
+      "name": "Prime Gaming (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "E1",
+      "name": "Prime Gaming (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "D",
+      "name": "A Cruel Segment's Thesis",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "C",
+      "name": "Ultimate Value",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "B",
+      "name": "Another Divisibility Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2140,
+      "index": "A",
+      "name": "Shift Sort",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

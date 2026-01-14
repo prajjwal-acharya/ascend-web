@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1910,
+    "name": "Kotlin Heroes: Episode 9 (Unrated, T-Shirts + Prizes!)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1702305300,
+    "relativeTimeSeconds": 66049332
+  },
+  "problems": [
+    {
+      "contestId": 1910,
+      "index": "J",
+      "name": "Two Colors",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "I",
+      "name": "Inverse Problem",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "H",
+      "name": "Sum of Digits of Sums",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special",
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "G",
+      "name": "Pool Records",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "F",
+      "name": "Build Railway Stations",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "E",
+      "name": "Maximum Sum Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "D",
+      "name": "Remove and Add",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "C",
+      "name": "Poisonous Swamp",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "*special",
+        "implementation",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "B",
+      "name": "Security Guard",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1910,
+      "index": "A",
+      "name": "Username",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": 1265,
+    "name": "Codeforces Round 604 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1575556500,
+    "relativeTimeSeconds": 192798132
+  },
+  "problems": [
+    {
+      "contestId": 1265,
+      "index": "E",
+      "name": "Beautiful Mirrors",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1265,
+      "index": "B",
+      "name": "Beautiful Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1265,
+      "index": "A",
+      "name": "Beautiful String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

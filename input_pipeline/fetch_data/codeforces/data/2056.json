@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 2056,
+    "name": "Codeforces Round 997 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1737124500,
+    "relativeTimeSeconds": 31230132
+  },
+  "problems": [
+    {
+      "contestId": 2056,
+      "index": "F2",
+      "name": "Xor of Median (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "F1",
+      "name": "Xor of Median (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "E",
+      "name": "Nested Segments",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "D",
+      "name": "Unique Median",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "C",
+      "name": "Palindromic Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "B",
+      "name": "Find the Permutation",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2056,
+      "index": "A",
+      "name": "Shape Perimeter",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

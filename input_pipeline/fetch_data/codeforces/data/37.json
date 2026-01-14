@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 37,
+    "name": "Codeforces Beta Round 37",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1288018800,
+    "relativeTimeSeconds": 480335833
+  },
+  "problems": [
+    {
+      "contestId": 37,
+      "index": "E",
+      "name": "Trial for Chief",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 37,
+      "index": "D",
+      "name": "Lesson Timetable",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 37,
+      "index": "C",
+      "name": "Old Berland Language",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 37,
+      "index": "B",
+      "name": "Computer Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 37,
+      "index": "A",
+      "name": "Towers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

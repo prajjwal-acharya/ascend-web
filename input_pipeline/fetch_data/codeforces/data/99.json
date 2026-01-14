@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 99,
+    "name": "Codeforces Beta Round 78 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1311346800,
+    "relativeTimeSeconds": 457007833
+  },
+  "problems": [
+    {
+      "contestId": 99,
+      "index": "B",
+      "name": "Help Chef Gerasim",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 99,
+      "index": "A",
+      "name": "Help Far Away Kingdom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

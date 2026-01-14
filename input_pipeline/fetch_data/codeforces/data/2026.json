@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2026,
+    "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1730126100,
+    "relativeTimeSeconds": 38228532
+  },
+  "problems": [
+    {
+      "contestId": 2026,
+      "index": "F",
+      "name": "Bermart Ice Cream",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2026,
+      "index": "E",
+      "name": "Best Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2026,
+      "index": "D",
+      "name": "Sums of Segments",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2026,
+      "index": "C",
+      "name": "Action Figures",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2026,
+      "index": "B",
+      "name": "Black Cells",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2026,
+      "index": "A",
+      "name": "Perpendicular Segments",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

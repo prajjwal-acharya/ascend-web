@@ -1,0 +1,139 @@
+{
+  "contest": {
+    "id": 2129,
+    "name": "Codeforces Round 1040 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1753972500,
+    "relativeTimeSeconds": 14382132
+  },
+  "problems": [
+    {
+      "contestId": 2129,
+      "index": "F2",
+      "name": "Top-K Tracker (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "interactive",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "F1",
+      "name": "Top-K Tracker (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "E",
+      "name": "Induced Subgraph Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "D",
+      "name": "Permutation Blackhole",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "C3",
+      "name": "Interactive RBS (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "C2",
+      "name": "Interactive RBS (Medium Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "C1",
+      "name": "Interactive RBS (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "B",
+      "name": "Stay or Mirror",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2129,
+      "index": "A",
+      "name": "Double Perspective",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1675,
+    "name": "Codeforces Round 787 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1651761300,
+    "relativeTimeSeconds": 116593332
+  },
+  "problems": [
+    {
+      "contestId": 1675,
+      "index": "G",
+      "name": "Sorting Pancakes",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "F",
+      "name": "Vlad and Unfinished Business",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "E",
+      "name": "Replace With the Previous, Minimize",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dsu",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "D",
+      "name": "Vertical Paths",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "C",
+      "name": "Detective Task",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "B",
+      "name": "Make It Increasing",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1675,
+      "index": "A",
+      "name": "Food for Animals",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

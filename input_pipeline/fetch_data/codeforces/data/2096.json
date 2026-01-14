@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 2096,
+    "name": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1745073300,
+    "relativeTimeSeconds": 23281332
+  },
+  "problems": [
+    {
+      "contestId": 2096,
+      "index": "H",
+      "name": "Wonderful XOR Problem",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "G",
+      "name": "Wonderful Guessing Game",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "F",
+      "name": "Wonderful Impostors",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "E",
+      "name": "Wonderful Teddy Bears",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "D",
+      "name": "Wonderful Lightbulbs",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "C",
+      "name": "Wonderful City",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "B",
+      "name": "Wonderful Gloves",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2096,
+      "index": "A",
+      "name": "Wonderful Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

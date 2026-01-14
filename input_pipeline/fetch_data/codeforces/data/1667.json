@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1667,
+    "name": "Codeforces Round 783 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1650378900,
+    "relativeTimeSeconds": 117975732
+  },
+  "problems": [
+    {
+      "contestId": 1667,
+      "index": "F",
+      "name": "Yin Yang",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1667,
+      "index": "E",
+      "name": "Centroid Probabilities",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1667,
+      "index": "D",
+      "name": "Edge Elimination",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1667,
+      "index": "C",
+      "name": "Half Queen Cover",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1667,
+      "index": "B",
+      "name": "Optimal Partition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1667,
+      "index": "A",
+      "name": "Make it Increasing",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

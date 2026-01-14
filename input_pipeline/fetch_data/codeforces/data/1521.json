@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 1521,
+    "name": "Codeforces Round 720 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1620398100,
+    "relativeTimeSeconds": 147956532
+  },
+  "problems": [
+    {
+      "contestId": 1521,
+      "index": "E",
+      "name": "Nastia and a Beautiful Matrix",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1521,
+      "index": "D",
+      "name": "Nastia Plays with a Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1521,
+      "index": "C",
+      "name": "Nastia and a Hidden Permutation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1521,
+      "index": "B",
+      "name": "Nastia and a Good Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1521,
+      "index": "A",
+      "name": "Nastia and Nearly Good Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

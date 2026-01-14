@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 372,
+    "name": "Codeforces Round 219 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1386943200,
+    "relativeTimeSeconds": 381411432
+  },
+  "problems": [
+    {
+      "contestId": 372,
+      "index": "E",
+      "name": "Drawing Circles is Fun",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 372,
+      "index": "D",
+      "name": "Choosing Subtree is Fun",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 372,
+      "index": "C",
+      "name": "Watching Fireworks is Fun",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 372,
+      "index": "B",
+      "name": "Counting Rectangles is Fun",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 372,
+      "index": "A",
+      "name": "Counting Kangaroos is Fun",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

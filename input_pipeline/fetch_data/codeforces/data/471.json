@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 471,
+    "name": "Codeforces Round 269 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1411745400,
+    "relativeTimeSeconds": 356609232
+  },
+  "problems": [
+    {
+      "contestId": 471,
+      "index": "E",
+      "name": "MUH and Lots and Lots of Segments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 471,
+      "index": "D",
+      "name": "MUH and Cube Walls",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 471,
+      "index": "C",
+      "name": "MUH and House of Cards",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 471,
+      "index": "B",
+      "name": "MUH and Important Things",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 471,
+      "index": "A",
+      "name": "MUH and Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

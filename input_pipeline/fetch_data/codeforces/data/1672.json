@@ -1,0 +1,145 @@
+{
+  "contest": {
+    "id": 1672,
+    "name": "Codeforces Global Round 20",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1650722700,
+    "relativeTimeSeconds": 117631932
+  },
+  "problems": [
+    {
+      "contestId": 1672,
+      "index": "I",
+      "name": "PermutationForces",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "H",
+      "name": "Zigu Zagu",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "G",
+      "name": "Cross Xor",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "F2",
+      "name": "Checker for Array Shuffling",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "F1",
+      "name": "Array Shuffling",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "E",
+      "name": "notepad.exe",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "D",
+      "name": "Cyclic Rotation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "C",
+      "name": "Unequal Array",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "B",
+      "name": "I love AAAB",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1672,
+      "index": "A",
+      "name": "Log Chopping",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

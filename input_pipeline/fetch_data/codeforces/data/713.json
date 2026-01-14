@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 713,
+    "name": "Codeforces Round 371 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1473784500,
+    "relativeTimeSeconds": 294570132
+  },
+  "problems": [
+    {
+      "contestId": 713,
+      "index": "E",
+      "name": "Sonya Partymaker",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 713,
+      "index": "D",
+      "name": "Animals and Puzzle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 713,
+      "index": "C",
+      "name": "Sonya and Problem Wihtout a Legend",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 713,
+      "index": "B",
+      "name": "Searching Rectangles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 713,
+      "index": "A",
+      "name": "Sonya and Queries",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

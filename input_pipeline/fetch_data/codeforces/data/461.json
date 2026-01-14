@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 461,
+    "name": "Codeforces Round 263 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1409061600,
+    "relativeTimeSeconds": 359293032
+  },
+  "problems": [
+    {
+      "contestId": 461,
+      "index": "E",
+      "name": "Appleman and a Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "shortest paths",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 461,
+      "index": "D",
+      "name": "Appleman and Complicated Task",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "contestId": 461,
+      "index": "C",
+      "name": "Appleman and a Sheet of Paper",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 461,
+      "index": "B",
+      "name": "Appleman and Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 461,
+      "index": "A",
+      "name": "Appleman and Toastman",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 952,
+    "name": "April Fools Contest 2018",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1522596900,
+    "relativeTimeSeconds": 245757732
+  },
+  "problems": [
+    {
+      "contestId": 952,
+      "index": "G",
+      "name": "Puzzling Language",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "*special",
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 952,
+      "index": "F",
+      "name": "2 + 2 != 4",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 952,
+      "index": "E",
+      "name": "Cheese Board",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 952,
+      "index": "D",
+      "name": "I'm Feeling Lucky!",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 952,
+      "index": "C",
+      "name": "Ravioli Sort",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 952,
+      "index": "B",
+      "name": "A Map of the Cat",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special",
+        "brute force",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 952,
+      "index": "A",
+      "name": "Quirky Quantifiers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

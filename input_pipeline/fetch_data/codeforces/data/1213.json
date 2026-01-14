@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1213,
+    "name": "Codeforces Round 582 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1567175700,
+    "relativeTimeSeconds": 201178932
+  },
+  "problems": [
+    {
+      "contestId": 1213,
+      "index": "G",
+      "name": "Path Queries",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "F",
+      "name": "Unstable String Sort",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "E",
+      "name": "Two Small Strings",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "D2",
+      "name": "Equalizing by Division (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "D1",
+      "name": "Equalizing by Division (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "C",
+      "name": "Book Reading",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "B",
+      "name": "Bad Prices",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1213,
+      "index": "A",
+      "name": "Chips Moving",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

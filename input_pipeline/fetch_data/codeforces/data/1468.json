@@ -1,0 +1,175 @@
+{
+  "contest": {
+    "id": 1468,
+    "name": "2020-2021 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1608896100,
+    "relativeTimeSeconds": 159458532
+  },
+  "problems": [
+    {
+      "contestId": 1468,
+      "index": "N",
+      "name": "Waste Sorting",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "M",
+      "name": "Similar Sets",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "L",
+      "name": "Prime Divisors Selection",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "K",
+      "name": "The Robot",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "J",
+      "name": "Road Reform",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "I",
+      "name": "Plane Tiling",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "H",
+      "name": "K and Medians",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "G",
+      "name": "Hobbits",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "F",
+      "name": "Full Turn",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "geometry",
+        "hashing",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "E",
+      "name": "Four Segments",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "D",
+      "name": "Firecrackers",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "C",
+      "name": "Berpizza",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "B",
+      "name": "Bakery",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1468,
+      "index": "A",
+      "name": "LaIS",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    }
+  ]
+}

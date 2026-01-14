@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1547,
+    "name": "Codeforces Round 731 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1625927700,
+    "relativeTimeSeconds": 142426932
+  },
+  "problems": [
+    {
+      "contestId": 1547,
+      "index": "G",
+      "name": "How Many Paths?",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "F",
+      "name": "Array Stabilization (GCD version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "E",
+      "name": "Air Conditioners",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "shortest paths",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "D",
+      "name": "Co-growing Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "C",
+      "name": "Pair Programming",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "B",
+      "name": "Alphabetical Strings",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1547,
+      "index": "A",
+      "name": "Shortest Path with Obstacle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

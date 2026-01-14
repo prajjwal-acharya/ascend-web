@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": 21,
+    "name": "Codeforces Alpha Round 21 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1277730300,
+    "relativeTimeSeconds": 490624333
+  },
+  "problems": [
+    {
+      "contestId": 21,
+      "index": "D",
+      "name": "Traveling Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 21,
+      "index": "C",
+      "name": "Stripe 2",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 21,
+      "index": "B",
+      "name": "Intersection",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 21,
+      "index": "A",
+      "name": "Jabber ID",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

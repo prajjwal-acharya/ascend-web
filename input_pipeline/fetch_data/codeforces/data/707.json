@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 707,
+    "name": "Codeforces Round 368 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1471698300,
+    "relativeTimeSeconds": 296656332
+  },
+  "problems": [
+    {
+      "contestId": 707,
+      "index": "E",
+      "name": "Garlands",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 707,
+      "index": "D",
+      "name": "Persistent Bookcase ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 707,
+      "index": "C",
+      "name": "Pythagorean Triples",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 707,
+      "index": "B",
+      "name": "Bakery",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 707,
+      "index": "A",
+      "name": "Brain's Photos",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

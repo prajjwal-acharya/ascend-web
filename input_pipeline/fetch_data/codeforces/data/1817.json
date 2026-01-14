@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1817,
+    "name": "Codeforces Round 869 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1682778900,
+    "relativeTimeSeconds": 85575732
+  },
+  "problems": [
+    {
+      "contestId": 1817,
+      "index": "F",
+      "name": "Entangled Substrings",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1817,
+      "index": "E",
+      "name": "Half-sum",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1817,
+      "index": "D",
+      "name": "Toy Machine",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1817,
+      "index": "C",
+      "name": "Similar Polynomials",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1817,
+      "index": "B",
+      "name": "Fish Graph",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1817,
+      "index": "A",
+      "name": "Almost Increasing Subsequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    }
+  ]
+}

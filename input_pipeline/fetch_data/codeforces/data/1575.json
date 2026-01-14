@@ -1,0 +1,164 @@
+{
+  "contest": {
+    "id": 1575,
+    "name": "COMPFEST 13 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1633181700,
+    "relativeTimeSeconds": 135172932
+  },
+  "problems": [
+    {
+      "contestId": 1575,
+      "index": "M",
+      "name": "Managing Telephone Poles",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "L",
+      "name": "Longest Array Deconstruction",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "K",
+      "name": "Knitting Batik",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "J",
+      "name": "Jeopardy of Dropped Balls",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "I",
+      "name": "Illusions of the Desert",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "H",
+      "name": "Holiday Wall Ornaments",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "G",
+      "name": "GCD Festival",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "F",
+      "name": "Finding Expected Value",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "E",
+      "name": "Eye-Pleasing City Park Tour",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "D",
+      "name": "Divisible by Twenty-Five",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "C",
+      "name": "Cyclic Sum",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "fft",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "B",
+      "name": "Building an Amusement Park",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1575,
+      "index": "A",
+      "name": "Another Sorting Problem",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

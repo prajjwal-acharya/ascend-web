@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1495,
+    "name": "Codeforces Round 706 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1615377900,
+    "relativeTimeSeconds": 152976732
+  },
+  "problems": [
+    {
+      "contestId": 1495,
+      "index": "F",
+      "name": "Squares",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1495,
+      "index": "E",
+      "name": "Qingshan and Daniel",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1495,
+      "index": "D",
+      "name": "BFS Trees",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "math",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1495,
+      "index": "C",
+      "name": "Garden of the Sun",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1495,
+      "index": "B",
+      "name": "Let's Go Hiking",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1495,
+      "index": "A",
+      "name": "Diamond Miner",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

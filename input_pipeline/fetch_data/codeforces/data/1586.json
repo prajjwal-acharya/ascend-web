@@ -1,0 +1,27 @@
+{
+  "contest": {
+    "id": 1586,
+    "name": "Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1634468700,
+    "relativeTimeSeconds": 133885932
+  },
+  "problems": [
+    {
+      "contestId": 1586,
+      "index": "I",
+      "name": "Omkar and Mosaic",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

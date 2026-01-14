@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 61,
+    "name": "Codeforces Beta Round 57 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1298390400,
+    "relativeTimeSeconds": 469964233
+  },
+  "problems": [
+    {
+      "contestId": 61,
+      "index": "E",
+      "name": "Enemy is weak",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 61,
+      "index": "D",
+      "name": "Eternal Victory",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 61,
+      "index": "C",
+      "name": "Capture Valerian",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 61,
+      "index": "B",
+      "name": "Hard Work",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 61,
+      "index": "A",
+      "name": "Ultra-Fast Mathematician",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

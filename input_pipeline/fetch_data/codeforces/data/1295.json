@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1295,
+    "name": "Educational Codeforces Round 81 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1580308500,
+    "relativeTimeSeconds": 188046132
+  },
+  "problems": [
+    {
+      "contestId": 1295,
+      "index": "F",
+      "name": "Good Contest",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1295,
+      "index": "E",
+      "name": "Permutation Separation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1295,
+      "index": "D",
+      "name": "Same GCDs",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1295,
+      "index": "C",
+      "name": "Obtain The String",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1295,
+      "index": "B",
+      "name": "Infinite Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1295,
+      "index": "A",
+      "name": "Display The Number",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1358,
+    "name": "Codeforces Round 645 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1590503700,
+    "relativeTimeSeconds": 177850932
+  },
+  "problems": [
+    {
+      "contestId": 1358,
+      "index": "F",
+      "name": "Tasty Cookie",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1358,
+      "index": "E",
+      "name": "Are You Fired?",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1358,
+      "index": "D",
+      "name": "The Best Vacation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1358,
+      "index": "C",
+      "name": "Celex Update",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1358,
+      "index": "B",
+      "name": "Maria Breaks the Self-isolation",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1358,
+      "index": "A",
+      "name": "Park Lighting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

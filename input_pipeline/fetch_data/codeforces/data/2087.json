@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 2087,
+    "name": "Kotlin Heroes: Episode 12",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1744036500,
+    "relativeTimeSeconds": 24318132
+  },
+  "problems": [
+    {
+      "contestId": 2087,
+      "index": "I",
+      "name": "Hamiltonian Partition",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "H",
+      "name": "Nim with Special Numbers",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "G",
+      "name": "Esports in Berland",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "greedy",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "F",
+      "name": "Weapon Upgrade",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "E",
+      "name": "Color the Arrows",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "dp",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "D",
+      "name": "Uppercase or Lowercase?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "*special",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "C",
+      "name": "Coin Game",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "B",
+      "name": "Showmatch",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2087,
+      "index": "A",
+      "name": "Password Generator",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

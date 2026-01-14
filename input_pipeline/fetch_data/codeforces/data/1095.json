@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 1095,
+    "name": "Codeforces Round 529 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1545921300,
+    "relativeTimeSeconds": 222433332
+  },
+  "problems": [
+    {
+      "contestId": 1095,
+      "index": "F",
+      "name": "Make It Connected",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1095,
+      "index": "E",
+      "name": "Almost Regular Bracket Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1095,
+      "index": "D",
+      "name": "Circular Dance",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1095,
+      "index": "C",
+      "name": "Powers Of Two",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1095,
+      "index": "B",
+      "name": "Array Stabilization",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1095,
+      "index": "A",
+      "name": "Repeating Cipher",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

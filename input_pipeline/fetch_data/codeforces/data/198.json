@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 198,
+    "name": "Codeforces Round 125 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1340379000,
+    "relativeTimeSeconds": 427975633
+  },
+  "problems": [
+    {
+      "contestId": 198,
+      "index": "E",
+      "name": "Gripping Story",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 198,
+      "index": "D",
+      "name": "Cube Snake",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 198,
+      "index": "C",
+      "name": "Delivering Carcinogen",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 198,
+      "index": "B",
+      "name": "Jumping on Walls",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 198,
+      "index": "A",
+      "name": "About Bacteria",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

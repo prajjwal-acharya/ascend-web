@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1996,
+    "name": "Codeforces Round 962 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1722004500,
+    "relativeTimeSeconds": 46350132
+  },
+  "problems": [
+    {
+      "contestId": 1996,
+      "index": "G",
+      "name": "Penacony",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "graphs",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "F",
+      "name": "Bomb",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "E",
+      "name": "Decode",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "D",
+      "name": "Fun",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "C",
+      "name": "Sort",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "B",
+      "name": "Scale",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1996,
+      "index": "A",
+      "name": "Legs",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "math",
+        "ternary search"
+      ]
+    }
+  ]
+}

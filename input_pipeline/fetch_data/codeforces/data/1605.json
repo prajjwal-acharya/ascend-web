@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1605,
+    "name": "Codeforces Round 754 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1636727700,
+    "relativeTimeSeconds": 131626932
+  },
+  "problems": [
+    {
+      "contestId": 1605,
+      "index": "F",
+      "name": "PalindORme",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1605,
+      "index": "E",
+      "name": "Array Equalizer",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1605,
+      "index": "D",
+      "name": "Treelabeling",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "games",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1605,
+      "index": "C",
+      "name": "Dominant Character",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1605,
+      "index": "B",
+      "name": "Reverse Sort",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1605,
+      "index": "A",
+      "name": "A.M. Deviation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

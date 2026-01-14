@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 767,
+    "name": "Codeforces Round 398 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1487408700,
+    "relativeTimeSeconds": 280945932
+  },
+  "problems": [
+    {
+      "contestId": 767,
+      "index": "E",
+      "name": "Change-free",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 767,
+      "index": "D",
+      "name": "Cartons of milk",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 767,
+      "index": "C",
+      "name": "Garland",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 767,
+      "index": "B",
+      "name": "The Queue",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 767,
+      "index": "A",
+      "name": "Snacktower",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

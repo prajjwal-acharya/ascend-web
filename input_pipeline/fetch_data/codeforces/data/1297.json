@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1297,
+    "name": "Kotlin Heroes: Episode 3",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1582810500,
+    "relativeTimeSeconds": 185544132
+  },
+  "problems": [
+    {
+      "contestId": 1297,
+      "index": "I",
+      "name": "Falling Blocks",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "H",
+      "name": "Paint the String",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "G",
+      "name": "M-numbers",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "F",
+      "name": "Movie Fan",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "E",
+      "name": "Modernization of Treeland",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "D",
+      "name": "Bonus Distribution ",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "C",
+      "name": "Dream Team",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "B",
+      "name": "Cartoons",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1297,
+      "index": "A",
+      "name": "Likes Display",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

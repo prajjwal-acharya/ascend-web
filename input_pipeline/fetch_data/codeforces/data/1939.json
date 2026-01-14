@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": 1939,
+    "name": "XVIII Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1709888700,
+    "relativeTimeSeconds": 58465932
+  },
+  "problems": [
+    {
+      "contestId": 1939,
+      "index": "D",
+      "name": "Big Persimmon",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1939,
+      "index": "C",
+      "name": "More Gifts",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1939,
+      "index": "B",
+      "name": "Evidence Board",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1939,
+      "index": "A",
+      "name": "Draw Polygon Lines",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dp",
+        "geometry",
+        "interactive"
+      ]
+    }
+  ]
+}

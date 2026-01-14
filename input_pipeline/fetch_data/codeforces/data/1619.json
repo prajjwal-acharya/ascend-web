@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1619,
+    "name": "Codeforces Round 762 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1640010900,
+    "relativeTimeSeconds": 128343732
+  },
+  "problems": [
+    {
+      "contestId": 1619,
+      "index": "H",
+      "name": "Permutation and Queries",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "G",
+      "name": "Unusual Minesweeper",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "F",
+      "name": "Let's Play the Hat?",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "E",
+      "name": "MEX and Increments",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "D",
+      "name": "New Year's Problem",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "C",
+      "name": "Wrong Addition",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "B",
+      "name": "Squares and Cubes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1619,
+      "index": "A",
+      "name": "Square String?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

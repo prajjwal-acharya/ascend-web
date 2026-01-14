@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1772,
+    "name": "Codeforces Round 839 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1671374100,
+    "relativeTimeSeconds": 96980532
+  },
+  "problems": [
+    {
+      "contestId": 1772,
+      "index": "G",
+      "name": "Gaining Rating",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "F",
+      "name": "Copy of a Copy of a Copy",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "E",
+      "name": "Permutation Game",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "D",
+      "name": "Absolute Sorting",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "C",
+      "name": "Different Differences",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "B",
+      "name": "Matrix Rotation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1772,
+      "index": "A",
+      "name": "A+B?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

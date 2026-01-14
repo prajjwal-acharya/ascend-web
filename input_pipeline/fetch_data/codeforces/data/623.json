@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 623,
+    "name": "AIM Tech Round (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1454605500,
+    "relativeTimeSeconds": 313749132
+  },
+  "problems": [
+    {
+      "contestId": 623,
+      "index": "E",
+      "name": "Transforming Sequence",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 623,
+      "index": "D",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 623,
+      "index": "C",
+      "name": "Electric Charges",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 623,
+      "index": "B",
+      "name": "Array GCD",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 623,
+      "index": "A",
+      "name": "Graph and String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    }
+  ]
+}

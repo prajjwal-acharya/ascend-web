@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 488,
+    "name": "Codeforces Round 278 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1416590400,
+    "relativeTimeSeconds": 351764232
+  },
+  "problems": [
+    {
+      "contestId": 488,
+      "index": "B",
+      "name": "Candy Boxes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 488,
+      "index": "A",
+      "name": "Giga Tower",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

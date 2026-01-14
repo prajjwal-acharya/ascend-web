@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1336,
+    "name": "Codeforces Round 635 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1586961300,
+    "relativeTimeSeconds": 181393332
+  },
+  "problems": [
+    {
+      "contestId": 1336,
+      "index": "F",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "E2",
+      "name": "Chiori and Doll Picking (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "E1",
+      "name": "Chiori and Doll Picking (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "D",
+      "name": "Yui and Mahjong Set",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "C",
+      "name": "Kaavi and Magic Spell",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "B",
+      "name": "Xenia and Colorful Gems",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1336,
+      "index": "A",
+      "name": "Linova and Kingdom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "contest": {
+    "id": 316,
+    "name": "ABBYY Cup 3.0",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 14400,
+    "startTimeSeconds": 1371042000,
+    "relativeTimeSeconds": 397312632
+  },
+  "problems": [
+    {
+      "contestId": 316,
+      "index": "G3",
+      "name": "Good Substrings",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2400,
+      "tags": [
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "G2",
+      "name": "Good Substrings",
+      "type": "PROGRAMMING",
+      "points": 40.0,
+      "rating": 2200,
+      "tags": [
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "G1",
+      "name": "Good Substrings",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1700,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "F3",
+      "name": "Suns and Rays",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "F2",
+      "name": "Suns and Rays",
+      "type": "PROGRAMMING",
+      "points": 40.0,
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 316,
+      "index": "F1",
+      "name": "Suns and Rays",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "E3",
+      "name": "Summer Homework",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "E2",
+      "name": "Summer Homework",
+      "type": "PROGRAMMING",
+      "points": 40.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "E1",
+      "name": "Summer Homework",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "D3",
+      "name": "PE Lesson",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "D2",
+      "name": "PE Lesson",
+      "type": "PROGRAMMING",
+      "points": 40.0,
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "D1",
+      "name": "PE Lesson",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "C2",
+      "name": "Tidying Up",
+      "type": "PROGRAMMING",
+      "points": 70.0,
+      "rating": 2300,
+      "tags": [
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "C1",
+      "name": "Tidying Up",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2200,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "B2",
+      "name": "EKG",
+      "type": "PROGRAMMING",
+      "points": 70.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "B1",
+      "name": "EKG",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "A2",
+      "name": "Special Task",
+      "type": "PROGRAMMING",
+      "points": 70.0,
+      "rating": 1400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 316,
+      "index": "A1",
+      "name": "Special Task",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1033,
+    "name": "Lyft Level 5 Challenge 2018 - Elimination Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1538931900,
+    "relativeTimeSeconds": 229422732
+  },
+  "problems": [
+    {
+      "contestId": 1033,
+      "index": "G",
+      "name": "Chip Game",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "F",
+      "name": "Boolean Computer",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "E",
+      "name": "Hidden Bipartite Graph",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "D",
+      "name": "Divisors",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "C",
+      "name": "Permutation Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "B",
+      "name": "Square Difference",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1033,
+      "index": "A",
+      "name": "King Escape",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    }
+  ]
+}

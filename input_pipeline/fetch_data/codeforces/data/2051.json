@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2051,
+    "name": "Codeforces Round 995 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1734878100,
+    "relativeTimeSeconds": 33476532
+  },
+  "problems": [
+    {
+      "contestId": 2051,
+      "index": "G",
+      "name": "Snakes",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "F",
+      "name": "Joker",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "E",
+      "name": "Best Price",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "D",
+      "name": "Counting Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "C",
+      "name": "Preparing for the Exam",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "B",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2051,
+      "index": "A",
+      "name": "Preparing for the Olympiad",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

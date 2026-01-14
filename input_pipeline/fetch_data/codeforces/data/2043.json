@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 2043,
+    "name": "Educational Codeforces Round 173 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1735050900,
+    "relativeTimeSeconds": 33303732
+  },
+  "problems": [
+    {
+      "contestId": 2043,
+      "index": "G",
+      "name": "Problem with Queries",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "F",
+      "name": "Nim",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "games",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "E",
+      "name": "Matrix Transformation",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "D",
+      "name": "Problem about GCD",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "flows",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "C",
+      "name": "Sums on Segments",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "B",
+      "name": "Digits",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2043,
+      "index": "A",
+      "name": "Coin Transformation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

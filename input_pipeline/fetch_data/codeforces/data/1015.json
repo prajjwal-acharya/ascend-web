@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1015,
+    "name": "Codeforces Round 501 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1533047700,
+    "relativeTimeSeconds": 235306932
+  },
+  "problems": [
+    {
+      "contestId": 1015,
+      "index": "F",
+      "name": "Bracket Substring",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "E2",
+      "name": "Stars Drawing (Hard Edition)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "E1",
+      "name": "Stars Drawing (Easy Edition)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "D",
+      "name": "Walking Between Houses",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "C",
+      "name": "Songs Compression",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "B",
+      "name": "Obtaining the String",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1015,
+      "index": "A",
+      "name": "Points in Segments",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

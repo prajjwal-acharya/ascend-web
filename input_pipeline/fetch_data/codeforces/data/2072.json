@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 2072,
+    "name": "Codeforces Round 1006 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1740494100,
+    "relativeTimeSeconds": 27860532
+  },
+  "problems": [
+    {
+      "contestId": 2072,
+      "index": "G",
+      "name": "I've Been Flipping Numbers for 300 Years and Calculated the Sum",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "divide and conquer",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "F",
+      "name": "Goodbye, Banker Life",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "2-sat",
+        "bitmasks",
+        "combinatorics",
+        "constructive algorithms",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "E",
+      "name": "Do You Love Your Hero and His Two-Hit Multi-Target Attacks?",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "D",
+      "name": "For Wizards, the Exam Is Easy, but I Couldn't Handle It",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "C",
+      "name": "Creating Keys for StORages Has Become My Main Skill",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "B",
+      "name": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2072,
+      "index": "A",
+      "name": "New World, New Me, New Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1477,
+    "name": "Codeforces Round 698 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1611844500,
+    "relativeTimeSeconds": 156510132
+  },
+  "problems": [
+    {
+      "contestId": 1477,
+      "index": "F",
+      "name": "Nezzar and Chocolate Bars",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1477,
+      "index": "E",
+      "name": "Nezzar and Tournaments",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1477,
+      "index": "D",
+      "name": "Nezzar and Hidden Permutations",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1477,
+      "index": "C",
+      "name": "Nezzar and Nice Beatmap",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1477,
+      "index": "B",
+      "name": "Nezzar and Binary String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1477,
+      "index": "A",
+      "name": "Nezzar and Board",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 89,
+    "name": "Codeforces Beta Round 74 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1308236400,
+    "relativeTimeSeconds": 460118233
+  },
+  "problems": [
+    {
+      "contestId": 89,
+      "index": "E",
+      "name": "Fire and Ice",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 89,
+      "index": "D",
+      "name": "Space mines",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 89,
+      "index": "C",
+      "name": "Chip Play",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 89,
+      "index": "B",
+      "name": "Widget Library",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "expression parsing",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 89,
+      "index": "A",
+      "name": "Robbery",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 961,
+    "name": "Educational Codeforces Round 41 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1522850700,
+    "relativeTimeSeconds": 245503932
+  },
+  "problems": [
+    {
+      "contestId": 961,
+      "index": "G",
+      "name": "Partitions",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "F",
+      "name": "k-substrings",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "hashing",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "E",
+      "name": "Tufurama",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "D",
+      "name": "Pair Of Lines",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "C",
+      "name": "Chessboard",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "B",
+      "name": "Lecture Sleep",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 961,
+      "index": "A",
+      "name": "Tetris",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

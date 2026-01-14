@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 986,
+    "name": "Codeforces Round 485 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1527608100,
+    "relativeTimeSeconds": 240746532
+  },
+  "problems": [
+    {
+      "contestId": 986,
+      "index": "F",
+      "name": "Oppa Funcan Style Remastered",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "graphs",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 986,
+      "index": "E",
+      "name": "Prince's Problem",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 986,
+      "index": "D",
+      "name": "Perfect Encoding",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 986,
+      "index": "C",
+      "name": "AND Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 986,
+      "index": "B",
+      "name": "Petr and Permutations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 986,
+      "index": "A",
+      "name": "Fair",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "graphs",
+        "greedy",
+        "number theory",
+        "shortest paths"
+      ]
+    }
+  ]
+}

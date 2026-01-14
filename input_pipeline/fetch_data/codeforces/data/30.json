@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 30,
+    "name": "Codeforces Beta Round 30 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1285340400,
+    "relativeTimeSeconds": 483014233
+  },
+  "problems": [
+    {
+      "contestId": 30,
+      "index": "E",
+      "name": "Tricky and Clever Password",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 30,
+      "index": "D",
+      "name": "King's Problem?",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 30,
+      "index": "C",
+      "name": "Shooting Gallery",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 30,
+      "index": "B",
+      "name": "Codeforces World Finals",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 30,
+      "index": "A",
+      "name": "Accounting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

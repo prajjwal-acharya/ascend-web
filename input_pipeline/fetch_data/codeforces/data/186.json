@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 186,
+    "name": "Codeforces Round 118 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1336145400,
+    "relativeTimeSeconds": 432209233
+  },
+  "problems": [
+    {
+      "contestId": 186,
+      "index": "B",
+      "name": "Growing Mushrooms",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 186,
+      "index": "A",
+      "name": "Comparing Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1148,
+    "name": "Codeforces Global Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1559399700,
+    "relativeTimeSeconds": 208954932
+  },
+  "problems": [
+    {
+      "contestId": 1148,
+      "index": "H",
+      "name": "Holy Diver ",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "G",
+      "name": "Gold Experience",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "F",
+      "name": "Foo Fighters",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "E",
+      "name": "Earth Wind and Fire",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "D",
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "C",
+      "name": "Crazy Diamond",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "B",
+      "name": "Born This Way",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1148,
+      "index": "A",
+      "name": "Another One Bites The Dust",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

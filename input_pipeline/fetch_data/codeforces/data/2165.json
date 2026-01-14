@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 2165,
+    "name": "Codeforces Round 1064 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1763303700,
+    "relativeTimeSeconds": 5050932
+  },
+  "problems": [
+    {
+      "contestId": 2165,
+      "index": "F",
+      "name": "Arctic Acquisition",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2165,
+      "index": "E",
+      "name": "Rainbow Branch",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2165,
+      "index": "D",
+      "name": "Path Split",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2165,
+      "index": "C",
+      "name": "Binary Wine",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2165,
+      "index": "B",
+      "name": "Marble Council",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2165,
+      "index": "A",
+      "name": "Cyclic Merging",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

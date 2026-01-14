@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 696,
+    "name": "Codeforces Round 362 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1468514100,
+    "relativeTimeSeconds": 299840532
+  },
+  "problems": [
+    {
+      "contestId": 696,
+      "index": "F",
+      "name": "...Dary!",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 696,
+      "index": "E",
+      "name": "...Wait for it...",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 696,
+      "index": "D",
+      "name": "Legen...",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 696,
+      "index": "C",
+      "name": "PLEASE",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 696,
+      "index": "B",
+      "name": "Puzzles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 696,
+      "index": "A",
+      "name": "Lorenzo Von Matterhorn",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "trees"
+      ]
+    }
+  ]
+}

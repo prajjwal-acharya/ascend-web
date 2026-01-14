@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 2070,
+    "name": "Educational Codeforces Round 175 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1740666900,
+    "relativeTimeSeconds": 27687732
+  },
+  "problems": [
+    {
+      "contestId": 2070,
+      "index": "F",
+      "name": "Friends and Pizza",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 2070,
+      "index": "E",
+      "name": "Game with Binary String",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2070,
+      "index": "D",
+      "name": "Tree Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2070,
+      "index": "C",
+      "name": "Limited Repainting",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2070,
+      "index": "B",
+      "name": "Robot Program",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2070,
+      "index": "A",
+      "name": "FizzBuzz Remixed",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

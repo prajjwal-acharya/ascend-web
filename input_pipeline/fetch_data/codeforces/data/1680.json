@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": 1680,
+    "name": "Educational Codeforces Round 128 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1652452500,
+    "relativeTimeSeconds": 115902132
+  },
+  "problems": [
+    {
+      "contestId": 1680,
+      "index": "F",
+      "name": "Lenient Vertex Cover",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1680,
+      "index": "E",
+      "name": "Moving Chips",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1680,
+      "index": "D",
+      "name": "Dog Walking",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1680,
+      "index": "C",
+      "name": "Binary String",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1680,
+      "index": "B",
+      "name": "Robots",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1680,
+      "index": "A",
+      "name": "Minimums and Maximums",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 171,
+    "name": "April Fools Day Contest",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1333292400,
+    "relativeTimeSeconds": 435062233
+  },
+  "problems": [
+    {
+      "contestId": 171,
+      "index": "H",
+      "name": "A polyline",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "G",
+      "name": "Mysterious numbers - 2",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "F",
+      "name": "ucyhf",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "brute force",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "E",
+      "name": "MYSTERIOUS LANGUAGE",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "D",
+      "name": "Broken checker",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "C",
+      "name": "A Piece of Cake",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "B",
+      "name": "Star",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 171,
+      "index": "A",
+      "name": "Mysterious numbers - 1",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

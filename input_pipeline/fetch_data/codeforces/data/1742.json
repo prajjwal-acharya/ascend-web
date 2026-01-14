@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1742,
+    "name": "Codeforces Round 827 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8700,
+    "startTimeSeconds": 1665671700,
+    "relativeTimeSeconds": 102682932
+  },
+  "problems": [
+    {
+      "contestId": 1742,
+      "index": "G",
+      "name": "Orray",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "F",
+      "name": "Smaller",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "E",
+      "name": "Scuza",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "D",
+      "name": "Coprime",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "C",
+      "name": "Stripes",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "B",
+      "name": "Increasing",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1742,
+      "index": "A",
+      "name": "Sum",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

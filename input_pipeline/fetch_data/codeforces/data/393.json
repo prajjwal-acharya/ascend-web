@@ -1,0 +1,30 @@
+{
+  "contest": {
+    "id": 393,
+    "name": "Codeforces Round 230 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1392728400,
+    "relativeTimeSeconds": 375626232
+  },
+  "problems": [
+    {
+      "contestId": 393,
+      "index": "B",
+      "name": "Three matrices",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": []
+    },
+    {
+      "contestId": 393,
+      "index": "A",
+      "name": "Nineteen",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": []
+    }
+  ]
+}

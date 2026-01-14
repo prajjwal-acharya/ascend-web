@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 125,
+    "name": "Codeforces Testing Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1319893200,
+    "relativeTimeSeconds": 448461433
+  },
+  "problems": [
+    {
+      "contestId": 125,
+      "index": "E",
+      "name": "MST Company",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 125,
+      "index": "D",
+      "name": "Two progressions",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 125,
+      "index": "C",
+      "name": "Hobbits' Party",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 125,
+      "index": "B",
+      "name": "Simple XML",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 125,
+      "index": "A",
+      "name": "Measuring Lengths in Baden",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

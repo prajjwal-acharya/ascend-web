@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1846,
+    "name": "Codeforces Round 883 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1688740500,
+    "relativeTimeSeconds": 79614132
+  },
+  "problems": [
+    {
+      "contestId": 1846,
+      "index": "G",
+      "name": "Rudolf and CodeVid-23",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "F",
+      "name": "Rudolph and Mimic",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "E2",
+      "name": "Rudolf and Snowflakes (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "E1",
+      "name": "Rudolf and Snowflakes (simple version)",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "D",
+      "name": "Rudolph and Christmas Tree",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "C",
+      "name": "Rudolf and the Another Competition",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "B",
+      "name": "Rudolph and Tic-Tac-Toe",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1846,
+      "index": "A",
+      "name": "Rudolph and Cut the Rope ",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

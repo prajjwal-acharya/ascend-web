@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 959,
+    "name": "Codeforces Round 473 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1522771500,
+    "relativeTimeSeconds": 245583132
+  },
+  "problems": [
+    {
+      "contestId": 959,
+      "index": "F",
+      "name": "Mahmoud and Ehab and yet another xor task",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 959,
+      "index": "E",
+      "name": "Mahmoud and Ehab and the xor-MST",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 959,
+      "index": "D",
+      "name": "Mahmoud and Ehab and another array construction task",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 959,
+      "index": "C",
+      "name": "Mahmoud and Ehab and the wrong algorithm",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 959,
+      "index": "B",
+      "name": "Mahmoud and Ehab and the message",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "dsu",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 959,
+      "index": "A",
+      "name": "Mahmoud and Ehab and the even-odd game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

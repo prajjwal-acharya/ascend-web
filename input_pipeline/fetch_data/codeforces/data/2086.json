@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 2086,
+    "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1743690900,
+    "relativeTimeSeconds": 24663732
+  },
+  "problems": [
+    {
+      "contestId": 2086,
+      "index": "F",
+      "name": "Online Palindrome",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2086,
+      "index": "E",
+      "name": "Zebra-like Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2086,
+      "index": "D",
+      "name": "Even String",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2086,
+      "index": "C",
+      "name": "Disappearing Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2086,
+      "index": "B",
+      "name": "Large Array and Segments",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2086,
+      "index": "A",
+      "name": "Cloudberry Jam",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

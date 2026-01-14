@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1625,
+    "name": "Codeforces Round 765 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1641989100,
+    "relativeTimeSeconds": 126365532
+  },
+  "problems": [
+    {
+      "contestId": 1625,
+      "index": "E2",
+      "name": "Cats on the Upgrade (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1625,
+      "index": "E1",
+      "name": "Cats on the Upgrade (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1625,
+      "index": "D",
+      "name": "Binary Spiders",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "implementation",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1625,
+      "index": "C",
+      "name": "Road Optimization",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1625,
+      "index": "B",
+      "name": "Elementary Particles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1625,
+      "index": "A",
+      "name": "Ancient Civilization",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

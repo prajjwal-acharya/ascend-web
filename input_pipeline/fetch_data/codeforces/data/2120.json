@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 2120,
+    "name": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1750516500,
+    "relativeTimeSeconds": 17838132
+  },
+  "problems": [
+    {
+      "contestId": 2120,
+      "index": "G",
+      "name": "Eulerian Line Graph",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3000,
+      "tags": [
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "F",
+      "name": "Superb Graphs",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "2-sat",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "E",
+      "name": "Lanes of Cars",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "dp",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "D",
+      "name": "Matrix game",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "C",
+      "name": "Divine Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "B",
+      "name": "Square Pool",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2120,
+      "index": "A",
+      "name": "Square of Rectangles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

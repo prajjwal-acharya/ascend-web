@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": 1071,
+    "name": "Codeforces Round 517 (Div. 1, based on Technocup 2019 Elimination Round 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1540109400,
+    "relativeTimeSeconds": 228245232
+  },
+  "problems": [
+    {
+      "contestId": 1071,
+      "index": "E",
+      "name": "Rain Protection",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    }
+  ]
+}

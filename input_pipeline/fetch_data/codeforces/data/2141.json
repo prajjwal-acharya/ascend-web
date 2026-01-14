@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 2141,
+    "name": "Kotlin Heroes: Episode 13",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1757687700,
+    "relativeTimeSeconds": 10666932
+  },
+  "problems": [
+    {
+      "contestId": 2141,
+      "index": "I",
+      "name": "Color the Tree",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "H",
+      "name": "Merging Vertices in a Graph",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "G",
+      "name": "Good Robot Paths",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "*special",
+        "data structures",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "F",
+      "name": "Array Reduction",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "E",
+      "name": "Perfect Cut",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "D",
+      "name": "Avoid Minimums",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "C",
+      "name": "Minimum on Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "B",
+      "name": "Games",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2141,
+      "index": "A",
+      "name": "Furniture Store",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

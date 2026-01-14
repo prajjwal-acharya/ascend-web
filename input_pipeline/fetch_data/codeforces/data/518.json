@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 518,
+    "name": "Codeforces Round 293 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1424795400,
+    "relativeTimeSeconds": 343559232
+  },
+  "problems": [
+    {
+      "contestId": 518,
+      "index": "F",
+      "name": "Pasha and Pipe",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 518,
+      "index": "E",
+      "name": "Arthur and Questions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 518,
+      "index": "D",
+      "name": "Ilya and Escalator",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 518,
+      "index": "C",
+      "name": "Anya and Smartphone",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 518,
+      "index": "B",
+      "name": "Tanya and Postcard",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 518,
+      "index": "A",
+      "name": "Vitaly and Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

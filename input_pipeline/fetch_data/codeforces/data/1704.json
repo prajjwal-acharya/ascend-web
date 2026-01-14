@@ -1,0 +1,137 @@
+{
+  "contest": {
+    "id": 1704,
+    "name": "CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1659276300,
+    "relativeTimeSeconds": 109078332
+  },
+  "problems": [
+    {
+      "contestId": 1704,
+      "index": "H2",
+      "name": "Game of AI (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "H1",
+      "name": "Game of AI (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "G",
+      "name": "Mio and Lucky Array",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "fft",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "F",
+      "name": "Colouring Game",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "E",
+      "name": "Count Seconds",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "D",
+      "name": "Magical Array",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "C",
+      "name": "Virus",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "B",
+      "name": "Luke is a Foodie",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1704,
+      "index": "A",
+      "name": "Two 0-1 Sequences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

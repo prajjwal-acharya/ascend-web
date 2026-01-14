@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 74,
+    "name": "Codeforces Beta Round 68",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1302879600,
+    "relativeTimeSeconds": 465475033
+  },
+  "problems": [
+    {
+      "contestId": 74,
+      "index": "E",
+      "name": "Shift It!",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 74,
+      "index": "D",
+      "name": "Hanger",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 74,
+      "index": "C",
+      "name": "Chessboard Billiard",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 74,
+      "index": "B",
+      "name": "Train",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 74,
+      "index": "A",
+      "name": "Room Leader",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

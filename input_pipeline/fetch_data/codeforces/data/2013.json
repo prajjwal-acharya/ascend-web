@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 2013,
+    "name": "Codeforces Round 973 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1726842900,
+    "relativeTimeSeconds": 41511732
+  },
+  "problems": [
+    {
+      "contestId": 2013,
+      "index": "F2",
+      "name": "Game in Tree (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "F1",
+      "name": "Game in Tree (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "games",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "E",
+      "name": "Prefix GCD",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "D",
+      "name": "Minimize the Difference",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "C",
+      "name": "Password Cracking",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "B",
+      "name": "Battle for Survive",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2013,
+      "index": "A",
+      "name": "Zhan's Blender",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1978,
+    "name": "Codeforces Round 953 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1718528700,
+    "relativeTimeSeconds": 49825932
+  },
+  "problems": [
+    {
+      "contestId": 1978,
+      "index": "F",
+      "name": "Large Graph",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1978,
+      "index": "E",
+      "name": "Computing Machine",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1978,
+      "index": "D",
+      "name": "Elections",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1978,
+      "index": "C",
+      "name": "Manhattan Permutations",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1978,
+      "index": "B",
+      "name": "New Bakery",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1978,
+      "index": "A",
+      "name": "Alice and Books",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

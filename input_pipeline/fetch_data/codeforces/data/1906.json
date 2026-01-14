@@ -1,0 +1,155 @@
+{
+  "contest": {
+    "id": 1906,
+    "name": "2023-2024 ICPC, Asia Jakarta Regional Contest (Online Mirror, Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1701578100,
+    "relativeTimeSeconds": 66776532
+  },
+  "problems": [
+    {
+      "contestId": 1906,
+      "index": "M",
+      "name": "Triangle Construction",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "L",
+      "name": "Palindromic Parentheses",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "K",
+      "name": "Deck-Building Game",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "J",
+      "name": "Count BFS Graph",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "I",
+      "name": "Contingency Plan 2",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "H",
+      "name": "Twin Friends",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "G",
+      "name": "Grid Game 2",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "games",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "F",
+      "name": "Maximize The Value",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "E",
+      "name": "Merge Not Sort",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "D",
+      "name": "Spaceship Exploration",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "C",
+      "name": "Cursed Game",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "B",
+      "name": "Button Pressing",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 1906,
+      "index": "A",
+      "name": "Easy As ABC",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "contest": {
+    "id": 2030,
+    "name": "Codeforces Round 979 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1729346700,
+    "relativeTimeSeconds": 39007932
+  },
+  "problems": [
+    {
+      "contestId": 2030,
+      "index": "G2",
+      "name": "The Destruction of the Universe (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "G1",
+      "name": "The Destruction of the Universe (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "F",
+      "name": "Orangutan Approved Subarrays",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "E",
+      "name": "MEXimize the Score",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "D",
+      "name": "QED's Favorite Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "C",
+      "name": "A TRUE Battle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "B",
+      "name": "Minimise Oneness",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2030,
+      "index": "A",
+      "name": "A Gift From Orangutan",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

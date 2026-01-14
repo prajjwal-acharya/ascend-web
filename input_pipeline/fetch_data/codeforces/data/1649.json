@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1649,
+    "name": "Codeforces Round 775 (Div. 2, based on Moscow Open Olympiad in Informatics)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1646560500,
+    "relativeTimeSeconds": 121794132
+  },
+  "problems": [
+    {
+      "contestId": 1649,
+      "index": "B",
+      "name": "Game of Ball Passing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1649,
+      "index": "A",
+      "name": "Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

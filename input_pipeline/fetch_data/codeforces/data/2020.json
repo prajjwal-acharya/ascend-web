@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 2020,
+    "name": "Codeforces Round 976 (Div. 2) and Divide By Zero 9.0",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1727624100,
+    "relativeTimeSeconds": 40730532
+  },
+  "problems": [
+    {
+      "contestId": 2020,
+      "index": "F",
+      "name": "Count Leaves",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2020,
+      "index": "E",
+      "name": "Expected Power",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2020,
+      "index": "D",
+      "name": "Connect the Dots",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "dsu",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2020,
+      "index": "C",
+      "name": "Bitwise Balancing",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "hashing",
+        "implementation",
+        "math",
+        "schedules",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2020,
+      "index": "B",
+      "name": "Brightness Begins",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2020,
+      "index": "A",
+      "name": "Find Minimum Operations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

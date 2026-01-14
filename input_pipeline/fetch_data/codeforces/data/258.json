@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 258,
+    "name": "Codeforces Round 157 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1356190200,
+    "relativeTimeSeconds": 412164433
+  },
+  "problems": [
+    {
+      "contestId": 258,
+      "index": "E",
+      "name": "Little Elephant and Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 258,
+      "index": "D",
+      "name": "Little Elephant and Broken Sorting",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 258,
+      "index": "C",
+      "name": "Little Elephant and LCM",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 258,
+      "index": "B",
+      "name": "Little Elephant and Elections",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 258,
+      "index": "A",
+      "name": "Little Elephant and Bits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

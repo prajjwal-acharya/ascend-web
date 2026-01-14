@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1905,
+    "name": "Codeforces Round 915 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1702737300,
+    "relativeTimeSeconds": 65617332
+  },
+  "problems": [
+    {
+      "contestId": 1905,
+      "index": "F",
+      "name": "Field Should Not Be Empty",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1905,
+      "index": "E",
+      "name": "One-X",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1905,
+      "index": "D",
+      "name": "Cyclic MEX",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1905,
+      "index": "C",
+      "name": "Largest Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1905,
+      "index": "B",
+      "name": "Begginer's Zelda",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1905,
+      "index": "A",
+      "name": "Constructive Problems",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

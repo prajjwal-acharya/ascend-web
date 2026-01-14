@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 124,
+    "name": "Codeforces Beta Round 92 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1320333000,
+    "relativeTimeSeconds": 448021633
+  },
+  "problems": [
+    {
+      "contestId": 124,
+      "index": "B",
+      "name": "Permutations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 124,
+      "index": "A",
+      "name": "The number of positions",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

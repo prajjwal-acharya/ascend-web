@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 844,
+    "name": "AIM Tech Round 4 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1503592500,
+    "relativeTimeSeconds": 264762132
+  },
+  "problems": [
+    {
+      "contestId": 844,
+      "index": "B",
+      "name": "Rectangles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 844,
+      "index": "A",
+      "name": "Diversity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

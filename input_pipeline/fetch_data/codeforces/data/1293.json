@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1293,
+    "name": "Codeforces Round 614 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1579440900,
+    "relativeTimeSeconds": 188913732
+  },
+  "problems": [
+    {
+      "contestId": 1293,
+      "index": "B",
+      "name": "JOE is on TV!",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1293,
+      "index": "A",
+      "name": "ConneR and the A.R.C. Markland-N",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 68,
+    "name": "Codeforces Beta Round 62",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1300464000,
+    "relativeTimeSeconds": 467890633
+  },
+  "problems": [
+    {
+      "contestId": 68,
+      "index": "E",
+      "name": "Contact",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 68,
+      "index": "D",
+      "name": "Half-decay tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 68,
+      "index": "C",
+      "name": "Synchrophasotron",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 68,
+      "index": "B",
+      "name": "Energy exchange",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 68,
+      "index": "A",
+      "name": "Irrational problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "number theory"
+      ]
+    }
+  ]
+}

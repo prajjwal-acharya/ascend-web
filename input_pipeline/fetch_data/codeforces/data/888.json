@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 888,
+    "name": "Educational Codeforces Round 32",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1510239900,
+    "relativeTimeSeconds": 258114732
+  },
+  "problems": [
+    {
+      "contestId": 888,
+      "index": "G",
+      "name": "Xor-MST",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "F",
+      "name": "Connecting Vertices",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "E",
+      "name": "Maximum Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "D",
+      "name": "Almost Identity Permutations",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "C",
+      "name": "K-Dominant Character",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "B",
+      "name": "Buggy Robot",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 888,
+      "index": "A",
+      "name": "Local Extrema",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

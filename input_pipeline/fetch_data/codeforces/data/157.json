@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 157,
+    "name": "Codeforces Round 110 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1330536600,
+    "relativeTimeSeconds": 437818033
+  },
+  "problems": [
+    {
+      "contestId": 157,
+      "index": "B",
+      "name": "Trace",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 157,
+      "index": "A",
+      "name": "Game Outcome",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

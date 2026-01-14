@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 251,
+    "name": "Codeforces Round 153 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1354807800,
+    "relativeTimeSeconds": 413546833
+  },
+  "problems": [
+    {
+      "contestId": 251,
+      "index": "E",
+      "name": "Tree and Table",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 251,
+      "index": "D",
+      "name": "Two Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 251,
+      "index": "C",
+      "name": "Number Transformation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 251,
+      "index": "B",
+      "name": "Playing with Permutations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 251,
+      "index": "A",
+      "name": "Points on Line",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "two pointers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 1179,
+    "name": "Codeforces Round 569 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1561136700,
+    "relativeTimeSeconds": 207217932
+  },
+  "problems": [
+    {
+      "contestId": 1179,
+      "index": "E",
+      "name": "Alesya and Discrete Math",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1179,
+      "index": "D",
+      "name": "Fedor Runs for President",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1179,
+      "index": "C",
+      "name": "Serge and Dining Room",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "graph matchings",
+        "greedy",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1179,
+      "index": "B",
+      "name": "Tolik and His Uncle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1179,
+      "index": "A",
+      "name": "Valeriy and Deque",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

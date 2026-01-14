@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 50,
+    "name": "Codeforces Beta Round 47",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1292862000,
+    "relativeTimeSeconds": 475492633
+  },
+  "problems": [
+    {
+      "contestId": 50,
+      "index": "E",
+      "name": "Square Equation Roots",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 50,
+      "index": "D",
+      "name": "Bombing",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 50,
+      "index": "C",
+      "name": "Happy Farm 5",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 50,
+      "index": "B",
+      "name": "Choosing Symbol Pairs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 50,
+      "index": "A",
+      "name": "Domino piling",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

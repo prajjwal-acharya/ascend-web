@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 414,
+    "name": "Codeforces Round 240 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1396798800,
+    "relativeTimeSeconds": 371555832
+  },
+  "problems": [
+    {
+      "contestId": 414,
+      "index": "E",
+      "name": "Mashmokh's Designed Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 414,
+      "index": "D",
+      "name": "Mashmokh and Water Tanks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 414,
+      "index": "C",
+      "name": "Mashmokh and Reverse Operation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 414,
+      "index": "B",
+      "name": "Mashmokh and ACM",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 414,
+      "index": "A",
+      "name": "Mashmokh and Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1105,
+    "name": "Codeforces Round 533 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1547985900,
+    "relativeTimeSeconds": 220368732
+  },
+  "problems": [
+    {
+      "contestId": 1105,
+      "index": "E",
+      "name": "Helping Hiasat ",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1105,
+      "index": "D",
+      "name": "Kilani and the Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1105,
+      "index": "C",
+      "name": "Ayoub and Lost Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1105,
+      "index": "B",
+      "name": "Zuhair and Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1105,
+      "index": "A",
+      "name": "Salem and Sticks ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

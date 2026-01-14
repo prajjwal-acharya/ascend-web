@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 554,
+    "name": "Codeforces Round 309 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1435163400,
+    "relativeTimeSeconds": 333191232
+  },
+  "problems": [
+    {
+      "contestId": 554,
+      "index": "B",
+      "name": "Ohana Cleans Up",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 554,
+      "index": "A",
+      "name": "Kyoya and Photobooks",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

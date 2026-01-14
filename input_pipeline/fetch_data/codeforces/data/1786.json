@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 1786,
+    "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1675598700,
+    "relativeTimeSeconds": 92755932
+  },
+  "problems": [
+    {
+      "contestId": 1786,
+      "index": "B",
+      "name": "Cake Assembly Line",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1786,
+      "index": "A2",
+      "name": "Alternating Deck (hard version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1786,
+      "index": "A1",
+      "name": "Non-alternating Deck (easy version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 76,
+    "name": "All-Ukrainian School Olympiad in Informatics",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1302609600,
+    "relativeTimeSeconds": 465745033
+  },
+  "problems": [
+    {
+      "contestId": 76,
+      "index": "F",
+      "name": "Tourist",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 76,
+      "index": "E",
+      "name": "Points",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 76,
+      "index": "D",
+      "name": "Plus and xor",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 76,
+      "index": "C",
+      "name": "Mutation",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 76,
+      "index": "B",
+      "name": "Mice",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 76,
+      "index": "A",
+      "name": "Gift",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dsu",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    }
+  ]
+}

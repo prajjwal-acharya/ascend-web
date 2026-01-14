@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 359,
+    "name": "Codeforces Round 209 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1383379200,
+    "relativeTimeSeconds": 384975432
+  },
+  "problems": [
+    {
+      "contestId": 359,
+      "index": "E",
+      "name": "Neatness",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 359,
+      "index": "D",
+      "name": "Pair of Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 359,
+      "index": "C",
+      "name": "Prime Number",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 359,
+      "index": "B",
+      "name": "Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 359,
+      "index": "A",
+      "name": "Table",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

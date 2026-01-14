@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1356,
+    "name": "Microsoft Q# Coding Contest - Summer 2020 - Warmup",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1591977600,
+    "relativeTimeSeconds": 176377032
+  },
+  "problems": [
+    {
+      "contestId": 1356,
+      "index": "D2",
+      "name": "Quantum Classification - 2",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "D1",
+      "name": "Quantum Classification - 1",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "C",
+      "name": "Prepare state |01\u27e9 + |10\u27e9 + |11\u27e9",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "B2",
+      "name": "Decrement",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "B1",
+      "name": "Increment",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "A5",
+      "name": "Distinguish Z from -Z",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "A4",
+      "name": "Distinguish I \u2297 X from CNOT",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "A3",
+      "name": "Distinguish Z from S",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "A2",
+      "name": "Distinguish I from Z",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1356,
+      "index": "A1",
+      "name": "Distinguish I from X",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

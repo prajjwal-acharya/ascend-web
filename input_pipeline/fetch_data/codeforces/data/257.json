@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 257,
+    "name": "Codeforces Round 159 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1357659000,
+    "relativeTimeSeconds": 410695633
+  },
+  "problems": [
+    {
+      "contestId": 257,
+      "index": "E",
+      "name": "Greedy Elevator",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 257,
+      "index": "D",
+      "name": "Sum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 257,
+      "index": "C",
+      "name": "View Angle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 257,
+      "index": "B",
+      "name": "Playing Cubes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 257,
+      "index": "A",
+      "name": "Sockets",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

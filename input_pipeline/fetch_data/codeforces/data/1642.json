@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 1642,
+    "name": "Codeforces Round 773 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1645611000,
+    "relativeTimeSeconds": 122743632
+  },
+  "problems": [
+    {
+      "contestId": 1642,
+      "index": "B",
+      "name": "Power Walking",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1642,
+      "index": "A",
+      "name": "Hard Way",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry"
+      ]
+    }
+  ]
+}

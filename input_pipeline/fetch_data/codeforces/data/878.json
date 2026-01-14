@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 878,
+    "name": "Codeforces Round 443 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1509029100,
+    "relativeTimeSeconds": 259325532
+  },
+  "problems": [
+    {
+      "contestId": 878,
+      "index": "E",
+      "name": "Numbers on the blackboard",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 878,
+      "index": "D",
+      "name": "Magic Breeding",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks"
+      ]
+    },
+    {
+      "contestId": 878,
+      "index": "C",
+      "name": "Tournament",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 878,
+      "index": "B",
+      "name": "Teams Formation",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 878,
+      "index": "A",
+      "name": "Short Program",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

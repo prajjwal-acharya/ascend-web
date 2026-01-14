@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1938,
+    "name": "2024 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1709346900,
+    "relativeTimeSeconds": 59007732
+  },
+  "problems": [
+    {
+      "contestId": 1938,
+      "index": "M",
+      "name": "Zig-zag",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "L",
+      "name": "XOR Operations",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "K",
+      "name": "Tree Quiz",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "J",
+      "name": "There and Back Again",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "I",
+      "name": "Symmetric Boundary",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "H",
+      "name": "Pho Restaurant",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "G",
+      "name": "Personality Test",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "F",
+      "name": "Forming Groups",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "E",
+      "name": "Duplicates",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "D",
+      "name": "B\u00e1nh B\u00f2",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "C",
+      "name": "Bit Counting Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "B",
+      "name": "Attraction Score",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": []
+    },
+    {
+      "contestId": 1938,
+      "index": "A",
+      "name": "Antiparticle Antiphysics",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": []
+    }
+  ]
+}

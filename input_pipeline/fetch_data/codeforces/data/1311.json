@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1311,
+    "name": "Codeforces Round 624 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1582554900,
+    "relativeTimeSeconds": 185799732
+  },
+  "problems": [
+    {
+      "contestId": 1311,
+      "index": "F",
+      "name": "Moving Points",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1311,
+      "index": "E",
+      "name": "Construct the Binary Tree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1311,
+      "index": "D",
+      "name": "Three Integers",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1311,
+      "index": "C",
+      "name": "Perform the Combo",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1311,
+      "index": "B",
+      "name": "WeirdSort",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dfs and similar",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1311,
+      "index": "A",
+      "name": "Add Odd or Subtract Even",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

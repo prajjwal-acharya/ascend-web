@@ -1,0 +1,135 @@
+{
+  "contest": {
+    "id": 1774,
+    "name": "Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1671287700,
+    "relativeTimeSeconds": 97066932
+  },
+  "problems": [
+    {
+      "contestId": 1774,
+      "index": "H",
+      "name": "Maximum Permutation",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "G",
+      "name": "Segment Covering",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "F2",
+      "name": "Magician and Pigs (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "F1",
+      "name": "Magician and Pigs (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "E",
+      "name": "Two Chess Pieces",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "D",
+      "name": "Same Count One",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "C",
+      "name": "Ice and Fire",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "B",
+      "name": "Coloring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1774,
+      "index": "A",
+      "name": "Add Plus Minus Sign",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

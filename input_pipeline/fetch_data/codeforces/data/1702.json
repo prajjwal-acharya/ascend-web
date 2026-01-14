@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1702,
+    "name": "Codeforces Round 805 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1657463700,
+    "relativeTimeSeconds": 110890932
+  },
+  "problems": [
+    {
+      "contestId": 1702,
+      "index": "G2",
+      "name": "Passable Paths (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "G1",
+      "name": "Passable Paths (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "F",
+      "name": "Equate Multisets",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "E",
+      "name": "Split Into Two Sets",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "D",
+      "name": "Not a Cheap String",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "C",
+      "name": "Train and Queries",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "B",
+      "name": "Polycarp Writes a String from Memory",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1702,
+      "index": "A",
+      "name": "Round Down the Price",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

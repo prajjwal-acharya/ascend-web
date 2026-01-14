@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 571,
+    "name": "Codeforces Round 317 [AimFund Thanks-Round] (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1440261000,
+    "relativeTimeSeconds": 328093632
+  },
+  "problems": [
+    {
+      "contestId": 571,
+      "index": "E",
+      "name": "Geometric Progressions",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 571,
+      "index": "D",
+      "name": "Campus",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 571,
+      "index": "C",
+      "name": "CNF 2",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 571,
+      "index": "B",
+      "name": "Minimization",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 571,
+      "index": "A",
+      "name": "Lengthening Sticks",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

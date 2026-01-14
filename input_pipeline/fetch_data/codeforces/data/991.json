@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 991,
+    "name": "Codeforces Round 491 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1529768100,
+    "relativeTimeSeconds": 238586532
+  },
+  "problems": [
+    {
+      "contestId": 991,
+      "index": "F",
+      "name": "Concise and clear",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 991,
+      "index": "E",
+      "name": "Bus Number",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 991,
+      "index": "D",
+      "name": "Bishwock",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 991,
+      "index": "C",
+      "name": "Candies",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 991,
+      "index": "B",
+      "name": "Getting an A",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 991,
+      "index": "A",
+      "name": "If at first you don't succeed...",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 594,
+    "name": "Codeforces Round 330 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1447000200,
+    "relativeTimeSeconds": 321354432
+  },
+  "problems": [
+    {
+      "contestId": 594,
+      "index": "E",
+      "name": "Cutting the Line",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 594,
+      "index": "D",
+      "name": "REQ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 594,
+      "index": "C",
+      "name": "Edo and Magnets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 594,
+      "index": "B",
+      "name": "Max and Bike",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 594,
+      "index": "A",
+      "name": "Warrior and Archer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2300,
+      "tags": [
+        "games"
+      ]
+    }
+  ]
+}

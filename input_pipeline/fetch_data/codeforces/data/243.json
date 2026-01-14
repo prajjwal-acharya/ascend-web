@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 243,
+    "name": "Codeforces Round 150 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1353079800,
+    "relativeTimeSeconds": 415274833
+  },
+  "problems": [
+    {
+      "contestId": 243,
+      "index": "E",
+      "name": "Matrix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 243,
+      "index": "D",
+      "name": "Cubes",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 243,
+      "index": "C",
+      "name": "Colorado Potato Beetle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 243,
+      "index": "B",
+      "name": "Hydra",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 243,
+      "index": "A",
+      "name": "The Brand New Function",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks"
+      ]
+    }
+  ]
+}

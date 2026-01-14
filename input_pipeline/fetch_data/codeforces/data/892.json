@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 892,
+    "name": "Codeforces Round 446 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1510929300,
+    "relativeTimeSeconds": 257425332
+  },
+  "problems": [
+    {
+      "contestId": 892,
+      "index": "B",
+      "name": "Wrath",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 892,
+      "index": "A",
+      "name": "Greed",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

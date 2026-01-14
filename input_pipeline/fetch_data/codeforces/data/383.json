@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 383,
+    "name": "Codeforces Round 225 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1390231800,
+    "relativeTimeSeconds": 378122832
+  },
+  "problems": [
+    {
+      "contestId": 383,
+      "index": "E",
+      "name": "Vowels",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 383,
+      "index": "D",
+      "name": "Antimatter",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 383,
+      "index": "C",
+      "name": "Propagating tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 383,
+      "index": "B",
+      "name": "Volcanoes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 383,
+      "index": "A",
+      "name": "Milking cows",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    }
+  ]
+}

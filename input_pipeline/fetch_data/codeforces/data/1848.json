@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1848,
+    "name": "Codeforces Round 885 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1689518100,
+    "relativeTimeSeconds": 78836532
+  },
+  "problems": [
+    {
+      "contestId": 1848,
+      "index": "F",
+      "name": "Vika and Wiki",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1848,
+      "index": "E",
+      "name": "Vika and Stone Skipping",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1848,
+      "index": "D",
+      "name": "Vika and Bonuses",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1848,
+      "index": "C",
+      "name": "Vika and Price Tags",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1848,
+      "index": "B",
+      "name": "Vika and the Bridge",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1848,
+      "index": "A",
+      "name": "Vika and Her Friends",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

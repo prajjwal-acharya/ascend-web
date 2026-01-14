@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1717,
+    "name": "Codeforces Round 818 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1662129300,
+    "relativeTimeSeconds": 106225332
+  },
+  "problems": [
+    {
+      "contestId": 1717,
+      "index": "F",
+      "name": "Madoka and The First Session",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1717,
+      "index": "E",
+      "name": "Madoka and The Best University",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1717,
+      "index": "D",
+      "name": "Madoka and The Corruption Scheme",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1717,
+      "index": "C",
+      "name": "Madoka and Formal Statement",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1717,
+      "index": "B",
+      "name": "Madoka and Underground Competitions",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1717,
+      "index": "A",
+      "name": "Madoka and Strange Thoughts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

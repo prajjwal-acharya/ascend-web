@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1413,
+    "name": "Technocup 2021 - Elimination Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1603623900,
+    "relativeTimeSeconds": 164730732
+  },
+  "problems": [
+    {
+      "contestId": 1413,
+      "index": "F",
+      "name": "Roads and Ramen",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1413,
+      "index": "E",
+      "name": "Solo mid Oracle",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1413,
+      "index": "D",
+      "name": "Shurikens",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1413,
+      "index": "C",
+      "name": "Perform Easily",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1413,
+      "index": "B",
+      "name": "A New Technique",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1413,
+      "index": "A",
+      "name": "Finding Sasuke",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

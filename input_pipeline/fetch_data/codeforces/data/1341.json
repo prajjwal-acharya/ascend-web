@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1341,
+    "name": "Codeforces Round 637 (Div. 2) - Thanks, Ivan Belonogov!",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1587653100,
+    "relativeTimeSeconds": 180701532
+  },
+  "problems": [
+    {
+      "contestId": 1341,
+      "index": "B",
+      "name": "Nastya and Door",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1341,
+      "index": "A",
+      "name": "Nastya and Rice",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

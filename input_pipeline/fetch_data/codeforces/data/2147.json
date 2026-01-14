@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": 2147,
+    "name": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1758378900,
+    "relativeTimeSeconds": 9975732
+  },
+  "problems": [
+    {
+      "contestId": 2147,
+      "index": "I2",
+      "name": "Longest Increasing Path (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "I1",
+      "name": "Longest Increasing Path (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "H",
+      "name": "Maxflow GCD Coloring",
+      "type": "PROGRAMMING",
+      "points": 5500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "G",
+      "name": "Modular Tetration",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "F",
+      "name": "Exchange Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "E",
+      "name": "Maximum OR Popcount",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "D",
+      "name": "Game on Array",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "C",
+      "name": "Rabbits",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "B",
+      "name": "Multiple Construction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2147,
+      "index": "A",
+      "name": "Shortest Increasing Path",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

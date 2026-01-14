@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 609,
+    "name": "Educational Codeforces Round 3",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1450537200,
+    "relativeTimeSeconds": 317817432
+  },
+  "problems": [
+    {
+      "contestId": 609,
+      "index": "F",
+      "name": "Frogs and mosquitoes",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 609,
+      "index": "E",
+      "name": "Minimum spanning tree for each edge",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 609,
+      "index": "D",
+      "name": "Gadgets for dollars and pounds",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 609,
+      "index": "C",
+      "name": "Load Balancing",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 609,
+      "index": "B",
+      "name": "The Best Gift",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 609,
+      "index": "A",
+      "name": "USB Flash Drives",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

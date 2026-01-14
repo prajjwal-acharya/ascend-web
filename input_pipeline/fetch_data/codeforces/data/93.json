@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 93,
+    "name": "Codeforces Beta Round 76 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1309446000,
+    "relativeTimeSeconds": 458908633
+  },
+  "problems": [
+    {
+      "contestId": 93,
+      "index": "E",
+      "name": "Lostborn",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 93,
+      "index": "D",
+      "name": "Flags",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 93,
+      "index": "C",
+      "name": "Azembler",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 93,
+      "index": "B",
+      "name": "End of Exams",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 93,
+      "index": "A",
+      "name": "Frames",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

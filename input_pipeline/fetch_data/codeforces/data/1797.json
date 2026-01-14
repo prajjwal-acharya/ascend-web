@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1797,
+    "name": "Codeforces Round 864 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1680962700,
+    "relativeTimeSeconds": 87391932
+  },
+  "problems": [
+    {
+      "contestId": 1797,
+      "index": "F",
+      "name": "Li Hua and Path",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1797,
+      "index": "E",
+      "name": "Li Hua and Array",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1797,
+      "index": "D",
+      "name": "Li Hua and Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1797,
+      "index": "C",
+      "name": "Li Hua and Chess",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1797,
+      "index": "B",
+      "name": "Li Hua and Pattern",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1797,
+      "index": "A",
+      "name": "Li Hua and Maze",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

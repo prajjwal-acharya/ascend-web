@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 909,
+    "name": "Codeforces Round 455 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1514392500,
+    "relativeTimeSeconds": 253962132
+  },
+  "problems": [
+    {
+      "contestId": 909,
+      "index": "F",
+      "name": "AND-permutations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 909,
+      "index": "E",
+      "name": "Coprocessor",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 909,
+      "index": "D",
+      "name": "Colorful Points",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 909,
+      "index": "C",
+      "name": "Python Indentation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 909,
+      "index": "B",
+      "name": "Segments",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 909,
+      "index": "A",
+      "name": "Generate Login",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

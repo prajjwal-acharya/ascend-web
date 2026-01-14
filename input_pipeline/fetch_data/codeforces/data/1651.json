@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1651,
+    "name": "Educational Codeforces Round 124 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1646922900,
+    "relativeTimeSeconds": 121431732
+  },
+  "problems": [
+    {
+      "contestId": 1651,
+      "index": "F",
+      "name": "Tower Defense",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1651,
+      "index": "E",
+      "name": "Sum of Matchings",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "graph matchings",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1651,
+      "index": "D",
+      "name": "Nearest Excluded Points",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1651,
+      "index": "C",
+      "name": "Fault-tolerant Network",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1651,
+      "index": "B",
+      "name": "Prove Him Wrong",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1651,
+      "index": "A",
+      "name": "Playoff",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

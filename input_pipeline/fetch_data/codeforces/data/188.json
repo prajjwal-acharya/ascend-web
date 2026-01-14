@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 188,
+    "name": "Surprise Language Round 6",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1337959800,
+    "relativeTimeSeconds": 430394833
+  },
+  "problems": [
+    {
+      "contestId": 188,
+      "index": "H",
+      "name": "Stack",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "G",
+      "name": "Array Sorting",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "F",
+      "name": "Binary Notation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "E",
+      "name": "HQ9+",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "D",
+      "name": "Asterisks",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "C",
+      "name": "LCM",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "B",
+      "name": "A + Reverse B",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 188,
+      "index": "A",
+      "name": "Hexagonal Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

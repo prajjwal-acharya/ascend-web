@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1332,
+    "name": "Codeforces Round 630 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1585661700,
+    "relativeTimeSeconds": 182692932
+  },
+  "problems": [
+    {
+      "contestId": 1332,
+      "index": "G",
+      "name": "No Monotone Triples",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "F",
+      "name": "Independent Set",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "E",
+      "name": "Height All the Same",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "D",
+      "name": "Walk on Matrix",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "C",
+      "name": "K-Complete Word",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "B",
+      "name": "Composite Coloring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1332,
+      "index": "A",
+      "name": "Exercising Walk",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 768,
+    "name": "Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9600,
+    "startTimeSeconds": 1487606700,
+    "relativeTimeSeconds": 280747932
+  },
+  "problems": [
+    {
+      "contestId": 768,
+      "index": "G",
+      "name": "The Winds of Winter",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "F",
+      "name": "Barrels and boxes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "E",
+      "name": "Game of Stones",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "D",
+      "name": "Jon and Orbs",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "C",
+      "name": "Jon Snow and his Favourite Number",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "B",
+      "name": "Code For 1",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 768,
+      "index": "A",
+      "name": "Oath of the Night's Watch",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    }
+  ]
+}

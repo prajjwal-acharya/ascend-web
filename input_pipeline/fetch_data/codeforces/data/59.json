@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 59,
+    "name": "Codeforces Beta Round 55 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1297440000,
+    "relativeTimeSeconds": 470914633
+  },
+  "problems": [
+    {
+      "contestId": 59,
+      "index": "E",
+      "name": "Shortest Path",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 59,
+      "index": "D",
+      "name": "Team Arrangement",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 59,
+      "index": "C",
+      "name": "Title",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 59,
+      "index": "B",
+      "name": "Fortune Telling",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 59,
+      "index": "A",
+      "name": "Word",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

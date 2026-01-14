@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 1287,
+    "name": "Codeforces Round 612 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1578233100,
+    "relativeTimeSeconds": 190121532
+  },
+  "problems": [
+    {
+      "contestId": 1287,
+      "index": "B",
+      "name": "Hyperset",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1287,
+      "index": "A",
+      "name": "Angry Students",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

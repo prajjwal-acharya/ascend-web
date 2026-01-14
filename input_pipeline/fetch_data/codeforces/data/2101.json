@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2101,
+    "name": "Codeforces Round 1024 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1746974100,
+    "relativeTimeSeconds": 21380532
+  },
+  "problems": [
+    {
+      "contestId": 2101,
+      "index": "F",
+      "name": "Shoo Shatters the Sunshine",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2101,
+      "index": "E",
+      "name": "Kia Bakes a Cake",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2101,
+      "index": "D",
+      "name": "Mani and Segments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2101,
+      "index": "C",
+      "name": "23 Kingdom",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2101,
+      "index": "B",
+      "name": "Quartet Swapping",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2101,
+      "index": "A",
+      "name": "Mex in the Grid",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

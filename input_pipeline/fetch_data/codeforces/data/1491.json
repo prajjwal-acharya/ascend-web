@@ -1,0 +1,134 @@
+{
+  "contest": {
+    "id": 1491,
+    "name": "Codeforces Global Round 13",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1614519300,
+    "relativeTimeSeconds": 153835332
+  },
+  "problems": [
+    {
+      "contestId": 1491,
+      "index": "I",
+      "name": "Ruler Of The Zoo",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "H",
+      "name": "Yuezheng Ling and Dynamic Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "G",
+      "name": "Switch and Flip",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "F",
+      "name": "Magnets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "E",
+      "name": "Fib-tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "divide and conquer",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "D",
+      "name": "Zookeeper and The Infinite Zoo",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "C",
+      "name": "Pekora and Trampoline",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "B",
+      "name": "Minimal Cost",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1491,
+      "index": "A",
+      "name": "K-th Largest Value",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

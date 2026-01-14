@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 877,
+    "name": "Codeforces Round 442 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1508773500,
+    "relativeTimeSeconds": 259581132
+  },
+  "problems": [
+    {
+      "contestId": 877,
+      "index": "F",
+      "name": "Ann and Books",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "flows",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 877,
+      "index": "E",
+      "name": "Danil and a Part-time Job",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 877,
+      "index": "D",
+      "name": "Olya and Energy Drinks",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 877,
+      "index": "C",
+      "name": "Slava and tanks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 877,
+      "index": "B",
+      "name": "Nikita and string",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 877,
+      "index": "A",
+      "name": "Alex and broken contest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1220,
+    "name": "Codeforces Round 586 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1568822700,
+    "relativeTimeSeconds": 199531932
+  },
+  "problems": [
+    {
+      "contestId": 1220,
+      "index": "G",
+      "name": "Geolocation",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "F",
+      "name": "Gardener Alex",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "E",
+      "name": "Tourism",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "D",
+      "name": "Alex and Julian",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "C",
+      "name": "Substring Game in the Lesson",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "games",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "B",
+      "name": "Multiplication Table",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1220,
+      "index": "A",
+      "name": "Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

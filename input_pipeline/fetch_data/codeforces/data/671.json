@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 671,
+    "name": "Codeforces Round 352 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1462984500,
+    "relativeTimeSeconds": 305370132
+  },
+  "problems": [
+    {
+      "contestId": 671,
+      "index": "E",
+      "name": "Organizing a Race",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 671,
+      "index": "D",
+      "name": "Roads in Yusland",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 671,
+      "index": "C",
+      "name": "Ultimate Weirdness of an Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 671,
+      "index": "B",
+      "name": "Robin Hood",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 671,
+      "index": "A",
+      "name": "Recycling Bottles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

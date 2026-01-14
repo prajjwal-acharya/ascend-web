@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 43,
+    "name": "Codeforces Beta Round 42 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1291046400,
+    "relativeTimeSeconds": 477308233
+  },
+  "problems": [
+    {
+      "contestId": 43,
+      "index": "E",
+      "name": "Race",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 43,
+      "index": "D",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 43,
+      "index": "C",
+      "name": "Lucky Tickets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 43,
+      "index": "B",
+      "name": "Letter",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 43,
+      "index": "A",
+      "name": "Football",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

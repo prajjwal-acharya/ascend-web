@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 1323,
+    "name": "Codeforces Round 626 (Div. 2, based on Moscow Open Olympiad in Informatics)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1583573700,
+    "relativeTimeSeconds": 184780932
+  },
+  "problems": [
+    {
+      "contestId": 1323,
+      "index": "B",
+      "name": "Count Subrectangles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1323,
+      "index": "A",
+      "name": "Even Subset Sum Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

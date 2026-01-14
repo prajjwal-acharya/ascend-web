@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 1218,
+    "name": "Bubble Cup 12 - Finals [Online Mirror, unrated, Div. 1]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1568554500,
+    "relativeTimeSeconds": 199800132
+  },
+  "problems": [
+    {
+      "contestId": 1218,
+      "index": "I",
+      "name": "The Light Square",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "H",
+      "name": "Function Composition",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "G",
+      "name": "Alpha planetary system",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "F",
+      "name": "Workout plan",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "E",
+      "name": "Product Tuples",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "divide and conquer",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "D",
+      "name": "Xor Spanning Tree",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "divide and conquer",
+        "fft",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "C",
+      "name": "Jumping Transformers",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "B",
+      "name": "Guarding warehouses",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1218,
+      "index": "A",
+      "name": "BubbleReactor",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    }
+  ]
+}

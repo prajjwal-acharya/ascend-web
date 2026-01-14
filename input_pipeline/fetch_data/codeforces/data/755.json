@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 755,
+    "name": "8VC Venture Cup 2017 - Elimination Round",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1484499900,
+    "relativeTimeSeconds": 283854732
+  },
+  "problems": [
+    {
+      "contestId": 755,
+      "index": "G",
+      "name": "PolandBall and Many Other Balls",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "F",
+      "name": "PolandBall and Gifts",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "E",
+      "name": "PolandBall and White-Red graph",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "D",
+      "name": "PolandBall and Polygon",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "C",
+      "name": "PolandBall and Forest",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "B",
+      "name": "PolandBall and Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "games",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 755,
+      "index": "A",
+      "name": "PolandBall and Hypothesis",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

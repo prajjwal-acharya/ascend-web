@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1922,
+    "name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1705588500,
+    "relativeTimeSeconds": 62766132
+  },
+  "problems": [
+    {
+      "contestId": 1922,
+      "index": "F",
+      "name": "Replace on Segment",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "graph matchings"
+      ]
+    },
+    {
+      "contestId": 1922,
+      "index": "E",
+      "name": "Increasing Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1922,
+      "index": "D",
+      "name": "Berserk Monsters",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1922,
+      "index": "C",
+      "name": "Closest Cities",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1922,
+      "index": "B",
+      "name": "Forming Triangles",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1922,
+      "index": "A",
+      "name": "Tricky Template",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 2006,
+    "name": "Codeforces Round 969 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1725028500,
+    "relativeTimeSeconds": 43326132
+  },
+  "problems": [
+    {
+      "contestId": 2006,
+      "index": "F",
+      "name": "Dora's Paint",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2006,
+      "index": "E",
+      "name": "Iris's Full Binary Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2006,
+      "index": "D",
+      "name": "Iris and Adjacent Products",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2006,
+      "index": "C",
+      "name": "Eri and Expanded Sets",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2006,
+      "index": "B",
+      "name": "Iris and the Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2006,
+      "index": "A",
+      "name": "Iris and Game on the Tree",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "games",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    }
+  ]
+}

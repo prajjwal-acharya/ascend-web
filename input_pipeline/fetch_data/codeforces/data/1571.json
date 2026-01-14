@@ -1,0 +1,131 @@
+{
+  "contest": {
+    "id": 1571,
+    "name": "Kotlin Heroes: Episode 8",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9900,
+    "startTimeSeconds": 1633617300,
+    "relativeTimeSeconds": 134737332
+  },
+  "problems": [
+    {
+      "contestId": 1571,
+      "index": "J",
+      "name": "Two Railroads",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "I",
+      "name": "Physical Examination",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "*special",
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "H",
+      "name": "Laser Beams",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "G",
+      "name": "A Battle Against a Dragon",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "F",
+      "name": "Kotlinforces",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "E",
+      "name": "Fix the String",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "D",
+      "name": "Sweepstake",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "C",
+      "name": "Rhyme",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "B",
+      "name": "Epic Novel",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1571,
+      "index": "A",
+      "name": "Sequence of Comparisons",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

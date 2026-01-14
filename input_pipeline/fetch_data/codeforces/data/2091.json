@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2091,
+    "name": "Codeforces Round 1013 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1742913300,
+    "relativeTimeSeconds": 25441332
+  },
+  "problems": [
+    {
+      "contestId": 2091,
+      "index": "G",
+      "name": "Gleb and Boating",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "F",
+      "name": "Igor and Mountain",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "E",
+      "name": "Interesting Ratio",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "D",
+      "name": "Place of the Olympiad",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "C",
+      "name": "Combination Lock",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "B",
+      "name": "Team Training",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2091,
+      "index": "A",
+      "name": "Olympiad Date",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

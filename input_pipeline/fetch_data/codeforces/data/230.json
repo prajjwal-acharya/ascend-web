@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 230,
+    "name": "Codeforces Round 142 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1349105400,
+    "relativeTimeSeconds": 419249233
+  },
+  "problems": [
+    {
+      "contestId": 230,
+      "index": "B",
+      "name": "T-primes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 230,
+      "index": "A",
+      "name": "Dragons",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

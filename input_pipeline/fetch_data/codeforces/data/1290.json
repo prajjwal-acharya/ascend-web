@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1290,
+    "name": "Codeforces Round 616 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1580652300,
+    "relativeTimeSeconds": 187702332
+  },
+  "problems": [
+    {
+      "contestId": 1290,
+      "index": "F",
+      "name": "Making Shapes",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1290,
+      "index": "E",
+      "name": "Cartesian Tree ",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1290,
+      "index": "D",
+      "name": "Coffee Varieties (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1290,
+      "index": "C",
+      "name": "Prefix Enlightenment",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1290,
+      "index": "B",
+      "name": "Irreducible Anagrams",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1290,
+      "index": "A",
+      "name": "Mind Control",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

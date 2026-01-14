@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 980,
+    "name": "Codeforces Round 480 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1525791900,
+    "relativeTimeSeconds": 242562732
+  },
+  "problems": [
+    {
+      "contestId": 980,
+      "index": "F",
+      "name": "Cactus to Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 980,
+      "index": "E",
+      "name": "The Number Games",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 980,
+      "index": "D",
+      "name": "Perfect Groups",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 980,
+      "index": "C",
+      "name": "Posterized",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 980,
+      "index": "B",
+      "name": "Marlin",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 980,
+      "index": "A",
+      "name": "Links and Pearls",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

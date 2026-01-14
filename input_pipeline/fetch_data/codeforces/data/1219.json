@@ -1,0 +1,35 @@
+{
+  "contest": {
+    "id": 1219,
+    "name": "Bubble Cup 12 - Finals [Online Mirror, unrated, Div. 2]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1568554500,
+    "relativeTimeSeconds": 199800132
+  },
+  "problems": [
+    {
+      "contestId": 1219,
+      "index": "G",
+      "name": "Harvester",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1219,
+      "index": "C",
+      "name": "Periodic integer number",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

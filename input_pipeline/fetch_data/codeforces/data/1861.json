@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1861,
+    "name": "Educational Codeforces Round 154 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1693492500,
+    "relativeTimeSeconds": 74862132
+  },
+  "problems": [
+    {
+      "contestId": 1861,
+      "index": "F",
+      "name": "Four Suits",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1861,
+      "index": "E",
+      "name": "Non-Intersecting Subpermutations",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1861,
+      "index": "D",
+      "name": "Sorting By Multiplication",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1861,
+      "index": "C",
+      "name": "Queries for the Array",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1861,
+      "index": "B",
+      "name": "Two Binary Strings",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1861,
+      "index": "A",
+      "name": "Prime Deletion",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

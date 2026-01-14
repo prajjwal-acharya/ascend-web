@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1874,
+    "name": "Codeforces Round 901 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1696084500,
+    "relativeTimeSeconds": 72270132
+  },
+  "problems": [
+    {
+      "contestId": 1874,
+      "index": "G",
+      "name": "Jellyfish and Inscryption",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "F",
+      "name": "Jellyfish and OEIS",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "E",
+      "name": "Jellyfish and Hack",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "D",
+      "name": "Jellyfish and Miku",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "C",
+      "name": "Jellyfish and EVA",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "B",
+      "name": "Jellyfish and Math",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1874,
+      "index": "A",
+      "name": "Jellyfish and Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

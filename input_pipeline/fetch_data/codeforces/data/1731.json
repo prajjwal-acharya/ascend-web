@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1731,
+    "name": "Codeforces Round 841 (Div. 2) and Divide by Zero 2022",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1672151700,
+    "relativeTimeSeconds": 96202932
+  },
+  "problems": [
+    {
+      "contestId": 1731,
+      "index": "F",
+      "name": "Function Sum",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1731,
+      "index": "E",
+      "name": "Graph Cost",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1731,
+      "index": "D",
+      "name": "Valiant's New Map",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1731,
+      "index": "C",
+      "name": "Even Subarrays",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1731,
+      "index": "B",
+      "name": "Kill Demodogs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1731,
+      "index": "A",
+      "name": "Joey Takes Money",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

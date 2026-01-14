@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 1281,
+    "name": "Codeforces Round 607 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576386300,
+    "relativeTimeSeconds": 191968332
+  },
+  "problems": [
+    {
+      "contestId": 1281,
+      "index": "B",
+      "name": "Azamon Web Services",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1281,
+      "index": "A",
+      "name": "Suffix Three",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 723,
+    "name": "Codeforces Round 375 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1475494500,
+    "relativeTimeSeconds": 292860132
+  },
+  "problems": [
+    {
+      "contestId": 723,
+      "index": "F",
+      "name": "st-Spanning Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2300,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 723,
+      "index": "E",
+      "name": "One-Way Reform",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "flows",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 723,
+      "index": "D",
+      "name": "Lakes in Berland",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 723,
+      "index": "C",
+      "name": "Polycarp at the Radio",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 723,
+      "index": "B",
+      "name": "Text Document Analysis",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "expression parsing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 723,
+      "index": "A",
+      "name": "The New Year: Meeting Friends",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

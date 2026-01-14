@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1299,
+    "name": "Codeforces Round 618 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1581257100,
+    "relativeTimeSeconds": 187097532
+  },
+  "problems": [
+    {
+      "contestId": 1299,
+      "index": "E",
+      "name": "So Mean",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3400,
+      "tags": [
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1299,
+      "index": "D",
+      "name": "Around the World",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "graphs",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1299,
+      "index": "C",
+      "name": "Water Balance",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1299,
+      "index": "B",
+      "name": "Aerodynamic",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1299,
+      "index": "A",
+      "name": "Anu Has a Function",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

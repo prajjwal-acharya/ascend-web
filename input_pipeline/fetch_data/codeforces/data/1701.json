@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1701,
+    "name": "Educational Codeforces Round 131 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1657290900,
+    "relativeTimeSeconds": 111063732
+  },
+  "problems": [
+    {
+      "contestId": 1701,
+      "index": "F",
+      "name": "Points",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1701,
+      "index": "E",
+      "name": "Text Editor",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1701,
+      "index": "D",
+      "name": "Permutation Restoration",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1701,
+      "index": "C",
+      "name": "Schedule Management",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1701,
+      "index": "B",
+      "name": "Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1701,
+      "index": "A",
+      "name": "Grass Field",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

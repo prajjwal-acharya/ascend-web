@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": 1387,
+    "name": "Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 19800,
+    "startTimeSeconds": 1595502300,
+    "relativeTimeSeconds": 172852332
+  },
+  "problems": [
+    {
+      "contestId": 1387,
+      "index": "C",
+      "name": "Viruses",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "dp",
+        "shortest paths",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1387,
+      "index": "B2",
+      "name": "Village (Maximum)",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1387,
+      "index": "B1",
+      "name": "Village (Minimum)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1387,
+      "index": "A",
+      "name": "Graph",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special",
+        "binary search",
+        "dfs and similar",
+        "dp",
+        "math",
+        "ternary search"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1001,
+    "name": "Microsoft Q# Coding Contest - Summer 2018 - Warmup",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1530288000,
+    "relativeTimeSeconds": 238066632
+  },
+  "problems": [
+    {
+      "contestId": 1001,
+      "index": "I",
+      "name": "Deutsch-Jozsa algorithm",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "H",
+      "name": "Oracle for f(x) = parity of the number of 1s in x",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "G",
+      "name": "Oracle for f(x) = k-th element of x",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "F",
+      "name": "Distinguish multi-qubit basis states",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "E",
+      "name": "Distinguish Bell states",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "D",
+      "name": "Distinguish plus state and minus state",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "C",
+      "name": "Generate GHZ state",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "B",
+      "name": "Generate Bell state",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1001,
+      "index": "A",
+      "name": "Generate plus state or minus state",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

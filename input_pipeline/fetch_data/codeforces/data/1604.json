@@ -1,0 +1,34 @@
+{
+  "contest": {
+    "id": 1604,
+    "name": "Codeforces Round 752 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1635604500,
+    "relativeTimeSeconds": 132750132
+  },
+  "problems": [
+    {
+      "contestId": 1604,
+      "index": "B",
+      "name": "XOR Specia-LIS-t",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": []
+    },
+    {
+      "contestId": 1604,
+      "index": "A",
+      "name": "Era",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 798,
+    "name": "Codeforces Round 410 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1492785300,
+    "relativeTimeSeconds": 275569332
+  },
+  "problems": [
+    {
+      "contestId": 798,
+      "index": "E",
+      "name": "Mike and code of a permutation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 798,
+      "index": "D",
+      "name": "Mike and distribution",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 798,
+      "index": "C",
+      "name": "Mike and gcd problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 798,
+      "index": "B",
+      "name": "Mike and strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 798,
+      "index": "A",
+      "name": "Mike and palindrome",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

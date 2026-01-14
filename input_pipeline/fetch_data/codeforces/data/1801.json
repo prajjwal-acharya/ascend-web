@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1801,
+    "name": "Codeforces Round 857 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1678354500,
+    "relativeTimeSeconds": 90000132
+  },
+  "problems": [
+    {
+      "contestId": 1801,
+      "index": "G",
+      "name": "A task for substrings",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "F",
+      "name": "Another n-dimensional chocolate bar",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "math",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "E",
+      "name": "Gasoline prices",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "D",
+      "name": "The way home",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "C",
+      "name": "Music Festival",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "B",
+      "name": "Buying gifts",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1801,
+      "index": "A",
+      "name": "The Very Beautiful Blanket",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

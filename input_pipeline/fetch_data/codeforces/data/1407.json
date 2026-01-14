@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 1407,
+    "name": "Codeforces Round 669 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1599575700,
+    "relativeTimeSeconds": 168778932
+  },
+  "problems": [
+    {
+      "contestId": 1407,
+      "index": "E",
+      "name": "Egor in the Republic of Dagestan",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1407,
+      "index": "D",
+      "name": "Discrete Centrifugal Jumps",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1407,
+      "index": "C",
+      "name": "Chocolate Bunny",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1407,
+      "index": "B",
+      "name": "Big Vova",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1407,
+      "index": "A",
+      "name": "Ahahahahahahahaha",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

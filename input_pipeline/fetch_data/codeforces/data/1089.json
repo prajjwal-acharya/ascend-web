@@ -1,0 +1,146 @@
+{
+  "contest": {
+    "id": 1089,
+    "name": "2018-2019 ICPC, NEERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1543734300,
+    "relativeTimeSeconds": 224620332
+  },
+  "problems": [
+    {
+      "contestId": 1089,
+      "index": "M",
+      "name": "Minegraphed",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "L",
+      "name": "Lazyland",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": []
+    },
+    {
+      "contestId": 1089,
+      "index": "K",
+      "name": "King Kog's Reception",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "J",
+      "name": "JS Minification",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "I",
+      "name": "Interval-Free Permutations",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "H",
+      "name": "Harder Satisfiability",
+      "type": "PROGRAMMING",
+      "rating": 3400,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "G",
+      "name": "Guest Student",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "F",
+      "name": "Fractions",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "E",
+      "name": "Easy Chess",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "D",
+      "name": "Distance Sum",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "C",
+      "name": "Cactus Search",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "B",
+      "name": "Bimatching",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1089,
+      "index": "A",
+      "name": "Alice the Fan",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

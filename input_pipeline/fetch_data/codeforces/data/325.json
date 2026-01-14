@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 325,
+    "name": "MemSQL start[c]up Round 1",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1373734800,
+    "relativeTimeSeconds": 394619832
+  },
+  "problems": [
+    {
+      "contestId": 325,
+      "index": "E",
+      "name": "The Red Button",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 325,
+      "index": "D",
+      "name": "Reclamation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 325,
+      "index": "C",
+      "name": "Monsters and Diamonds",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 325,
+      "index": "B",
+      "name": "Stadium and Games",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 325,
+      "index": "A",
+      "name": "Square and Rectangles",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

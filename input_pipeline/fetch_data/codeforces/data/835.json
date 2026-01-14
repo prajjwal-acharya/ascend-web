@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 835,
+    "name": "Codeforces Round 427 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1501511700,
+    "relativeTimeSeconds": 266842932
+  },
+  "problems": [
+    {
+      "contestId": 835,
+      "index": "F",
+      "name": "Roads in the Kingdom",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 835,
+      "index": "E",
+      "name": "The penguin's game",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 835,
+      "index": "D",
+      "name": "Palindromic characteristics",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 835,
+      "index": "C",
+      "name": "Star sky",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 835,
+      "index": "B",
+      "name": "The number on the board",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 835,
+      "index": "A",
+      "name": "Key races",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

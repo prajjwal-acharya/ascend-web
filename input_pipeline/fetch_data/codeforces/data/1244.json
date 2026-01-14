@@ -1,0 +1,107 @@
+{
+  "contest": {
+    "id": 1244,
+    "name": "Codeforces Round 592 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1570957500,
+    "relativeTimeSeconds": 197397132
+  },
+  "problems": [
+    {
+      "contestId": 1244,
+      "index": "G",
+      "name": "Running in Pairs",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "F",
+      "name": "Chips",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "E",
+      "name": "Minimizing Difference",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "D",
+      "name": "Paint the Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "C",
+      "name": "The Football Season",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "B",
+      "name": "Rooms and Staircases",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1244,
+      "index": "A",
+      "name": "Pens and Pencils",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

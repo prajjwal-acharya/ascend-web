@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1698,
+    "name": "Codeforces Round 803 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1656426900,
+    "relativeTimeSeconds": 111927732
+  },
+  "problems": [
+    {
+      "contestId": 1698,
+      "index": "G",
+      "name": "Long Binary String",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "math",
+        "matrices",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "F",
+      "name": "Equal Reversal",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "E",
+      "name": "PermutationForces II",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "D",
+      "name": "Fixed Point Guessing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "C",
+      "name": "3SUM Closure",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "B",
+      "name": "Rising Sand",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1698,
+      "index": "A",
+      "name": "XOR Mixup",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    }
+  ]
+}

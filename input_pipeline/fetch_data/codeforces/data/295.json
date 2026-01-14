@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 295,
+    "name": "Codeforces Round 179 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1365694200,
+    "relativeTimeSeconds": 402660433
+  },
+  "problems": [
+    {
+      "contestId": 295,
+      "index": "E",
+      "name": "Yaroslav and Points",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 295,
+      "index": "D",
+      "name": "Greg and Caves",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 295,
+      "index": "C",
+      "name": "Greg and Friends",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 295,
+      "index": "B",
+      "name": "Greg and Graph",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 295,
+      "index": "A",
+      "name": "Greg and Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    }
+  ]
+}

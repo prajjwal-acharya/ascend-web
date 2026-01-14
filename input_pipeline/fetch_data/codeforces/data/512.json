@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 512,
+    "name": "Codeforces Round 290 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1422894600,
+    "relativeTimeSeconds": 345460032
+  },
+  "problems": [
+    {
+      "contestId": 512,
+      "index": "E",
+      "name": "Fox And Polygon",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 512,
+      "index": "D",
+      "name": "Fox And Travelling",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    }
+  ]
+}

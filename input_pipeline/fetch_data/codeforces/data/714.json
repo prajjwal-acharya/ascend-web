@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 714,
+    "name": "Codeforces Round 371 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1473784500,
+    "relativeTimeSeconds": 294570132
+  },
+  "problems": [
+    {
+      "contestId": 714,
+      "index": "B",
+      "name": "Filya and Homework",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 714,
+      "index": "A",
+      "name": "Meeting of Old Friends",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

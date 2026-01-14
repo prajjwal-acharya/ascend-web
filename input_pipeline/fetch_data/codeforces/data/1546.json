@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1546,
+    "name": "Codeforces Round 732 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1626012300,
+    "relativeTimeSeconds": 142342332
+  },
+  "problems": [
+    {
+      "contestId": 1546,
+      "index": "B",
+      "name": "AquaMoon and Stolen String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1546,
+      "index": "A",
+      "name": "AquaMoon and Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

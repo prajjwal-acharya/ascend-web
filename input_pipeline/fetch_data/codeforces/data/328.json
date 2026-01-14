@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 328,
+    "name": "Testing Round 8",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 3600,
+    "startTimeSeconds": 1373662800,
+    "relativeTimeSeconds": 394691832
+  },
+  "problems": [
+    {
+      "contestId": 328,
+      "index": "B",
+      "name": "Sheldon and Ice Pieces",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 328,
+      "index": "A",
+      "name": "IQ Test",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

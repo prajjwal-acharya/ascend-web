@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": 893,
+    "name": "Educational Codeforces Round 33 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1511449500,
+    "relativeTimeSeconds": 256905132
+  },
+  "problems": [
+    {
+      "contestId": 893,
+      "index": "F",
+      "name": "Subtree Minimum Query",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 893,
+      "index": "E",
+      "name": "Counting Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 893,
+      "index": "D",
+      "name": "Credit Card",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 893,
+      "index": "C",
+      "name": "Rumor",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 893,
+      "index": "B",
+      "name": "Beautiful Divisors",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 893,
+      "index": "A",
+      "name": "Chess For Three",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

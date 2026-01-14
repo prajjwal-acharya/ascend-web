@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1027,
+    "name": "Educational Codeforces Round 49 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1534602900,
+    "relativeTimeSeconds": 233751732
+  },
+  "problems": [
+    {
+      "contestId": 1027,
+      "index": "G",
+      "name": "X-mouse in the Campus",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "F",
+      "name": "Session in BSU",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dsu",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "E",
+      "name": "Inverse Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "D",
+      "name": "Mouse Hunt",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "C",
+      "name": "Minimum Value Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "B",
+      "name": "Numbers on the Chessboard",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1027,
+      "index": "A",
+      "name": "Palindromic Twist",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

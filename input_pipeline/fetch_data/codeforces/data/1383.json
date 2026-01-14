@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1383,
+    "name": "Codeforces Round 659 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1595601300,
+    "relativeTimeSeconds": 172753332
+  },
+  "problems": [
+    {
+      "contestId": 1383,
+      "index": "F",
+      "name": "Special Edges",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1383,
+      "index": "E",
+      "name": "Strange Operation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1383,
+      "index": "D",
+      "name": "Rearrange",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1383,
+      "index": "C",
+      "name": "String Transformation 2",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1383,
+      "index": "B",
+      "name": "GameGame",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1383,
+      "index": "A",
+      "name": "String Transformation 1",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings",
+        "strings",
+        "trees",
+        "two pointers"
+      ]
+    }
+  ]
+}

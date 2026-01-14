@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 903,
+    "name": "Educational Codeforces Round 34 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1513091100,
+    "relativeTimeSeconds": 255263532
+  },
+  "problems": [
+    {
+      "contestId": 903,
+      "index": "G",
+      "name": "Yet Another Maxflow Problem",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "F",
+      "name": "Clear The Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "E",
+      "name": "Swapping Characters",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "D",
+      "name": "Almost Difference",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "C",
+      "name": "Boxes Packing",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "B",
+      "name": "The Modcrab",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 903,
+      "index": "A",
+      "name": "Hungry Student Problem",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

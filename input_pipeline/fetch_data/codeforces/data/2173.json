@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2173,
+    "name": "Codeforces Round 1068 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1764945300,
+    "relativeTimeSeconds": 3409331
+  },
+  "problems": [
+    {
+      "contestId": 2173,
+      "index": "F",
+      "name": "Isla's Memory Thresholds",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2173,
+      "index": "E",
+      "name": "Shiro's Mirror Duel",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2173,
+      "index": "D",
+      "name": "Taiga's Carry Chains",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2173,
+      "index": "C",
+      "name": "Kanade's Perfect Multiples",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2173,
+      "index": "B",
+      "name": "Niko's Tactical Cards",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2173,
+      "index": "A",
+      "name": "Sleeping Through Classes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

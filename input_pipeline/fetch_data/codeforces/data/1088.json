@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1088,
+    "name": "Codeforces Round 525 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1543934100,
+    "relativeTimeSeconds": 224420532
+  },
+  "problems": [
+    {
+      "contestId": 1088,
+      "index": "F",
+      "name": "Ehab and a weird weight formula",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1088,
+      "index": "E",
+      "name": "Ehab and a component choosing problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1088,
+      "index": "D",
+      "name": "Ehab and another another xor problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1088,
+      "index": "C",
+      "name": "Ehab and a 2-operation task",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1088,
+      "index": "B",
+      "name": "Ehab and subtraction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1088,
+      "index": "A",
+      "name": "Ehab and another construction problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

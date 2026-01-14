@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 149,
+    "name": "Codeforces Round 106 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1328886000,
+    "relativeTimeSeconds": 439468633
+  },
+  "problems": [
+    {
+      "contestId": 149,
+      "index": "E",
+      "name": "Martian Strings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 149,
+      "index": "D",
+      "name": "Coloring Brackets",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 149,
+      "index": "C",
+      "name": "Division into Teams",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 149,
+      "index": "B",
+      "name": "Martian Clock",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 149,
+      "index": "A",
+      "name": "Business trip",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

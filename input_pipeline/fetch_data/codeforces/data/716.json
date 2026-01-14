@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 716,
+    "name": "Codeforces Round 372 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1474119900,
+    "relativeTimeSeconds": 294234732
+  },
+  "problems": [
+    {
+      "contestId": 716,
+      "index": "B",
+      "name": "Complete the Word",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 716,
+      "index": "A",
+      "name": "Crazy Computer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

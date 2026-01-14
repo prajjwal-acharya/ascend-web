@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1238,
+    "name": "Educational Codeforces Round 74 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8400,
+    "startTimeSeconds": 1570545300,
+    "relativeTimeSeconds": 197809332
+  },
+  "problems": [
+    {
+      "contestId": 1238,
+      "index": "G",
+      "name": "Adilbek and the Watering System",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "F",
+      "name": "The Maximum Subtree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "E",
+      "name": "Keyboard Purchase",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "D",
+      "name": "AB-string",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "C",
+      "name": "Standard Free2play",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "B",
+      "name": "Kill `Em All",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1238,
+      "index": "A",
+      "name": "Prime Subtraction",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

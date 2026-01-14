@@ -1,0 +1,143 @@
+{
+  "contest": {
+    "id": 1450,
+    "name": "Codeforces Global Round 12",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1607265300,
+    "relativeTimeSeconds": 161089332
+  },
+  "problems": [
+    {
+      "contestId": 1450,
+      "index": "H2",
+      "name": "Multithreading (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "H1",
+      "name": "Multithreading (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "G",
+      "name": "Communism",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "F",
+      "name": "The Struggling Contestant",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "E",
+      "name": "Capitalism",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "D",
+      "name": "Rating Compression",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "C2",
+      "name": "Errich-Tac-Toe (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "C1",
+      "name": "Errich-Tac-Toe (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "B",
+      "name": "Balls of Steel",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1450,
+      "index": "A",
+      "name": "Avoid Trygub",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    }
+  ]
+}

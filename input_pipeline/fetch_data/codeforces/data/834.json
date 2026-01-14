@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 834,
+    "name": "Codeforces Round 426 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1501425300,
+    "relativeTimeSeconds": 266929332
+  },
+  "problems": [
+    {
+      "contestId": 834,
+      "index": "B",
+      "name": "The Festive Evening",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 834,
+      "index": "A",
+      "name": "The Useless Toy",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

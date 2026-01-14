@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 737,
+    "name": "Codeforces Round 380 (Div. 1, Rated, Based on Technocup 2017 - Elimination Round 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1479632700,
+    "relativeTimeSeconds": 288721932
+  },
+  "problems": [
+    {
+      "contestId": 737,
+      "index": "F",
+      "name": "Dirty plates",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 737,
+      "index": "E",
+      "name": "Tanya is 5!",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3300,
+      "tags": [
+        "graph matchings",
+        "graphs",
+        "greedy",
+        "schedules"
+      ]
+    }
+  ]
+}

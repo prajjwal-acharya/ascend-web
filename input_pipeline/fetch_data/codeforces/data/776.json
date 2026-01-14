@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 776,
+    "name": "ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1487861100,
+    "relativeTimeSeconds": 280493532
+  },
+  "problems": [
+    {
+      "contestId": 776,
+      "index": "G",
+      "name": "Sherlock and the Encrypted Data",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "F",
+      "name": "Sherlock's bet to Moriarty",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "geometry",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "E",
+      "name": "The Holmes Children",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "D",
+      "name": "The Door Problem",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "2-sat",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "C",
+      "name": "Molly's Chemicals",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "B",
+      "name": "Sherlock and his girlfriend",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 776,
+      "index": "A",
+      "name": "A Serial Killer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

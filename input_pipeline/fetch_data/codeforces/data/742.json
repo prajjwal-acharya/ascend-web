@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 742,
+    "name": "Codeforces Round 383 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1481034900,
+    "relativeTimeSeconds": 287319732
+  },
+  "problems": [
+    {
+      "contestId": 742,
+      "index": "B",
+      "name": "Arpa\u2019s obvious problem and Mehrdad\u2019s terrible solution",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 742,
+      "index": "A",
+      "name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

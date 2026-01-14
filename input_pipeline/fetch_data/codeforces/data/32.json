@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 32,
+    "name": "Codeforces Beta Round 32 (Div. 2, Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1286002800,
+    "relativeTimeSeconds": 482351833
+  },
+  "problems": [
+    {
+      "contestId": 32,
+      "index": "E",
+      "name": "Hide-and-Seek",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 32,
+      "index": "D",
+      "name": "Constellation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 32,
+      "index": "C",
+      "name": "Flea",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 32,
+      "index": "B",
+      "name": "Borze",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 32,
+      "index": "A",
+      "name": "Reconnaissance",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 965,
+    "name": "Codeforces Round 476 (Div. 2) [Thanks, Telegram!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1524677700,
+    "relativeTimeSeconds": 243676932
+  },
+  "problems": [
+    {
+      "contestId": 965,
+      "index": "E",
+      "name": "Short Code",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 965,
+      "index": "D",
+      "name": "Single-use Stones",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "flows",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 965,
+      "index": "C",
+      "name": "Greedy Arkady",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 965,
+      "index": "B",
+      "name": "Battleship",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 965,
+      "index": "A",
+      "name": "Paper Airplanes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

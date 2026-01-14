@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1000,
+    "name": "Educational Codeforces Round 46 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1530110100,
+    "relativeTimeSeconds": 238244532
+  },
+  "problems": [
+    {
+      "contestId": 1000,
+      "index": "G",
+      "name": "Two-Paths",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "F",
+      "name": "One Occurrence",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "E",
+      "name": "We Need More Bosses",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "D",
+      "name": "Yet Another Problem On a Subsequence",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "C",
+      "name": "Covered Points Count",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "B",
+      "name": "Light It Up",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1000,
+      "index": "A",
+      "name": "Codehorses T-shirts",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

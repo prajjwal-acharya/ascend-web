@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 785,
+    "name": "Codeforces Round 404 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1489590300,
+    "relativeTimeSeconds": 278764332
+  },
+  "problems": [
+    {
+      "contestId": 785,
+      "index": "E",
+      "name": "Anton and Permutation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 785,
+      "index": "D",
+      "name": "Anton and School - 2",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 785,
+      "index": "C",
+      "name": "Anton and Fairy Tale",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 785,
+      "index": "B",
+      "name": "Anton and Classes",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 785,
+      "index": "A",
+      "name": "Anton and Polyhedrons",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 667,
+    "name": "Codeforces Round 349 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1461947700,
+    "relativeTimeSeconds": 306406932
+  },
+  "problems": [
+    {
+      "contestId": 667,
+      "index": "B",
+      "name": "Coat of Anticubism",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 667,
+      "index": "A",
+      "name": "Pouring Rain",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    }
+  ]
+}

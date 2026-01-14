@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1614,
+    "name": "Codeforces Round 757 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1637925300,
+    "relativeTimeSeconds": 130429332
+  },
+  "problems": [
+    {
+      "contestId": 1614,
+      "index": "E",
+      "name": "Divan and a Cottage",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1614,
+      "index": "D2",
+      "name": "Divan and Kostomuksha (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1614,
+      "index": "D1",
+      "name": "Divan and Kostomuksha (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1614,
+      "index": "C",
+      "name": "Divan and bitwise operations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1614,
+      "index": "B",
+      "name": "Divan and a New Project ",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1614,
+      "index": "A",
+      "name": "Divan and a Store",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

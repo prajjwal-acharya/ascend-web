@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 388,
+    "name": "Codeforces Round 228 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1391442000,
+    "relativeTimeSeconds": 376912632
+  },
+  "problems": [
+    {
+      "contestId": 388,
+      "index": "E",
+      "name": "Fox and Meteor Shower",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 388,
+      "index": "D",
+      "name": "Fox and Perfect Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 388,
+      "index": "C",
+      "name": "Fox and Card Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 388,
+      "index": "B",
+      "name": "Fox and Minimal path",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 388,
+      "index": "A",
+      "name": "Fox and Box Accumulation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

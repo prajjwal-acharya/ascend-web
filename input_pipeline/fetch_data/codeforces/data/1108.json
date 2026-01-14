@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1108,
+    "name": "Codeforces Round 535 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1548254100,
+    "relativeTimeSeconds": 220100532
+  },
+  "problems": [
+    {
+      "contestId": 1108,
+      "index": "F",
+      "name": "MST Unification",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "E2",
+      "name": "Array and Segments (Hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "E1",
+      "name": "Array and Segments (Easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "D",
+      "name": "Diverse Garland",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "C",
+      "name": "Nice Garland",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "B",
+      "name": "Divisors of Two Integers",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1108,
+      "index": "A",
+      "name": "Two distinct points",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 954,
+    "name": "Educational Codeforces Round 40 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1521698700,
+    "relativeTimeSeconds": 246655932
+  },
+  "problems": [
+    {
+      "contestId": 954,
+      "index": "I",
+      "name": "Yet Another String Matching Problem",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "H",
+      "name": "Path Counting",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "G",
+      "name": "Castle Defense",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "F",
+      "name": "Runner's Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "matrices",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "E",
+      "name": "Water Taps",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "D",
+      "name": "Fight Against Traffic",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "C",
+      "name": "Matrix Walk",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "B",
+      "name": "String Typing",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 954,
+      "index": "A",
+      "name": "Diagonal Walking",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

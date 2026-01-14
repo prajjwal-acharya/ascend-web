@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 1678,
+    "name": "Codeforces Round 789 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1652020500,
+    "relativeTimeSeconds": 116334132
+  },
+  "problems": [
+    {
+      "contestId": 1678,
+      "index": "B2",
+      "name": "Tokitsukaze and Good 01-String (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1678,
+      "index": "B1",
+      "name": "Tokitsukaze and Good 01-String (easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1678,
+      "index": "A",
+      "name": "Tokitsukaze and All Zero Sequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "contest": {
+    "id": 523,
+    "name": "VK Cup 2015 - Qualification Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1426345200,
+    "relativeTimeSeconds": 342009432
+  },
+  "problems": [
+    {
+      "contestId": 523,
+      "index": "D",
+      "name": "Statistics of Recompressing Videos",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 523,
+      "index": "C",
+      "name": "Name Quest",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 523,
+      "index": "B",
+      "name": "Mean Requests",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 523,
+      "index": "A",
+      "name": "Rotate, Flip and Zoom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

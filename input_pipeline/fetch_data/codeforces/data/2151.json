@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 2151,
+    "name": "Codeforces Round 1053 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 11700,
+    "startTimeSeconds": 1758713700,
+    "relativeTimeSeconds": 9640932
+  },
+  "problems": [
+    {
+      "contestId": 2151,
+      "index": "C",
+      "name": "Incremental Stay",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2151,
+      "index": "A",
+      "name": "Incremental Subarray",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

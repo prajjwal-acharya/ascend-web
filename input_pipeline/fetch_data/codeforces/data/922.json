@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 922,
+    "name": "Codeforces Round 461 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1518023700,
+    "relativeTimeSeconds": 250330932
+  },
+  "problems": [
+    {
+      "contestId": 922,
+      "index": "F",
+      "name": "Divisibility",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 922,
+      "index": "E",
+      "name": "Birds",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 922,
+      "index": "D",
+      "name": "Robot Vacuum Cleaner",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 922,
+      "index": "C",
+      "name": "Cave Painting",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 922,
+      "index": "B",
+      "name": "Magic Forest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 922,
+      "index": "A",
+      "name": "Cloning Toys",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

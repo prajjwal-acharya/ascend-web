@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": 386,
+    "name": "Testing Round 9",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 5400,
+    "startTimeSeconds": 1389906900,
+    "relativeTimeSeconds": 378447732
+  },
+  "problems": [
+    {
+      "contestId": 386,
+      "index": "D",
+      "name": "Game with Points",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 386,
+      "index": "C",
+      "name": "Diverse Substrings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 386,
+      "index": "B",
+      "name": "Fly, freebies, fly!",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 386,
+      "index": "A",
+      "name": "Second-Price Auction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

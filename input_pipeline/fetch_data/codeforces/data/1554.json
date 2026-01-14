@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1554,
+    "name": "Codeforces Round 735 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1627569300,
+    "relativeTimeSeconds": 140785332
+  },
+  "problems": [
+    {
+      "contestId": 1554,
+      "index": "E",
+      "name": "You",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1554,
+      "index": "D",
+      "name": "Diane",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1554,
+      "index": "C",
+      "name": "Mikasa",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1554,
+      "index": "B",
+      "name": "Cobb",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1554,
+      "index": "A",
+      "name": "Cherry",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

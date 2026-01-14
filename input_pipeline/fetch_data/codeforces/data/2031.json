@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 2031,
+    "name": "Codeforces Round 987 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1731674100,
+    "relativeTimeSeconds": 36680532
+  },
+  "problems": [
+    {
+      "contestId": 2031,
+      "index": "F",
+      "name": "Penchick and Even Medians",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2031,
+      "index": "E",
+      "name": "Penchick and Chloe's Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2031,
+      "index": "D",
+      "name": "Penchick and Desert Rabbit",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2031,
+      "index": "C",
+      "name": "Penchick and BBQ Buns",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2031,
+      "index": "B",
+      "name": "Penchick and Satay Sticks",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2031,
+      "index": "A",
+      "name": "Penchick and Modern Monument",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": 1143,
+    "name": "Codeforces Round 549 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1553965800,
+    "relativeTimeSeconds": 214388832
+  },
+  "problems": [
+    {
+      "contestId": 1143,
+      "index": "C",
+      "name": "Queen",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1143,
+      "index": "B",
+      "name": "Nirvana",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1143,
+      "index": "A",
+      "name": "The Doors",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

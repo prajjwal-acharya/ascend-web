@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 330,
+    "name": "Codeforces Round 192 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1374327000,
+    "relativeTimeSeconds": 394027632
+  },
+  "problems": [
+    {
+      "contestId": 330,
+      "index": "B",
+      "name": "Road Construction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 330,
+      "index": "A",
+      "name": "Cakeminator",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1735,
+    "name": "Codeforces Round 824 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1664721300,
+    "relativeTimeSeconds": 103633332
+  },
+  "problems": [
+    {
+      "contestId": 1735,
+      "index": "F",
+      "name": "Pebbles and Beads",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1735,
+      "index": "E",
+      "name": "House Planning",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1735,
+      "index": "D",
+      "name": "Meta-set",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1735,
+      "index": "C",
+      "name": "Phase Shift",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1735,
+      "index": "B",
+      "name": "Tea with Tangerines",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1735,
+      "index": "A",
+      "name": "Working Week",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "contest": {
+    "id": 1402,
+    "name": "Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1598443500,
+    "relativeTimeSeconds": 169911132
+  },
+  "problems": [
+    {
+      "contestId": 1402,
+      "index": "C",
+      "name": "Star Trek",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "*special",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "games",
+        "graphs",
+        "matrices",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1402,
+      "index": "B",
+      "name": "Roads",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1402,
+      "index": "A",
+      "name": "Fancy Fence",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special",
+        "data structures",
+        "dsu",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

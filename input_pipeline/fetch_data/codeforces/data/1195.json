@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1195,
+    "name": "Codeforces Round 574 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1563374100,
+    "relativeTimeSeconds": 204980532
+  },
+  "problems": [
+    {
+      "contestId": 1195,
+      "index": "F",
+      "name": "Geometers Anonymous Club",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "geometry",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "E",
+      "name": "OpenStreetMap",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "D2",
+      "name": "Submarine in the Rybinsk Sea (hard edition)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "D1",
+      "name": "Submarine in the Rybinsk Sea (easy edition)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "C",
+      "name": "Basketball Exercise",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "B",
+      "name": "Sport Mafia",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1195,
+      "index": "A",
+      "name": "Drinks Choosing",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

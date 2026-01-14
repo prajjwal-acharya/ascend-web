@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1860,
+    "name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1692282900,
+    "relativeTimeSeconds": 76071732
+  },
+  "problems": [
+    {
+      "contestId": 1860,
+      "index": "F",
+      "name": "Evaluate RBS",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "geometry",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1860,
+      "index": "E",
+      "name": "Fast Travel Text Editor",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1860,
+      "index": "D",
+      "name": "Balanced String",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1860,
+      "index": "C",
+      "name": "Game on Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "dp",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1860,
+      "index": "B",
+      "name": "Fancy Coins",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1860,
+      "index": "A",
+      "name": "Not a Substring",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

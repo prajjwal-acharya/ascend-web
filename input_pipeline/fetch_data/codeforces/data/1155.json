@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1155,
+    "name": "Educational Codeforces Round 63 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1555943700,
+    "relativeTimeSeconds": 212410932
+  },
+  "problems": [
+    {
+      "contestId": 1155,
+      "index": "F",
+      "name": "Delivery Oligopoly",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1155,
+      "index": "E",
+      "name": "Guess the Root",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1155,
+      "index": "D",
+      "name": "Beautiful Array",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1155,
+      "index": "C",
+      "name": "Alarm Clocks Everywhere",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1155,
+      "index": "B",
+      "name": "Game with Telephone Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1155,
+      "index": "A",
+      "name": "Reverse a Substring",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

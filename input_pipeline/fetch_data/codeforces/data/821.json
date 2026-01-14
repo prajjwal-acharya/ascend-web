@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 821,
+    "name": "Codeforces Round 420 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1498401300,
+    "relativeTimeSeconds": 269953332
+  },
+  "problems": [
+    {
+      "contestId": 821,
+      "index": "E",
+      "name": "Okabe and El Psy Kongroo",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 821,
+      "index": "D",
+      "name": "Okabe and City",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 821,
+      "index": "C",
+      "name": "Okabe and Boxes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 821,
+      "index": "B",
+      "name": "Okabe and Banana Trees",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 821,
+      "index": "A",
+      "name": "Okabe and Future Gadget Laboratory",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

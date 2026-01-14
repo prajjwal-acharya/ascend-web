@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 279,
+    "name": "Codeforces Round 171 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1362411000,
+    "relativeTimeSeconds": 405943633
+  },
+  "problems": [
+    {
+      "contestId": 279,
+      "index": "E",
+      "name": "Beautiful Decomposition",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 279,
+      "index": "D",
+      "name": "The Minimum Number of Variables",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 279,
+      "index": "C",
+      "name": "Ladder",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 279,
+      "index": "B",
+      "name": "Books",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 279,
+      "index": "A",
+      "name": "Point on Spiral",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

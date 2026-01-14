@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 901,
+    "name": "Codeforces Round 453 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1513697700,
+    "relativeTimeSeconds": 254656932
+  },
+  "problems": [
+    {
+      "contestId": 901,
+      "index": "E",
+      "name": "Cyclic Cipher",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 901,
+      "index": "D",
+      "name": "Weighting a Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 901,
+      "index": "C",
+      "name": "Bipartite Segments",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 901,
+      "index": "B",
+      "name": "GCD of Polynomials",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 901,
+      "index": "A",
+      "name": "Hashing Trees",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    }
+  ]
+}

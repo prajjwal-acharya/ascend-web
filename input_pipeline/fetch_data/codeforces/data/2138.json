@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 2138,
+    "name": "Codeforces Round 1048 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1757342100,
+    "relativeTimeSeconds": 11012532
+  },
+  "problems": [
+    {
+      "contestId": 2138,
+      "index": "F",
+      "name": "Ode to the Bridge Builder",
+      "type": "PROGRAMMING",
+      "points": 4250.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "E2",
+      "name": "Determinant Construction (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "E1",
+      "name": "Determinant Construction (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "D",
+      "name": "Antiamuny and Slider Movement",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "C2",
+      "name": "Maple and Tree Beauty (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "fft",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "C1",
+      "name": "Maple and Tree Beauty (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "B",
+      "name": "Antiamuny Wants to Learn Swap",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2138,
+      "index": "A",
+      "name": "Cake Assignment",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

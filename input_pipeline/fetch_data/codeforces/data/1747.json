@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 1747,
+    "name": "Codeforces Round 832 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1667572500,
+    "relativeTimeSeconds": 100782132
+  },
+  "problems": [
+    {
+      "contestId": 1747,
+      "index": "E",
+      "name": "List Generation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1747,
+      "index": "D",
+      "name": "Yet Another Problem",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1747,
+      "index": "C",
+      "name": "Swap Game",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1747,
+      "index": "B",
+      "name": "BAN BAN",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1747,
+      "index": "A",
+      "name": "Two Groups",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

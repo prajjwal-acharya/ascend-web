@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 2125,
+    "name": "Educational Codeforces Round 181 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1753194900,
+    "relativeTimeSeconds": 15159732
+  },
+  "problems": [
+    {
+      "contestId": 2125,
+      "index": "F",
+      "name": "Timofey and Docker",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2125,
+      "index": "E",
+      "name": "Sets of Complementary Sums",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2125,
+      "index": "D",
+      "name": "Segments Covering",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2125,
+      "index": "C",
+      "name": "Count Good Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2125,
+      "index": "B",
+      "name": "Left and Down",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2125,
+      "index": "A",
+      "name": "Difficult Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

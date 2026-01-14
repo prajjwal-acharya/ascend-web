@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 625,
+    "name": "Codeforces Round 342 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1454835900,
+    "relativeTimeSeconds": 313518732
+  },
+  "problems": [
+    {
+      "contestId": 625,
+      "index": "E",
+      "name": "Frog Fights",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 625,
+      "index": "D",
+      "name": "Finals in arithmetic",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 625,
+      "index": "C",
+      "name": "K-special Tables",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 625,
+      "index": "B",
+      "name": "War of the Corporations",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 625,
+      "index": "A",
+      "name": "Guest From the Past",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

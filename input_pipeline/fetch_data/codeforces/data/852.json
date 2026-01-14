@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 852,
+    "name": "Bubble Cup X - Finals [Online Mirror]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1504432800,
+    "relativeTimeSeconds": 263921832
+  },
+  "problems": [
+    {
+      "contestId": 852,
+      "index": "I",
+      "name": "Dating",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "H",
+      "name": "Bob and stages",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "G",
+      "name": "Bathroom terminal",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "F",
+      "name": "Product transformation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "E",
+      "name": "Casinos and travel",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "D",
+      "name": "Exploration plan",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "flows",
+        "graph matchings",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "C",
+      "name": "Property",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "B",
+      "name": "Neural Network country",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 852,
+      "index": "A",
+      "name": "Digits",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

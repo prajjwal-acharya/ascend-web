@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1633,
+    "name": "Educational Codeforces Round 122 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1643639700,
+    "relativeTimeSeconds": 124714932
+  },
+  "problems": [
+    {
+      "contestId": 1633,
+      "index": "F",
+      "name": "Perfect Matching",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1633,
+      "index": "E",
+      "name": "Spanning Tree Queries",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1633,
+      "index": "D",
+      "name": "Make Them Equal",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1633,
+      "index": "C",
+      "name": "Kill the Monster",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1633,
+      "index": "B",
+      "name": "Minority",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1633,
+      "index": "A",
+      "name": "Div. 7",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

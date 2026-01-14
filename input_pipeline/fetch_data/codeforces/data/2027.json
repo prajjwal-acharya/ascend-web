@@ -1,0 +1,114 @@
+{
+  "contest": {
+    "id": 2027,
+    "name": "Codeforces Round 982 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729953300,
+    "relativeTimeSeconds": 38401332
+  },
+  "problems": [
+    {
+      "contestId": 2027,
+      "index": "E2",
+      "name": "Bit Game (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "E1",
+      "name": "Bit Game (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "D2",
+      "name": "The Endspeaker (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "D1",
+      "name": "The Endspeaker (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dp",
+        "graphs",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "C",
+      "name": "Add Zeros",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "B",
+      "name": "Stalin Sort",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2027,
+      "index": "A",
+      "name": "Rectangle Arrangement",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

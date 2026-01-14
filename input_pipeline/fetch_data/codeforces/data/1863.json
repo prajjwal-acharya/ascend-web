@@ -1,0 +1,133 @@
+{
+  "contest": {
+    "id": 1863,
+    "name": "Pinely Round 2 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1693406100,
+    "relativeTimeSeconds": 74948532
+  },
+  "problems": [
+    {
+      "contestId": 1863,
+      "index": "I",
+      "name": "Redundant Routes",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "H",
+      "name": "Goldberg Machine 3",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "G",
+      "name": "Swaps",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "F",
+      "name": "Divide, XOR, and Conquer",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "E",
+      "name": "Speedrun",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "D",
+      "name": "Two-Colored Dominoes",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "C",
+      "name": "MEX Repetition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "B",
+      "name": "Split Sort",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1863,
+      "index": "A",
+      "name": "Channel",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

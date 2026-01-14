@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1923,
+    "name": "Educational Codeforces Round 162 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1708698900,
+    "relativeTimeSeconds": 59655732
+  },
+  "problems": [
+    {
+      "contestId": 1923,
+      "index": "F",
+      "name": "Shrink-Reverse",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1923,
+      "index": "E",
+      "name": "Count Paths",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1923,
+      "index": "D",
+      "name": "Slimes",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1923,
+      "index": "C",
+      "name": "Find B",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1923,
+      "index": "B",
+      "name": "Monsters Attack!",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1923,
+      "index": "A",
+      "name": "Moving Chips",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

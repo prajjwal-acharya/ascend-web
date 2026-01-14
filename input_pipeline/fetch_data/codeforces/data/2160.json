@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 2160,
+    "name": "Codeforces Round 1058 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1760279700,
+    "relativeTimeSeconds": 8074932
+  },
+  "problems": [
+    {
+      "contestId": 2160,
+      "index": "C",
+      "name": "Reverse XOR",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks"
+      ]
+    },
+    {
+      "contestId": 2160,
+      "index": "B",
+      "name": "Distinct Elements",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2160,
+      "index": "A",
+      "name": "MEX Partition",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

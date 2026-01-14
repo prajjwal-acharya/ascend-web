@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1659,
+    "name": "Codeforces Round 782 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1650206100,
+    "relativeTimeSeconds": 118148532
+  },
+  "problems": [
+    {
+      "contestId": 1659,
+      "index": "F",
+      "name": "Tree and Permutation Game",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "dfs and similar",
+        "games",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1659,
+      "index": "E",
+      "name": "AND-MEX Walk",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1659,
+      "index": "D",
+      "name": "Reverse Sort Sum",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1659,
+      "index": "C",
+      "name": "Line Empire",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1659,
+      "index": "B",
+      "name": "Bit Flipping",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1659,
+      "index": "A",
+      "name": "Red Versus Blue",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

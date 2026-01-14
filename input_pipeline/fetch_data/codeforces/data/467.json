@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 467,
+    "name": "Codeforces Round 267 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1411054200,
+    "relativeTimeSeconds": 357300432
+  },
+  "problems": [
+    {
+      "contestId": 467,
+      "index": "E",
+      "name": "Alex and Complicated Task",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 467,
+      "index": "D",
+      "name": "Fedor and Essay",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 467,
+      "index": "C",
+      "name": "George and Job",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 467,
+      "index": "B",
+      "name": "Fedor and New Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 467,
+      "index": "A",
+      "name": "George and Accommodation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

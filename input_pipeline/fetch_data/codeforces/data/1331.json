@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1331,
+    "name": "April Fools Day Contest 2020",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1585751700,
+    "relativeTimeSeconds": 182602932
+  },
+  "problems": [
+    {
+      "contestId": 1331,
+      "index": "H",
+      "name": "It's showtime",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "G",
+      "name": "Lingua Romana",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "F",
+      "name": "Elementary!",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "brute force",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "E",
+      "name": "Jordan Smiley",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "D",
+      "name": "Again?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "C",
+      "name": "...And after happily lived ever they",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "bitmasks"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "B",
+      "name": "Limericks",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1331,
+      "index": "A",
+      "name": "Is it rated?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

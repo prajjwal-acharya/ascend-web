@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 212,
+    "name": "VK Cup 2012 Finals (unofficial online-version)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1342450800,
+    "relativeTimeSeconds": 425903833
+  },
+  "problems": [
+    {
+      "contestId": 212,
+      "index": "E",
+      "name": "IT Restaurants",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 212,
+      "index": "D",
+      "name": "Cutting a Fence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 212,
+      "index": "C",
+      "name": "Cowboys",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 212,
+      "index": "B",
+      "name": "Polycarpus is Looking for Good Substrings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 212,
+      "index": "A",
+      "name": "Privatization",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1307,
+    "name": "Codeforces Round 621 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1581953700,
+    "relativeTimeSeconds": 186400932
+  },
+  "problems": [
+    {
+      "contestId": 1307,
+      "index": "G",
+      "name": "Cow and Exercise",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "flows",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "F",
+      "name": "Cow and Vacation",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "E",
+      "name": "Cow and Treats",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "D",
+      "name": "Cow and Fields",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "C",
+      "name": "Cow and Message",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "B",
+      "name": "Cow and Friend",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1307,
+      "index": "A",
+      "name": "Cow and Haybales",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

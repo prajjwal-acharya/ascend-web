@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 908,
+    "name": "Good Bye 2017",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1514562000,
+    "relativeTimeSeconds": 253792632
+  },
+  "problems": [
+    {
+      "contestId": 908,
+      "index": "H",
+      "name": "New Year and Boolean Bridges",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": []
+    },
+    {
+      "contestId": 908,
+      "index": "G",
+      "name": "New Year and Original Order",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "F",
+      "name": "New Year and Rainbow Roads",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "E",
+      "name": "New Year and Entity Enumeration",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "D",
+      "name": "New Year and Arbitrary Arrangement",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "C",
+      "name": "New Year and Curling",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "B",
+      "name": "New Year and Buggy Bot",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 908,
+      "index": "A",
+      "name": "New Year and Counting Cards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

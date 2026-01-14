@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 745,
+    "name": "Codeforces Round 385 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1481992500,
+    "relativeTimeSeconds": 286362132
+  },
+  "problems": [
+    {
+      "contestId": 745,
+      "index": "B",
+      "name": "Hongcow Solves A Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 745,
+      "index": "A",
+      "name": "Hongcow Learns the Cyclic Shift",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

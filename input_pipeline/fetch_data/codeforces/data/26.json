@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 26,
+    "name": "Codeforces Beta Round 26 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1281970800,
+    "relativeTimeSeconds": 486383833
+  },
+  "problems": [
+    {
+      "contestId": 26,
+      "index": "E",
+      "name": "Multithreading",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 26,
+      "index": "D",
+      "name": "Tickets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 26,
+      "index": "C",
+      "name": "Parquet",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 26,
+      "index": "B",
+      "name": "Regular Bracket Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 26,
+      "index": "A",
+      "name": "Almost Prime",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "number theory"
+      ]
+    }
+  ]
+}

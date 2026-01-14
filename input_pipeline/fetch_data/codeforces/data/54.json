@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 54,
+    "name": "Codeforces Beta Round 50",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1294733700,
+    "relativeTimeSeconds": 473620933
+  },
+  "problems": [
+    {
+      "contestId": 54,
+      "index": "E",
+      "name": "Vacuum \u0421leaner",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 54,
+      "index": "D",
+      "name": "Writing a Song",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 54,
+      "index": "C",
+      "name": "First Digit Law",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 54,
+      "index": "B",
+      "name": "Cutting Jigsaw Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 54,
+      "index": "A",
+      "name": "Presents",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

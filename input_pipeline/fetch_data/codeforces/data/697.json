@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 697,
+    "name": "Codeforces Round 362 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1468514100,
+    "relativeTimeSeconds": 299840532
+  },
+  "problems": [
+    {
+      "contestId": 697,
+      "index": "B",
+      "name": "Barnicle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 697,
+      "index": "A",
+      "name": "Pineapple Incident",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

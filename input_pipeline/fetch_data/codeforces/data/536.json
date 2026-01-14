@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 536,
+    "name": "Codeforces Round 299 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1429029300,
+    "relativeTimeSeconds": 339325332
+  },
+  "problems": [
+    {
+      "contestId": 536,
+      "index": "E",
+      "name": "Tavas on the Path",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 536,
+      "index": "D",
+      "name": "Tavas in Kansas",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    }
+  ]
+}

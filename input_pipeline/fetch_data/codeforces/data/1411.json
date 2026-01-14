@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1411,
+    "name": "Technocup 2021 - Elimination Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1608476700,
+    "relativeTimeSeconds": 159877932
+  },
+  "problems": [
+    {
+      "contestId": 1411,
+      "index": "G",
+      "name": "No Game No Life",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "games",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "F",
+      "name": "The Thorny Path",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "E",
+      "name": "Poman Numbers",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "D",
+      "name": "Grime Zoo",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "C",
+      "name": "Peaceful Rooks",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "B",
+      "name": "Fair Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1411,
+      "index": "A",
+      "name": "In-game Chat",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

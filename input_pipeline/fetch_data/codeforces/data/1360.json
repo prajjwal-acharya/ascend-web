@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1360,
+    "name": "Codeforces Round 644 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1590327300,
+    "relativeTimeSeconds": 178027332
+  },
+  "problems": [
+    {
+      "contestId": 1360,
+      "index": "H",
+      "name": "Binary Median",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "G",
+      "name": "A/B Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "F",
+      "name": "Spy-string",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "E",
+      "name": "Polygon",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "D",
+      "name": "Buying Shovels",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "C",
+      "name": "Similar Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "graph matchings",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "B",
+      "name": "Honest Coach",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1360,
+      "index": "A",
+      "name": "Minimal Square",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

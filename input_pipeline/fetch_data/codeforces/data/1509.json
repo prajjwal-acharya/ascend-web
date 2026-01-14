@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": 1509,
+    "name": "Codeforces Round 715 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1618583700,
+    "relativeTimeSeconds": 149770932
+  },
+  "problems": [
+    {
+      "contestId": 1509,
+      "index": "C",
+      "name": "The Sports Festival",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1509,
+      "index": "B",
+      "name": "TMT Document",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1509,
+      "index": "A",
+      "name": "Average Height",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

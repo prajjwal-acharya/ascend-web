@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1921,
+    "name": "Codeforces Round 920 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1705329300,
+    "relativeTimeSeconds": 63025332
+  },
+  "problems": [
+    {
+      "contestId": 1921,
+      "index": "G",
+      "name": "Mischievous Shooter",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "F",
+      "name": "Sum of Progression",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "E",
+      "name": "Eat the Chip",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "D",
+      "name": "Very Different Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "C",
+      "name": "Sending Messages",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "B",
+      "name": "Arranging Cats",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1921,
+      "index": "A",
+      "name": "Square",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

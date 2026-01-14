@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1734,
+    "name": "Codeforces Round 822 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1663934700,
+    "relativeTimeSeconds": 104419932
+  },
+  "problems": [
+    {
+      "contestId": 1734,
+      "index": "F",
+      "name": "Zeros and Ones",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1734,
+      "index": "E",
+      "name": "Rectangular Congruence",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1734,
+      "index": "D",
+      "name": "Slime Escape",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1734,
+      "index": "C",
+      "name": "Removing Smallest Multiples",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1734,
+      "index": "B",
+      "name": "Bright, Nice, Brilliant",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1734,
+      "index": "A",
+      "name": "Select Three Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

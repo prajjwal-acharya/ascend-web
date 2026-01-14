@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 786,
+    "name": "Codeforces Round 406 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1490281500,
+    "relativeTimeSeconds": 278073132
+  },
+  "problems": [
+    {
+      "contestId": 786,
+      "index": "E",
+      "name": "ALT",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "flows",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 786,
+      "index": "D",
+      "name": "Rap God",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "hashing",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 786,
+      "index": "C",
+      "name": "Till I Collapse",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 786,
+      "index": "B",
+      "name": "Legacy",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 786,
+      "index": "A",
+      "name": "Berzerk",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games"
+      ]
+    }
+  ]
+}

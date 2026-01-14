@@ -1,0 +1,120 @@
+{
+  "contest": {
+    "id": 1266,
+    "name": "Codeforces Global Round 6",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1576595100,
+    "relativeTimeSeconds": 191759532
+  },
+  "problems": [
+    {
+      "contestId": 1266,
+      "index": "H",
+      "name": "Red-Blue Graph",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "matrices",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "G",
+      "name": "Permutation Concatenation",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "F",
+      "name": "Almost Same Distance",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "E",
+      "name": "Spaceship Solitaire",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "D",
+      "name": "Decreasing Debts",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "C",
+      "name": "Diverse Matrix",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "B",
+      "name": "Dice Tower",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1266,
+      "index": "A",
+      "name": "Competitive Programmer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "chinese remainder theorem",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1312,
+    "name": "Educational Codeforces Round 83 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1583764500,
+    "relativeTimeSeconds": 184590132
+  },
+  "problems": [
+    {
+      "contestId": 1312,
+      "index": "G",
+      "name": "Autocompletion",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "F",
+      "name": "Attack on Red Kingdom",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "games",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "E",
+      "name": "Array Shrinking",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "D",
+      "name": "Count the Arrays",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "C",
+      "name": "Adding Powers",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "B",
+      "name": "Bogosort",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1312,
+      "index": "A",
+      "name": "Two Regular Polygons",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

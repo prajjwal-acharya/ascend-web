@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1759,
+    "name": "Codeforces Round  834 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1668782100,
+    "relativeTimeSeconds": 99572532
+  },
+  "problems": [
+    {
+      "contestId": 1759,
+      "index": "G",
+      "name": "Restore the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "F",
+      "name": "All Possible Digits",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "E",
+      "name": "The Humanoid",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "D",
+      "name": "Make It Round",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "C",
+      "name": "Thermostat",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "B",
+      "name": "Lost Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1759,
+      "index": "A",
+      "name": "Yes-Yes?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

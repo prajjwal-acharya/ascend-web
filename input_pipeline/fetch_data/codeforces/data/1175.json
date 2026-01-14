@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1175,
+    "name": "Educational Codeforces Round 66 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1559745300,
+    "relativeTimeSeconds": 208609332
+  },
+  "problems": [
+    {
+      "contestId": 1175,
+      "index": "G",
+      "name": "Yet Another Partiton Problem",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "F",
+      "name": "The Number of Subpermutations",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "E",
+      "name": "Minimal Segment Cover",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "D",
+      "name": "Array Splitting",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "C",
+      "name": "Electrification",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "B",
+      "name": "Catch Overflow!",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1175,
+      "index": "A",
+      "name": "From Hero to Zero",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

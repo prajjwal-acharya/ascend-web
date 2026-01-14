@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 997,
+    "name": "Codeforces Round 493 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1530453900,
+    "relativeTimeSeconds": 237900732
+  },
+  "problems": [
+    {
+      "contestId": 997,
+      "index": "E",
+      "name": "Good Subsegments",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 997,
+      "index": "D",
+      "name": "Cycles in product",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 997,
+      "index": "C",
+      "name": "Sky Full of Stars",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 997,
+      "index": "B",
+      "name": "Roman Digits",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 997,
+      "index": "A",
+      "name": "Convert to Ones",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

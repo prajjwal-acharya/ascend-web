@@ -1,0 +1,118 @@
+{
+  "contest": {
+    "id": 1537,
+    "name": "Codeforces Round 726 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1624026900,
+    "relativeTimeSeconds": 144327732
+  },
+  "problems": [
+    {
+      "contestId": 1537,
+      "index": "F",
+      "name": "Figure Fixing",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "E2",
+      "name": "Erase and Extend (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "E1",
+      "name": "Erase and Extend (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "D",
+      "name": "Deleting Divisors",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "C",
+      "name": "Challenging Cliffs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "B",
+      "name": "Bad Boy",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1537,
+      "index": "A",
+      "name": "Arithmetic Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

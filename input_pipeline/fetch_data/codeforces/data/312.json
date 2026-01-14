@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 312,
+    "name": "Codeforces Round 185 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1369582200,
+    "relativeTimeSeconds": 398772432
+  },
+  "problems": [
+    {
+      "contestId": 312,
+      "index": "B",
+      "name": "Archer",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 312,
+      "index": "A",
+      "name": "Whose sentence is it?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

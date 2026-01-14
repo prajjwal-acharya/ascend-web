@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1101,
+    "name": "Educational Codeforces Round 58 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1547217300,
+    "relativeTimeSeconds": 221137332
+  },
+  "problems": [
+    {
+      "contestId": 1101,
+      "index": "G",
+      "name": "(Zero XOR Subset)-less",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "F",
+      "name": "Trucks and Cities",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "E",
+      "name": "Polycarp's New Job",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "D",
+      "name": "GCD Counting",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "C",
+      "name": "Division and Union",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "B",
+      "name": "Accordion",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1101,
+      "index": "A",
+      "name": "Minimum Integer",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 2155,
+    "name": "Codeforces Round 1056 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1759682100,
+    "relativeTimeSeconds": 8672532
+  },
+  "problems": [
+    {
+      "contestId": 2155,
+      "index": "F",
+      "name": "Juan's Colorful Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "graphs",
+        "meet-in-the-middle",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2155,
+      "index": "E",
+      "name": "Mimo & Yuyu",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2155,
+      "index": "D",
+      "name": "Batteries",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graph matchings",
+        "graphs",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2155,
+      "index": "C",
+      "name": "The Ancient Wizards' Capes",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2155,
+      "index": "B",
+      "name": "Abraham's Great Escape",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2155,
+      "index": "A",
+      "name": "El fucho",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

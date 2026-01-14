@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 274,
+    "name": "Codeforces Round 168 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1361374200,
+    "relativeTimeSeconds": 406980433
+  },
+  "problems": [
+    {
+      "contestId": 274,
+      "index": "E",
+      "name": "Mirror Room",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 274,
+      "index": "D",
+      "name": "Lovely Matrix",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 274,
+      "index": "C",
+      "name": "The Last Hole!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 274,
+      "index": "B",
+      "name": "Zero Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 274,
+      "index": "A",
+      "name": "k-Multiple Free Set",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

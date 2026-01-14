@@ -1,0 +1,193 @@
+{
+  "contest": {
+    "id": 207,
+    "name": "Abbyy Cup 2.0 - Final (unofficial)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1341730800,
+    "relativeTimeSeconds": 426623833
+  },
+  "problems": [
+    {
+      "contestId": 207,
+      "index": "D9",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 1800,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D8",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D7",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D6",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D5",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D4",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D3",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D2",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2000,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D10",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "D1",
+      "name": "The Beaver's Problem - 3",
+      "type": "PROGRAMMING",
+      "points": 10.0,
+      "rating": 1800,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "C3",
+      "name": "Game with Two Trees",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2700,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 207,
+      "index": "C2",
+      "name": "Game with Two Trees",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 2200,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "C1",
+      "name": "Game with Two Trees",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 2100,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "B3",
+      "name": "Military Trainings",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 1700,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "B2",
+      "name": "Military Trainings",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1900,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "B1",
+      "name": "Military Trainings",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1600,
+      "tags": []
+    },
+    {
+      "contestId": 207,
+      "index": "A3",
+      "name": "Beaver's Calculator 1.0",
+      "type": "PROGRAMMING",
+      "points": 50.0,
+      "rating": 2000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 207,
+      "index": "A2",
+      "name": "Beaver's Calculator 1.0",
+      "type": "PROGRAMMING",
+      "points": 30.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 207,
+      "index": "A1",
+      "name": "Beaver's Calculator 1.0",
+      "type": "PROGRAMMING",
+      "points": 20.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

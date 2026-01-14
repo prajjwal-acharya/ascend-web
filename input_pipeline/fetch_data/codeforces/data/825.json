@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 825,
+    "name": "Educational Codeforces Round 25",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1500217500,
+    "relativeTimeSeconds": 268137132
+  },
+  "problems": [
+    {
+      "contestId": 825,
+      "index": "G",
+      "name": "Tree Queries",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "F",
+      "name": "String Compression",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "E",
+      "name": "Minimal Labels",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "D",
+      "name": "Suitable Replacement",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "C",
+      "name": "Multi-judge Solving",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "B",
+      "name": "Five-In-a-Row",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 825,
+      "index": "A",
+      "name": "Binary Protocol",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

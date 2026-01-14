@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1202,
+    "name": "Educational Codeforces Round 70 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1565188500,
+    "relativeTimeSeconds": 203166132
+  },
+  "problems": [
+    {
+      "contestId": 1202,
+      "index": "F",
+      "name": "You Are Given Some Letters...",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1202,
+      "index": "E",
+      "name": "You Are Given Some Strings...",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1202,
+      "index": "D",
+      "name": "Print a 1337-string...",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1202,
+      "index": "C",
+      "name": "You Are Given a WASD-string...",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1202,
+      "index": "B",
+      "name": "You Are Given a Decimal String...",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dp",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1202,
+      "index": "A",
+      "name": "You Are Given Two Binary Strings...",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    }
+  ]
+}

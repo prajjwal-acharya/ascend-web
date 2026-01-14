@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 2128,
+    "name": "Codeforces Round 1039 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1753626900,
+    "relativeTimeSeconds": 14727732
+  },
+  "problems": [
+    {
+      "contestId": 2128,
+      "index": "F",
+      "name": "Strict Triangle",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "E2",
+      "name": "Submedians (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "E1",
+      "name": "Submedians (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "D",
+      "name": "Sum of LDS",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "C",
+      "name": "Leftmost Below",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "B",
+      "name": "Deque Process",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2128,
+      "index": "A",
+      "name": "Recycling Center",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

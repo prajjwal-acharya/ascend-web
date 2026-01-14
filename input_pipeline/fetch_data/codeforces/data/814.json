@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 814,
+    "name": "Codeforces Round 418 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1496837700,
+    "relativeTimeSeconds": 271516932
+  },
+  "problems": [
+    {
+      "contestId": 814,
+      "index": "E",
+      "name": "An unavoidable detour for home",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 814,
+      "index": "D",
+      "name": "An overnight dance in discotheque",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "geometry",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 814,
+      "index": "C",
+      "name": "An impassioned circulation of affection",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "dp",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 814,
+      "index": "B",
+      "name": "An express train to reveries",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 814,
+      "index": "A",
+      "name": "An abandoned sentiment from past",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

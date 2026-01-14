@@ -1,0 +1,176 @@
+{
+  "contest": {
+    "id": 1357,
+    "name": "Microsoft Q# Coding Contest - Summer 2020",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1592582400,
+    "relativeTimeSeconds": 175772232
+  },
+  "problems": [
+    {
+      "contestId": 1357,
+      "index": "E2",
+      "name": "Root of quantum Fourier transform",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "E1",
+      "name": "Power of quantum Fourier transform",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "D5",
+      "name": "Quantum Classification - Dataset 7",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "D4",
+      "name": "Quantum Classification - Dataset 6",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "D3",
+      "name": "Quantum Classification - Dataset 5",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "D2",
+      "name": "Quantum Classification - Dataset 4",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "D1",
+      "name": "Quantum Classification - Dataset 3",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "C2",
+      "name": "Prepare superposition of basis states with the same parity",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "C1",
+      "name": "Prepare superposition of basis states with 0s",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "B2",
+      "name": "\"Is the number divisible by 3?\" oracle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "B1",
+      "name": "\"Is the bit string balanced?\" oracle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A7",
+      "name": "Distinguish Y, XZ, -Y and -XZ",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A6",
+      "name": "Distinguish four Pauli gates",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A5",
+      "name": "Distinguish Rz(\u03b8) from Ry(\u03b8)",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A4",
+      "name": "Distinguish Rz from R1",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A3",
+      "name": "Distinguish H from X",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A2",
+      "name": "Distinguish I, CNOTs and SWAP",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1357,
+      "index": "A1",
+      "name": "Figure out direction of CNOT",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

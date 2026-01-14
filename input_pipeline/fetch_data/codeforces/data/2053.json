@@ -1,0 +1,163 @@
+{
+  "contest": {
+    "id": 2053,
+    "name": "Good Bye 2024: 2025 is NEAR",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1735396500,
+    "relativeTimeSeconds": 32958132
+  },
+  "problems": [
+    {
+      "contestId": 2053,
+      "index": "I2",
+      "name": "Affectionate Arrays (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "shortest paths",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "I1",
+      "name": "Affectionate Arrays (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "H",
+      "name": "Delicate Anti-monotonous Operations",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "G",
+      "name": "Naive String Splits",
+      "type": "PROGRAMMING",
+      "points": 4250.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "hashing",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "F",
+      "name": "Earnest Matrix Complement",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "E",
+      "name": "Resourceful Caterpillar Sequence",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "D",
+      "name": "Refined Product Optimality",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "schedules",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "C",
+      "name": "Bewitching Stargazer",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "B",
+      "name": "Outstanding Impressionist",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2053,
+      "index": "A",
+      "name": "Tender Carpenter",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "dp",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

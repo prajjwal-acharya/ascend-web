@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 33,
+    "name": "Codeforces Beta Round 33 (Codeforces format)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1286463600,
+    "relativeTimeSeconds": 481891033
+  },
+  "problems": [
+    {
+      "contestId": 33,
+      "index": "E",
+      "name": "Helper",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": []
+    },
+    {
+      "contestId": 33,
+      "index": "D",
+      "name": "Knights",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "geometry",
+        "graphs",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 33,
+      "index": "C",
+      "name": "Wonderful Randomized Sum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 33,
+      "index": "B",
+      "name": "String Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 33,
+      "index": "A",
+      "name": "What is for dinner?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

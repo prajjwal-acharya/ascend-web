@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 63,
+    "name": "Codeforces Beta Round 59 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1298908800,
+    "relativeTimeSeconds": 469445833
+  },
+  "problems": [
+    {
+      "contestId": 63,
+      "index": "E",
+      "name": "Sweets Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 63,
+      "index": "D",
+      "name": "Dividing Island",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 63,
+      "index": "C",
+      "name": "Bulls and Cows",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 63,
+      "index": "B",
+      "name": "Settlers' Training",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 63,
+      "index": "A",
+      "name": "Sinking Ship",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 1003,
+    "name": "Codeforces Round 494 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1530628500,
+    "relativeTimeSeconds": 237726132
+  },
+  "problems": [
+    {
+      "contestId": 1003,
+      "index": "F",
+      "name": "Abbreviation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1003,
+      "index": "E",
+      "name": "Tree Constructing",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1003,
+      "index": "D",
+      "name": "Coins and Queries",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1003,
+      "index": "C",
+      "name": "Intense Heat",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1003,
+      "index": "B",
+      "name": "Binary String Constructing",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1003,
+      "index": "A",
+      "name": "Polycarp's Pockets",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

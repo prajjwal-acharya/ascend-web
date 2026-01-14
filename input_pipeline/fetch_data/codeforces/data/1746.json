@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 1746,
+    "name": "Codeforces Global Round 23",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1665844500,
+    "relativeTimeSeconds": 102510132
+  },
+  "problems": [
+    {
+      "contestId": 1746,
+      "index": "G",
+      "name": "Olympiad Training",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "flows",
+        "geometry",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "F",
+      "name": "Kazaee",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "hashing",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "E2",
+      "name": "Joking (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3200,
+      "tags": [
+        "dp",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "E1",
+      "name": "Joking (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "D",
+      "name": "Paths on the Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "C",
+      "name": "Permutation Operations",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "B",
+      "name": "Rebellion",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1746,
+      "index": "A",
+      "name": "Maxmina",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

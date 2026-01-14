@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 23,
+    "name": "Codeforces Beta Round 23",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1278687600,
+    "relativeTimeSeconds": 489667033
+  },
+  "problems": [
+    {
+      "contestId": 23,
+      "index": "E",
+      "name": "Tree",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 23,
+      "index": "D",
+      "name": "Tetragon",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 23,
+      "index": "C",
+      "name": "Oranges and Apples",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 23,
+      "index": "B",
+      "name": "Party",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 23,
+      "index": "A",
+      "name": "You're Given a String...",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

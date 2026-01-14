@@ -1,0 +1,152 @@
+{
+  "contest": {
+    "id": 2061,
+    "name": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1737383700,
+    "relativeTimeSeconds": 30970932
+  },
+  "problems": [
+    {
+      "contestId": 2061,
+      "index": "I",
+      "name": "Kevin and Nivek",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "H2",
+      "name": "Kevin and Stones (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "H1",
+      "name": "Kevin and Stones (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "G",
+      "name": "Kevin and Teams",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "F2",
+      "name": "Kevin and Binary String (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "F1",
+      "name": "Kevin and Binary String (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "E",
+      "name": "Kevin and And",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "D",
+      "name": "Kevin and Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "C",
+      "name": "Kevin and Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "2-sat",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "B",
+      "name": "Kevin and Geometry",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2061,
+      "index": "A",
+      "name": "Kevin and Arithmetic",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

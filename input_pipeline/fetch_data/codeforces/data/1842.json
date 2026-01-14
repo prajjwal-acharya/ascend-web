@@ -1,0 +1,135 @@
+{
+  "contest": {
+    "id": 1842,
+    "name": "CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1687615500,
+    "relativeTimeSeconds": 80739132
+  },
+  "problems": [
+    {
+      "contestId": 1842,
+      "index": "I",
+      "name": "Tenzing and Necklace",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "H",
+      "name": "Tenzing and Random Real Numbers",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "G",
+      "name": "Tenzing and Random Operations",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "F",
+      "name": "Tenzing and Tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "shortest paths",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "E",
+      "name": "Tenzing and Triangle",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "D",
+      "name": "Tenzing and His Animal Friends ",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "C",
+      "name": "Tenzing and Balls",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "B",
+      "name": "Tenzing and Books",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1842,
+      "index": "A",
+      "name": "Tenzing and Tsondu",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

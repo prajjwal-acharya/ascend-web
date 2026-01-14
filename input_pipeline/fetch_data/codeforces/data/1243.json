@@ -1,0 +1,47 @@
+{
+  "contest": {
+    "id": 1243,
+    "name": "Codeforces Round 599 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1573052700,
+    "relativeTimeSeconds": 195301932
+  },
+  "problems": [
+    {
+      "contestId": 1243,
+      "index": "B2",
+      "name": "Character Swap (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1600,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1243,
+      "index": "B1",
+      "name": "Character Swap (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1243,
+      "index": "A",
+      "name": "Maximum Square",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

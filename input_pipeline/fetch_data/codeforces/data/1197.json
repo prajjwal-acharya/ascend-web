@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1197,
+    "name": "Educational Codeforces Round 69 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1563806100,
+    "relativeTimeSeconds": 204548532
+  },
+  "problems": [
+    {
+      "contestId": 1197,
+      "index": "F",
+      "name": "Coloring Game",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "games",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1197,
+      "index": "E",
+      "name": "Culture Code",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1197,
+      "index": "D",
+      "name": "Yet Another Subarray Problem",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1197,
+      "index": "C",
+      "name": "Array Splitting",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1197,
+      "index": "B",
+      "name": "Pillars",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1197,
+      "index": "A",
+      "name": "DIY Wooden Ladder",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

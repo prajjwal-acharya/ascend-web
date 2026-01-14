@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1230,
+    "name": "Codeforces Round 588 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1569247500,
+    "relativeTimeSeconds": 199107132
+  },
+  "problems": [
+    {
+      "contestId": 1230,
+      "index": "B",
+      "name": "Ania and Minimizing",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1230,
+      "index": "A",
+      "name": "Dawid and Bags of Candies",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

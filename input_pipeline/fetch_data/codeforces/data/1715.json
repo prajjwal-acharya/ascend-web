@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1715,
+    "name": "Codeforces Round 816 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1661006100,
+    "relativeTimeSeconds": 107348532
+  },
+  "problems": [
+    {
+      "contestId": 1715,
+      "index": "F",
+      "name": "Crop Squares",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1715,
+      "index": "E",
+      "name": "Long Way Home",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "geometry",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1715,
+      "index": "D",
+      "name": "2+ doors",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "2-sat",
+        "bitmasks",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1715,
+      "index": "C",
+      "name": "Monoblock",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1715,
+      "index": "B",
+      "name": "Beautiful Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1715,
+      "index": "A",
+      "name": "Crossmarket",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

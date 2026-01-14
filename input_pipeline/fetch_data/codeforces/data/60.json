@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 60,
+    "name": "Codeforces Beta Round 56",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1298131200,
+    "relativeTimeSeconds": 470223433
+  },
+  "problems": [
+    {
+      "contestId": 60,
+      "index": "E",
+      "name": "Mushroom Gnomes",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 60,
+      "index": "D",
+      "name": "Savior",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "contestId": 60,
+      "index": "C",
+      "name": "Mushroom Strife",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 60,
+      "index": "B",
+      "name": "Serial Time!",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 60,
+      "index": "A",
+      "name": "Where Are My Flakes?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 1827,
+    "name": "Codeforces Round 873 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1684074900,
+    "relativeTimeSeconds": 84279732
+  },
+  "problems": [
+    {
+      "contestId": 1827,
+      "index": "F",
+      "name": "Copium Permutation",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "E",
+      "name": "Bus Routes",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "D",
+      "name": "Two Centroids",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "C",
+      "name": "Palindrome Partition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "B2",
+      "name": "Range Sorting (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "B1",
+      "name": "Range Sorting (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dp",
+        "dsu",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1827,
+      "index": "A",
+      "name": "Counting Orders",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

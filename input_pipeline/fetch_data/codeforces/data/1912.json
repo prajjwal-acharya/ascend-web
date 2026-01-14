@@ -1,0 +1,143 @@
+{
+  "contest": {
+    "id": 1912,
+    "name": "2023-2024 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1702452900,
+    "relativeTimeSeconds": 65901732
+  },
+  "problems": [
+    {
+      "contestId": 1912,
+      "index": "L",
+      "name": "LOL Lovers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "K",
+      "name": "Kim's Quest",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "J",
+      "name": "Joy of Pok\u00e9mon Observation",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": []
+    },
+    {
+      "contestId": 1912,
+      "index": "I",
+      "name": "Innovative Washing Machine",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "geometry",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "H",
+      "name": "Hypercatapult Commute",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "G",
+      "name": "Great City Saint Petersburg",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "F",
+      "name": "Fugitive Frenzy",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "E",
+      "name": "Evaluate It and Back Again",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "D",
+      "name": "Divisibility Test",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "C",
+      "name": "Cactus Transformation",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "B",
+      "name": "Blueprint for Seating",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1912,
+      "index": "A",
+      "name": "Accumulator Apex",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

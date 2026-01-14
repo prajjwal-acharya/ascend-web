@@ -1,0 +1,181 @@
+{
+  "contest": {
+    "id": 802,
+    "name": "Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 16200,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1495958700,
+    "relativeTimeSeconds": 272395932
+  },
+  "problems": [
+    {
+      "contestId": 802,
+      "index": "O",
+      "name": "April Fools' Problem (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "N",
+      "name": "April Fools' Problem (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "M",
+      "name": "April Fools' Problem (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "L",
+      "name": "Send the Fool Further! (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "K",
+      "name": "Send the Fool Further! (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "J",
+      "name": "Send the Fool Further! (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "I",
+      "name": "Fake News (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "H",
+      "name": "Fake News (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "G",
+      "name": "Fake News (easy)",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "F",
+      "name": "Marmots (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "E",
+      "name": "Marmots (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "D",
+      "name": "Marmots (easy)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "C",
+      "name": "Heidi and Library (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "B",
+      "name": "Heidi and Library (medium)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 802,
+      "index": "A",
+      "name": "Heidi and Library (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

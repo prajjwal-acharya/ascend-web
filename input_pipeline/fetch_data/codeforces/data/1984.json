@@ -1,0 +1,132 @@
+{
+  "contest": {
+    "id": 1984,
+    "name": "Codeforces Global Round 26",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1717943700,
+    "relativeTimeSeconds": 50410932
+  },
+  "problems": [
+    {
+      "contestId": 1984,
+      "index": "H",
+      "name": "Tower Capturing",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "G",
+      "name": "Magic Trick II",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "F",
+      "name": "Reconstruction",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "E",
+      "name": "Shuffle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "D",
+      "name": "''a'' String Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "hashing",
+        "implementation",
+        "math",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "C2",
+      "name": "Magnitude (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "C1",
+      "name": "Magnitude (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "B",
+      "name": "Large Addition",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1984,
+      "index": "A",
+      "name": "Strange Splitting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

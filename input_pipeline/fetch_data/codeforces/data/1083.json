@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1083,
+    "name": "Codeforces Round 526 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1544459700,
+    "relativeTimeSeconds": 223894932
+  },
+  "problems": [
+    {
+      "contestId": 1083,
+      "index": "F",
+      "name": "The Fair Nut and Amusing Xor",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1083,
+      "index": "E",
+      "name": "The Fair Nut and Rectangles",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1083,
+      "index": "D",
+      "name": "The Fair Nut's getting crazy",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1083,
+      "index": "C",
+      "name": "Max Mex",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1083,
+      "index": "B",
+      "name": "The Fair Nut and Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1083,
+      "index": "A",
+      "name": "The Fair Nut and the Best Path",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    }
+  ]
+}

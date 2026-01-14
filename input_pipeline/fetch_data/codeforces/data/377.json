@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 377,
+    "name": "Codeforces Round 222 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1388331000,
+    "relativeTimeSeconds": 380023632
+  },
+  "problems": [
+    {
+      "contestId": 377,
+      "index": "E",
+      "name": "Cookie Clicker",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 377,
+      "index": "D",
+      "name": "Developing Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 377,
+      "index": "C",
+      "name": "Captains Mode",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 377,
+      "index": "B",
+      "name": "Preparing for the Contest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 377,
+      "index": "A",
+      "name": "Maze",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar"
+      ]
+    }
+  ]
+}

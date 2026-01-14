@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1294,
+    "name": "Codeforces Round 615 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1579703700,
+    "relativeTimeSeconds": 188650932
+  },
+  "problems": [
+    {
+      "contestId": 1294,
+      "index": "F",
+      "name": "Three Paths on a Tree",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1294,
+      "index": "E",
+      "name": "Obtain a Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1294,
+      "index": "D",
+      "name": "MEX maximizing",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1294,
+      "index": "C",
+      "name": "Product of Three Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1294,
+      "index": "B",
+      "name": "Collecting Packages",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1294,
+      "index": "A",
+      "name": "Collecting Coins",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

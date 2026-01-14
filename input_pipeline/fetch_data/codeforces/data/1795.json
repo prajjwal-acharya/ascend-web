@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1795,
+    "name": "Educational Codeforces Round 143 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1676558100,
+    "relativeTimeSeconds": 91796532
+  },
+  "problems": [
+    {
+      "contestId": 1795,
+      "index": "G",
+      "name": "Removal Sequences",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "F",
+      "name": "Blocking Chips",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "E",
+      "name": "Explosions?",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "D",
+      "name": "Triangle Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "C",
+      "name": "Tea Tasting",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "B",
+      "name": "Ideal Point",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1795,
+      "index": "A",
+      "name": "Two Towers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

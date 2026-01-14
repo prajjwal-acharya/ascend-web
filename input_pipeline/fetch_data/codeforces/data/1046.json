@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": 1046,
+    "name": "Bubble Cup 11 - Finals [Online Mirror, Div. 2]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1537612500,
+    "relativeTimeSeconds": 230742132
+  },
+  "problems": [
+    {
+      "contestId": 1046,
+      "index": "I",
+      "name": "Say Hello",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1046,
+      "index": "F",
+      "name": "Splitting money",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1046,
+      "index": "C",
+      "name": "Space Formula",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

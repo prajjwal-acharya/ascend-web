@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 482,
+    "name": "Codeforces Round 275 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1414170000,
+    "relativeTimeSeconds": 354184632
+  },
+  "problems": [
+    {
+      "contestId": 482,
+      "index": "E",
+      "name": "ELCA",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 482,
+      "index": "D",
+      "name": "Random Function and Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 482,
+      "index": "C",
+      "name": "Game with Strings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 482,
+      "index": "B",
+      "name": "Interesting Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 482,
+      "index": "A",
+      "name": "Diverse Permutation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    }
+  ]
+}

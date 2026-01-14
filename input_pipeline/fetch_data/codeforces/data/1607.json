@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1607,
+    "name": "Codeforces Round 753 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1635863700,
+    "relativeTimeSeconds": 132490932
+  },
+  "problems": [
+    {
+      "contestId": 1607,
+      "index": "H",
+      "name": "Banquet Preparations 2",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "G",
+      "name": "Banquet Preparations 1",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "F",
+      "name": "Robot on the Board 2",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "E",
+      "name": "Robot on the Board 1",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "D",
+      "name": "Blue-Red Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "C",
+      "name": "Minimum Extraction",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "B",
+      "name": "Odd Grasshopper",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1607,
+      "index": "A",
+      "name": "Linear Keyboard",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

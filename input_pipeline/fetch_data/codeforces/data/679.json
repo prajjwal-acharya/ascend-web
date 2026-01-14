@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 679,
+    "name": "Codeforces Round 356 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1465403700,
+    "relativeTimeSeconds": 302950932
+  },
+  "problems": [
+    {
+      "contestId": 679,
+      "index": "E",
+      "name": "Bear and Bad Powers of 42",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 679,
+      "index": "D",
+      "name": "Bear and Chase",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 679,
+      "index": "C",
+      "name": "Bear and Square Grid",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 679,
+      "index": "B",
+      "name": "Bear and Tower of Cubes",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 679,
+      "index": "A",
+      "name": "Bear and Prime 100",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    }
+  ]
+}

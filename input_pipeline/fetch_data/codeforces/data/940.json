@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 940,
+    "name": "Codeforces Round 466 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1519464900,
+    "relativeTimeSeconds": 248889732
+  },
+  "problems": [
+    {
+      "contestId": 940,
+      "index": "F",
+      "name": "Machine Learning",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 940,
+      "index": "E",
+      "name": "Cashback",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 940,
+      "index": "D",
+      "name": "Alena And The Heater",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 940,
+      "index": "C",
+      "name": "Phone Numbers",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 940,
+      "index": "B",
+      "name": "Our Tanya is Crying Out Loud",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 940,
+      "index": "A",
+      "name": "Points on the line",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

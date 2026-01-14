@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 596,
+    "name": "Codeforces Round 331 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1447605300,
+    "relativeTimeSeconds": 320749332
+  },
+  "problems": [
+    {
+      "contestId": 596,
+      "index": "E",
+      "name": "Wilbur and Strings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 596,
+      "index": "D",
+      "name": "Wilbur and Trees",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 596,
+      "index": "C",
+      "name": "Wilbur and Points",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 596,
+      "index": "B",
+      "name": "Wilbur and Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 596,
+      "index": "A",
+      "name": "Wilbur and Swimming Pool",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

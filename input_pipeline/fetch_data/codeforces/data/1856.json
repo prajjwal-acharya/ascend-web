@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1856,
+    "name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1691246100,
+    "relativeTimeSeconds": 77108532
+  },
+  "problems": [
+    {
+      "contestId": 1856,
+      "index": "E2",
+      "name": "PermuTree (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "fft",
+        "greedy",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1856,
+      "index": "E1",
+      "name": "PermuTree (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1856,
+      "index": "D",
+      "name": "More Wrong",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1856,
+      "index": "C",
+      "name": "To Become Max",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1856,
+      "index": "B",
+      "name": "Good Arrays",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1856,
+      "index": "A",
+      "name": "Tales of a Sort",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

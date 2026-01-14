@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1140,
+    "name": "Educational Codeforces Round 62 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1553267100,
+    "relativeTimeSeconds": 215087532
+  },
+  "problems": [
+    {
+      "contestId": 1140,
+      "index": "G",
+      "name": "Double Tree",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "F",
+      "name": "Extending Set of Points",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "E",
+      "name": "Palindrome-less Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "D",
+      "name": "Minimum Triangulation",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "C",
+      "name": "Playlist",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "B",
+      "name": "Good String",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1140,
+      "index": "A",
+      "name": "Detective Book",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

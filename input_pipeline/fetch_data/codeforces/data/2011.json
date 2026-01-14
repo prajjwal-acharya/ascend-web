@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 2011,
+    "name": "Kotlin Heroes: Episode 11",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1727706900,
+    "relativeTimeSeconds": 40647732
+  },
+  "problems": [
+    {
+      "contestId": 2011,
+      "index": "I",
+      "name": "Stack and Queue",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "H",
+      "name": "Strange Matrix",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "G",
+      "name": "Removal of a Permutation",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "F",
+      "name": "Good Subarray",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "E",
+      "name": "Rock-Paper-Scissors Bot",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "D",
+      "name": "Among Wolves",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "C",
+      "name": "Split the Expression",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "B",
+      "name": "Shuffle",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2011,
+      "index": "A",
+      "name": "Problem Solving",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

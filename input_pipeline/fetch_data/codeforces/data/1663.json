@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1663,
+    "name": "April Fools Day Contest 2022",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1648823700,
+    "relativeTimeSeconds": 119530932
+  },
+  "problems": [
+    {
+      "contestId": 1663,
+      "index": "H",
+      "name": "Cross-Language Program",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "G",
+      "name": "Six Characters",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "F",
+      "name": "In Every Generation...",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "E",
+      "name": "Are You Safe?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "D",
+      "name": "Is it rated - 3",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "C",
+      "name": "P\u014dja Verdon",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "B",
+      "name": "Mike's Sequence",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "divide and conquer",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1663,
+      "index": "A",
+      "name": "Who Tested?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "expression parsing",
+        "trees"
+      ]
+    }
+  ]
+}

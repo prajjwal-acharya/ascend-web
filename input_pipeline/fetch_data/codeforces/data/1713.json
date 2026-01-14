@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1713,
+    "name": "Codeforces Round 812 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1659796500,
+    "relativeTimeSeconds": 108558132
+  },
+  "problems": [
+    {
+      "contestId": 1713,
+      "index": "F",
+      "name": "Lost Array",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1713,
+      "index": "E",
+      "name": "Cross Swapping",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "2-sat",
+        "data structures",
+        "dsu",
+        "greedy",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1713,
+      "index": "D",
+      "name": "Tournament Countdown",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1713,
+      "index": "C",
+      "name": "Build Permutation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1713,
+      "index": "B",
+      "name": "Optimal Reduction",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1713,
+      "index": "A",
+      "name": "Traveling Salesman Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

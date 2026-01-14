@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1107,
+    "name": "Educational Codeforces Round 59 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1548516900,
+    "relativeTimeSeconds": 219837732
+  },
+  "problems": [
+    {
+      "contestId": 1107,
+      "index": "G",
+      "name": "Vasya and Maximum Profit",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "F",
+      "name": "Vasya and Endless Credits",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "E",
+      "name": "Vasya and Binary String",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "D",
+      "name": "Compression",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "C",
+      "name": "Brutality",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "B",
+      "name": "Digital root",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1107,
+      "index": "A",
+      "name": "Digits Sequence Dividing",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

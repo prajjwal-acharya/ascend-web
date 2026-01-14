@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1837,
+    "name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1685025300,
+    "relativeTimeSeconds": 83329332
+  },
+  "problems": [
+    {
+      "contestId": 1837,
+      "index": "F",
+      "name": "Editorial for Two",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1837,
+      "index": "E",
+      "name": "Playoff Fixing",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1837,
+      "index": "D",
+      "name": "Bracket Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1837,
+      "index": "C",
+      "name": "Best Binary String",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1837,
+      "index": "B",
+      "name": "Comparison String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1837,
+      "index": "A",
+      "name": "Grasshopper on a Line",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

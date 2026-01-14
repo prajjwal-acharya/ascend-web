@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1835,
+    "name": "Codeforces Round 880 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1687098900,
+    "relativeTimeSeconds": 81255732
+  },
+  "problems": [
+    {
+      "contestId": 1835,
+      "index": "F",
+      "name": "Good Graph",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "graph matchings",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1835,
+      "index": "E",
+      "name": "Old Mobile",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1835,
+      "index": "D",
+      "name": "Doctor's Brown Hypothesis",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1835,
+      "index": "C",
+      "name": "Twin Clusters",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1835,
+      "index": "B",
+      "name": "Lottery",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1835,
+      "index": "A",
+      "name": "k-th equality",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

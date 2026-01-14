@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 270,
+    "name": "Codeforces Round 165 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1359732600,
+    "relativeTimeSeconds": 408622033
+  },
+  "problems": [
+    {
+      "contestId": 270,
+      "index": "B",
+      "name": "Multithreading",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 270,
+      "index": "A",
+      "name": "Fancy Fence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

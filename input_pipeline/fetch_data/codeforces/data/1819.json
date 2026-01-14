@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1819,
+    "name": "Codeforces Round 866 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1681549500,
+    "relativeTimeSeconds": 86805132
+  },
+  "problems": [
+    {
+      "contestId": 1819,
+      "index": "F",
+      "name": "Willy-nilly, Crack, Into Release!",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1819,
+      "index": "E",
+      "name": "Roads in E City",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3200,
+      "tags": [
+        "interactive",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1819,
+      "index": "D",
+      "name": "Misha and Apples",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1819,
+      "index": "C",
+      "name": "The Fox and the Complete Tree Traversal",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1819,
+      "index": "B",
+      "name": "The Butcher",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "geometry",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1819,
+      "index": "A",
+      "name": "Constructive Problem",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

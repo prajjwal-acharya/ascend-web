@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1256,
+    "name": "Codeforces Round 598 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1572873300,
+    "relativeTimeSeconds": 195481332
+  },
+  "problems": [
+    {
+      "contestId": 1256,
+      "index": "F",
+      "name": "Equalizing Two Strings",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1256,
+      "index": "E",
+      "name": "Yet Another Division Into Teams",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1256,
+      "index": "D",
+      "name": "Binary String Minimizing",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1256,
+      "index": "C",
+      "name": "Platforms Jumping",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1256,
+      "index": "B",
+      "name": "Minimize the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1256,
+      "index": "A",
+      "name": "Payment Without Change",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

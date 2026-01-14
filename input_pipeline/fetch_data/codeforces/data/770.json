@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": 770,
+    "name": "VK Cup 2017 - Qualification 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1489233600,
+    "relativeTimeSeconds": 279121032
+  },
+  "problems": [
+    {
+      "contestId": 770,
+      "index": "D",
+      "name": "Draw Brackets!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 770,
+      "index": "C",
+      "name": "Online Courses In BSU",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "*special",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 770,
+      "index": "B",
+      "name": "Maximize Sum of Digits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 770,
+      "index": "A",
+      "name": "New Password",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

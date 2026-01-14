@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 729,
+    "name": "Technocup 2017 - Elimination Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1479632700,
+    "relativeTimeSeconds": 288721932
+  },
+  "problems": [
+    {
+      "contestId": 729,
+      "index": "F",
+      "name": "Financiers Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 729,
+      "index": "E",
+      "name": "Subordinates",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 729,
+      "index": "D",
+      "name": "Sea Battle",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 729,
+      "index": "C",
+      "name": "Road to Cinema",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 729,
+      "index": "B",
+      "name": "Spotlights",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 729,
+      "index": "A",
+      "name": "Interview with Oleg",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

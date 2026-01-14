@@ -1,0 +1,83 @@
+{
+  "contest": {
+    "id": 509,
+    "name": "Codeforces Round 289 (Div. 2, ACM ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "freezeDurationSeconds": 2160,
+    "startTimeSeconds": 1422705600,
+    "relativeTimeSeconds": 345649032
+  },
+  "problems": [
+    {
+      "contestId": 509,
+      "index": "F",
+      "name": "Progress Monitoring",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 509,
+      "index": "E",
+      "name": "Pretty Song",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 509,
+      "index": "D",
+      "name": "Restoring Numbers",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 509,
+      "index": "C",
+      "name": "Sums of Digits",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 509,
+      "index": "B",
+      "name": "Painting Pebbles",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 509,
+      "index": "A",
+      "name": "Maximum in Table",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

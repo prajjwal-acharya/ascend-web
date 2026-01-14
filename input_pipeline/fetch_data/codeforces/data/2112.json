@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 2112,
+    "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1750689300,
+    "relativeTimeSeconds": 17665332
+  },
+  "problems": [
+    {
+      "contestId": 2112,
+      "index": "F",
+      "name": "Variables and Operations",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2112,
+      "index": "E",
+      "name": "Tree Colorings",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2112,
+      "index": "D",
+      "name": "Reachability and Tree",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2112,
+      "index": "C",
+      "name": "Coloring Game",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2112,
+      "index": "B",
+      "name": "Shrinking Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2112,
+      "index": "A",
+      "name": "Race",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

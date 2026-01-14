@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1063,
+    "name": "Codeforces Round 516 (Div. 1, by Moscow Team Olympiad)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1539511500,
+    "relativeTimeSeconds": 228843132
+  },
+  "problems": [
+    {
+      "contestId": 1063,
+      "index": "F",
+      "name": "String Journey",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "data structures",
+        "dp",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1063,
+      "index": "E",
+      "name": "Lasers and Mirrors",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1063,
+      "index": "D",
+      "name": "Candies for Children",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1063,
+      "index": "C",
+      "name": "Dwarves, Hats and Extrasensory Abilities",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "geometry",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1063,
+      "index": "B",
+      "name": "Labyrinth",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1063,
+      "index": "A",
+      "name": "Oh Those Palindromes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 499,
+    "name": "Codeforces Round 284 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1419438600,
+    "relativeTimeSeconds": 348916032
+  },
+  "problems": [
+    {
+      "contestId": 499,
+      "index": "B",
+      "name": "Lecture",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 499,
+      "index": "A",
+      "name": "Watching a movie",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1486,
+    "name": "Codeforces Round 703 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1613658900,
+    "relativeTimeSeconds": 154695732
+  },
+  "problems": [
+    {
+      "contestId": 1486,
+      "index": "F",
+      "name": "Pairs of Paths",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "E",
+      "name": "Paired Payment",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "flows",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "D",
+      "name": "Max Median",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "C2",
+      "name": "Guessing the Greatest (hard version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "C1",
+      "name": "Guessing the Greatest (easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "B",
+      "name": "Eastern Exhibition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "geometry",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1486,
+      "index": "A",
+      "name": "Shifting Stacks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

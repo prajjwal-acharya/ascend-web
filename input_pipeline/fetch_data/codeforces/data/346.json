@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 346,
+    "name": "Codeforces Round 201 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1379691000,
+    "relativeTimeSeconds": 388663632
+  },
+  "problems": [
+    {
+      "contestId": 346,
+      "index": "E",
+      "name": "Doodle Jump",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 346,
+      "index": "D",
+      "name": "Robot Control",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 346,
+      "index": "C",
+      "name": "Number Transformation II",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 346,
+      "index": "B",
+      "name": "Lucky Common Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 346,
+      "index": "A",
+      "name": "Alice and Bob",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "games",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

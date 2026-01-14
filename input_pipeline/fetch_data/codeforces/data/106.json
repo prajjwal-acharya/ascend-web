@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 106,
+    "name": "Codeforces Beta Round 82 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1313766000,
+    "relativeTimeSeconds": 454588633
+  },
+  "problems": [
+    {
+      "contestId": 106,
+      "index": "E",
+      "name": "Space Rescuers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 106,
+      "index": "D",
+      "name": "Treasure Island",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 106,
+      "index": "C",
+      "name": "Buns",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 106,
+      "index": "B",
+      "name": "Choosing Laptop",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 106,
+      "index": "A",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

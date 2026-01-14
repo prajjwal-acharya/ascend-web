@@ -1,0 +1,134 @@
+{
+  "contest": {
+    "id": 1942,
+    "name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1711809300,
+    "relativeTimeSeconds": 56545332
+  },
+  "problems": [
+    {
+      "contestId": 1942,
+      "index": "H",
+      "name": "Farmer John's Favorite Intern",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp",
+        "flows",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "G",
+      "name": "Bessie and Cards",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "F",
+      "name": "Farmer John's Favorite Function",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "E",
+      "name": "Farm Game",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "D",
+      "name": "Learning to Paint",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "C2",
+      "name": "Bessie's Birthday Cake (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "C1",
+      "name": "Bessie's Birthday Cake (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "B",
+      "name": "Bessie and MEX",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1942,
+      "index": "A",
+      "name": "Farmer John's Challenge",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

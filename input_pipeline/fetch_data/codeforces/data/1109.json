@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1109,
+    "name": "Codeforces Round 539 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1550334900,
+    "relativeTimeSeconds": 218019732
+  },
+  "problems": [
+    {
+      "contestId": 1109,
+      "index": "F",
+      "name": "Sasha and Algorithm of Silence's Sounds",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1109,
+      "index": "E",
+      "name": "Sasha and a Very Easy Test",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1109,
+      "index": "D",
+      "name": "Sasha and Interesting Fact from Graph Theory",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1109,
+      "index": "C",
+      "name": "Sasha and a Patient Friend",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1109,
+      "index": "B",
+      "name": "Sasha and One More Name",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1109,
+      "index": "A",
+      "name": "Sasha and a Bit of Relax",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    }
+  ]
+}

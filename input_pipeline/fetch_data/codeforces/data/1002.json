@@ -1,0 +1,164 @@
+{
+  "contest": {
+    "id": 1002,
+    "name": "Microsoft Q# Coding Contest - Summer 2018",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 259200,
+    "startTimeSeconds": 1530892800,
+    "relativeTimeSeconds": 237461832
+  },
+  "problems": [
+    {
+      "contestId": 1002,
+      "index": "E2",
+      "name": "Another array reconstruction algorithm",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "E1",
+      "name": "Bernstein-Vazirani algorithm",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "D3",
+      "name": "Oracle for majority function",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "D2",
+      "name": "Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "D1",
+      "name": "Oracle for f(x) = b * x mod 2",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "C2",
+      "name": "Distinguish zero state and plus state without errors",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "C1",
+      "name": "Distinguish zero state and plus state with minimum error",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "B4",
+      "name": "Distinguish four 2-qubit states - 2",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "B3",
+      "name": "Distinguish four 2-qubit states",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "B2",
+      "name": "Distinguish GHZ state and W state",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "B1",
+      "name": "Distinguish zero state and W state",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "A4",
+      "name": "Generate W state",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "A3",
+      "name": "Generate superposition of two basis states",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "A2",
+      "name": "Generate superposition of zero state and a basis state",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 1002,
+      "index": "A1",
+      "name": "Generate superposition of all basis states",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

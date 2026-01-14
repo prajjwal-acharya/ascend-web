@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1594,
+    "name": "Codeforces Round 747 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1633705500,
+    "relativeTimeSeconds": 134649132
+  },
+  "problems": [
+    {
+      "contestId": 1594,
+      "index": "F",
+      "name": "Ideal Farm",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "E2",
+      "name": "Rubik's Cube Coloring (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "E1",
+      "name": "Rubik's Cube Coloring (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "D",
+      "name": "The Number of Imposters",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "C",
+      "name": "Make Them Equal",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "B",
+      "name": "Special Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1594,
+      "index": "A",
+      "name": "Consecutive Sum Riddle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

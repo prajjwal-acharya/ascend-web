@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 254,
+    "name": "Codeforces Round 155 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1355047200,
+    "relativeTimeSeconds": 413307433
+  },
+  "problems": [
+    {
+      "contestId": 254,
+      "index": "E",
+      "name": "Dormitory",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 254,
+      "index": "D",
+      "name": "Rats",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 254,
+      "index": "C",
+      "name": "Anagram",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 254,
+      "index": "B",
+      "name": "Jury Size",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 254,
+      "index": "A",
+      "name": "Cards with Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    }
+  ]
+}

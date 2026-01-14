@@ -1,0 +1,68 @@
+{
+  "contest": {
+    "id": 394,
+    "name": "Codeforces Round 231 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1392910200,
+    "relativeTimeSeconds": 375444432
+  },
+  "problems": [
+    {
+      "contestId": 394,
+      "index": "E",
+      "name": "Lightbulb for Minister",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 394,
+      "index": "D",
+      "name": "Physical Education and Buns",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 394,
+      "index": "C",
+      "name": "Dominoes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 394,
+      "index": "B",
+      "name": "Very Beautiful Number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 394,
+      "index": "A",
+      "name": "Counting Sticks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

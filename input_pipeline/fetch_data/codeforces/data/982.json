@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 982,
+    "name": "Codeforces Round 484 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1526574900,
+    "relativeTimeSeconds": 241779732
+  },
+  "problems": [
+    {
+      "contestId": 982,
+      "index": "F",
+      "name": "The Meeting Place Cannot Be Changed",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 982,
+      "index": "E",
+      "name": "Billiard",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "geometry",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 982,
+      "index": "D",
+      "name": "Shark",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 982,
+      "index": "C",
+      "name": "Cut 'em all!",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 982,
+      "index": "B",
+      "name": "Bus of Characters",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 982,
+      "index": "A",
+      "name": "Row",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

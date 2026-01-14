@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": 5,
+    "name": "Codeforces Beta Round 5",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1269100800,
+    "relativeTimeSeconds": 499253833
+  },
+  "problems": [
+    {
+      "contestId": 5,
+      "index": "E",
+      "name": "Bindian Signalizing",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 5,
+      "index": "D",
+      "name": "Follow Traffic Rules",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 5,
+      "index": "C",
+      "name": "Longest Regular Bracket Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 5,
+      "index": "B",
+      "name": "Center Alignment",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 5,
+      "index": "A",
+      "name": "Chat Servers Outgoing Traffic",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

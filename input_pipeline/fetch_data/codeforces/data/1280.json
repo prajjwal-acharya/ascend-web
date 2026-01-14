@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 1280,
+    "name": "Codeforces Round 607 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576386300,
+    "relativeTimeSeconds": 191968332
+  },
+  "problems": [
+    {
+      "contestId": 1280,
+      "index": "F",
+      "name": "Intergalactic Sliding Puzzle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1280,
+      "index": "E",
+      "name": "Kirchhoff's Current Loss",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1280,
+      "index": "D",
+      "name": "Miss Punyverse",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1280,
+      "index": "C",
+      "name": "Jeremy Bearimy",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1280,
+      "index": "B",
+      "name": "Beingawesomeism",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1280,
+      "index": "A",
+      "name": "Cut and Paste",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

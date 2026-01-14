@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 91,
+    "name": "Codeforces Beta Round 75 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1308582000,
+    "relativeTimeSeconds": 459772633
+  },
+  "problems": [
+    {
+      "contestId": 91,
+      "index": "E",
+      "name": "Igloo Skyscraper",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 91,
+      "index": "D",
+      "name": "Grocer's Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 91,
+      "index": "C",
+      "name": "Ski Base",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 91,
+      "index": "B",
+      "name": "Queue",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 91,
+      "index": "A",
+      "name": "Newspaper Headline",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

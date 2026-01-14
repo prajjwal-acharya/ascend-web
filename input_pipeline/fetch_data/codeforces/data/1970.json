@@ -1,0 +1,251 @@
+{
+  "contest": {
+    "id": 1970,
+    "name": "Helvetic Coding Contest 2024 online mirror (teams allowed, unrated)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 16200,
+    "startTimeSeconds": 1714806300,
+    "relativeTimeSeconds": 53548332
+  },
+  "problems": [
+    {
+      "contestId": 1970,
+      "index": "G3",
+      "name": "Min-Fund Prison (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "G2",
+      "name": "Min-Fund Prison (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "G1",
+      "name": "Min-Fund Prison (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "F3",
+      "name": "Playing Quidditch (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "F2",
+      "name": "Playing Quidditch (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "F1",
+      "name": "Playing Quidditch (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "E3",
+      "name": "Trails (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "E2",
+      "name": "Trails (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "E1",
+      "name": "Trails (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "D3",
+      "name": "Arithmancy (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "D2",
+      "name": "Arithmancy (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "probabilities",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "D1",
+      "name": "Arithmancy (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "interactive",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "C3",
+      "name": "Game on Tree (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "C2",
+      "name": "Game on Tree (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "C1",
+      "name": "Game on Tree (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "B3",
+      "name": "Exact Neighbours (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "B2",
+      "name": "Exact Neighbours (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "B1",
+      "name": "Exact Neighbours (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "A3",
+      "name": "Balanced Unshuffle (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "A2",
+      "name": "Balanced Unshuffle (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1970,
+      "index": "A1",
+      "name": "Balanced Shuffle (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

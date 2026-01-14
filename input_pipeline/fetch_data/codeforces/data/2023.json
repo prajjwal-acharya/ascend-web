@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 2023,
+    "name": "Codeforces Round 980 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729415100,
+    "relativeTimeSeconds": 38939532
+  },
+  "problems": [
+    {
+      "contestId": 2023,
+      "index": "F",
+      "name": "Hills and Pits",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2023,
+      "index": "E",
+      "name": "Tree of Life",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2023,
+      "index": "D",
+      "name": "Many Games",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2023,
+      "index": "C",
+      "name": "C+K+S",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2023,
+      "index": "B",
+      "name": "Skipping",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2023,
+      "index": "A",
+      "name": "Concatenation of Arrays",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

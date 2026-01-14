@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 148,
+    "name": "Codeforces Round 105 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1328198400,
+    "relativeTimeSeconds": 440156233
+  },
+  "problems": [
+    {
+      "contestId": 148,
+      "index": "E",
+      "name": "Porcelain",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 148,
+      "index": "D",
+      "name": "Bag of mice",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "games",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 148,
+      "index": "C",
+      "name": "Terse princess",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 148,
+      "index": "B",
+      "name": "Escape",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 148,
+      "index": "A",
+      "name": "Insomnia cure",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

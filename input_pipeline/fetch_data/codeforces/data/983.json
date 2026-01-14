@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 983,
+    "name": "Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1526395500,
+    "relativeTimeSeconds": 241959132
+  },
+  "problems": [
+    {
+      "contestId": 983,
+      "index": "E",
+      "name": "NN country",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 983,
+      "index": "D",
+      "name": "Arkady and Rectangles",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 983,
+      "index": "C",
+      "name": "Elevator",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 983,
+      "index": "B",
+      "name": "XOR-pyramid",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 983,
+      "index": "A",
+      "name": "Finite or not?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

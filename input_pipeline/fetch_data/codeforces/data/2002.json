@@ -1,0 +1,152 @@
+{
+  "contest": {
+    "id": 2002,
+    "name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1723386900,
+    "relativeTimeSeconds": 44967732
+  },
+  "problems": [
+    {
+      "contestId": 2002,
+      "index": "H",
+      "name": "Counting 101",
+      "type": "PROGRAMMING",
+      "points": 6000.0,
+      "rating": 3500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "G",
+      "name": "Lattice Optimizing",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "F2",
+      "name": "Court Blue (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "F1",
+      "name": "Court Blue (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "E",
+      "name": "Cosmic Rays",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "D2",
+      "name": "DFS Checker (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "D1",
+      "name": "DFS Checker (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "C",
+      "name": "Black Circles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "B",
+      "name": "Removals Game",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "games"
+      ]
+    },
+    {
+      "contestId": 2002,
+      "index": "A",
+      "name": "Distanced Coloring",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

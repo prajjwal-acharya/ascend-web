@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 1067,
+    "name": "Codeforces Round 518 (Div. 1) [Thanks, Mail.Ru!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1540398900,
+    "relativeTimeSeconds": 227955732
+  },
+  "problems": [
+    {
+      "contestId": 1067,
+      "index": "E",
+      "name": "Random Forest Rank",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "graph matchings",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1067,
+      "index": "D",
+      "name": "Computer Game",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1067,
+      "index": "C",
+      "name": "Knights",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1067,
+      "index": "B",
+      "name": "Multihedgehog",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1067,
+      "index": "A",
+      "name": "Array Without Local Maximums ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

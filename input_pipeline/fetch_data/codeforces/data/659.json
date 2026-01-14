@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 659,
+    "name": "Codeforces Round 346 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1459353900,
+    "relativeTimeSeconds": 309000732
+  },
+  "problems": [
+    {
+      "contestId": 659,
+      "index": "G",
+      "name": "Fence Divercity",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "F",
+      "name": "Polycarp and Hay",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "E",
+      "name": "New Reform",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "D",
+      "name": "Bicycle Race",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "C",
+      "name": "Tanya and Toys",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "B",
+      "name": "Qualifying Contest",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 659,
+      "index": "A",
+      "name": "Round House",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

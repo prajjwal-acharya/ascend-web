@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 175,
+    "name": "Codeforces Round 115",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1334390400,
+    "relativeTimeSeconds": 433964233
+  },
+  "problems": [
+    {
+      "contestId": 175,
+      "index": "F",
+      "name": "Gnomes of Might and Magic",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "graphs",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 175,
+      "index": "E",
+      "name": "Power Defence",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "dp",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 175,
+      "index": "D",
+      "name": "Plane of Tanks: Duel",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 175,
+      "index": "C",
+      "name": "Geometry Horse",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 175,
+      "index": "B",
+      "name": "Plane of Tanks: Pro",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 175,
+      "index": "A",
+      "name": "Robot Bicorn Attack",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1617,
+    "name": "Codeforces Round 761 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1639661700,
+    "relativeTimeSeconds": 128692932
+  },
+  "problems": [
+    {
+      "contestId": 1617,
+      "index": "E",
+      "name": "Christmas Chocolates",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "graphs",
+        "implementation",
+        "math",
+        "number theory",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1617,
+      "index": "D2",
+      "name": "Too Many Impostors (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1617,
+      "index": "D1",
+      "name": "Too Many Impostors (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1617,
+      "index": "C",
+      "name": "Paprika and Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1617,
+      "index": "B",
+      "name": "GCD Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1617,
+      "index": "A",
+      "name": "Forbidden Subsequence",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

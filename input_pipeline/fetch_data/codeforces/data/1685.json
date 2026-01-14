@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1685,
+    "name": "Codeforces Round 794 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1653500100,
+    "relativeTimeSeconds": 114854532
+  },
+  "problems": [
+    {
+      "contestId": 1685,
+      "index": "E",
+      "name": "The Ultimate LIS Problem",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1685,
+      "index": "D2",
+      "name": "Permutation Weight (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1685,
+      "index": "D1",
+      "name": "Permutation Weight (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1685,
+      "index": "C",
+      "name": "Bring Balance",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1685,
+      "index": "B",
+      "name": "Linguistics",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1685,
+      "index": "A",
+      "name": "Circular Local MiniMax",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

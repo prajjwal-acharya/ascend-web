@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1631,
+    "name": "Codeforces Round 768 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1643294100,
+    "relativeTimeSeconds": 125060532
+  },
+  "problems": [
+    {
+      "contestId": 1631,
+      "index": "B",
+      "name": "Fun with Even Subarrays",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1631,
+      "index": "A",
+      "name": "Min Max Swap",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

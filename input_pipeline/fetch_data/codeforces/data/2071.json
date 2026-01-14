@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 2071,
+    "name": "Codeforces Round 1007 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1740753300,
+    "relativeTimeSeconds": 27601332
+  },
+  "problems": [
+    {
+      "contestId": 2071,
+      "index": "F",
+      "name": "Towering Arrays",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "E",
+      "name": "LeaFall",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "D2",
+      "name": "Infinite Sequence (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "D1",
+      "name": "Infinite Sequence (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "C",
+      "name": "Trapmigiano Reggiano",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "B",
+      "name": "Perfecto",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2071,
+      "index": "A",
+      "name": "The Play Never Ends",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

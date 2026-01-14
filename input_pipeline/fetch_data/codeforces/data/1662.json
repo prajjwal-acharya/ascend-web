@@ -1,0 +1,177 @@
+{
+  "contest": {
+    "id": 1662,
+    "name": "SWERC 2021-2022 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1650798300,
+    "relativeTimeSeconds": 117556332
+  },
+  "problems": [
+    {
+      "contestId": 1662,
+      "index": "O",
+      "name": "Circular Maze",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "N",
+      "name": "Drone Photo",
+      "type": "PROGRAMMING",
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "M",
+      "name": "Bottle Arrangements",
+      "type": "PROGRAMMING",
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "L",
+      "name": "Il Derby della Madonnina",
+      "type": "PROGRAMMING",
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "K",
+      "name": "Pandemic Restrictions",
+      "type": "PROGRAMMING",
+      "tags": [
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "J",
+      "name": "Training Camp",
+      "type": "PROGRAMMING",
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "I",
+      "name": "Ice Cream Shop",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "H",
+      "name": "Boundary",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "G",
+      "name": "Gastronomic Event",
+      "type": "PROGRAMMING",
+      "tags": [
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "F",
+      "name": "Antennas",
+      "type": "PROGRAMMING",
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "graphs",
+        "implementation",
+        "implementation",
+        "shortest paths",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "E",
+      "name": "Round Table",
+      "type": "PROGRAMMING",
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "D",
+      "name": "Evolution of Weasels",
+      "type": "PROGRAMMING",
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "C",
+      "name": "European Trip",
+      "type": "PROGRAMMING",
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "B",
+      "name": "Toys",
+      "type": "PROGRAMMING",
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1662,
+      "index": "A",
+      "name": "Organizing SWERC",
+      "type": "PROGRAMMING",
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

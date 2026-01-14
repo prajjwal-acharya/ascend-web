@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 992,
+    "name": "Codeforces Round 489 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1529339700,
+    "relativeTimeSeconds": 239014932
+  },
+  "problems": [
+    {
+      "contestId": 992,
+      "index": "E",
+      "name": "Nastya and King-Shamans",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 992,
+      "index": "D",
+      "name": "Nastya and a Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 992,
+      "index": "C",
+      "name": "Nastya and a Wardrobe",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 992,
+      "index": "B",
+      "name": "Nastya Studies Informatics",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 992,
+      "index": "A",
+      "name": "Nastya and an Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

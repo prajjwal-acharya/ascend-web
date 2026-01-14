@@ -1,0 +1,120 @@
+{
+  "contest": {
+    "id": 1346,
+    "name": "Kotlin Heroes: Episode 4",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1590762900,
+    "relativeTimeSeconds": 177591732
+  },
+  "problems": [
+    {
+      "contestId": 1346,
+      "index": "I",
+      "name": "Pac-Man 2.0",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "*special",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "H",
+      "name": "Game with Segments",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "*special",
+        "data structures",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "G",
+      "name": "Two IP Cameras",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "F",
+      "name": "Dune II: Battle For Arrakis",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "E",
+      "name": "Magic Tricks",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "D",
+      "name": "Constructing the Dungeon",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "C",
+      "name": "Spring Cleaning",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "*special",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "B",
+      "name": "Boot Camp",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1346,
+      "index": "A",
+      "name": "Color Revolution",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "*special",
+        "math"
+      ]
+    }
+  ]
+}

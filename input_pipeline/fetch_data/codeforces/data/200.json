@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 200,
+    "name": "Codeforces Round 126 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1340551800,
+    "relativeTimeSeconds": 427802833
+  },
+  "problems": [
+    {
+      "contestId": 200,
+      "index": "E",
+      "name": "Tractor College",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 200,
+      "index": "D",
+      "name": "Programming Language",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 200,
+      "index": "C",
+      "name": "Football Championship",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 200,
+      "index": "B",
+      "name": "Drinks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 200,
+      "index": "A",
+      "name": "Cinema",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    }
+  ]
+}

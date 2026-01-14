@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1017,
+    "name": "Codeforces Round 502 (in memory of Leopoldo Taravilse, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9600,
+    "startTimeSeconds": 1533737100,
+    "relativeTimeSeconds": 234617532
+  },
+  "problems": [
+    {
+      "contestId": 1017,
+      "index": "H",
+      "name": "The Films",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3300,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "G",
+      "name": "The Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "F",
+      "name": "The Neutral Zone",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "E",
+      "name": "The Supersonic Rocket",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "geometry",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "D",
+      "name": "The Wu",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "C",
+      "name": "The Phone Number",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "B",
+      "name": "The Bits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1017,
+      "index": "A",
+      "name": "The Rank",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

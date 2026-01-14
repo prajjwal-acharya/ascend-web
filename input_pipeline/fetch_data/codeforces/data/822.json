@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 822,
+    "name": "Codeforces Round 422 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1499011500,
+    "relativeTimeSeconds": 269343132
+  },
+  "problems": [
+    {
+      "contestId": 822,
+      "index": "F",
+      "name": "Madness",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 822,
+      "index": "E",
+      "name": "Liar",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dp",
+        "hashing",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 822,
+      "index": "D",
+      "name": "My pretty girl Noora",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 822,
+      "index": "C",
+      "name": "Hacker, pack your bags!",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 822,
+      "index": "B",
+      "name": "Crossword solving",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 822,
+      "index": "A",
+      "name": "I'm bored with life",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

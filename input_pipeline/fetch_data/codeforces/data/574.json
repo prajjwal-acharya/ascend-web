@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 574,
+    "name": "Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1440865800,
+    "relativeTimeSeconds": 327488832
+  },
+  "problems": [
+    {
+      "contestId": 574,
+      "index": "B",
+      "name": "Bear and Three Musketeers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 574,
+      "index": "A",
+      "name": "Bear and Elections",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

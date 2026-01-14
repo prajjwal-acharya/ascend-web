@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1823,
+    "name": "Codeforces Round 868 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1682606100,
+    "relativeTimeSeconds": 85748532
+  },
+  "problems": [
+    {
+      "contestId": 1823,
+      "index": "F",
+      "name": "Random Walk",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1823,
+      "index": "E",
+      "name": "Removing Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dp",
+        "games",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1823,
+      "index": "D",
+      "name": "Unique Palindromes",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1823,
+      "index": "C",
+      "name": "Strongly Composite",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1823,
+      "index": "B",
+      "name": "Sort with Step",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1823,
+      "index": "A",
+      "name": "A-characteristic",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

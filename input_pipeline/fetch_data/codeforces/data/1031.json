@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1031,
+    "name": "Technocup 2019 - Elimination Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1540109400,
+    "relativeTimeSeconds": 228245232
+  },
+  "problems": [
+    {
+      "contestId": 1031,
+      "index": "F",
+      "name": "Familiar Operations",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1031,
+      "index": "E",
+      "name": "Triple Flips",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1031,
+      "index": "D",
+      "name": "Minimum path",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1031,
+      "index": "C",
+      "name": "Cram Time",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1031,
+      "index": "B",
+      "name": "Curiosity Has No Limits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": []
+    },
+    {
+      "contestId": 1031,
+      "index": "A",
+      "name": "Golden Plate",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

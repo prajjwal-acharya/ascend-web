@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 479,
+    "name": "Codeforces Round 274 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1413709200,
+    "relativeTimeSeconds": 354645432
+  },
+  "problems": [
+    {
+      "contestId": 479,
+      "index": "E",
+      "name": "Riding in a Lift",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 479,
+      "index": "D",
+      "name": "Long Jumps",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 479,
+      "index": "C",
+      "name": "Exams",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 479,
+      "index": "B",
+      "name": "Towers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 479,
+      "index": "A",
+      "name": "Expression",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

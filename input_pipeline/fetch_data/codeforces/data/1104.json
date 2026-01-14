@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1104,
+    "name": "Codeforces Round 534 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1548167700,
+    "relativeTimeSeconds": 220186932
+  },
+  "problems": [
+    {
+      "contestId": 1104,
+      "index": "B",
+      "name": "Game with string",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1104,
+      "index": "A",
+      "name": "Splitting into digits",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

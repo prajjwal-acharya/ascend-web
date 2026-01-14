@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 234,
+    "name": "Codeforces Round 145 (Div. 2, ACM-ICPC Rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 12600,
+    "startTimeSeconds": 1350370800,
+    "relativeTimeSeconds": 417983833
+  },
+  "problems": [
+    {
+      "contestId": 234,
+      "index": "H",
+      "name": "Merging Two Decks",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "G",
+      "name": "Practice",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "F",
+      "name": "Fence",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "E",
+      "name": "Champions' League",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "D",
+      "name": "Cinema",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "C",
+      "name": "Weather",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "B",
+      "name": "Reading",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 234,
+      "index": "A",
+      "name": "Lefthanders and Righthanders ",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

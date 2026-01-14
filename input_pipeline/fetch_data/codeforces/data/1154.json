@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1154,
+    "name": "Codeforces Round 552 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1555425300,
+    "relativeTimeSeconds": 212929332
+  },
+  "problems": [
+    {
+      "contestId": 1154,
+      "index": "G",
+      "name": "Minimum Possible LCM",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "F",
+      "name": "Shovels Shop",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "E",
+      "name": "Two Teams",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "D",
+      "name": "Walking Robot",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "C",
+      "name": "Gourmet Cat",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "B",
+      "name": "Make Them Equal",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1154,
+      "index": "A",
+      "name": "Restoring Three Numbers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

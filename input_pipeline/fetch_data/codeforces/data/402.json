@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 402,
+    "name": "Codeforces Round 236 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1394983800,
+    "relativeTimeSeconds": 373370832
+  },
+  "problems": [
+    {
+      "contestId": 402,
+      "index": "E",
+      "name": "Strictly Positive Matrix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 402,
+      "index": "D",
+      "name": "Upgrading Array",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 402,
+      "index": "C",
+      "name": "Searching for Graph",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 402,
+      "index": "B",
+      "name": "Trees in a Row",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 402,
+      "index": "A",
+      "name": "Nuts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

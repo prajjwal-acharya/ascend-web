@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 416,
+    "name": "Codeforces Round 241 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1397376000,
+    "relativeTimeSeconds": 370978632
+  },
+  "problems": [
+    {
+      "contestId": 416,
+      "index": "E",
+      "name": "President's Path",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 416,
+      "index": "D",
+      "name": "Population Size",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 416,
+      "index": "C",
+      "name": "Booking System",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 416,
+      "index": "B",
+      "name": "Art Union",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 416,
+      "index": "A",
+      "name": "Guess a number!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

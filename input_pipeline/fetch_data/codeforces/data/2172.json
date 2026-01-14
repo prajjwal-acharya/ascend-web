@@ -1,0 +1,167 @@
+{
+  "contest": {
+    "id": 2172,
+    "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1763257800,
+    "relativeTimeSeconds": 5096832
+  },
+  "problems": [
+    {
+      "contestId": 2172,
+      "index": "N",
+      "name": "New Kingdom",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "M",
+      "name": "Maximum Distance To Port",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "L",
+      "name": "Maximum Color Segment",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "K",
+      "name": "Kindergarten Homework",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "J",
+      "name": "Sliding Tiles",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "I",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "H",
+      "name": "Shuffling Cards with Problem Solver 68!",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "G",
+      "name": "Gene Editor",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 2172,
+      "index": "F",
+      "name": "Cluster Computing System",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "E",
+      "name": "Number Maze",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "D",
+      "name": "Divisor Card Game",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "C",
+      "name": "Circles Are Far from Each Other",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "B",
+      "name": "Buses",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2172,
+      "index": "A",
+      "name": "ASCII Art Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

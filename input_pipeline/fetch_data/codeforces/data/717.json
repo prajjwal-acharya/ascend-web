@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 717,
+    "name": "Bubble Cup 9 - Finals [Online Mirror]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1473584400,
+    "relativeTimeSeconds": 294770232
+  },
+  "problems": [
+    {
+      "contestId": 717,
+      "index": "I",
+      "name": "Cowboy Beblop at his computer",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "H",
+      "name": "Pokermon League challenge",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "G",
+      "name": "Underfail",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "F",
+      "name": "Heroes of Making Magic III",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "E",
+      "name": "Paint it really, really dark gray",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "D",
+      "name": "Dexterina\u2019s Lab",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "games",
+        "matrices",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "C",
+      "name": "Potions Homework",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "B",
+      "name": "R3D3\u2019s Summer Adventure",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 717,
+      "index": "A",
+      "name": "Festival Organization",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

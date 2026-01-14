@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 2046,
+    "name": "Codeforces Round 990 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1733207100,
+    "relativeTimeSeconds": 35147532
+  },
+  "problems": [
+    {
+      "contestId": 2046,
+      "index": "F2",
+      "name": "Yandex Cuneiform (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "F1",
+      "name": "Yandex Cuneiform (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "E2",
+      "name": "Cheops and a Contest (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3500,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "E1",
+      "name": "Cheops and a Contest (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "D",
+      "name": "For the Emperor!",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "C",
+      "name": "Adventurers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "B",
+      "name": "Move Back at a Cost",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2046,
+      "index": "A",
+      "name": "Swap Columns and Find a Path",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

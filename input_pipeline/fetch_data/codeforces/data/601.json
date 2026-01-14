@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 601,
+    "name": "Codeforces Round 333 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1448382900,
+    "relativeTimeSeconds": 319971732
+  },
+  "problems": [
+    {
+      "contestId": 601,
+      "index": "E",
+      "name": "A Museum Robbery",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 601,
+      "index": "D",
+      "name": "Acyclic Organic Compounds",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "hashing",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 601,
+      "index": "C",
+      "name": "Kleof\u00e1\u0161 and the n-thlon",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 601,
+      "index": "B",
+      "name": "Lipshitz Sequence",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 601,
+      "index": "A",
+      "name": "The Two Routes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    }
+  ]
+}

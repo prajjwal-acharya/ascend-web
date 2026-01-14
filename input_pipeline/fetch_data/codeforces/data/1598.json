@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 1598,
+    "name": "Educational Codeforces Round 115 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1633856700,
+    "relativeTimeSeconds": 134497932
+  },
+  "problems": [
+    {
+      "contestId": 1598,
+      "index": "G",
+      "name": "The Sum of Good Numbers",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "hashing",
+        "math",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "F",
+      "name": "RBS",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "E",
+      "name": "Staircases",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "D",
+      "name": "Training Session",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "C",
+      "name": "Delete Two Elements",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "B",
+      "name": "Groups",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1598,
+      "index": "A",
+      "name": "Computer Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    }
+  ]
+}

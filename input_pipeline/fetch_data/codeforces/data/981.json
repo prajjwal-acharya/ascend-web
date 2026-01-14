@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 981,
+    "name": "Avito Code Challenge 2018",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1527432600,
+    "relativeTimeSeconds": 240922032
+  },
+  "problems": [
+    {
+      "contestId": 981,
+      "index": "H",
+      "name": "K Paths",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "G",
+      "name": "Magic multisets",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "F",
+      "name": "Round Marriage",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "E",
+      "name": "Addition on Segments",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "D",
+      "name": "Bookshelves",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "C",
+      "name": "Useful Decomposition",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "B",
+      "name": "Businessmen Problems",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 981,
+      "index": "A",
+      "name": "Antipalindrome",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1008,
+    "name": "Codeforces Round 497 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1531492500,
+    "relativeTimeSeconds": 236862132
+  },
+  "problems": [
+    {
+      "contestId": 1008,
+      "index": "B",
+      "name": "Turn the Rectangles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1008,
+      "index": "A",
+      "name": "Romaji",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1967,
+    "name": "Codeforces Round 942 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1714487700,
+    "relativeTimeSeconds": 53866932
+  },
+  "problems": [
+    {
+      "contestId": 1967,
+      "index": "F",
+      "name": "Next and Prev",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "E2",
+      "name": "Again Counting Arrays (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "E1",
+      "name": "Again Counting Arrays (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "D",
+      "name": "Long Way to be Non-decreasing",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "shortest paths",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "C",
+      "name": "Fenwick Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "B2",
+      "name": "Reverse Card (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "B1",
+      "name": "Reverse Card (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1967,
+      "index": "A",
+      "name": "Permutation Counting",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

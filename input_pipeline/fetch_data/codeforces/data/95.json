@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 95,
+    "name": "Codeforces Beta Round 77 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1310137200,
+    "relativeTimeSeconds": 458217433
+  },
+  "problems": [
+    {
+      "contestId": 95,
+      "index": "E",
+      "name": "Lucky Country",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 95,
+      "index": "D",
+      "name": "Horse Races",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 95,
+      "index": "C",
+      "name": "Volleyball",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 95,
+      "index": "B",
+      "name": "Lucky Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 95,
+      "index": "A",
+      "name": "Hockey",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

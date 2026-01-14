@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 602,
+    "name": "Codeforces Round 333 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1448382900,
+    "relativeTimeSeconds": 319971732
+  },
+  "problems": [
+    {
+      "contestId": 602,
+      "index": "B",
+      "name": "Approximating a Constant Range",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 602,
+      "index": "A",
+      "name": "Two Bases",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

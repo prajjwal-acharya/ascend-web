@@ -1,0 +1,36 @@
+{
+  "contest": {
+    "id": 169,
+    "name": "VK Cup 2012 Round 2 (Unofficial Div. 2 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1332687900,
+    "relativeTimeSeconds": 435666733
+  },
+  "problems": [
+    {
+      "contestId": 169,
+      "index": "B",
+      "name": "Replacing Digits",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 169,
+      "index": "A",
+      "name": "Chores",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "sortings"
+      ]
+    }
+  ]
+}

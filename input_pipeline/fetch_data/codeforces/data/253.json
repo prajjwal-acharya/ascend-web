@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 253,
+    "name": "Codeforces Round 154 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1354960800,
+    "relativeTimeSeconds": 413393833
+  },
+  "problems": [
+    {
+      "contestId": 253,
+      "index": "E",
+      "name": "Printer",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 253,
+      "index": "D",
+      "name": "Table with Letters - 2",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 253,
+      "index": "C",
+      "name": "Text Editor",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 253,
+      "index": "B",
+      "name": "Physics Practical",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 253,
+      "index": "A",
+      "name": "Boys and Girls",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1673,
+    "name": "Codeforces Round 785 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1651329300,
+    "relativeTimeSeconds": 117025332
+  },
+  "problems": [
+    {
+      "contestId": 1673,
+      "index": "F",
+      "name": "Anti-Theft Road Planning",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1673,
+      "index": "E",
+      "name": "Power or XOR?",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1673,
+      "index": "D",
+      "name": "Lost Arithmetic Progression",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1673,
+      "index": "C",
+      "name": "Palindrome Basis",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1673,
+      "index": "B",
+      "name": "A Perfectly Balanced String?",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1673,
+      "index": "A",
+      "name": "Subtle Substring Subtraction",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

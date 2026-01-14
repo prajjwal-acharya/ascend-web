@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 706,
+    "name": "Codeforces Round 367 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1470933300,
+    "relativeTimeSeconds": 297421332
+  },
+  "problems": [
+    {
+      "contestId": 706,
+      "index": "E",
+      "name": "Working routine",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 706,
+      "index": "D",
+      "name": "Vasiliy's Multiset",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 706,
+      "index": "C",
+      "name": "Hard problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 706,
+      "index": "B",
+      "name": "Interesting drink",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 706,
+      "index": "A",
+      "name": "Beru-taxi",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "geometry",
+        "implementation"
+      ]
+    }
+  ]
+}

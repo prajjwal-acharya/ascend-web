@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1993,
+    "name": "Codeforces Round 963 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1722782100,
+    "relativeTimeSeconds": 45572532
+  },
+  "problems": [
+    {
+      "contestId": 1993,
+      "index": "F2",
+      "name": "Dyn-scripted Robot (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2800,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "F1",
+      "name": "Dyn-scripted Robot (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "E",
+      "name": "Xor-Grid Problem",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "D",
+      "name": "Med-imize",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "C",
+      "name": "Light Switches",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "B",
+      "name": "Parity and Sum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1993,
+      "index": "A",
+      "name": "Question Marks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

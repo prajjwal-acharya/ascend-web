@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 906,
+    "name": "Codeforces Round 454 (Div. 1, based on Technocup 2018 Elimination Round 4)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1514037900,
+    "relativeTimeSeconds": 254316732
+  },
+  "problems": [
+    {
+      "contestId": 906,
+      "index": "E",
+      "name": "Reverses",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 906,
+      "index": "D",
+      "name": "Power Tower",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 906,
+      "index": "C",
+      "name": "Party",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 906,
+      "index": "B",
+      "name": "Seating of Students",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 906,
+      "index": "A",
+      "name": "Shockers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

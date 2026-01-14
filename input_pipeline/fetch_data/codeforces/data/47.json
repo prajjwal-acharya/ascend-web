@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": 47,
+    "name": "Codeforces Beta Round 44 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1291737600,
+    "relativeTimeSeconds": 476617033
+  },
+  "problems": [
+    {
+      "contestId": 47,
+      "index": "E",
+      "name": "Cannon",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 47,
+      "index": "D",
+      "name": "Safe",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 47,
+      "index": "C",
+      "name": "Crossword",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 47,
+      "index": "B",
+      "name": "Coins",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 47,
+      "index": "A",
+      "name": "Triangular numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

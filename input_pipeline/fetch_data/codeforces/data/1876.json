@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1876,
+    "name": "Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1696755900,
+    "relativeTimeSeconds": 71598732
+  },
+  "problems": [
+    {
+      "contestId": 1876,
+      "index": "G",
+      "name": "Clubstep",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "F",
+      "name": "Indefinite Clownfish",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "E",
+      "name": "Ball-Stackable",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "D",
+      "name": "Lexichromatography",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "C",
+      "name": "Autosynthesis",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "B",
+      "name": "Effects of Anti Pimples",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1876,
+      "index": "A",
+      "name": "Helmets in Night Light",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

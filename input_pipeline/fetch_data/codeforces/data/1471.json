@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 1471,
+    "name": "Codeforces Round 694 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1609857300,
+    "relativeTimeSeconds": 158497332
+  },
+  "problems": [
+    {
+      "contestId": 1471,
+      "index": "B",
+      "name": "Strange List",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1471,
+      "index": "A",
+      "name": "Strange Partition",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

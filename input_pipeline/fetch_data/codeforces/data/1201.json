@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1201,
+    "name": "Codeforces Round 577 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1564936500,
+    "relativeTimeSeconds": 203418132
+  },
+  "problems": [
+    {
+      "contestId": 1201,
+      "index": "E2",
+      "name": "Knightmare (hard)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 3000,
+      "tags": [
+        "graphs",
+        "interactive",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1201,
+      "index": "E1",
+      "name": "Knightmare (easy)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "graphs",
+        "interactive",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1201,
+      "index": "D",
+      "name": "Treasure Hunting",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1201,
+      "index": "C",
+      "name": "Maximum Median",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1201,
+      "index": "B",
+      "name": "Zero Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1201,
+      "index": "A",
+      "name": "Important Exam",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

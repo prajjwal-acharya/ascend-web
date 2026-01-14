@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 332,
+    "name": "Codeforces Round 193 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1374679800,
+    "relativeTimeSeconds": 393674832
+  },
+  "problems": [
+    {
+      "contestId": 332,
+      "index": "E",
+      "name": "Binary Key",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 332,
+      "index": "D",
+      "name": "Theft of Blueprints",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 332,
+      "index": "C",
+      "name": "Students' Revenge",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 332,
+      "index": "B",
+      "name": "Maximum Absurdity",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 332,
+      "index": "A",
+      "name": "Down the Hatch!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

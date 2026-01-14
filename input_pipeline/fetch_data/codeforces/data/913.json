@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 913,
+    "name": "Hello 2018",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1515422700,
+    "relativeTimeSeconds": 252931932
+  },
+  "problems": [
+    {
+      "contestId": 913,
+      "index": "H",
+      "name": "Don't Exceed",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3400,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "G",
+      "name": "Power Substring",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "F",
+      "name": "Strongly Connected Tournament",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "E",
+      "name": "Logical Expression",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "D",
+      "name": "Too Easy Problems",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "C",
+      "name": "Party Lemonade",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "B",
+      "name": "Christmas Spruce",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 913,
+      "index": "A",
+      "name": "Modular Exponentiation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

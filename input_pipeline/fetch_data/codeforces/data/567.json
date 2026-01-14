@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 567,
+    "name": "Codeforces Round #Pi (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1438790400,
+    "relativeTimeSeconds": 329564232
+  },
+  "problems": [
+    {
+      "contestId": 567,
+      "index": "F",
+      "name": "Mausoleum",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 567,
+      "index": "E",
+      "name": "President and Roads",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "hashing",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 567,
+      "index": "D",
+      "name": "One-Dimensional Battle Ships",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 567,
+      "index": "C",
+      "name": "Geometric Progression",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 567,
+      "index": "B",
+      "name": "Berland National Library",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 567,
+      "index": "A",
+      "name": "Lineland Mail",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

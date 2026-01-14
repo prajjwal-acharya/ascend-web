@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": 1688,
+    "name": "Codeforces Round 796 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1654266900,
+    "relativeTimeSeconds": 114087732
+  },
+  "problems": [
+    {
+      "contestId": 1688,
+      "index": "C",
+      "name": "Manipulating History",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1688,
+      "index": "B",
+      "name": "Patchouli's Magical Talisman",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1688,
+      "index": "A",
+      "name": "Cirno's Perfect Bitmasks Classroom",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    }
+  ]
+}

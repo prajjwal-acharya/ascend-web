@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 629,
+    "name": "Codeforces Round 343 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1455986100,
+    "relativeTimeSeconds": 312368532
+  },
+  "problems": [
+    {
+      "contestId": 629,
+      "index": "E",
+      "name": "Famil Door and Roads",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 629,
+      "index": "D",
+      "name": "Babaei and Birthday Cake",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 629,
+      "index": "C",
+      "name": "Famil Door and Brackets",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 629,
+      "index": "B",
+      "name": "Far Relative\u2019s Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 629,
+      "index": "A",
+      "name": "Far Relative\u2019s Birthday Cake",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

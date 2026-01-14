@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1191,
+    "name": "Codeforces Round 573 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1562942100,
+    "relativeTimeSeconds": 205412532
+  },
+  "problems": [
+    {
+      "contestId": 1191,
+      "index": "B",
+      "name": "Tokitsukaze and Mahjong",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1191,
+      "index": "A",
+      "name": "Tokitsukaze and Enhancement",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

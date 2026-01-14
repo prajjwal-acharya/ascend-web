@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1818,
+    "name": "Codeforces Round 869 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1682778900,
+    "relativeTimeSeconds": 85575732
+  },
+  "problems": [
+    {
+      "contestId": 1818,
+      "index": "B",
+      "name": "Indivisible",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1818,
+      "index": "A",
+      "name": "Politics",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": 1855,
+    "name": "Codeforces Round 889 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1690641300,
+    "relativeTimeSeconds": 77713332
+  },
+  "problems": [
+    {
+      "contestId": 1855,
+      "index": "B",
+      "name": "Longest Divisors Interval",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1855,
+      "index": "A",
+      "name": "Dalton the Teacher",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

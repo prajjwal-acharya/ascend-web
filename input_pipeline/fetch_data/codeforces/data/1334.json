@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1334,
+    "name": "Educational Codeforces Round 85 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1586529300,
+    "relativeTimeSeconds": 181825332
+  },
+  "problems": [
+    {
+      "contestId": 1334,
+      "index": "G",
+      "name": "Substring Search",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "F",
+      "name": "Strange Function",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "E",
+      "name": "Divisor Paths",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "D",
+      "name": "Minimum Euler Cycle",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "C",
+      "name": "Circle of Monsters",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "B",
+      "name": "Middle Class",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1334,
+      "index": "A",
+      "name": "Level Statistics",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

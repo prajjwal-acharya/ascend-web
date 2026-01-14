@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 1168,
+    "name": "Codeforces Round 562 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1558884900,
+    "relativeTimeSeconds": 209469732
+  },
+  "problems": [
+    {
+      "contestId": 1168,
+      "index": "E",
+      "name": "Xor Permutations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1168,
+      "index": "D",
+      "name": "Anagram Paths",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1168,
+      "index": "C",
+      "name": "And Reachability",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1168,
+      "index": "B",
+      "name": "Good Triple",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1168,
+      "index": "A",
+      "name": "Increasing by Modulo",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    }
+  ]
+}

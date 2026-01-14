@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 363,
+    "name": "Codeforces Round 211 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1384156800,
+    "relativeTimeSeconds": 384197832
+  },
+  "problems": [
+    {
+      "contestId": 363,
+      "index": "E",
+      "name": "Two Circles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 363,
+      "index": "D",
+      "name": "Renting Bikes",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 363,
+      "index": "C",
+      "name": "Fixing Typos",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 363,
+      "index": "B",
+      "name": "Fence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 363,
+      "index": "A",
+      "name": "Soroban",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

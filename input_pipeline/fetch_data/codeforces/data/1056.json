@@ -1,0 +1,120 @@
+{
+  "contest": {
+    "id": 1056,
+    "name": "Mail.Ru Cup 2018 Round 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1543163700,
+    "relativeTimeSeconds": 225190932
+  },
+  "problems": [
+    {
+      "contestId": 1056,
+      "index": "H",
+      "name": "Detect Robots",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "G",
+      "name": "Take Metro",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "F",
+      "name": "Write The Contest",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "E",
+      "name": "Check Transcription",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "D",
+      "name": "Decorate Apple Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "C",
+      "name": "Pick Heroes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "implementation",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "B",
+      "name": "Divide Candies",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1056,
+      "index": "A",
+      "name": "Determine Line",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 869,
+    "name": "Codeforces Round 439 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1507296900,
+    "relativeTimeSeconds": 261057732
+  },
+  "problems": [
+    {
+      "contestId": 869,
+      "index": "E",
+      "name": "The Untended Antiquity",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 869,
+      "index": "D",
+      "name": "The Overdosing Ubiquity",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 869,
+      "index": "C",
+      "name": "The Intriguing Obsession",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 869,
+      "index": "B",
+      "name": "The Eternal Immortality",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 869,
+      "index": "A",
+      "name": "The Artful Expedient",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

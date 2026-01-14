@@ -1,0 +1,126 @@
+{
+  "contest": {
+    "id": 1770,
+    "name": "Good Bye 2022: 2023 is NEAR",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1672410900,
+    "relativeTimeSeconds": 95943732
+  },
+  "problems": [
+    {
+      "contestId": 1770,
+      "index": "H",
+      "name": "Koxia, Mahiru and Winter Festival",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "G",
+      "name": "Koxia and Bracket",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3400,
+      "tags": [
+        "divide and conquer",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "F",
+      "name": "Koxia and Sequence",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "E",
+      "name": "Koxia and Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "D",
+      "name": "Koxia and Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "flows",
+        "games",
+        "graph matchings",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "C",
+      "name": "Koxia and Number Theory",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "B",
+      "name": "Koxia and Permutation",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1770,
+      "index": "A",
+      "name": "Koxia and Whiteboards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 476,
+    "name": "Codeforces Round 272 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1413122400,
+    "relativeTimeSeconds": 355232232
+  },
+  "problems": [
+    {
+      "contestId": 476,
+      "index": "E",
+      "name": "Dreamoon and Strings",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 476,
+      "index": "D",
+      "name": "Dreamoon and Sets",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 476,
+      "index": "C",
+      "name": "Dreamoon and Sums",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 476,
+      "index": "B",
+      "name": "Dreamoon and WiFi",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 476,
+      "index": "A",
+      "name": "Dreamoon and Stairs",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "contest": {
+    "id": 2184,
+    "name": "Codeforces Round 1072 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1768228500,
+    "relativeTimeSeconds": 126131
+  },
+  "problems": [
+    {
+      "contestId": 2184,
+      "index": "G",
+      "name": "Nastiness of Segments",
+      "type": "PROGRAMMING",
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "F",
+      "name": "Cherry Tree",
+      "type": "PROGRAMMING",
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "E",
+      "name": "Exquisite Array",
+      "type": "PROGRAMMING",
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "D",
+      "name": "Unfair Game",
+      "type": "PROGRAMMING",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "C",
+      "name": "Huge Pile",
+      "type": "PROGRAMMING",
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "B",
+      "name": "Hourglass",
+      "type": "PROGRAMMING",
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2184,
+      "index": "A",
+      "name": "Social Experiment",
+      "type": "PROGRAMMING",
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 303,
+    "name": "Codeforces Round 183 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1368363600,
+    "relativeTimeSeconds": 399991033
+  },
+  "problems": [
+    {
+      "contestId": 303,
+      "index": "E",
+      "name": "Random Ranking",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 303,
+      "index": "D",
+      "name": "Rotatable Number",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 303,
+      "index": "C",
+      "name": "Minimum Modular",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 303,
+      "index": "B",
+      "name": "Rectangle Puzzle II",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 303,
+      "index": "A",
+      "name": "Lucky Permutation Triple",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

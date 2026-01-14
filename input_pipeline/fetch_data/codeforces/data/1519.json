@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1519,
+    "name": "Educational Codeforces Round 108 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1619706900,
+    "relativeTimeSeconds": 148647732
+  },
+  "problems": [
+    {
+      "contestId": 1519,
+      "index": "F",
+      "name": "Chests and Keys",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1519,
+      "index": "E",
+      "name": "Off by One",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "geometry",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1519,
+      "index": "D",
+      "name": "Maximum Sum of Products",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1519,
+      "index": "C",
+      "name": "Berland Regional",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1519,
+      "index": "B",
+      "name": "The Cake Is a Lie",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1519,
+      "index": "A",
+      "name": "Red and Blue Beans",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

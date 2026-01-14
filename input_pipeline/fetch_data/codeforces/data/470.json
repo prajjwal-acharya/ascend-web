@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 470,
+    "name": "Surprise Language Round 7",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1410622200,
+    "relativeTimeSeconds": 357732432
+  },
+  "problems": [
+    {
+      "contestId": 470,
+      "index": "H",
+      "name": "Array Sorting",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "G",
+      "name": "Hamming Distance",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "F",
+      "name": "Pairwise Sums",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "E",
+      "name": "Chessboard",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "D",
+      "name": "Caesar Cipher",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "C",
+      "name": "Eval",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "B",
+      "name": "Hexakosioihexekontahexaphobia",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 470,
+      "index": "A",
+      "name": "Crystal Ball Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    }
+  ]
+}

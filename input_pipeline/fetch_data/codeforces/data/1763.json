@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1763,
+    "name": "Codeforces Round 840 (Div. 2) and Enigma 2022 - Cybros LNMIIT",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1671460500,
+    "relativeTimeSeconds": 96894132
+  },
+  "problems": [
+    {
+      "contestId": 1763,
+      "index": "F",
+      "name": "Edge Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1763,
+      "index": "E",
+      "name": "Node Pairs",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1763,
+      "index": "D",
+      "name": "Valid Bitonic Permutations",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1763,
+      "index": "C",
+      "name": "Another Array Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1763,
+      "index": "B",
+      "name": "Incinerate",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1763,
+      "index": "A",
+      "name": "Absolute Maximization",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

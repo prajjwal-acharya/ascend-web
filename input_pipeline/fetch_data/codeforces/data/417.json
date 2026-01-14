@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 417,
+    "name": "RCC 2014 Warmup (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1397749200,
+    "relativeTimeSeconds": 370605432
+  },
+  "problems": [
+    {
+      "contestId": 417,
+      "index": "E",
+      "name": "Square Table",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 417,
+      "index": "D",
+      "name": "Cunning Gena",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 417,
+      "index": "C",
+      "name": "Football",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 417,
+      "index": "B",
+      "name": "Crash",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 417,
+      "index": "A",
+      "name": "Elimination",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

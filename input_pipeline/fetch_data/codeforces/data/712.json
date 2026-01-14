@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 712,
+    "name": "Codeforces Round 370 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1473525900,
+    "relativeTimeSeconds": 294828732
+  },
+  "problems": [
+    {
+      "contestId": 712,
+      "index": "E",
+      "name": "Memory and Casinos",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 712,
+      "index": "D",
+      "name": "Memory and Scores",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 712,
+      "index": "C",
+      "name": "Memory and De-Evolution",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 712,
+      "index": "B",
+      "name": "Memory and Trident",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 712,
+      "index": "A",
+      "name": "Memory and Crow",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

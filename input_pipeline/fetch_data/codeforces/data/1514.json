@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1514,
+    "name": "Codeforces Round 716 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1618839300,
+    "relativeTimeSeconds": 149515332
+  },
+  "problems": [
+    {
+      "contestId": 1514,
+      "index": "E",
+      "name": "Baby Ehab's Hyper Apartment",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "graphs",
+        "interactive",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1514,
+      "index": "D",
+      "name": "Cut and Stick",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1514,
+      "index": "C",
+      "name": "Product 1 Modulo N",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1514,
+      "index": "B",
+      "name": "AND 0, Sum Big",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1514,
+      "index": "A",
+      "name": "Perfectly Imperfect Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

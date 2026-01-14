@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": 1217,
+    "name": "Educational Codeforces Round 72 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1567694100,
+    "relativeTimeSeconds": 200660532
+  },
+  "problems": [
+    {
+      "contestId": 1217,
+      "index": "F",
+      "name": "Forced Online Queries Problem",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1217,
+      "index": "E",
+      "name": "Sum Queries?",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1217,
+      "index": "D",
+      "name": "Coloring Edges",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1217,
+      "index": "C",
+      "name": "The Number Of Good Substrings",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1217,
+      "index": "B",
+      "name": "Zmei Gorynich",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1217,
+      "index": "A",
+      "name": "Creating a Character",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    }
+  ]
+}

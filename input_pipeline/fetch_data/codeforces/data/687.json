@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 687,
+    "name": "Codeforces Round 360 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1467219900,
+    "relativeTimeSeconds": 301134732
+  },
+  "problems": [
+    {
+      "contestId": 687,
+      "index": "E",
+      "name": "TOF",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 687,
+      "index": "D",
+      "name": "Dividing Kingdom II",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 687,
+      "index": "C",
+      "name": "The Values You Can Make",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 687,
+      "index": "B",
+      "name": "Remainders Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 687,
+      "index": "A",
+      "name": "NP-Hard Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    }
+  ]
+}

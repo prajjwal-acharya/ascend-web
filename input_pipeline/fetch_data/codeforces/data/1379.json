@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1379,
+    "name": "Codeforces Round 657 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1595149200,
+    "relativeTimeSeconds": 173205432
+  },
+  "problems": [
+    {
+      "contestId": 1379,
+      "index": "F2",
+      "name": "Chess Strikes Back (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "F1",
+      "name": "Chess Strikes Back (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "E",
+      "name": "Inverse Genealogy",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "D",
+      "name": "New Passenger Trams",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "C",
+      "name": "Choosing flowers",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "B",
+      "name": "Dubious Cyrpto",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1379,
+      "index": "A",
+      "name": "Acacius and String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "contest": {
+    "id": 506,
+    "name": "Codeforces Round 286 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1421586000,
+    "relativeTimeSeconds": 346768632
+  },
+  "problems": [
+    {
+      "contestId": 506,
+      "index": "E",
+      "name": "Mr. Kitayuta's Gift",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "matrices",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 506,
+      "index": "D",
+      "name": "Mr. Kitayuta's Colorful Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    }
+  ]
+}

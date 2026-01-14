@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": 792,
+    "name": "Educational Codeforces Round 18",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1490625300,
+    "relativeTimeSeconds": 277729332
+  },
+  "problems": [
+    {
+      "contestId": 792,
+      "index": "F",
+      "name": "Mages and Monsters",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 792,
+      "index": "E",
+      "name": "Colored Balls",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 792,
+      "index": "D",
+      "name": "Paths in a Complete Binary Tree",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 792,
+      "index": "C",
+      "name": "Divide by Three",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 792,
+      "index": "B",
+      "name": "Counting-out Rhyme",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 792,
+      "index": "A",
+      "name": "New Bus Route",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

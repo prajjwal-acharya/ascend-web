@@ -1,0 +1,111 @@
+{
+  "contest": {
+    "id": 2014,
+    "name": "Codeforces Round 974 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1726929900,
+    "relativeTimeSeconds": 41424732
+  },
+  "problems": [
+    {
+      "contestId": 2014,
+      "index": "H",
+      "name": "Robin Hood Archery",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "G",
+      "name": "Milky Days",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "F",
+      "name": "Sheriff's Defense",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "E",
+      "name": "Rendez-vous de Marian et Robin",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "D",
+      "name": "Robert Hood and Mrs Hood",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "C",
+      "name": "Robin Hood in Town",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "B",
+      "name": "Robin Hood and the Major Oak",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2014,
+      "index": "A",
+      "name": "Robin Helps",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

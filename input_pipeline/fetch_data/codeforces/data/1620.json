@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1620,
+    "name": "Educational Codeforces Round 119 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1639841700,
+    "relativeTimeSeconds": 128512932
+  },
+  "problems": [
+    {
+      "contestId": 1620,
+      "index": "G",
+      "name": "Subsequences Galore",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "F",
+      "name": "Bipartite Array",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "E",
+      "name": "Replace the Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "D",
+      "name": "Exact Change",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "C",
+      "name": "BA-String",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "B",
+      "name": "Triangles on a Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1620,
+      "index": "A",
+      "name": "Equal or Not Equal",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "implementation"
+      ]
+    }
+  ]
+}

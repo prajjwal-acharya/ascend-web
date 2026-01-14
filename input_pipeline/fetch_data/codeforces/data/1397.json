@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1397,
+    "name": "Codeforces Round 666 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1598798100,
+    "relativeTimeSeconds": 169556532
+  },
+  "problems": [
+    {
+      "contestId": 1397,
+      "index": "B",
+      "name": "Power Sequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1397,
+      "index": "A",
+      "name": "Juggling Letters",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

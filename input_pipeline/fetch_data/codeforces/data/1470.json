@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1470,
+    "name": "Codeforces Round 694 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1609857300,
+    "relativeTimeSeconds": 158497332
+  },
+  "problems": [
+    {
+      "contestId": 1470,
+      "index": "F",
+      "name": "Strange Covering",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3500,
+      "tags": [
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 1470,
+      "index": "E",
+      "name": "Strange Permutation",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "graphs",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1470,
+      "index": "D",
+      "name": "Strange Housing",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graph matchings",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1470,
+      "index": "C",
+      "name": "Strange Shuffle",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1470,
+      "index": "B",
+      "name": "Strange Definition",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "graphs",
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1470,
+      "index": "A",
+      "name": "Strange Birthday Party",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    }
+  ]
+}

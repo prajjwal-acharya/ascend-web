@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1445,
+    "name": "Codeforces Round 680 (Div. 2, based on Moscow Team Olympiad)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1604228700,
+    "relativeTimeSeconds": 164125932
+  },
+  "problems": [
+    {
+      "contestId": 1445,
+      "index": "B",
+      "name": "Elimination",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1445,
+      "index": "A",
+      "name": "Array Rearrangment",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

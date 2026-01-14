@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 611,
+    "name": "Good Bye 2015",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1451487900,
+    "relativeTimeSeconds": 316866732
+  },
+  "problems": [
+    {
+      "contestId": 611,
+      "index": "H",
+      "name": "New Year  and Forgotten Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "G",
+      "name": "New Year and Cake",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "F",
+      "name": "New Year and Cleaning",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "E",
+      "name": "New Year and Three Musketeers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "D",
+      "name": "New Year and Ancient Prophecy",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "C",
+      "name": "New Year and Domino",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "B",
+      "name": "New Year and Old Property",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 611,
+      "index": "A",
+      "name": "New Year and Days",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

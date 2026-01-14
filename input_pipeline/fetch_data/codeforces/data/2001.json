@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 2001,
+    "name": "Codeforces Round 967 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1724164500,
+    "relativeTimeSeconds": 44190132
+  },
+  "problems": [
+    {
+      "contestId": 2001,
+      "index": "E2",
+      "name": "Deterministic Heap (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2001,
+      "index": "E1",
+      "name": "Deterministic Heap (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2001,
+      "index": "D",
+      "name": "Longest Max Min Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2001,
+      "index": "C",
+      "name": "Guess The Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2001,
+      "index": "B",
+      "name": "Generate Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2001,
+      "index": "A",
+      "name": "Make All Equal",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

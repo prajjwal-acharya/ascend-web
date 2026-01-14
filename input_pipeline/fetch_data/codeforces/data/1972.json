@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1972,
+    "name": "Codeforces Round 942 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1714487700,
+    "relativeTimeSeconds": 53866932
+  },
+  "problems": [
+    {
+      "contestId": 1972,
+      "index": "B",
+      "name": "Coin Games",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1972,
+      "index": "A",
+      "name": "Contest Proposal",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    }
+  ]
+}

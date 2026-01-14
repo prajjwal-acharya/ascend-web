@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1858,
+    "name": "Codeforces Round 893 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1692110100,
+    "relativeTimeSeconds": 76244532
+  },
+  "problems": [
+    {
+      "contestId": 1858,
+      "index": "E2",
+      "name": "Rollbacks (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1858,
+      "index": "E1",
+      "name": "Rollbacks (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1858,
+      "index": "D",
+      "name": "Trees and Segments",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1858,
+      "index": "C",
+      "name": "Yet Another Permutation Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1858,
+      "index": "B",
+      "name": "The Walkway",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1858,
+      "index": "A",
+      "name": "Buttons",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

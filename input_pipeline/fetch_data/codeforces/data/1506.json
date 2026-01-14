@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1506,
+    "name": "Codeforces Round 710 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1616682900,
+    "relativeTimeSeconds": 151671732
+  },
+  "problems": [
+    {
+      "contestId": 1506,
+      "index": "G",
+      "name": "Maximize the Remaining String",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "F",
+      "name": "Triangular Paths",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "E",
+      "name": "Restoring the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "D",
+      "name": "Epic Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "C",
+      "name": "Double-ended Strings",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "B",
+      "name": "Partial Replacement",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1506,
+      "index": "A",
+      "name": "Strange Table",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

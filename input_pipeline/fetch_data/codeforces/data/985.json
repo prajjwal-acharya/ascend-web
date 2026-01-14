@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 985,
+    "name": "Educational Codeforces Round 44 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1526913900,
+    "relativeTimeSeconds": 241440732
+  },
+  "problems": [
+    {
+      "contestId": 985,
+      "index": "G",
+      "name": "Team Players",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "F",
+      "name": "Isomorphic Strings",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "E",
+      "name": "Pencils and Boxes",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "D",
+      "name": "Sand Fortress",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "C",
+      "name": "Liebig's Barrels",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "B",
+      "name": "Switches and Lamps",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 985,
+      "index": "A",
+      "name": "Chess Placing",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

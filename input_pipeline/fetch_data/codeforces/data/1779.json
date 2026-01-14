@@ -1,0 +1,121 @@
+{
+  "contest": {
+    "id": 1779,
+    "name": "Hello 2023",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1672756500,
+    "relativeTimeSeconds": 95598132
+  },
+  "problems": [
+    {
+      "contestId": 1779,
+      "index": "H",
+      "name": "Olympic Team Building",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "brute force",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "G",
+      "name": "The Game of the Century",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "F",
+      "name": "Xorcerer's Stones",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "E",
+      "name": "Anya's Simultaneous Exhibition",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "D",
+      "name": "Boris and His Amazing Haircut",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "C",
+      "name": "Least Prefix Sum",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "B",
+      "name": "MKnez's ConstructiveForces Task",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1779,
+      "index": "A",
+      "name": "Hall of Fame",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

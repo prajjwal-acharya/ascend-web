@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": 1362,
+    "name": "Codeforces Round 647 (Div. 2) - Thanks, Algo Muse!",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1591281300,
+    "relativeTimeSeconds": 177073332
+  },
+  "problems": [
+    {
+      "contestId": 1362,
+      "index": "C",
+      "name": "Johnny and Another Rating Drop",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1362,
+      "index": "B",
+      "name": "Johnny and His Hobbies",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1362,
+      "index": "A",
+      "name": "Johnny and Ancient Computer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1251,
+    "name": "Educational Codeforces Round 75 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1571929500,
+    "relativeTimeSeconds": 196425132
+  },
+  "problems": [
+    {
+      "contestId": 1251,
+      "index": "F",
+      "name": "Red-White Fence",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "E2",
+      "name": "Voting (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "E1",
+      "name": "Voting (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "D",
+      "name": "Salary Changing",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "C",
+      "name": "Minimize The Integer",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "B",
+      "name": "Binary Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1251,
+      "index": "A",
+      "name": "Broken Keyboard",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "strings",
+        "two pointers"
+      ]
+    }
+  ]
+}

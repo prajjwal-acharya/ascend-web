@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 275,
+    "name": "Codeforces Round 168 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1361374200,
+    "relativeTimeSeconds": 406980433
+  },
+  "problems": [
+    {
+      "contestId": 275,
+      "index": "B",
+      "name": "Convex Shape",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 275,
+      "index": "A",
+      "name": "Lights Out",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

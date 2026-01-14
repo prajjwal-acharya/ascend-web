@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 299,
+    "name": "Croc Champ 2013 - Round 2 (Div. 2 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1366644600,
+    "relativeTimeSeconds": 401710033
+  },
+  "problems": [
+    {
+      "contestId": 299,
+      "index": "B",
+      "name": "Ksusha the Squirrel",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 299,
+      "index": "A",
+      "name": "Ksusha and Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "number theory",
+        "sortings"
+      ]
+    }
+  ]
+}

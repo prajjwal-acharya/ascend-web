@@ -1,0 +1,140 @@
+{
+  "contest": {
+    "id": 1975,
+    "name": "Codeforces Round 947 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1716647700,
+    "relativeTimeSeconds": 51706932
+  },
+  "problems": [
+    {
+      "contestId": 1975,
+      "index": "I",
+      "name": "Mind Bloom",
+      "type": "PROGRAMMING",
+      "points": 6000.0,
+      "rating": 3500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "H",
+      "name": "378QAQ and Core",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "G",
+      "name": "Zimpha Fan Club",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "fft",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "F",
+      "name": "Set",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "E",
+      "name": "Chain Queries",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "D",
+      "name": "Paint the Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "C",
+      "name": "Chamo and Mocha's Array",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "B",
+      "name": "378QAQ and Mocha's Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1975,
+      "index": "A",
+      "name": "Bazoka and Mocha's Array",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

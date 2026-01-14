@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 804,
+    "name": "Codeforces Round 411 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1493909400,
+    "relativeTimeSeconds": 274445232
+  },
+  "problems": [
+    {
+      "contestId": 804,
+      "index": "F",
+      "name": "Fake bullions",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3400,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 804,
+      "index": "E",
+      "name": "The same permutation ",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 804,
+      "index": "D",
+      "name": "Expected diameter of a tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 804,
+      "index": "C",
+      "name": "Ice cream coloring",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 804,
+      "index": "B",
+      "name": "Minimum number of steps",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 804,
+      "index": "A",
+      "name": "Find Amir",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

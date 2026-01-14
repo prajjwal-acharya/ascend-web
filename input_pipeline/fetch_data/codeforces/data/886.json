@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 886,
+    "name": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2018 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0420\u0430\u0443\u043d\u0434 3",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1510502700,
+    "relativeTimeSeconds": 257851932
+  },
+  "problems": [
+    {
+      "contestId": 886,
+      "index": "F",
+      "name": "Symmetric Projections",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 886,
+      "index": "E",
+      "name": "Maximum Element",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 886,
+      "index": "D",
+      "name": "Restoration of string",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 886,
+      "index": "C",
+      "name": "Petya and Catacombs",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 886,
+      "index": "B",
+      "name": "Vlad and Cafes",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": []
+    },
+    {
+      "contestId": 886,
+      "index": "A",
+      "name": "ACM ICPC",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

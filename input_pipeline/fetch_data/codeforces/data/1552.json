@@ -1,0 +1,139 @@
+{
+  "contest": {
+    "id": 1552,
+    "name": "Codeforces Global Round 15",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9900,
+    "startTimeSeconds": 1627223700,
+    "relativeTimeSeconds": 141130932
+  },
+  "problems": [
+    {
+      "contestId": 1552,
+      "index": "I",
+      "name": "Organizing a Music Festival",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3400,
+      "tags": [
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "H",
+      "name": "Guess the Perimeter",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "interactive",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "G",
+      "name": "A Serious Referee",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "F",
+      "name": "Telepanting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "E",
+      "name": "Colors and Intervals",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "D",
+      "name": "Array Differentiation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "C",
+      "name": "Maximize the Intersections",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "B",
+      "name": "Running for Gold",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1552,
+      "index": "A",
+      "name": "Subsequence Permutation",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "sortings",
+        "strings"
+      ]
+    }
+  ]
+}

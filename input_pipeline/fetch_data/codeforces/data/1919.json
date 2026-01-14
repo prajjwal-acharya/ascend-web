@@ -1,0 +1,134 @@
+{
+  "contest": {
+    "id": 1919,
+    "name": "Hello 2024",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1704551700,
+    "relativeTimeSeconds": 63802932
+  },
+  "problems": [
+    {
+      "contestId": 1919,
+      "index": "H",
+      "name": "Tree Diameter",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 2000,
+      "tags": [
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "G",
+      "name": "Tree LGM",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "F2",
+      "name": "Wine Factory (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dp",
+        "flows",
+        "greedy",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "F1",
+      "name": "Wine Factory (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "E",
+      "name": "Counting Prefixes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "D",
+      "name": "01 Tree",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dsu",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "C",
+      "name": "Grouping Increases",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "B",
+      "name": "Plus-Minus Split",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1919,
+      "index": "A",
+      "name": "Wallet Exchange",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "contest": {
+    "id": 421,
+    "name": "Coder-Strike 2014 - Finals (online edition, Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1398168900,
+    "relativeTimeSeconds": 370185732
+  },
+  "problems": [
+    {
+      "contestId": 421,
+      "index": "D",
+      "name": "Bug in Code",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 421,
+      "index": "A",
+      "name": "Pasha and Hamsters",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

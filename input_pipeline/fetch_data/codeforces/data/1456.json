@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": 1456,
+    "name": "Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1606633500,
+    "relativeTimeSeconds": 161721132
+  },
+  "problems": [
+    {
+      "contestId": 1456,
+      "index": "E",
+      "name": "XOR-ranges",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "contest": {
+    "id": 1800,
+    "name": "Codeforces Round 855 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1677767700,
+    "relativeTimeSeconds": 90586932
+  },
+  "problems": [
+    {
+      "contestId": 1800,
+      "index": "G",
+      "name": "Symmetree",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "hashing",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "F",
+      "name": "Dasha and Nightmares",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "hashing",
+        "meet-in-the-middle",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "E2",
+      "name": "Unforgivable Curse (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "E1",
+      "name": "Unforgivable Curse (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "D",
+      "name": "Remove Two Letters",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "C2",
+      "name": "Powering the Hero (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "C1",
+      "name": "Powering the Hero (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "B",
+      "name": "Count the Number of Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1800,
+      "index": "A",
+      "name": "Is It a Cat?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

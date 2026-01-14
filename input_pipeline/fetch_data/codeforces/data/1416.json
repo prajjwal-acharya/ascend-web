@@ -1,0 +1,103 @@
+{
+  "contest": {
+    "id": 1416,
+    "name": "Codeforces Round 673 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1601219100,
+    "relativeTimeSeconds": 167135532
+  },
+  "problems": [
+    {
+      "contestId": 1416,
+      "index": "F",
+      "name": "Showing Off",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3300,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1416,
+      "index": "E",
+      "name": "Split",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1416,
+      "index": "D",
+      "name": "Graph and Queries",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1416,
+      "index": "C",
+      "name": "XOR Inverse",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "math",
+        "sortings",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1416,
+      "index": "B",
+      "name": "Make Them Equal",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1416,
+      "index": "A",
+      "name": "k-Amazing Numbers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

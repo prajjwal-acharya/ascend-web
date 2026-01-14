@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 2095,
+    "name": "April Fools Day Contest 2025",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1743518100,
+    "relativeTimeSeconds": 24836532
+  },
+  "problems": [
+    {
+      "contestId": 2095,
+      "index": "J",
+      "name": "Premiere at a Wrong Time",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "I",
+      "name": "Mysterious Script",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "expression parsing",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "H",
+      "name": "Blurry Vision",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "G",
+      "name": "Definitely a Geometry Problem",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "F",
+      "name": "\u2153 \u043ef \u0430 \u0420r\u043ebl\u0435m",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "E",
+      "name": "Pair Count",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "D",
+      "name": "Where Am I?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "C",
+      "name": "Would It Be Unrated?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "binary search",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "B",
+      "name": "Plinko",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "games",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2095,
+      "index": "A",
+      "name": "Piecing It Together",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "string suffix structures"
+      ]
+    }
+  ]
+}

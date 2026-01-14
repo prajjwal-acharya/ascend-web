@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": 390,
+    "name": "Codeforces Round 229 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1392132600,
+    "relativeTimeSeconds": 376222032
+  },
+  "problems": [
+    {
+      "contestId": 390,
+      "index": "E",
+      "name": "Inna and Large Sweet Matrix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "tags": []
+    },
+    {
+      "contestId": 390,
+      "index": "D",
+      "name": "Inna and Sweet Matrix",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 390,
+      "index": "C",
+      "name": "Inna and Candy Boxes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 390,
+      "index": "B",
+      "name": "Inna, Dima and Song",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 390,
+      "index": "A",
+      "name": "Inna and Alarm Clock",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

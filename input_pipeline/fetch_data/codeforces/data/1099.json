@@ -1,0 +1,66 @@
+{
+  "contest": {
+    "id": 1099,
+    "name": "Codeforces Round 530 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1546706100,
+    "relativeTimeSeconds": 221648532
+  },
+  "problems": [
+    {
+      "contestId": 1099,
+      "index": "F",
+      "name": "Cookies",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1099,
+      "index": "C",
+      "name": "Postcard",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1099,
+      "index": "B",
+      "name": "Squares and Segments",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1099,
+      "index": "A",
+      "name": "Snowball",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

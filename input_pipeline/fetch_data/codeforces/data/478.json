@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 478,
+    "name": "Codeforces Round 273 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1413474000,
+    "relativeTimeSeconds": 354880632
+  },
+  "problems": [
+    {
+      "contestId": 478,
+      "index": "E",
+      "name": "Wavy numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "meet-in-the-middle",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 478,
+      "index": "D",
+      "name": "Red-Green Towers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 478,
+      "index": "C",
+      "name": "Table Decorations",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 478,
+      "index": "B",
+      "name": "Random Teams",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 478,
+      "index": "A",
+      "name": "Initial Bet",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

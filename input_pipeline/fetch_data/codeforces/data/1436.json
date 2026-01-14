@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 1436,
+    "name": "Codeforces Round 678 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7800,
+    "startTimeSeconds": 1603548300,
+    "relativeTimeSeconds": 164806332
+  },
+  "problems": [
+    {
+      "contestId": 1436,
+      "index": "F",
+      "name": "Sum Over Subsets",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1436,
+      "index": "E",
+      "name": "Complicated Computations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1436,
+      "index": "D",
+      "name": "Bandit in a City",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1436,
+      "index": "C",
+      "name": "Binary Search",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1436,
+      "index": "B",
+      "name": "Prime Square",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1436,
+      "index": "A",
+      "name": "Reorder",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

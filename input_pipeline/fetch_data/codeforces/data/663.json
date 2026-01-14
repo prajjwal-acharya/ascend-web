@@ -1,0 +1,28 @@
+{
+  "contest": {
+    "id": 663,
+    "name": "Codeforces Round 347 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1460824500,
+    "relativeTimeSeconds": 307530132
+  },
+  "problems": [
+    {
+      "contestId": 663,
+      "index": "A",
+      "name": "Rebus",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "expression parsing",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

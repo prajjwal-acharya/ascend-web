@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 87,
+    "name": "Codeforces Beta Round 73 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1307458800,
+    "relativeTimeSeconds": 460895833
+  },
+  "problems": [
+    {
+      "contestId": 87,
+      "index": "E",
+      "name": "Mogohu-Rea Idol",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 87,
+      "index": "D",
+      "name": "Beautiful Road",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 87,
+      "index": "C",
+      "name": "Interesting Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 87,
+      "index": "B",
+      "name": "Vasya and Types",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 87,
+      "index": "A",
+      "name": "Trains",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

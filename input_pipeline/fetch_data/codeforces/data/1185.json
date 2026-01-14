@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 1185,
+    "name": "Codeforces Round 568 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1560955500,
+    "relativeTimeSeconds": 207399132
+  },
+  "problems": [
+    {
+      "contestId": 1185,
+      "index": "G2",
+      "name": "Playlist for Polycarp (hard version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "G1",
+      "name": "Playlist for Polycarp (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "F",
+      "name": "Two Pizzas",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "E",
+      "name": "Polycarp and Snakes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "D",
+      "name": "Extra Element",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "C2",
+      "name": "Exam in BerSU (hard version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "C1",
+      "name": "Exam in BerSU (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "B",
+      "name": "Email from Polycarp",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1185,
+      "index": "A",
+      "name": "Ropewalkers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

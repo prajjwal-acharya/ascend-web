@@ -1,0 +1,150 @@
+{
+  "contest": {
+    "id": 2157,
+    "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1763890500,
+    "relativeTimeSeconds": 4464132
+  },
+  "problems": [
+    {
+      "contestId": 2157,
+      "index": "I",
+      "name": "Hyper Smawk Bros",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "H",
+      "name": "Keygen 3",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "G",
+      "name": "Isaac's Queries",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "interactive",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "F",
+      "name": "Git Gud",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "divide and conquer",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "E",
+      "name": "Adjusting Drones",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "D",
+      "name": "Billion Players Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "C",
+      "name": "Meximum Array 2",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "B",
+      "name": "Expansion Plan 2",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2157,
+      "index": "A",
+      "name": "Dungeon Equilibrium",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

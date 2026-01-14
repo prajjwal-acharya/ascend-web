@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1883,
+    "name": "Codeforces Round 905 (Div. 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1697972700,
+    "relativeTimeSeconds": 70381932
+  },
+  "problems": [
+    {
+      "contestId": 1883,
+      "index": "G2",
+      "name": "Dances (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "G1",
+      "name": "Dances (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "F",
+      "name": "You Are So Beautiful",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 1400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "E",
+      "name": "Look Back",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "D",
+      "name": "In Love",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "C",
+      "name": "Raspberries",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "B",
+      "name": "Chemistry",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1883,
+      "index": "A",
+      "name": "Morning",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

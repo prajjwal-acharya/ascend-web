@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1150,
+    "name": "Codeforces Round 556 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1556548500,
+    "relativeTimeSeconds": 211806132
+  },
+  "problems": [
+    {
+      "contestId": 1150,
+      "index": "B",
+      "name": "Tiling Challenge",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1150,
+      "index": "A",
+      "name": "Stock Arbitraging",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

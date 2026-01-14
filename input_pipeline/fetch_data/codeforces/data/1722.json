@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": 1722,
+    "name": "Codeforces Round 817 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1661871000,
+    "relativeTimeSeconds": 106483632
+  },
+  "problems": [
+    {
+      "contestId": 1722,
+      "index": "G",
+      "name": "Even-Odd XOR",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "F",
+      "name": "L-shapes",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "dfs and similar",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "E",
+      "name": "Counting Rectangles",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "D",
+      "name": "Line",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "C",
+      "name": "Word Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "B",
+      "name": "Colourblindness",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1722,
+      "index": "A",
+      "name": "Spell Check",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

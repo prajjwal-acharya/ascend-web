@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 582,
+    "name": "Codeforces Round 323 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1443890700,
+    "relativeTimeSeconds": 324463932
+  },
+  "problems": [
+    {
+      "contestId": 582,
+      "index": "E",
+      "name": "Boolean Function",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "expression parsing"
+      ]
+    },
+    {
+      "contestId": 582,
+      "index": "D",
+      "name": "Number of Binominal Coefficients",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 582,
+      "index": "C",
+      "name": "Superior Periodic Subarrays",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 582,
+      "index": "B",
+      "name": "Once Again...",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 582,
+      "index": "A",
+      "name": "GCD Table",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    }
+  ]
+}

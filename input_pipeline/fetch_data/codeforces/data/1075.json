@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1075,
+    "name": "Lyft Level 5 Challenge 2018 - Final Round (Open Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1541355000,
+    "relativeTimeSeconds": 226999632
+  },
+  "problems": [
+    {
+      "contestId": 1075,
+      "index": "B",
+      "name": "Taxi drivers and Lyft",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1075,
+      "index": "A",
+      "name": "The King's Race",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

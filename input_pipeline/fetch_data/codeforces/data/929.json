@@ -1,0 +1,61 @@
+{
+  "contest": {
+    "id": 929,
+    "name": "VK Cup 2018 - \u041a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 86400,
+    "startTimeSeconds": 1520004900,
+    "relativeTimeSeconds": 248349732
+  },
+  "problems": [
+    {
+      "contestId": 929,
+      "index": "D",
+      "name": "\u041f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u044b\u0435 \u0432\u0440\u0430\u0442\u0430",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": []
+    },
+    {
+      "contestId": 929,
+      "index": "C",
+      "name": "\u041a\u0440\u0430\u0441\u0438\u0432\u0430\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "*special",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 929,
+      "index": "B",
+      "name": "\u041c\u0435\u0441\u0442\u0430 \u0432 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u0435",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "*special",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 929,
+      "index": "A",
+      "name": "\u041f\u0440\u043e\u043a\u0430\u0442 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043e\u0432",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "*special",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

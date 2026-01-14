@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 366,
+    "name": "Codeforces Round 214 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1385307000,
+    "relativeTimeSeconds": 383047632
+  },
+  "problems": [
+    {
+      "contestId": 366,
+      "index": "E",
+      "name": "Dima and Magic Guitar",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 366,
+      "index": "D",
+      "name": "Dima and Trap Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "shortest paths",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 366,
+      "index": "C",
+      "name": "Dima and Salad",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 366,
+      "index": "B",
+      "name": "Dima and To-do List",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 366,
+      "index": "A",
+      "name": "Dima and Guards",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

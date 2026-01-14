@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1366,
+    "name": "Educational Codeforces Round 89 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1591886100,
+    "relativeTimeSeconds": 176468532
+  },
+  "problems": [
+    {
+      "contestId": 1366,
+      "index": "G",
+      "name": "Construct the String",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "F",
+      "name": "Jog Around The Graph",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "dp",
+        "geometry",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "E",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "D",
+      "name": "Two Divisors",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "C",
+      "name": "Palindromic Paths",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "B",
+      "name": "Shuffle",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1366,
+      "index": "A",
+      "name": "Shovels and Swords",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

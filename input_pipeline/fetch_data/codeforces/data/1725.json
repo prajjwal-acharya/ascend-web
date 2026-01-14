@@ -1,0 +1,169 @@
+{
+  "contest": {
+    "id": 1725,
+    "name": "COMPFEST 14 - Preliminary Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1662298500,
+    "relativeTimeSeconds": 106056132
+  },
+  "problems": [
+    {
+      "contestId": 1725,
+      "index": "M",
+      "name": "Moving Both Hands",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "L",
+      "name": "Lemper Cooking Competition",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "K",
+      "name": "Kingdom of Criticism",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dsu"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "J",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "I",
+      "name": "Imitating the Key Tree",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "combinatorics",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "H",
+      "name": "Hot Black Hot White",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "G",
+      "name": "Garage",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "F",
+      "name": "Field Photography",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "E",
+      "name": "Electrical Efficiency",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "D",
+      "name": "Deducing Sortability",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "C",
+      "name": "Circular Mirror",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "geometry",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "B",
+      "name": "Basketball Together",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1725,
+      "index": "A",
+      "name": "Accumulation of Dominoes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

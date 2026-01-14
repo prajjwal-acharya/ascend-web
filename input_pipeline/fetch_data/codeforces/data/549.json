@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 549,
+    "name": "Looksery Cup 2015",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1433595600,
+    "relativeTimeSeconds": 334759032
+  },
+  "problems": [
+    {
+      "contestId": 549,
+      "index": "H",
+      "name": "Degenerate Matrix",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "G",
+      "name": "Happy Line",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "F",
+      "name": "Yura and Developers",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "E",
+      "name": "Sasha Circle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "D",
+      "name": "Haar Features",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "C",
+      "name": "The Game Of Parity",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "B",
+      "name": "Looksery Party",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 549,
+      "index": "A",
+      "name": "Face Detection",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

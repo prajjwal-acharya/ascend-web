@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 1839,
+    "name": "Codeforces Round 876 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1685802900,
+    "relativeTimeSeconds": 82551732
+  },
+  "problems": [
+    {
+      "contestId": 1839,
+      "index": "E",
+      "name": "Decreasing Game",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1839,
+      "index": "D",
+      "name": "Ball Sorting",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1839,
+      "index": "C",
+      "name": "Insert Zero and Invert Prefix",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1839,
+      "index": "B",
+      "name": "Lamps",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1839,
+      "index": "A",
+      "name": "The Good Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

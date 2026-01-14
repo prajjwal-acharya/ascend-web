@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 720,
+    "name": "Russian Code Cup 2016 - Finals [Unofficial Mirror, Div. 1 Only Recommended]",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1474196700,
+    "relativeTimeSeconds": 294157932
+  },
+  "problems": [
+    {
+      "contestId": 720,
+      "index": "F",
+      "name": "Array Covering",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 720,
+      "index": "E",
+      "name": "Cipher",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 720,
+      "index": "D",
+      "name": "Slalom",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 720,
+      "index": "C",
+      "name": "Homework",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 720,
+      "index": "B",
+      "name": "Cactusophobia",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 720,
+      "index": "A",
+      "name": "Closing ceremony",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

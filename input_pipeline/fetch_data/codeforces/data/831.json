@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 831,
+    "name": "Codeforces Round 424 (Div. 2, rated, based on VK Cup Finals)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1499958300,
+    "relativeTimeSeconds": 268396332
+  },
+  "problems": [
+    {
+      "contestId": 831,
+      "index": "C",
+      "name": "Jury Marks",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 831,
+      "index": "B",
+      "name": "Keyboard Layouts",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 831,
+      "index": "A",
+      "name": "Unimodal Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

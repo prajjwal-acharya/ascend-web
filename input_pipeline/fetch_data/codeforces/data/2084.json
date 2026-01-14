@@ -1,0 +1,133 @@
+{
+  "contest": {
+    "id": 2084,
+    "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1743863700,
+    "relativeTimeSeconds": 24490932
+  },
+  "problems": [
+    {
+      "contestId": 2084,
+      "index": "H",
+      "name": "Turtle and Nediam 2",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "G2",
+      "name": "Wish Upon a Satellite (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "G1",
+      "name": "Wish Upon a Satellite (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "F",
+      "name": "Skyscape",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "E",
+      "name": "Blossom",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "D",
+      "name": "Arcology On Permafrost",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "C",
+      "name": "You Soared Afar With Grace",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "B",
+      "name": "MIN = GCD",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2084,
+      "index": "A",
+      "name": "Max and Mod",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

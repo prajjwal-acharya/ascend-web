@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 1628,
+    "name": "Codeforces Round 767 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1642862100,
+    "relativeTimeSeconds": 125492532
+  },
+  "problems": [
+    {
+      "contestId": 1628,
+      "index": "F",
+      "name": "Spaceship Crisis Management",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "E",
+      "name": "Groceries in Meteor Town",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "D2",
+      "name": "Game on Sum (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "D1",
+      "name": "Game on Sum (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "C",
+      "name": "Grid Xor",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "B",
+      "name": "Peculiar Movie Preferences",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1628,
+      "index": "A",
+      "name": "Meximum Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    }
+  ]
+}

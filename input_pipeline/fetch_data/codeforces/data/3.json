@@ -1,0 +1,58 @@
+{
+  "contest": {
+    "id": 3,
+    "name": "Codeforces Beta Round 3",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1267963200,
+    "relativeTimeSeconds": 500391433
+  },
+  "problems": [
+    {
+      "contestId": 3,
+      "index": "D",
+      "name": "Least Cost Bracket Sequence",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 3,
+      "index": "C",
+      "name": "Tic-tac-toe",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 3,
+      "index": "B",
+      "name": "Lorry",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 3,
+      "index": "A",
+      "name": "Shortest path of the king",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "shortest paths"
+      ]
+    }
+  ]
+}

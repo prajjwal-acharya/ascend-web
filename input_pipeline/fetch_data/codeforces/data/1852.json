@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1852,
+    "name": "Codeforces Round 887 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1690122900,
+    "relativeTimeSeconds": 78231732
+  },
+  "problems": [
+    {
+      "contestId": 1852,
+      "index": "F",
+      "name": "Panda Meetups",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "dp",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1852,
+      "index": "E",
+      "name": "Rivalries",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1852,
+      "index": "D",
+      "name": "Miriany and Matchstick",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1852,
+      "index": "C",
+      "name": "Ina of the Mountain",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1852,
+      "index": "B",
+      "name": "Imbalanced Arrays",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1852,
+      "index": "A",
+      "name": "Ntarsis' Set",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

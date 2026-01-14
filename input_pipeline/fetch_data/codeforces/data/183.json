@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 183,
+    "name": "Croc Champ 2012 - Final",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1335532800,
+    "relativeTimeSeconds": 432821833
+  },
+  "problems": [
+    {
+      "contestId": 183,
+      "index": "E",
+      "name": "Candy Shop",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 183,
+      "index": "D",
+      "name": "T-shirt",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2700,
+      "tags": [
+        "dp",
+        "greedy",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 183,
+      "index": "C",
+      "name": "Cyclic Coloring",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 183,
+      "index": "B",
+      "name": "Zoo",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 183,
+      "index": "A",
+      "name": "Headquarters",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": 1077,
+    "name": "Codeforces Round 521 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1542378900,
+    "relativeTimeSeconds": 225975732
+  },
+  "problems": [
+    {
+      "contestId": 1077,
+      "index": "F2",
+      "name": "Pictures with Kittens (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1077,
+      "index": "F1",
+      "name": "Pictures with Kittens (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1077,
+      "index": "E",
+      "name": "Thematic Contests",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1077,
+      "index": "D",
+      "name": "Cutting Out",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1077,
+      "index": "C",
+      "name": "Good Array",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": []
+    },
+    {
+      "contestId": 1077,
+      "index": "B",
+      "name": "Disturbed People",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1077,
+      "index": "A",
+      "name": "Frog Jumping",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

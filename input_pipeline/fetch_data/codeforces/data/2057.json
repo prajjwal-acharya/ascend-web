@@ -1,0 +1,142 @@
+{
+  "contest": {
+    "id": 2057,
+    "name": "Hello 2025",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1736001300,
+    "relativeTimeSeconds": 32353332
+  },
+  "problems": [
+    {
+      "contestId": 2057,
+      "index": "H",
+      "name": "Coffee Break",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "G",
+      "name": "Secret Message",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "F",
+      "name": "Formation",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "E2",
+      "name": "Another Exercise on Graphs (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "E1",
+      "name": "Another Exercise on Graphs (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "dsu",
+        "graphs",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "D",
+      "name": "Gifts Order",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "C",
+      "name": "Trip to the Olympiad",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "B",
+      "name": "Gorilla and the Exam",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2057,
+      "index": "A",
+      "name": "MEX Table",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

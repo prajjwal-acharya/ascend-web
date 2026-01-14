@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 1269,
+    "name": "Codeforces Round 609 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1576926300,
+    "relativeTimeSeconds": 191428332
+  },
+  "problems": [
+    {
+      "contestId": 1269,
+      "index": "B",
+      "name": "Modulo Equality",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1269,
+      "index": "A",
+      "name": "Equation",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    }
+  ]
+}

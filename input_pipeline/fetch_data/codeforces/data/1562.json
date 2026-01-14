@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1562,
+    "name": "Codeforces Round 741 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1629988500,
+    "relativeTimeSeconds": 138366132
+  },
+  "problems": [
+    {
+      "contestId": 1562,
+      "index": "F",
+      "name": "Tubular Bells",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "interactive",
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "E",
+      "name": "Rescue Niwen!",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "D2",
+      "name": "Two Hundred Twenty One (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "D1",
+      "name": "Two Hundred Twenty One (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "C",
+      "name": "Rings",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "B",
+      "name": "Scenes From a Memory",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1562,
+      "index": "A",
+      "name": "The Miracle and the Sleeper",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 838,
+    "name": "IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1502085900,
+    "relativeTimeSeconds": 266268732
+  },
+  "problems": [
+    {
+      "contestId": 838,
+      "index": "F",
+      "name": "Expected Earnings",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": []
+    },
+    {
+      "contestId": 838,
+      "index": "E",
+      "name": "Convex Countour",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 838,
+      "index": "D",
+      "name": "Airplane Arrangements",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 838,
+      "index": "C",
+      "name": "Future Failure",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 838,
+      "index": "B",
+      "name": "Diverging Directions",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 838,
+      "index": "A",
+      "name": "Binary Blocks",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force"
+      ]
+    }
+  ]
+}

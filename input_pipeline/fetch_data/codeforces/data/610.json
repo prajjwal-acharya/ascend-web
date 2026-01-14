@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 610,
+    "name": "Codeforces Round 337 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1451215200,
+    "relativeTimeSeconds": 317139432
+  },
+  "problems": [
+    {
+      "contestId": 610,
+      "index": "E",
+      "name": "Alphabet Permutations",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 610,
+      "index": "D",
+      "name": "Vika and Segments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 610,
+      "index": "C",
+      "name": "Harmony Analysis",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 610,
+      "index": "B",
+      "name": "Vika and Squares",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 610,
+      "index": "A",
+      "name": "Pasha and Stick",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    }
+  ]
+}

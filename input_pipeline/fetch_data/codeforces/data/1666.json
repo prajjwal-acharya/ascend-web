@@ -1,0 +1,146 @@
+{
+  "contest": {
+    "id": 1666,
+    "name": "2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1649837100,
+    "relativeTimeSeconds": 118517532
+  },
+  "problems": [
+    {
+      "contestId": 1666,
+      "index": "L",
+      "name": "Labyrinth",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "K",
+      "name": "Kingdom Partition",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "J",
+      "name": "Job Lookup",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "I",
+      "name": "Interactive Treasure Hunt",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "H",
+      "name": "Heroes of Might",
+      "type": "PROGRAMMING",
+      "rating": 3500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "G",
+      "name": "Global Warming",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "F",
+      "name": "Fancy Stack",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "E",
+      "name": "Even Split",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "D",
+      "name": "Deletive Editing",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "C",
+      "name": "Connect the Points",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1666,
+      "index": "B",
+      "name": "Budget Distribution",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    },
+    {
+      "contestId": 1666,
+      "index": "A",
+      "name": "Admissible Map",
+      "type": "PROGRAMMING",
+      "rating": 3300,
+      "tags": []
+    }
+  ]
+}

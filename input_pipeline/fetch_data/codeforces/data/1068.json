@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 1068,
+    "name": "Codeforces Round 518 (Div. 2) [Thanks, Mail.Ru!]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1540398900,
+    "relativeTimeSeconds": 227955732
+  },
+  "problems": [
+    {
+      "contestId": 1068,
+      "index": "C",
+      "name": "Colored Rooks",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1068,
+      "index": "B",
+      "name": "LCM",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1068,
+      "index": "A",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "id": 2154,
+    "name": "Codeforces Round 1060 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1760884500,
+    "relativeTimeSeconds": 7470132
+  },
+  "problems": [
+    {
+      "contestId": 2154,
+      "index": "F2",
+      "name": "Bombing (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "F1",
+      "name": "Bombing (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "E",
+      "name": "No Mind To Think",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "greedy",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "D",
+      "name": "Catshock",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "C2",
+      "name": "No Cost Too Great (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "C1",
+      "name": "No Cost Too Great (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "B",
+      "name": "Make it Zigzag",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2154,
+      "index": "A",
+      "name": "Notelock",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ]
+    }
+  ]
+}

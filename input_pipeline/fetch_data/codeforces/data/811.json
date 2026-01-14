@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 811,
+    "name": "Codeforces Round 416 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1495877700,
+    "relativeTimeSeconds": 272476932
+  },
+  "problems": [
+    {
+      "contestId": 811,
+      "index": "E",
+      "name": "Vladik and Entertaining Flags",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 811,
+      "index": "D",
+      "name": "Vladik and Favorite Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 811,
+      "index": "C",
+      "name": "Vladik and Memorable Trip",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 811,
+      "index": "B",
+      "name": "Vladik and Complicated Book",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 811,
+      "index": "A",
+      "name": "Vladik and Courtesy",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

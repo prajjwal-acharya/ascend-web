@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": 1862,
+    "name": "Codeforces Round 894 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1692887700,
+    "relativeTimeSeconds": 75466932
+  },
+  "problems": [
+    {
+      "contestId": 1862,
+      "index": "G",
+      "name": "The Great Equalizer",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "F",
+      "name": "Magic Will Save the World",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "E",
+      "name": "Kolya and Movie Theatre",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "D",
+      "name": "Ice Cream Balls",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "C",
+      "name": "Flower City Fence",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "B",
+      "name": "Sequence Game",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1862,
+      "index": "A",
+      "name": "Gift Carpet",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

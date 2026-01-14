@@ -1,0 +1,140 @@
+{
+  "contest": {
+    "id": 1951,
+    "name": "Codeforces Global Round 25",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1712414100,
+    "relativeTimeSeconds": 55940532
+  },
+  "problems": [
+    {
+      "contestId": 1951,
+      "index": "I",
+      "name": "Growing Trees",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "flows",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "H",
+      "name": "Thanos Snap",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "dp",
+        "games",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "G",
+      "name": "Clacking Balls",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "F",
+      "name": "Inversion Composition",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "E",
+      "name": "No Palindromes",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "hashing",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "D",
+      "name": "Buying Jewels",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "C",
+      "name": "Ticket Hoarding",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "B",
+      "name": "Battle Cows",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1951,
+      "index": "A",
+      "name": "Dual Trigger",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

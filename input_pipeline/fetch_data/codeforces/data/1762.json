@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 1762,
+    "name": "Codeforces Round 838 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1671114900,
+    "relativeTimeSeconds": 97239732
+  },
+  "problems": [
+    {
+      "contestId": 1762,
+      "index": "G",
+      "name": "Unequal Adjacent Elements",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "F",
+      "name": "Good Pairs ",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "E",
+      "name": "Tree Sum",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "D",
+      "name": "GCD Queries ",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "C",
+      "name": "Binary Strings are Fun",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "B",
+      "name": "Make Array Good",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1762,
+      "index": "A",
+      "name": "Divide and Conquer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

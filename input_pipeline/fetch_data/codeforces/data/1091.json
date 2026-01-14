@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 1091,
+    "name": "Good Bye 2018",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9600,
+    "startTimeSeconds": 1546180500,
+    "relativeTimeSeconds": 222174132
+  },
+  "problems": [
+    {
+      "contestId": 1091,
+      "index": "H",
+      "name": "New Year and the Tricolore Recreation",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3200,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "G",
+      "name": "New Year and the Factorisation Collaboration",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3200,
+      "tags": [
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "F",
+      "name": "New Year and the Mallard Expedition",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "E",
+      "name": "New Year and the Acquaintance Estimation",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "D",
+      "name": "New Year and the Permutation Concatenation",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "C",
+      "name": "New Year and the Sphere Transmission",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1400,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "B",
+      "name": "New Year and the Treasure Geolocation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1091,
+      "index": "A",
+      "name": "New Year and the Christmas Ornament",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

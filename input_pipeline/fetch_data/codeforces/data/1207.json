@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1207,
+    "name": "Educational Codeforces Round 71 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1566484500,
+    "relativeTimeSeconds": 201870132
+  },
+  "problems": [
+    {
+      "contestId": 1207,
+      "index": "G",
+      "name": "Indie Album",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "F",
+      "name": "Remainder Problem",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "E",
+      "name": "XOR Guessing",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "D",
+      "name": "Number Of Permutations",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "C",
+      "name": "Gas Pipeline",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "B",
+      "name": "Square Filling",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1207,
+      "index": "A",
+      "name": "There Are Two Types Of Burgers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 2025,
+    "name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1728916500,
+    "relativeTimeSeconds": 39438132
+  },
+  "problems": [
+    {
+      "contestId": 2025,
+      "index": "G",
+      "name": "Variable Damage",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "F",
+      "name": "Choose Your Queries",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "E",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "D",
+      "name": "Attribute Checks",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "C",
+      "name": "New Game",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "B",
+      "name": "Binomial Coefficients, Kind Of",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2025,
+      "index": "A",
+      "name": "Two Screens",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "binary search",
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    }
+  ]
+}

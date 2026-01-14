@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 2000,
+    "name": "Codeforces Round 966 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1723560000,
+    "relativeTimeSeconds": 44794632
+  },
+  "problems": [
+    {
+      "contestId": 2000,
+      "index": "H",
+      "name": "Ksyusha and the Loaded Set",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "G",
+      "name": "Call During the Journey",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "F",
+      "name": "Color Rows and Columns",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "E",
+      "name": "Photoshoot for Gorillas",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "D",
+      "name": "Right Left Wrong",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "C",
+      "name": "Numeric String Template",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "B",
+      "name": "Seating in a Bus",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2000,
+      "index": "A",
+      "name": "Primary Task",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math",
+        "strings"
+      ]
+    }
+  ]
+}

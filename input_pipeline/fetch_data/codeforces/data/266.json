@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 266,
+    "name": "Codeforces Round 163 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1358868600,
+    "relativeTimeSeconds": 409486033
+  },
+  "problems": [
+    {
+      "contestId": 266,
+      "index": "E",
+      "name": "More Queries to Array...",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 266,
+      "index": "D",
+      "name": "BerDonalds",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 266,
+      "index": "C",
+      "name": "Below the Diagonal",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 266,
+      "index": "B",
+      "name": "Queue at the School",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "graph matchings",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 266,
+      "index": "A",
+      "name": "Stones on the Table",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

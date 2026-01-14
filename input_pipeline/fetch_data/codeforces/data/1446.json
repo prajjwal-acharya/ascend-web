@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1446,
+    "name": "Codeforces Round 683 (Div. 1, by Meet IT)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1605450900,
+    "relativeTimeSeconds": 162903732
+  },
+  "problems": [
+    {
+      "contestId": 1446,
+      "index": "F",
+      "name": "Line Distance",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "E",
+      "name": "Long Recovery",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "D2",
+      "name": "Frequency Problem (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "D1",
+      "name": "Frequency Problem (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "C",
+      "name": "Xor Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "B",
+      "name": "Catching Cheaters",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1446,
+      "index": "A",
+      "name": "Knapsack",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

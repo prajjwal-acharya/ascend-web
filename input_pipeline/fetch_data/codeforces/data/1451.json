@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": 1451,
+    "name": "Codeforces Round 685 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1605969300,
+    "relativeTimeSeconds": 162385332
+  },
+  "problems": [
+    {
+      "contestId": 1451,
+      "index": "F",
+      "name": "Nullify The Matrix",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "games"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "E2",
+      "name": "Bitwise Queries (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "E1",
+      "name": "Bitwise Queries (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "D",
+      "name": "Circle Game",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "games",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "C",
+      "name": "String Equality",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "B",
+      "name": "Non-Substring Subsequence",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1451,
+      "index": "A",
+      "name": "Subtract or Divide",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1674,
+    "name": "Codeforces Round 786 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1651502100,
+    "relativeTimeSeconds": 116852532
+  },
+  "problems": [
+    {
+      "contestId": 1674,
+      "index": "G",
+      "name": "Remove Directed Edges",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "F",
+      "name": "Desktop Rearrangement",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "E",
+      "name": "Breaking the Wall",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "D",
+      "name": "A-B-C Sort",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "C",
+      "name": "Infinite Replacement",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "combinatorics",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "B",
+      "name": "Dictionary",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1674,
+      "index": "A",
+      "name": "Number Transformation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

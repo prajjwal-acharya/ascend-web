@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1181,
+    "name": "Codeforces Round 567 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1560677700,
+    "relativeTimeSeconds": 207676932
+  },
+  "problems": [
+    {
+      "contestId": 1181,
+      "index": "E2",
+      "name": "A Story of One Country (Hard)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1181,
+      "index": "E1",
+      "name": "A Story of One Country (Easy)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1181,
+      "index": "D",
+      "name": "Irrigation",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1181,
+      "index": "C",
+      "name": "Flag",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1181,
+      "index": "B",
+      "name": "Split a Number",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1181,
+      "index": "A",
+      "name": "Chunga-Changa",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

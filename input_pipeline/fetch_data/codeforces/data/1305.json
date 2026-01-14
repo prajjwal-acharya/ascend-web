@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": 1305,
+    "name": "Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1583246100,
+    "relativeTimeSeconds": 185108532
+  },
+  "problems": [
+    {
+      "contestId": 1305,
+      "index": "H",
+      "name": "Kuroni the Private Tutor",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "G",
+      "name": "Kuroni and Antihype",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "F",
+      "name": "Kuroni and the Punishment",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "math",
+        "number theory",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "E",
+      "name": "Kuroni and the Score Distribution",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "D",
+      "name": "Kuroni and the Celebration",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "C",
+      "name": "Kuroni and Impossible Calculation",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "B",
+      "name": "Kuroni and Simple Strings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1305,
+      "index": "A",
+      "name": "Kuroni and the Gifts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

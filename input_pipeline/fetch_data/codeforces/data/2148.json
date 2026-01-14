@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 2148,
+    "name": "Codeforces Round 1050 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1757774100,
+    "relativeTimeSeconds": 10580532
+  },
+  "problems": [
+    {
+      "contestId": 2148,
+      "index": "G",
+      "name": "Farmer John's Last Wish",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "F",
+      "name": "Gravity Falls",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "E",
+      "name": "Split",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "D",
+      "name": "Destruction of the Dandelion Fields",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "C",
+      "name": "Pacer",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "B",
+      "name": "Lasers",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 2148,
+      "index": "A",
+      "name": "Sublime Sequence",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "hashing",
+        "math"
+      ]
+    }
+  ]
+}

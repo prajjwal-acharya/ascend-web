@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 677,
+    "name": "Codeforces Round 355 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1464798900,
+    "relativeTimeSeconds": 303555732
+  },
+  "problems": [
+    {
+      "contestId": 677,
+      "index": "E",
+      "name": "Vanya and Balloons",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 677,
+      "index": "D",
+      "name": "Vanya and Treasure",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 677,
+      "index": "C",
+      "name": "Vanya and Label",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 677,
+      "index": "B",
+      "name": "Vanya and Food Processor",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 677,
+      "index": "A",
+      "name": "Vanya and Fence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

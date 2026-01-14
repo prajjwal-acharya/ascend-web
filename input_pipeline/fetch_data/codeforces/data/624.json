@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 624,
+    "name": "AIM Tech Round (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1454605500,
+    "relativeTimeSeconds": 313749132
+  },
+  "problems": [
+    {
+      "contestId": 624,
+      "index": "B",
+      "name": "Making a String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 624,
+      "index": "A",
+      "name": "Save Luke",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

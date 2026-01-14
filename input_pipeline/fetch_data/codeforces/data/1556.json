@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 1556,
+    "name": "Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1630247700,
+    "relativeTimeSeconds": 138106932
+  },
+  "problems": [
+    {
+      "contestId": 1556,
+      "index": "H",
+      "name": "DIY Tree",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3300,
+      "tags": [
+        "graphs",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "G",
+      "name": "Gates to Another World",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dsu",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "F",
+      "name": "Sports Betting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "E",
+      "name": "Equilibrium",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "D",
+      "name": "Take a Guess",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "C",
+      "name": "Compressed Bracket Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "B",
+      "name": "Take Your Places!",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1556,
+      "index": "A",
+      "name": "A Variety of Operations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

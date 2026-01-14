@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": 1582,
+    "name": "Codeforces Round 750 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1635069900,
+    "relativeTimeSeconds": 133284732
+  },
+  "problems": [
+    {
+      "contestId": 1582,
+      "index": "G",
+      "name": "Kuzya and Homework",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "F2",
+      "name": "Korney Korneevich and XOR (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "F1",
+      "name": "Korney Korneevich and XOR (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "E",
+      "name": "Pchelyonok and Segments",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "D",
+      "name": "Vupsen, Pupsen and 0",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "C",
+      "name": "Grandma Capa Knits a Scarf",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "B",
+      "name": "Luntik and Subsequences",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1582,
+      "index": "A",
+      "name": "Luntik and Concerts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

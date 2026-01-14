@@ -1,0 +1,57 @@
+{
+  "contest": {
+    "id": 2080,
+    "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1741593900,
+    "relativeTimeSeconds": 26760732
+  },
+  "problems": [
+    {
+      "contestId": 2080,
+      "index": "D",
+      "name": "Order Statistics",
+      "type": "PROGRAMMING",
+      "rating": 3400,
+      "tags": [
+        "*special",
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 2080,
+      "index": "C",
+      "name": "Card Flip",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2080,
+      "index": "B",
+      "name": "Best Runner",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 2080,
+      "index": "A",
+      "name": "Strong Connectivity Strikes Back",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "graphs"
+      ]
+    }
+  ]
+}

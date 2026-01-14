@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 1118,
+    "name": "Codeforces Round 540 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1550586900,
+    "relativeTimeSeconds": 217767732
+  },
+  "problems": [
+    {
+      "contestId": 1118,
+      "index": "F2",
+      "name": "Tree Cutting (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "F1",
+      "name": "Tree Cutting (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "E",
+      "name": "Yet Another Ball Problem",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "D2",
+      "name": "Coffee and Coursework (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "D1",
+      "name": "Coffee and Coursework (Easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "C",
+      "name": "Palindromic Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "B",
+      "name": "Tanya and Candies",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1118,
+      "index": "A",
+      "name": "Water Buying",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

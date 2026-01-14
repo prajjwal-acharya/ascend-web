@@ -1,0 +1,106 @@
+{
+  "contest": {
+    "id": 1706,
+    "name": "Codeforces Round 809 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1658154900,
+    "relativeTimeSeconds": 110199732
+  },
+  "problems": [
+    {
+      "contestId": 1706,
+      "index": "E",
+      "name": "Qpwoeirut and Vertices",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1706,
+      "index": "D2",
+      "name": "Chopping Carrots (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1706,
+      "index": "D1",
+      "name": "Chopping Carrots (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1706,
+      "index": "C",
+      "name": "Qpwoeirut And The City",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dp",
+        "flows",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1706,
+      "index": "B",
+      "name": "Making Towers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1706,
+      "index": "A",
+      "name": "Another String Minimization Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "greedy",
+        "string suffix structures",
+        "strings"
+      ]
+    }
+  ]
+}

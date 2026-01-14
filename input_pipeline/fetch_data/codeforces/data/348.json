@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 348,
+    "name": "Codeforces Round 202 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1380295800,
+    "relativeTimeSeconds": 388058832
+  },
+  "problems": [
+    {
+      "contestId": 348,
+      "index": "E",
+      "name": "Pilgrims",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 348,
+      "index": "D",
+      "name": "Turtles",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 348,
+      "index": "C",
+      "name": "Subset Sums",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 348,
+      "index": "B",
+      "name": "Apple Tree",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 348,
+      "index": "A",
+      "name": "Mafia",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

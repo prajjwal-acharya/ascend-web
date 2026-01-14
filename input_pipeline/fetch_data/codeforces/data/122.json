@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 122,
+    "name": "Codeforces Beta Round 91 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1319727600,
+    "relativeTimeSeconds": 448627033
+  },
+  "problems": [
+    {
+      "contestId": 122,
+      "index": "B",
+      "name": "Lucky Substring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 122,
+      "index": "A",
+      "name": "Lucky Division",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1438,
+    "name": "Codeforces Round 682 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1605278100,
+    "relativeTimeSeconds": 163076532
+  },
+  "problems": [
+    {
+      "contestId": 1438,
+      "index": "F",
+      "name": "Olha and Igor",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3000,
+      "tags": [
+        "interactive",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1438,
+      "index": "E",
+      "name": "Yurii Can Do Everything",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "divide and conquer",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1438,
+      "index": "D",
+      "name": "Powerful Ksenia",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1438,
+      "index": "C",
+      "name": "Engineer Artem",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2000,
+      "tags": [
+        "2-sat",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "fft",
+        "flows"
+      ]
+    },
+    {
+      "contestId": 1438,
+      "index": "B",
+      "name": "Valerii Against Everyone",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1438,
+      "index": "A",
+      "name": "Specific Tastes of Andre ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

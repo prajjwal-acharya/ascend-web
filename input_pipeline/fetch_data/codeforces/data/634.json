@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": 634,
+    "name": "8VC Venture Cup 2016 - Final Round (Div. 1 Edition)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1456683000,
+    "relativeTimeSeconds": 311671632
+  },
+  "problems": [
+    {
+      "contestId": 634,
+      "index": "A",
+      "name": "Island Puzzle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    }
+  ]
+}

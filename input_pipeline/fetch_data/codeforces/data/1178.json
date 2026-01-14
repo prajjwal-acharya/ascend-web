@@ -1,0 +1,127 @@
+{
+  "contest": {
+    "id": 1178,
+    "name": "Codeforces Global Round 4",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1563636900,
+    "relativeTimeSeconds": 204717732
+  },
+  "problems": [
+    {
+      "contestId": 1178,
+      "index": "H",
+      "name": "Stock Exchange",
+      "type": "PROGRAMMING",
+      "points": 4000.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "G",
+      "name": "The Awesomest Vertex",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "F2",
+      "name": "Long Colorful Strip",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2600,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "F1",
+      "name": "Short Colorful Strip",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "E",
+      "name": "Archaeology",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "D",
+      "name": "Prime Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "C",
+      "name": "Tiles",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "B",
+      "name": "WOW Factor",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1178,
+      "index": "A",
+      "name": "Prime Minister",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "contest": {
+    "id": 1929,
+    "name": "Codeforces Round 926 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1708007700,
+    "relativeTimeSeconds": 60346932
+  },
+  "problems": [
+    {
+      "contestId": 1929,
+      "index": "F",
+      "name": "Sasha and the Wedding Binary Search Tree",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dfs and similar",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1929,
+      "index": "E",
+      "name": "Sasha and the Happy Tree Cutting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1929,
+      "index": "D",
+      "name": "Sasha and a Walk in the City",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1929,
+      "index": "C",
+      "name": "Sasha and the Casino",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1929,
+      "index": "B",
+      "name": "Sasha and the Drawing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1929,
+      "index": "A",
+      "name": "Sasha and the Beautiful Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

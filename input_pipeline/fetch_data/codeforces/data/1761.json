@@ -1,0 +1,122 @@
+{
+  "contest": {
+    "id": 1761,
+    "name": "Pinely Round 1 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1668954900,
+    "relativeTimeSeconds": 99399732
+  },
+  "problems": [
+    {
+      "contestId": 1761,
+      "index": "G",
+      "name": "Centroid Guess",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3500,
+      "tags": [
+        "interactive",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "F2",
+      "name": "Anti-median (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "F1",
+      "name": "Anti-median (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "E",
+      "name": "Make It Connected",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "matrices",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "D",
+      "name": "Carry Bit",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "C",
+      "name": "Set Construction",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "B",
+      "name": "Elimination of a Ring",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1761,
+      "index": "A",
+      "name": "Two Permutations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

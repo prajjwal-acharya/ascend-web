@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 353,
+    "name": "Codeforces Round 205 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1381419000,
+    "relativeTimeSeconds": 386935632
+  },
+  "problems": [
+    {
+      "contestId": 353,
+      "index": "E",
+      "name": "Antichain",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 353,
+      "index": "D",
+      "name": "Queue",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 353,
+      "index": "C",
+      "name": "Find Maximum",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 353,
+      "index": "B",
+      "name": "Two Heaps",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 353,
+      "index": "A",
+      "name": "Domino",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

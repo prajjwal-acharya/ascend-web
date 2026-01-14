@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 34,
+    "name": "Codeforces Beta Round 34 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1286802000,
+    "relativeTimeSeconds": 481552632
+  },
+  "problems": [
+    {
+      "contestId": 34,
+      "index": "E",
+      "name": "Collisions",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 34,
+      "index": "D",
+      "name": "Road Map",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 34,
+      "index": "C",
+      "name": "Page Numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "expression parsing",
+        "implementation",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 34,
+      "index": "B",
+      "name": "Sale",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 34,
+      "index": "A",
+      "name": "Reconnaissance 2",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

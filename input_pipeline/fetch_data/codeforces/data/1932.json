@@ -1,0 +1,98 @@
+{
+  "contest": {
+    "id": 1932,
+    "name": "Codeforces Round 927 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1708257900,
+    "relativeTimeSeconds": 60096732
+  },
+  "problems": [
+    {
+      "contestId": 1932,
+      "index": "G",
+      "name": "Moving Platforms",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "F",
+      "name": "Feed Cats",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "E",
+      "name": "Final Countdown",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "D",
+      "name": "Card Game",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "C",
+      "name": "LR-remainders",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "B",
+      "name": "Chaya Calendar",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1932,
+      "index": "A",
+      "name": "Thorns and Coins",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contest": {
+    "id": 1427,
+    "name": "Codeforces Global Round 11",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1602341400,
+    "relativeTimeSeconds": 166013232
+  },
+  "problems": [
+    {
+      "contestId": 1427,
+      "index": "H",
+      "name": "Prison Break",
+      "type": "PROGRAMMING",
+      "points": 4500.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "games",
+        "geometry",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "G",
+      "name": "One Billion Shades of Grey",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "F",
+      "name": "Boring Card Game",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "E",
+      "name": "Xum",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math",
+        "matrices",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "D",
+      "name": "Unshuffling a Deck",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "C",
+      "name": "The Hard Work of Paparazzi",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "B",
+      "name": "Chess Cheater",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1427,
+      "index": "A",
+      "name": "Avoiding Zero",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    }
+  ]
+}

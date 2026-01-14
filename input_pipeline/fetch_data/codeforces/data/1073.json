@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1073,
+    "name": "Educational Codeforces Round 53 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1540478100,
+    "relativeTimeSeconds": 227876532
+  },
+  "problems": [
+    {
+      "contestId": 1073,
+      "index": "G",
+      "name": "Yet Another LCP Problem",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "string suffix structures"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "F",
+      "name": "Choosing Two Paths",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "E",
+      "name": "Segment Sum",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "D",
+      "name": "Berland Fair",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "C",
+      "name": "Vasya and Robot",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "B",
+      "name": "Vasya and Books",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1073,
+      "index": "A",
+      "name": "Diverse Substring",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

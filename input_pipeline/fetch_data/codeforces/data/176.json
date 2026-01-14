@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 176,
+    "name": "Croc Champ 2012 - Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1334934300,
+    "relativeTimeSeconds": 433420333
+  },
+  "problems": [
+    {
+      "contestId": 176,
+      "index": "E",
+      "name": "Archaeology",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 176,
+      "index": "D",
+      "name": "Hyper String",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 176,
+      "index": "C",
+      "name": "Playing with Superglue",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 176,
+      "index": "B",
+      "name": "Word Cut",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 176,
+      "index": "A",
+      "name": "Trading Business",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    }
+  ]
+}

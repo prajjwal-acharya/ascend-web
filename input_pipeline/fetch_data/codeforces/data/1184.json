@@ -1,0 +1,172 @@
+{
+  "contest": {
+    "id": 1184,
+    "name": "Helvetic Coding Contest 2019 online mirror (teams allowed, unrated)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 16200,
+    "freezeDurationSeconds": 3600,
+    "startTimeSeconds": 1562483100,
+    "relativeTimeSeconds": 205871532
+  },
+  "problems": [
+    {
+      "contestId": 1184,
+      "index": "E3",
+      "name": "Daleks' Invasion (hard)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "E2",
+      "name": "Daleks' Invasion (medium)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "E1",
+      "name": "Daleks' Invasion (easy)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "D2",
+      "name": "Parallel Universes (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "D1",
+      "name": "Parallel Universes (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "C3",
+      "name": "Heidi and the Turing Test (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 1184,
+      "index": "C2",
+      "name": "Heidi and the Turing Test (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "C1",
+      "name": "Heidi and the Turing Test (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "B3",
+      "name": "The Doctor Meets Vader (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "flows",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "B2",
+      "name": "The Doctor Meets Vader (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "B1",
+      "name": "The Doctor Meets Vader (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "A3",
+      "name": "Heidi Learns Hashing (Hard)",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "A2",
+      "name": "Heidi Learns Hashing (Medium)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1184,
+      "index": "A1",
+      "name": "Heidi Learns Hashing (Easy)",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

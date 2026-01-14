@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 2161,
+    "name": "Pinely Round 5 (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1761842100,
+    "relativeTimeSeconds": 6512532
+  },
+  "problems": [
+    {
+      "contestId": 2161,
+      "index": "H",
+      "name": "Cycle Sort",
+      "type": "PROGRAMMING",
+      "points": 5000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "G",
+      "name": "Bitwise And Equals",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "F",
+      "name": "SubMST",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "E",
+      "name": "Left is Always Right",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "D",
+      "name": "Locked Out",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "C",
+      "name": "Loyalty",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "B",
+      "name": "Make Connected",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2161,
+      "index": "A",
+      "name": "Round Trip",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

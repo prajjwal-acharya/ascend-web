@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 870,
+    "name": "Technocup 2018 - Elimination Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1508054700,
+    "relativeTimeSeconds": 260299932
+  },
+  "problems": [
+    {
+      "contestId": 870,
+      "index": "F",
+      "name": "Paths",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 870,
+      "index": "E",
+      "name": "Points, Lines and Ready-made Titles",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 870,
+      "index": "D",
+      "name": "Something with XOR Queries",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 870,
+      "index": "C",
+      "name": "Maximum splitting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 870,
+      "index": "B",
+      "name": "Maximum of Maximums of Minimums",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 870,
+      "index": "A",
+      "name": "Search for Pretty Integers",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

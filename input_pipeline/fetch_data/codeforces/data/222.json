@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 222,
+    "name": "Codeforces Round 137 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1347291900,
+    "relativeTimeSeconds": 421062733
+  },
+  "problems": [
+    {
+      "contestId": 222,
+      "index": "E",
+      "name": "Decoding Genome",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 222,
+      "index": "D",
+      "name": "Olympiad",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 222,
+      "index": "C",
+      "name": "Reducing Fractions",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 222,
+      "index": "B",
+      "name": "Cosmic Tables",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 222,
+      "index": "A",
+      "name": "Shooshuns and Sequence ",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

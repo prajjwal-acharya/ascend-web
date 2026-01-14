@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": 440,
+    "name": "Testing Round 10",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 5400,
+    "startTimeSeconds": 1401809400,
+    "relativeTimeSeconds": 366545232
+  },
+  "problems": [
+    {
+      "contestId": 440,
+      "index": "D",
+      "name": "Berland Federalization",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 440,
+      "index": "C",
+      "name": "One-Based Arithmetic",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "divide and conquer"
+      ]
+    },
+    {
+      "contestId": 440,
+      "index": "B",
+      "name": "Balancer",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 440,
+      "index": "A",
+      "name": "Forgotten Episode",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

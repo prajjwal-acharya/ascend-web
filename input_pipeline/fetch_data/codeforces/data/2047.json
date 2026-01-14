@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 2047,
+    "name": "Codeforces Round 990 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1733207100,
+    "relativeTimeSeconds": 35147532
+  },
+  "problems": [
+    {
+      "contestId": 2047,
+      "index": "B",
+      "name": "Replace Character",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2047,
+      "index": "A",
+      "name": "Alyona and a Square Jigsaw Puzzle",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

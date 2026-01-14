@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 2133,
+    "name": "Codeforces Round 1044 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1756046100,
+    "relativeTimeSeconds": 12308532
+  },
+  "problems": [
+    {
+      "contestId": 2133,
+      "index": "F",
+      "name": "Flint and Steel",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2133,
+      "index": "E",
+      "name": "I Yearned For The Mines",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2133,
+      "index": "D",
+      "name": "Chicken Jockey",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 1900,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2133,
+      "index": "C",
+      "name": "The Nether",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1400,
+      "tags": [
+        "graphs",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2133,
+      "index": "B",
+      "name": "Villagers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2133,
+      "index": "A",
+      "name": "Redstone?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "contest": {
+    "id": 1553,
+    "name": "Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1626964500,
+    "relativeTimeSeconds": 141390132
+  },
+  "problems": [
+    {
+      "contestId": 1553,
+      "index": "I",
+      "name": "Stairs",
+      "type": "PROGRAMMING",
+      "points": 5250.0,
+      "rating": 3400,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "H",
+      "name": "XOR and Distance",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 2900,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "G",
+      "name": "Common Divisor Graph",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "F",
+      "name": "Pairwise Modulo",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "E",
+      "name": "Permutation Shift",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "D",
+      "name": "Backspace",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "greedy",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "C",
+      "name": "Penalty",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "B",
+      "name": "Reverse String",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dp",
+        "hashing",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1553,
+      "index": "A",
+      "name": "Digits Sum",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

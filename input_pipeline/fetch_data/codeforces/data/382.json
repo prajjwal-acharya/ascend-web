@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 382,
+    "name": "Codeforces Round 224 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1389972600,
+    "relativeTimeSeconds": 378382032
+  },
+  "problems": [
+    {
+      "contestId": 382,
+      "index": "E",
+      "name": "Ksenia and Combinatorics",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 382,
+      "index": "D",
+      "name": "Ksenia and Pawns",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 382,
+      "index": "C",
+      "name": "Arithmetic Progression",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 382,
+      "index": "B",
+      "name": "Number Busters",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 382,
+      "index": "A",
+      "name": "Ksenia and Pan Scales",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

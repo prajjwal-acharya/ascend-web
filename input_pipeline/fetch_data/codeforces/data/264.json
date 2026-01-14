@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 264,
+    "name": "Codeforces Round 162 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1358686800,
+    "relativeTimeSeconds": 409667833
+  },
+  "problems": [
+    {
+      "contestId": 264,
+      "index": "E",
+      "name": "Roadside Trees",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 264,
+      "index": "D",
+      "name": "Colorful Stones",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 264,
+      "index": "C",
+      "name": "Choosing Balls",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 264,
+      "index": "B",
+      "name": "Good Sequences",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 264,
+      "index": "A",
+      "name": "Escape from Stones",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    }
+  ]
+}

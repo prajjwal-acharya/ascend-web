@@ -1,0 +1,27 @@
+{
+  "contest": {
+    "id": 889,
+    "name": "Codeforces Round 445 (Div. 1, based on Technocup 2018 Elimination Round 3)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1510502700,
+    "relativeTimeSeconds": 257851932
+  },
+  "problems": [
+    {
+      "contestId": 889,
+      "index": "E",
+      "name": "Mod Mod Mod",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3000,
+      "tags": [
+        "binary search",
+        "dp",
+        "math"
+      ]
+    }
+  ]
+}

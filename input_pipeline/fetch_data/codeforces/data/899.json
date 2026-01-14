@@ -1,0 +1,90 @@
+{
+  "contest": {
+    "id": 899,
+    "name": "Codeforces Round 452 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1513492500,
+    "relativeTimeSeconds": 254862132
+  },
+  "problems": [
+    {
+      "contestId": 899,
+      "index": "F",
+      "name": "Letters Removing",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 899,
+      "index": "E",
+      "name": "Segments Removal",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dsu",
+        "flows",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 899,
+      "index": "D",
+      "name": "Shovel Sale",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 899,
+      "index": "C",
+      "name": "Dividing the numbers",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 899,
+      "index": "B",
+      "name": "Months and Years",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 899,
+      "index": "A",
+      "name": "Splitting in Teams",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

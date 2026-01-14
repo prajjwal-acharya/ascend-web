@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": 622,
+    "name": "Educational Codeforces Round 7",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1455116400,
+    "relativeTimeSeconds": 313238232
+  },
+  "problems": [
+    {
+      "contestId": 622,
+      "index": "F",
+      "name": "The Sum of the k-th Powers",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 622,
+      "index": "E",
+      "name": "Ants in Leaves",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 622,
+      "index": "D",
+      "name": "Optimal Number Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 622,
+      "index": "C",
+      "name": "Not Equal on a Segment",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 622,
+      "index": "B",
+      "name": "The Time",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 622,
+      "index": "A",
+      "name": "Infinite Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

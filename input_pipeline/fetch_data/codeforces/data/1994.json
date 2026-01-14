@@ -1,0 +1,133 @@
+{
+  "contest": {
+    "id": 1994,
+    "name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1721313300,
+    "relativeTimeSeconds": 47041332
+  },
+  "problems": [
+    {
+      "contestId": 1994,
+      "index": "H",
+      "name": "Fortnite",
+      "type": "PROGRAMMING",
+      "points": 3750.0,
+      "rating": 3500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "hashing",
+        "interactive",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "G",
+      "name": "Minecraft",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "F",
+      "name": "Stardew Valley",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "E",
+      "name": "Wooden Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "D",
+      "name": "Funny Game",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "C",
+      "name": "Hungry Games",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "B",
+      "name": "Fun Game",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1994,
+      "index": "A",
+      "name": "Diverse Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

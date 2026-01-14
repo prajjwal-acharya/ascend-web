@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 154,
+    "name": "Codeforces Round 109 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1330095600,
+    "relativeTimeSeconds": 438259033
+  },
+  "problems": [
+    {
+      "contestId": 154,
+      "index": "E",
+      "name": "Martian Colony",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 154,
+      "index": "D",
+      "name": "Flatland Fencing",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 154,
+      "index": "C",
+      "name": "Double Profiles",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2300,
+      "tags": [
+        "graphs",
+        "hashing",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 154,
+      "index": "B",
+      "name": "Colliders",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 154,
+      "index": "A",
+      "name": "Hometask",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1600,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

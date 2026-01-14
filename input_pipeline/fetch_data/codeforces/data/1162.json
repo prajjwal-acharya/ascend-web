@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 1162,
+    "name": "Codeforces Round 557 (Div. 2) [based on Forethought Future Cup - Final Round]",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1556989500,
+    "relativeTimeSeconds": 211365132
+  },
+  "problems": [
+    {
+      "contestId": 1162,
+      "index": "B",
+      "name": "Double Matrix",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1162,
+      "index": "A",
+      "name": "Zoning Restrictions Again",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

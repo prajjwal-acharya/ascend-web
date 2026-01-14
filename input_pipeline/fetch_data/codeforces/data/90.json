@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 90,
+    "name": "Codeforces Beta Round 74 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1308236400,
+    "relativeTimeSeconds": 460118233
+  },
+  "problems": [
+    {
+      "contestId": 90,
+      "index": "B",
+      "name": "African Crossword",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 90,
+      "index": "A",
+      "name": "Cableway",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

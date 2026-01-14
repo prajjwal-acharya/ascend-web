@@ -1,0 +1,130 @@
+{
+  "contest": {
+    "id": 1368,
+    "name": "Codeforces Global Round 8",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1592491500,
+    "relativeTimeSeconds": 175863132
+  },
+  "problems": [
+    {
+      "contestId": 1368,
+      "index": "H2",
+      "name": "Breadboard Capacity (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 1368,
+      "index": "H1",
+      "name": "Breadboard Capacity (easy version)",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3300,
+      "tags": [
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "G",
+      "name": "Shifting Dominoes",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "geometry",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "F",
+      "name": "Lamps on a Circle",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "games",
+        "implementation",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "E",
+      "name": "Ski Accidents",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "D",
+      "name": "AND, OR and square sum",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "C",
+      "name": "Even Picture",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "B",
+      "name": "Codeforces Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1368,
+      "index": "A",
+      "name": "C+=",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

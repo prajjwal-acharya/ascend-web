@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": 18,
+    "name": "Codeforces Beta Round 18 (Div. 2 Only)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1276700400,
+    "relativeTimeSeconds": 491654233
+  },
+  "problems": [
+    {
+      "contestId": 18,
+      "index": "E",
+      "name": "Flag 2",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 18,
+      "index": "D",
+      "name": "Seller Bob",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 18,
+      "index": "C",
+      "name": "Stripe",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 18,
+      "index": "B",
+      "name": "Platforms",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 18,
+      "index": "A",
+      "name": "Triangle",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    }
+  ]
+}

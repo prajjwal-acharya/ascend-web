@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 519,
+    "name": "Codeforces Round 294 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1425128400,
+    "relativeTimeSeconds": 343226232
+  },
+  "problems": [
+    {
+      "contestId": 519,
+      "index": "E",
+      "name": "A and B and Lecture Rooms",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 519,
+      "index": "D",
+      "name": "A and B and Interesting Substrings",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 519,
+      "index": "C",
+      "name": "A and B and Team Training",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 519,
+      "index": "B",
+      "name": "A and B and Compilation Errors",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 519,
+      "index": "A",
+      "name": "A and B and Chess",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

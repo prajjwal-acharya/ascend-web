@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 778,
+    "name": "Codeforces Round 402 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1488096300,
+    "relativeTimeSeconds": 280258332
+  },
+  "problems": [
+    {
+      "contestId": 778,
+      "index": "E",
+      "name": "Selling Numbers",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3000,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 778,
+      "index": "D",
+      "name": "Parquet Re-laying",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 778,
+      "index": "C",
+      "name": "Peterson Polyglot",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dsu",
+        "hashing",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 778,
+      "index": "B",
+      "name": "Bitwise Formula",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "expression parsing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 778,
+      "index": "A",
+      "name": "String Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 990,
+    "name": "Educational Codeforces Round 45 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1528625100,
+    "relativeTimeSeconds": 239729532
+  },
+  "problems": [
+    {
+      "contestId": 990,
+      "index": "G",
+      "name": "GCD Counting",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "F",
+      "name": "Flow Control",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "E",
+      "name": "Post Lamps",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "D",
+      "name": "Graph And Its Complement",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "C",
+      "name": "Bracket Sequences Concatenation Problem",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "B",
+      "name": "Micro-World",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 990,
+      "index": "A",
+      "name": "Commentary Boxes",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

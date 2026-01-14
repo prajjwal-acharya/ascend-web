@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 82,
+    "name": "Yandex.Algorithm 2011: Qualification 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1304694000,
+    "relativeTimeSeconds": 463660633
+  },
+  "problems": [
+    {
+      "contestId": 82,
+      "index": "E",
+      "name": "Corridor",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 82,
+      "index": "D",
+      "name": "Two out of Three",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 82,
+      "index": "C",
+      "name": "General Mobilization",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 82,
+      "index": "B",
+      "name": "Sets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 82,
+      "index": "A",
+      "name": "Double Cola",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1100,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "contest": {
+    "id": 1985,
+    "name": "Codeforces Round 952 (Div. 4)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1718116500,
+    "relativeTimeSeconds": 50238132
+  },
+  "problems": [
+    {
+      "contestId": 1985,
+      "index": "H2",
+      "name": "Maximize the Largest Component (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "H1",
+      "name": "Maximize the Largest Component (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "G",
+      "name": "D-Function",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "F",
+      "name": "Final Boss",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "E",
+      "name": "Secret Box",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "D",
+      "name": "Manhattan Circle",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "C",
+      "name": "Good Prefixes",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "B",
+      "name": "Maximum Multiple Sum",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1985,
+      "index": "A",
+      "name": "Creating Words",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

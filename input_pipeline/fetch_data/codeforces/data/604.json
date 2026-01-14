@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 604,
+    "name": "Codeforces Round 334 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1448984100,
+    "relativeTimeSeconds": 319370532
+  },
+  "problems": [
+    {
+      "contestId": 604,
+      "index": "B",
+      "name": "More Cowbell",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 604,
+      "index": "A",
+      "name": "Uncowed Forces",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

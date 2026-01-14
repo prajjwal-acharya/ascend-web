@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": 1370,
+    "name": "Codeforces Round 651 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1592663700,
+    "relativeTimeSeconds": 175690932
+  },
+  "problems": [
+    {
+      "contestId": 1370,
+      "index": "F2",
+      "name": "The Hidden Pair (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "interactive",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "F1",
+      "name": "The Hidden Pair (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "interactive",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "E",
+      "name": "Binary Subsequence Rotation",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "D",
+      "name": "Odd-Even Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "C",
+      "name": "Number Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "games",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "B",
+      "name": "GCD Compression",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1370,
+      "index": "A",
+      "name": "Maximum GCD",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

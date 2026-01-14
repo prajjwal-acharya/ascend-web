@@ -1,0 +1,78 @@
+{
+  "contest": {
+    "id": 231,
+    "name": "Codeforces Round 143 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1349623800,
+    "relativeTimeSeconds": 418730833
+  },
+  "problems": [
+    {
+      "contestId": 231,
+      "index": "E",
+      "name": "Cactus",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 231,
+      "index": "D",
+      "name": "Magic Box",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 231,
+      "index": "C",
+      "name": "To Add or Not to Add",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 231,
+      "index": "B",
+      "name": "Magic, Wizardry and Wonders",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 231,
+      "index": "A",
+      "name": "Team",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}

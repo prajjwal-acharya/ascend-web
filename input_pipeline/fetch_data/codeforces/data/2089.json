@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": 2089,
+    "name": "Codeforces Round 1012 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1742708100,
+    "relativeTimeSeconds": 25646532
+  },
+  "problems": [
+    {
+      "contestId": 2089,
+      "index": "E",
+      "name": "Black Cat Collapse",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": []
+    },
+    {
+      "contestId": 2089,
+      "index": "D",
+      "name": "Conditional Operators",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2089,
+      "index": "C2",
+      "name": "Key of Like (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 3100,
+      "tags": [
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2089,
+      "index": "C1",
+      "name": "Key of Like (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2200,
+      "tags": [
+        "dp",
+        "games",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2089,
+      "index": "B2",
+      "name": "Canteen (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "flows",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2089,
+      "index": "B1",
+      "name": "Canteen (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "flows",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2089,
+      "index": "A",
+      "name": "Simple Permutation",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "number theory"
+      ]
+    }
+  ]
+}

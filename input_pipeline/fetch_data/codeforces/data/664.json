@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": 664,
+    "name": "Codeforces Round 347 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1460824500,
+    "relativeTimeSeconds": 307530132
+  },
+  "problems": [
+    {
+      "contestId": 664,
+      "index": "A",
+      "name": "Complicated GCD",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

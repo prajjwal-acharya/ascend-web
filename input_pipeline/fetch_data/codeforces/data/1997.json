@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": 1997,
+    "name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1722350100,
+    "relativeTimeSeconds": 46004532
+  },
+  "problems": [
+    {
+      "contestId": 1997,
+      "index": "F",
+      "name": "Chips on a Line",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1997,
+      "index": "E",
+      "name": "Level Up",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1997,
+      "index": "D",
+      "name": "Maximize the Root",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1997,
+      "index": "C",
+      "name": "Even Positions",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1997,
+      "index": "B",
+      "name": "Make Three Regions",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1997,
+      "index": "A",
+      "name": "Strong Password",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

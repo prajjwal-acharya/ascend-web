@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1167,
+    "name": "Educational Codeforces Round 65 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1557930900,
+    "relativeTimeSeconds": 210423732
+  },
+  "problems": [
+    {
+      "contestId": 1167,
+      "index": "G",
+      "name": "Low Budget Inception",
+      "type": "PROGRAMMING",
+      "rating": 3100,
+      "tags": [
+        "brute force",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "F",
+      "name": "Scalar Queries",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "E",
+      "name": "Range Deleting",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "D",
+      "name": "Bicolored RBS",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "C",
+      "name": "News Distribution",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "B",
+      "name": "Lost Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1167,
+      "index": "A",
+      "name": "Telephone Number",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1623,
+    "name": "Codeforces Round 763 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1640698500,
+    "relativeTimeSeconds": 127656132
+  },
+  "problems": [
+    {
+      "contestId": 1623,
+      "index": "E",
+      "name": "Middle Duplication",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1623,
+      "index": "D",
+      "name": "Robot Cleaner Revisit",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "implementation",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1623,
+      "index": "C",
+      "name": "Balanced Stone Heaps",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1623,
+      "index": "B",
+      "name": "Game on Ranges",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1623,
+      "index": "A",
+      "name": "Robot Cleaner",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 1039,
+    "name": "Codeforces Round 507 (Div. 1, based on Olympiad of Metropolises)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1536165300,
+    "relativeTimeSeconds": 232189332
+  },
+  "problems": [
+    {
+      "contestId": 1039,
+      "index": "E",
+      "name": "Summer Oenothera Exhibition",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3400,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 1039,
+      "index": "D",
+      "name": "You Are Given a Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1039,
+      "index": "C",
+      "name": "Network Safety",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1039,
+      "index": "B",
+      "name": "Subway Pursuit",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "interactive",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1039,
+      "index": "A",
+      "name": "Timetable",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

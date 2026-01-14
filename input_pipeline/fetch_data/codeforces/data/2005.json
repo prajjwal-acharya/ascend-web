@@ -1,0 +1,113 @@
+{
+  "contest": {
+    "id": 2005,
+    "name": "Codeforces Round 972 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1726324500,
+    "relativeTimeSeconds": 42030132
+  },
+  "problems": [
+    {
+      "contestId": 2005,
+      "index": "E2",
+      "name": "Subtangle Game (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dp",
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "E1",
+      "name": "Subtangle Game (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "D",
+      "name": "Alter the GCD",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "C",
+      "name": "Lazy Narek",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "B2",
+      "name": "The Strict Teacher (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "B1",
+      "name": "The Strict Teacher (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2005,
+      "index": "A",
+      "name": "Simple Palindrome",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

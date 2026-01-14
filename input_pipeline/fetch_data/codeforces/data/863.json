@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 863,
+    "name": "Educational Codeforces Round 29",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1506006300,
+    "relativeTimeSeconds": 262348332
+  },
+  "problems": [
+    {
+      "contestId": 863,
+      "index": "G",
+      "name": "Graphic Settings",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": []
+    },
+    {
+      "contestId": 863,
+      "index": "F",
+      "name": "Almost Permutation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "contestId": 863,
+      "index": "E",
+      "name": "Turn Off The TV",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 863,
+      "index": "D",
+      "name": "Yet Another Array Queries Problem",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 863,
+      "index": "C",
+      "name": "1-2-3",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 863,
+      "index": "B",
+      "name": "Kayaking",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 863,
+      "index": "A",
+      "name": "Quasi-palindrome",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

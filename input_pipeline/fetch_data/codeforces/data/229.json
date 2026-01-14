@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 229,
+    "name": "Codeforces Round 142 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7500,
+    "startTimeSeconds": 1349105400,
+    "relativeTimeSeconds": 419249233
+  },
+  "problems": [
+    {
+      "contestId": 229,
+      "index": "E",
+      "name": "Gifts",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 229,
+      "index": "D",
+      "name": "Towers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2100,
+      "tags": [
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 229,
+      "index": "C",
+      "name": "Triangles",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 229,
+      "index": "B",
+      "name": "Planets",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "data structures",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 229,
+      "index": "A",
+      "name": "Shifts",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ]
+    }
+  ]
+}

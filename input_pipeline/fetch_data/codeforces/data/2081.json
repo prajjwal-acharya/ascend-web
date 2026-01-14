@@ -1,0 +1,120 @@
+{
+  "contest": {
+    "id": 2081,
+    "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1742049300,
+    "relativeTimeSeconds": 26305332
+  },
+  "problems": [
+    {
+      "contestId": 2081,
+      "index": "G2",
+      "name": "Hard Formula (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3400,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "G1",
+      "name": "Hard Formula",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 3100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "F",
+      "name": "Hot Matrix",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "E",
+      "name": "Quantifier",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 3300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "D",
+      "name": "MST in Modulo Graph",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "constructive algorithms",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "C",
+      "name": "Quaternary Matrix",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "B",
+      "name": "Balancing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2500,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2081,
+      "index": "A",
+      "name": "Math Division",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1800,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    }
+  ]
+}

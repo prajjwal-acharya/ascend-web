@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": 1940,
+    "name": "XVIII Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+    "type": "IOI",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 18000,
+    "startTimeSeconds": 1709975100,
+    "relativeTimeSeconds": 58379532
+  },
+  "problems": [
+    {
+      "contestId": 1940,
+      "index": "D",
+      "name": "Almost Certainly",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1940,
+      "index": "C",
+      "name": "Burenka and Pether",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1940,
+      "index": "B",
+      "name": "Three Arrays",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1940,
+      "index": "A",
+      "name": "Parallel Universes",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    }
+  ]
+}

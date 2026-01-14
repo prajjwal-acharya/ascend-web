@@ -1,0 +1,95 @@
+{
+  "contest": {
+    "id": 1778,
+    "name": "Codeforces Round 848 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1675262100,
+    "relativeTimeSeconds": 93092532
+  },
+  "problems": [
+    {
+      "contestId": 1778,
+      "index": "F",
+      "name": "Maximizing Root",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2600,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1778,
+      "index": "E",
+      "name": "The Tree Has Fallen!",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1778,
+      "index": "D",
+      "name": "Flexible String Revisit",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1778,
+      "index": "C",
+      "name": "Flexible String",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1778,
+      "index": "B",
+      "name": "The Forbidden Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1778,
+      "index": "A",
+      "name": "Flip Flop Sum",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

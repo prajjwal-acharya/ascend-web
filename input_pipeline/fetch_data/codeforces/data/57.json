@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 57,
+    "name": "Codeforces Beta Round 53",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1295971200,
+    "relativeTimeSeconds": 472383433
+  },
+  "problems": [
+    {
+      "contestId": 57,
+      "index": "E",
+      "name": "Chess",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3000,
+      "tags": [
+        "math",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 57,
+      "index": "D",
+      "name": "Journey",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 57,
+      "index": "C",
+      "name": "Array",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1900,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 57,
+      "index": "B",
+      "name": "Martian Architecture",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 57,
+      "index": "A",
+      "name": "Square Earth?",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

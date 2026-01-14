@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": 163,
+    "name": "VK Cup 2012 Round 2",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1332687900,
+    "relativeTimeSeconds": 435666733
+  },
+  "problems": [
+    {
+      "contestId": 163,
+      "index": "E",
+      "name": "e-Government",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 163,
+      "index": "D",
+      "name": "Large Refrigerator",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2900,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 163,
+      "index": "C",
+      "name": "Conveyor",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 163,
+      "index": "B",
+      "name": "Lemmings",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search"
+      ]
+    },
+    {
+      "contestId": 163,
+      "index": "A",
+      "name": "Substring and Subsequence",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ]
+    }
+  ]
+}

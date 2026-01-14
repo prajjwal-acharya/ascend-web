@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1830,
+    "name": "Codeforces Round 875 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1685284500,
+    "relativeTimeSeconds": 83070132
+  },
+  "problems": [
+    {
+      "contestId": 1830,
+      "index": "F",
+      "name": "The Third Grace",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1830,
+      "index": "E",
+      "name": "Bully Sort",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1830,
+      "index": "D",
+      "name": "Mex Tree",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2800,
+      "tags": [
+        "brute force",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1830,
+      "index": "C",
+      "name": "Hyperregular Bracket Strings",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "hashing",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1830,
+      "index": "B",
+      "name": "The BOSS Can Count Pairs",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1830,
+      "index": "A",
+      "name": "Copil Copac Draws Trees",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    }
+  ]
+}

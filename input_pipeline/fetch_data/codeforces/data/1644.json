@@ -1,0 +1,88 @@
+{
+  "contest": {
+    "id": 1644,
+    "name": "Educational Codeforces Round 123 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1645540500,
+    "relativeTimeSeconds": 122814132
+  },
+  "problems": [
+    {
+      "contestId": 1644,
+      "index": "F",
+      "name": "Basis",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1644,
+      "index": "E",
+      "name": "Expand the Path",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1644,
+      "index": "D",
+      "name": "Cross Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1644,
+      "index": "C",
+      "name": "Increase Subarray Sums",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1644,
+      "index": "B",
+      "name": "Anti-Fibonacci Permutation",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1644,
+      "index": "A",
+      "name": "Doors and Keys",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

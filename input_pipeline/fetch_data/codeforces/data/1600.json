@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": 1600,
+    "name": "Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 14400,
+    "startTimeSeconds": 1633770300,
+    "relativeTimeSeconds": 134584332
+  },
+  "problems": [
+    {
+      "contestId": 1600,
+      "index": "J",
+      "name": "Robot Factory",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 1600,
+      "index": "F",
+      "name": "Party Organization",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 1600,
+      "index": "E",
+      "name": "Array Game",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "games",
+        "greedy",
+        "two pointers"
+      ]
+    }
+  ]
+}

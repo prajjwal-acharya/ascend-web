@@ -1,0 +1,112 @@
+{
+  "contest": {
+    "id": 1608,
+    "name": "Codeforces Round 758 (Div.1 + Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1639217100,
+    "relativeTimeSeconds": 129137532
+  },
+  "problems": [
+    {
+      "contestId": 1608,
+      "index": "G",
+      "name": "Alphabetic Tree",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 3500,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "F",
+      "name": "MEX counting",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "E",
+      "name": "The Cells on the Paper",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "binary search",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "D",
+      "name": "Dominoes",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "fft",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "C",
+      "name": "Game Master",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "B",
+      "name": "Build the Permutation",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1608,
+      "index": "A",
+      "name": "Find Array",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

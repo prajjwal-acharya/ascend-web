@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 661,
+    "name": "VK Cup 2016 - Wild Card Round 1 (Unofficial Open Online Mirror)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1460306100,
+    "relativeTimeSeconds": 308048532
+  },
+  "problems": [
+    {
+      "contestId": 661,
+      "index": "H",
+      "name": "Rotate Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "G",
+      "name": "Hungarian Notation",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "F",
+      "name": "Primes in Interval",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "E",
+      "name": "Divisibility Check",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "D",
+      "name": "Maximal Difference",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "C",
+      "name": "Array Sum",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "B",
+      "name": "Seasons",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "contestId": 661,
+      "index": "A",
+      "name": "Lazy Caterer Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "*special"
+      ]
+    }
+  ]
+}

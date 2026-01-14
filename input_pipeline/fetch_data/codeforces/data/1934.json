@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 1934,
+    "name": "Codeforces Round 931 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1709303700,
+    "relativeTimeSeconds": 59050932
+  },
+  "problems": [
+    {
+      "contestId": 1934,
+      "index": "E",
+      "name": "Weird LCM Operations",
+      "type": "PROGRAMMING",
+      "points": 3250.0,
+      "rating": 3000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1934,
+      "index": "D2",
+      "name": "XOR Break --- Game Version",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "games",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 1934,
+      "index": "D1",
+      "name": "XOR Break --- Solo Version",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1934,
+      "index": "C",
+      "name": "Find a Mine",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1934,
+      "index": "B",
+      "name": "Yet Another Coin Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1934,
+      "index": "A",
+      "name": "Too Min Too Max",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

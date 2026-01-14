@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": 2146,
+    "name": "Codeforces Round 1052 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1758465300,
+    "relativeTimeSeconds": 9889332
+  },
+  "problems": [
+    {
+      "contestId": 2146,
+      "index": "F",
+      "name": "Bubble Sort",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "E",
+      "name": "Yet Another MEX Problem",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "D2",
+      "name": "Max Sum OR (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "D1",
+      "name": "Max Sum OR (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "C",
+      "name": "Wrong Binary Search",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "B",
+      "name": "Merging the Sets",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2146,
+      "index": "A",
+      "name": "Equal Occurrences",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    }
+  ]
+}

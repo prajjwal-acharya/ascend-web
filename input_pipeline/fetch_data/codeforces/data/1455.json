@@ -1,0 +1,99 @@
+{
+  "contest": {
+    "id": 1455,
+    "name": "Educational Codeforces Round 99 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1606746900,
+    "relativeTimeSeconds": 161607732
+  },
+  "problems": [
+    {
+      "contestId": 1455,
+      "index": "G",
+      "name": "Forbidden Value",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "F",
+      "name": "String and Operations",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "E",
+      "name": "Four Points",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "flows",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "D",
+      "name": "Sequence and Swaps",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "C",
+      "name": "Ping-pong",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "B",
+      "name": "Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1455,
+      "index": "A",
+      "name": "Strange Functions",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 77,
+    "name": "Codeforces Beta Round 69 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1303226100,
+    "relativeTimeSeconds": 465128533
+  },
+  "problems": [
+    {
+      "contestId": 77,
+      "index": "E",
+      "name": "Martian Food",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2800,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 77,
+      "index": "D",
+      "name": "Domino Carpet",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2300,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 77,
+      "index": "C",
+      "name": "Beavermuncher-0xFF",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2100,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 77,
+      "index": "B",
+      "name": "Falling Anvils",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 77,
+      "index": "A",
+      "name": "Heroes",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

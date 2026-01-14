@@ -1,0 +1,100 @@
+{
+  "contest": {
+    "id": 1777,
+    "name": "Codeforces Round 845 (Div. 2) and ByteRace 2023",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1674311700,
+    "relativeTimeSeconds": 94042932
+  },
+  "problems": [
+    {
+      "contestId": 1777,
+      "index": "F",
+      "name": "Comfortably Numb",
+      "type": "PROGRAMMING",
+      "points": 2750.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1777,
+      "index": "E",
+      "name": "Edge Reverse",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1777,
+      "index": "D",
+      "name": "Score of a Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1777,
+      "index": "C",
+      "name": "Quiz Master",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1777,
+      "index": "B",
+      "name": "Emordnilap",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1777,
+      "index": "A",
+      "name": "Everybody Likes Good Arrays!",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    }
+  ]
+}

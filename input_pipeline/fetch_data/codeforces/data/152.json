@@ -1,0 +1,73 @@
+{
+  "contest": {
+    "id": 152,
+    "name": "Codeforces Round 108 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1329750000,
+    "relativeTimeSeconds": 438604633
+  },
+  "problems": [
+    {
+      "contestId": 152,
+      "index": "E",
+      "name": "Garden",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2500,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 152,
+      "index": "D",
+      "name": "Frames",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "contestId": 152,
+      "index": "C",
+      "name": "Pocket Book",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "contestId": 152,
+      "index": "B",
+      "name": "Steps",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 152,
+      "index": "A",
+      "name": "Marks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

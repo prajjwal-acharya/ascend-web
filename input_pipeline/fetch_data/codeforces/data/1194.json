@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1194,
+    "name": "Educational Codeforces Round 68 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1563115500,
+    "relativeTimeSeconds": 205239132
+  },
+  "problems": [
+    {
+      "contestId": 1194,
+      "index": "G",
+      "name": "Another Meme Problem",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "F",
+      "name": "Crossword Expert",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory",
+        "probabilities",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "E",
+      "name": "Count The Rectangles",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "D",
+      "name": "1-2-K Game",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "C",
+      "name": "From S To T",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "B",
+      "name": "Yet Another Crosses Problem",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1194,
+      "index": "A",
+      "name": "Remove a Progression",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

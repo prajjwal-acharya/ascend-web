@@ -1,0 +1,76 @@
+{
+  "contest": {
+    "id": 83,
+    "name": "Codeforces Beta Round 72 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1305299400,
+    "relativeTimeSeconds": 463055233
+  },
+  "problems": [
+    {
+      "contestId": 83,
+      "index": "E",
+      "name": "Two Subsequences",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 83,
+      "index": "D",
+      "name": "Numbers",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 83,
+      "index": "C",
+      "name": "Track",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 83,
+      "index": "B",
+      "name": "Doctor",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 83,
+      "index": "A",
+      "name": "Magical Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "contest": {
+    "id": 1011,
+    "name": "Codeforces Round 499 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1532617500,
+    "relativeTimeSeconds": 235737132
+  },
+  "problems": [
+    {
+      "contestId": 1011,
+      "index": "B",
+      "name": "Planning The Expedition",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1011,
+      "index": "A",
+      "name": "Stages",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

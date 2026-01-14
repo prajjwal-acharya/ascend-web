@@ -1,0 +1,102 @@
+{
+  "contest": {
+    "id": 932,
+    "name": "ICM Technex 2018 and Codeforces Round 463 (Div. 1 + Div. 2, combined)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1518705300,
+    "relativeTimeSeconds": 249649332
+  },
+  "problems": [
+    {
+      "contestId": 932,
+      "index": "G",
+      "name": "Palindrome Partition",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 2900,
+      "tags": [
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "F",
+      "name": "Escape Through Leaf",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "E",
+      "name": "Team Work",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "D",
+      "name": "Tree",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2200,
+      "tags": [
+        "binary search",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "C",
+      "name": "Permutation Cycle",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "B",
+      "name": "Recursive Queries",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar"
+      ]
+    },
+    {
+      "contestId": 932,
+      "index": "A",
+      "name": "Palindromic Supersequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

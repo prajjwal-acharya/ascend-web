@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": 740,
+    "name": "Codeforces Round 381 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1479918900,
+    "relativeTimeSeconds": 288435732
+  },
+  "problems": [
+    {
+      "contestId": 740,
+      "index": "B",
+      "name": "Alyona and flowers",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 740,
+      "index": "A",
+      "name": "Alyona and copybooks",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

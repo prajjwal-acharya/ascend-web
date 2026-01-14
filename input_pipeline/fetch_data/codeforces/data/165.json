@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": 165,
+    "name": "Codeforces Round 112 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1331911800,
+    "relativeTimeSeconds": 436442833
+  },
+  "problems": [
+    {
+      "contestId": 165,
+      "index": "E",
+      "name": "Compatible Numbers",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 165,
+      "index": "D",
+      "name": "Beard Graph",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 165,
+      "index": "C",
+      "name": "Another Problem on Strings",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "math",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 165,
+      "index": "B",
+      "name": "Burning Midnight Oil",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 165,
+      "index": "A",
+      "name": "Supercentral Point",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1000,
+      "tags": [
+        "implementation"
+      ]
+    }
+  ]
+}

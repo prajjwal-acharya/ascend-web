@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 546,
+    "name": "Codeforces Round 304 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1432312200,
+    "relativeTimeSeconds": 336042432
+  },
+  "problems": [
+    {
+      "contestId": 546,
+      "index": "E",
+      "name": "Soldier and Traveling",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2100,
+      "tags": [
+        "flows",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 546,
+      "index": "D",
+      "name": "Soldier and Number Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 546,
+      "index": "C",
+      "name": "Soldier and Cards",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "games"
+      ]
+    },
+    {
+      "contestId": 546,
+      "index": "B",
+      "name": "Soldier and Badges",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 546,
+      "index": "A",
+      "name": "Soldier and Bananas",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

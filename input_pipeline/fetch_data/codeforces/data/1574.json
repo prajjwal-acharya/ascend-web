@@ -1,0 +1,94 @@
+{
+  "contest": {
+    "id": 1574,
+    "name": "Educational Codeforces Round 114 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1632148500,
+    "relativeTimeSeconds": 136206132
+  },
+  "problems": [
+    {
+      "contestId": 1574,
+      "index": "F",
+      "name": "Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "fft",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 1574,
+      "index": "E",
+      "name": "Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1574,
+      "index": "D",
+      "name": "The Strongest Build",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1574,
+      "index": "C",
+      "name": "Slay the Dragon",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 1574,
+      "index": "B",
+      "name": "Combinatorics Homework",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1574,
+      "index": "A",
+      "name": "Regular Bracket Sequences",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    }
+  ]
+}

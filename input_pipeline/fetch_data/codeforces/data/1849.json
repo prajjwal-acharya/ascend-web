@@ -1,0 +1,93 @@
+{
+  "contest": {
+    "id": 1849,
+    "name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1690468500,
+    "relativeTimeSeconds": 77886132
+  },
+  "problems": [
+    {
+      "contestId": 1849,
+      "index": "F",
+      "name": "XOR Partition",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1849,
+      "index": "E",
+      "name": "Max to the Right of Min",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1849,
+      "index": "D",
+      "name": "Array Painting",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1849,
+      "index": "C",
+      "name": "Binary String Copying",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1849,
+      "index": "B",
+      "name": "Monsters",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1849,
+      "index": "A",
+      "name": "Morning Sandwich",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": 1832,
+    "name": "Educational Codeforces Round 148 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1683902100,
+    "relativeTimeSeconds": 84452532
+  },
+  "problems": [
+    {
+      "contestId": 1832,
+      "index": "F",
+      "name": "Zombies",
+      "type": "PROGRAMMING",
+      "rating": 3200,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "E",
+      "name": "Combinatorics Problem",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "D2",
+      "name": "Red-Blue Operations (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "D1",
+      "name": "Red-Blue Operations (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "C",
+      "name": "Contrast Value",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "B",
+      "name": "Maximum Sum",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1832,
+      "index": "A",
+      "name": "New Palindrome",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ]
+    }
+  ]
+}

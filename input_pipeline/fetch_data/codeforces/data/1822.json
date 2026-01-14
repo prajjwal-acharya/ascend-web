@@ -1,0 +1,110 @@
+{
+  "contest": {
+    "id": 1822,
+    "name": "Codeforces Round 867 (Div. 3)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 8100,
+    "startTimeSeconds": 1682346900,
+    "relativeTimeSeconds": 86007732
+  },
+  "problems": [
+    {
+      "contestId": 1822,
+      "index": "G2",
+      "name": "Magic Triples (Hard Version)",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "G1",
+      "name": "Magic Triples (Easy Version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "F",
+      "name": "Gardening Friends",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "E",
+      "name": "Making Anti-Palindromes",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "D",
+      "name": "Super-Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "C",
+      "name": "Bun Lover",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "B",
+      "name": "Karina and Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1822,
+      "index": "A",
+      "name": "TubeTube Feed",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    }
+  ]
+}

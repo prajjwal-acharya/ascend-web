@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": 107,
+    "name": "Codeforces Beta Round 83 (Div. 1 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1314111600,
+    "relativeTimeSeconds": 454243033
+  },
+  "problems": [
+    {
+      "contestId": 107,
+      "index": "E",
+      "name": "Darts",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2700,
+      "tags": [
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 107,
+      "index": "D",
+      "name": "Crime Management",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2400,
+      "tags": [
+        "dp",
+        "graphs",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 107,
+      "index": "C",
+      "name": "Arrangement",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 2400,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 107,
+      "index": "B",
+      "name": "Basketball Team",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 107,
+      "index": "A",
+      "name": "Dorm Water Supply",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    }
+  ]
+}

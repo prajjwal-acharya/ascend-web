@@ -1,0 +1,81 @@
+{
+  "contest": {
+    "id": 1699,
+    "name": "Codeforces Round 804 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1656945300,
+    "relativeTimeSeconds": 111409332
+  },
+  "problems": [
+    {
+      "contestId": 1699,
+      "index": "E",
+      "name": "Three Days Grace",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 1699,
+      "index": "D",
+      "name": "Almost Triple Deletions",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1699,
+      "index": "C",
+      "name": "The Third Problem",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1699,
+      "index": "B",
+      "name": "Almost Ternary Matrix",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 1699,
+      "index": "A",
+      "name": "The Third Three Number Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    }
+  ]
+}

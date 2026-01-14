@@ -1,0 +1,96 @@
+{
+  "contest": {
+    "id": 490,
+    "name": "Codeforces Round 279 (Div. 2)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 9000,
+    "startTimeSeconds": 1416733800,
+    "relativeTimeSeconds": 351620832
+  },
+  "problems": [
+    {
+      "contestId": 490,
+      "index": "F",
+      "name": "Treeland Tour",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2200,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 490,
+      "index": "E",
+      "name": "Restoring Increasing Sequence",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 490,
+      "index": "D",
+      "name": "Chocolate",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "math",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 490,
+      "index": "C",
+      "name": "Hacking Cypher",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 490,
+      "index": "B",
+      "name": "Queue",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 490,
+      "index": "A",
+      "name": "Team Olympiad",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    }
+  ]
+}

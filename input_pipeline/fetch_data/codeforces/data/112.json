@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": 112,
+    "name": "Codeforces Beta Round 85 (Div. 2 Only)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1315051200,
+    "relativeTimeSeconds": 453303433
+  },
+  "problems": [
+    {
+      "contestId": 112,
+      "index": "B",
+      "name": "Petya and Square",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 112,
+      "index": "A",
+      "name": "Petya and Strings",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    }
+  ]
+}

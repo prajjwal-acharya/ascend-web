@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": 494,
+    "name": "Codeforces Round 282 (Div. 1)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1418488200,
+    "relativeTimeSeconds": 349866432
+  },
+  "problems": [
+    {
+      "contestId": 494,
+      "index": "E",
+      "name": "Sharti",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 3200,
+      "tags": [
+        "data structures",
+        "games"
+      ]
+    },
+    {
+      "contestId": 494,
+      "index": "D",
+      "name": "Birthday",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 494,
+      "index": "C",
+      "name": "Helping People",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2600,
+      "tags": [
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 494,
+      "index": "B",
+      "name": "Obsessive String",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 2000,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 494,
+      "index": "A",
+      "name": "Treasure",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy"
+      ]
+    }
+  ]
+}

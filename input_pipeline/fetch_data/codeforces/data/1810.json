@@ -1,0 +1,117 @@
+{
+  "contest": {
+    "id": 1810,
+    "name": "CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "type": "CF",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1680273300,
+    "relativeTimeSeconds": 88081332
+  },
+  "problems": [
+    {
+      "contestId": 1810,
+      "index": "H",
+      "name": "Last Number",
+      "type": "PROGRAMMING",
+      "points": 3500.0,
+      "rating": 2900,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "G",
+      "name": "The Maximum Prefix",
+      "type": "PROGRAMMING",
+      "points": 3000.0,
+      "rating": 3200,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "F",
+      "name": "M-tree",
+      "type": "PROGRAMMING",
+      "points": 2500.0,
+      "rating": 2800,
+      "tags": [
+        "data structures",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "E",
+      "name": "Monsters",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "D",
+      "name": "Climbing the Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "C",
+      "name": "Make It Permutation",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "B",
+      "name": "Candies",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 1810,
+      "index": "A",
+      "name": "Beautiful Sequence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    }
+  ]
+}
