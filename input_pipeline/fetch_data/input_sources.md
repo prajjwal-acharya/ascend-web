@@ -31,5 +31,3 @@ Here are the rules for fetching data from your two sources, strictly in pointers
 * **Limit Batch Size:** Process small batches (e.g., 20–50 problems) per run; never attempt to fetch the entire database at once.
 * **Run Locally:** Execute the fetch script on a local machine (residential IP) rather than a cloud server (GitHub Actions/AWS) to avoid Cloudflare blocks.
 * **Handle Errors:** If a `429` (Too Many Requests) or `403` (Forbidden) occurs, program the script to stop immediately and wait.
-
-
