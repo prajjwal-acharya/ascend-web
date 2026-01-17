@@ -1,0 +1,155 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "problem.schema.v1.0.0",
+    "title": "Canonical Problem Schema",
+    "description": "Schema for normalized problem documents in the Ascend platform",
+    "type": "object",
+    "required": [
+        "problem_id",
+        "source",
+        "external_id",
+        "slug",
+        "title",
+        "difficulty",
+        "metadata",
+        "content_refs"
+    ],
+    "properties": {
+        "problem_id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Deterministic UUID generated before DB insertion"
+        },
+        "source": {
+            "type": "string",
+            "enum": [
+                "leetcode",
+                "codeforces"
+            ],
+            "description": "Platform source identifier"
+        },
+        "external_id": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Platform-specific identifier (e.g., '1' for LC, '1-A' for CF)"
+        },
+        "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "minLength": 1,
+            "description": "URL-safe slug, lowercase with hyphens only"
+        },
+        "title": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Display title of the problem"
+        },
+        "difficulty": {
+            "type": "string",
+            "enum": [
+                "easy",
+                "medium",
+                "hard"
+            ],
+            "description": "Normalized difficulty category"
+        },
+        "rating": {
+            "type": [
+                "number",
+                "null"
+            ],
+            "minimum": 0,
+            "maximum": 4000,
+            "description": "Numeric rating (Codeforces only, null for LeetCode)"
+        },
+        "metadata": {
+            "type": "object",
+            "required": [
+                "source_url"
+            ],
+            "properties": {
+                "frontend_id": {
+                    "type": [
+                        "string",
+                        "null"
+                    ],
+                    "description": "Frontend display ID"
+                },
+                "contest_index": {
+                    "type": [
+                        "string",
+                        "null"
+                    ],
+                    "description": "Problem index within contest (A, B, C, etc.)"
+                },
+                "source_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "Direct URL to the problem on source platform"
+                },
+                "is_premium": {
+                    "type": "boolean",
+                    "description": "Whether problem requires premium access"
+                },
+                "accept_rate": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 100,
+                    "description": "Acceptance rate percentage"
+                },
+                "likes": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Number of likes"
+                },
+                "dislikes": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Number of dislikes"
+                },
+                "points": {
+                    "type": "number",
+                    "description": "Point value (Codeforces)"
+                }
+            },
+            "additionalProperties": true
+        },
+        "topics": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "pattern": "^[a-z0-9-]+$"
+            },
+            "uniqueItems": true,
+            "description": "Normalized topic slugs"
+        },
+        "content_refs": {
+            "type": "object",
+            "properties": {
+                "description_path": {
+                    "type": [
+                        "string",
+                        "null"
+                    ],
+                    "description": "R2 path to problem description markdown"
+                },
+                "examples_path": {
+                    "type": [
+                        "string",
+                        "null"
+                    ],
+                    "description": "R2 path to examples JSON"
+                },
+                "constraints_path": {
+                    "type": [
+                        "string",
+                        "null"
+                    ],
+                    "description": "R2 path to constraints JSON"
+                }
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false
+}

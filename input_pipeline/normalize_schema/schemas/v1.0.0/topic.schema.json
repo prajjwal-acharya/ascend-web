@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "topic.schema.v1.0.0",
+    "title": "Canonical Topic Schema",
+    "description": "Schema for normalized topic documents",
+    "type": "object",
+    "required": [
+        "topic_id",
+        "name",
+        "category"
+    ],
+    "properties": {
+        "topic_id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Deterministic UUID generated from topic name"
+        },
+        "name": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "minLength": 1,
+            "description": "Normalized topic name (lowercase, kebab-case)"
+        },
+        "parent": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "pattern": "^[a-z0-9-]+$",
+            "description": "Parent topic name for hierarchy"
+        },
+        "category": {
+            "type": "string",
+            "enum": [
+                "dsa",
+                "cp",
+                "system-design",
+                "other"
+            ],
+            "description": "Topic category for classification"
+        }
+    },
+    "additionalProperties": false
+}

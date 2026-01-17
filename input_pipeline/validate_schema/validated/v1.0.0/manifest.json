@@ -1,0 +1,18 @@
+{
+  "version": "v1.0.0",
+  "created_at": "2026-01-17T14:15:24.237283Z",
+  "schema_version": "v1.0.0",
+  "counts": {
+    "problems": 13846,
+    "topics": 86,
+    "contests": 1940
+  },
+  "checksums": {
+    "problems.json": "sha256:233f54d6a6113f013289fcca719e11c14f26c8f8fa83a8ec40a11929923aa8a6",
+    "topics.json": "sha256:92eddee3759bdf56e9890f177369eeaaf88ce1dc39c9176db233a07c3ab594e7",
+    "contests.json": "sha256:63bce8d628bd6800bfcceb0a810b4a54fc54606f1725d943090bf6e193007872",
+    "problems.json_file": "sha256:95a60f2270e18dc4bce38bd1697359fca891cfae93d2b46d40ab58c24b077848",
+    "topics.json_file": "sha256:f8b80d638357911090072543e63b176b63efb0878217c262c3c453a3a9116a90",
+    "contests.json_file": "sha256:ab9fdc1b66b9fd722f174658070a6c971d127e1b7152b92af1349962e25b6255"
+  }
+}

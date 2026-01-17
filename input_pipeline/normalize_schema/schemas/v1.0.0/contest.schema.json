@@ -1,0 +1,98 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "contest.schema.v1.0.0",
+    "title": "Canonical Contest Schema",
+    "description": "Schema for normalized contest documents (Codeforces)",
+    "type": "object",
+    "required": [
+        "contest_id",
+        "source",
+        "external_id",
+        "name",
+        "type",
+        "duration_seconds",
+        "phase",
+        "problems"
+    ],
+    "properties": {
+        "contest_id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Deterministic UUID generated before DB insertion"
+        },
+        "source": {
+            "type": "string",
+            "enum": [
+                "codeforces"
+            ],
+            "description": "Platform source identifier (contests are CF-only for now)"
+        },
+        "external_id": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Platform-specific contest ID"
+        },
+        "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Contest name/title"
+        },
+        "type": {
+            "type": "string",
+            "enum": [
+                "ICPC",
+                "CF",
+                "IOI"
+            ],
+            "description": "Contest type"
+        },
+        "duration_seconds": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Contest duration in seconds"
+        },
+        "start_time": {
+            "type": [
+                "integer",
+                "null"
+            ],
+            "description": "Unix timestamp of contest start time"
+        },
+        "phase": {
+            "type": "string",
+            "enum": [
+                "FINISHED",
+                "BEFORE",
+                "CODING",
+                "PENDING_SYSTEM_TEST",
+                "SYSTEM_TEST"
+            ],
+            "description": "Current contest phase"
+        },
+        "problems": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "problem_external_id",
+                    "index"
+                ],
+                "properties": {
+                    "problem_external_id": {
+                        "type": "string",
+                        "minLength": 1,
+                        "description": "Reference to problem's external_id"
+                    },
+                    "index": {
+                        "type": "string",
+                        "pattern": "^[A-Z][0-9]?$",
+                        "description": "Problem index within contest (A, B, C, etc.)"
+                    }
+                },
+                "additionalProperties": false
+            },
+            "description": "List of problem references in this contest"
+        }
+    },
+    "additionalProperties": false
+}

@@ -1,0 +1,518 @@
+[
+  {
+    "topic_id": "eb867787-858d-5605-82f2-81aa002b0c81",
+    "name": "array",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "f725ae50-b688-5311-a6e6-997e7986f0b6",
+    "name": "backtracking",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "613b3287-6611-5ea4-9e0f-333058f92ff4",
+    "name": "bfs",
+    "parent": "graph",
+    "category": "dsa"
+  },
+  {
+    "topic_id": "1195b3f7-1d44-5644-91c0-a1f461161f40",
+    "name": "biconnected-component",
+    "parent": "graph",
+    "category": "other"
+  },
+  {
+    "topic_id": "8ac1cf92-83fa-5b3b-9eac-2daf9416fc38",
+    "name": "binary-indexed-tree",
+    "parent": "tree",
+    "category": "other"
+  },
+  {
+    "topic_id": "2f542f61-79f5-5b20-aebf-218c31e2eb4c",
+    "name": "binary-search",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "fe282bc0-60ee-58cb-a467-e9cdf01b8380",
+    "name": "binary-search-tree",
+    "parent": "tree",
+    "category": "other"
+  },
+  {
+    "topic_id": "b123b97c-fcfe-55b9-b5d0-919465271dfa",
+    "name": "binary-tree",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "2ae96e96-3ccd-5bf8-8f3e-f1194f207514",
+    "name": "bit-manipulation",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "5ec003ad-80d8-5380-ad59-7cc717aff925",
+    "name": "bitmask",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "fa1ebde6-e6b6-5571-af27-4d184a3f1213",
+    "name": "brainteaser",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "aa66348d-c297-52c6-a0c3-c7894255e639",
+    "name": "brute-force",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "a5c05ed8-a941-5adb-b883-4769ade44df7",
+    "name": "bucket-sort",
+    "parent": "sorting",
+    "category": "other"
+  },
+  {
+    "topic_id": "26184948-823e-5cca-a2ca-0b1b7789996e",
+    "name": "chinese-remainder-theorem",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "a8765f8b-98a9-584e-acf6-54bfaf9d2ed7",
+    "name": "combinatorics",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "ede610d6-4639-5943-a4aa-fd25b79b5fbf",
+    "name": "concurrency",
+    "parent": null,
+    "category": "system-design"
+  },
+  {
+    "topic_id": "9408608c-80aa-537f-ab71-16de679eedaa",
+    "name": "constructive-algorithms",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "4a11c47d-2c15-575b-84fd-97930e454a41",
+    "name": "counting",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "edafe9f8-647b-596d-897a-caa775842751",
+    "name": "counting-sort",
+    "parent": "sorting",
+    "category": "other"
+  },
+  {
+    "topic_id": "8309f2f4-22dd-51b2-83f8-db67763be629",
+    "name": "data-stream",
+    "parent": null,
+    "category": "system-design"
+  },
+  {
+    "topic_id": "110838f6-ce1b-51c2-b9c0-a16eb7aebd82",
+    "name": "data-structures",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "68adb146-973a-5b1e-b91d-84635354eb2c",
+    "name": "database",
+    "parent": null,
+    "category": "system-design"
+  },
+  {
+    "topic_id": "4621fbd5-5287-562f-9b40-eeec76213abc",
+    "name": "design",
+    "parent": null,
+    "category": "system-design"
+  },
+  {
+    "topic_id": "b61de2d5-60a3-5284-bf6d-e6ec95845c6e",
+    "name": "dfs",
+    "parent": "graph",
+    "category": "dsa"
+  },
+  {
+    "topic_id": "4a4fdc44-dd35-5a53-b8d9-ba88f3d64415",
+    "name": "dfs-and-similar",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "a3e6b7d9-a325-55ca-ba4f-4c654acc4f9b",
+    "name": "divide-and-conquer",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "0fa5256a-9658-5ee9-905b-b360d59d1e45",
+    "name": "doubly-linked-list",
+    "parent": "linked-list",
+    "category": "other"
+  },
+  {
+    "topic_id": "9c91f434-25a8-550e-b153-e6e93577f679",
+    "name": "dynamic-programming",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "7d54f9ee-43fe-5fe1-a074-dcc2b40e967e",
+    "name": "enumeration",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "d5e83500-6253-5891-9a53-81f4e09f2ebb",
+    "name": "eulerian-circuit",
+    "parent": "graph",
+    "category": "other"
+  },
+  {
+    "topic_id": "62249ce3-0c48-569b-9592-c5f9a0f9d378",
+    "name": "expression-parsing",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "d6eb4993-0fb2-5411-b30e-d53d0025cc78",
+    "name": "fft",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "5d7270dc-8bd3-507a-ba76-8e3a19c7eb3e",
+    "name": "game-theory",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "a289d240-af08-5e35-927b-935f619e4f94",
+    "name": "geometry",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "0a8d63da-a38f-58db-ac21-5f1108a31aec",
+    "name": "graph",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "f2b4dbe8-116a-5276-98db-9f70dae08418",
+    "name": "graph-matchings",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "481b3383-77b1-5917-9b99-99283f067a63",
+    "name": "greedy",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "9e9c7d00-0a49-5627-bbe0-05a4c438bee4",
+    "name": "hash-function",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "af845ac2-2fc4-582f-8015-24fecee22efc",
+    "name": "hash-table",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "f8569751-78fe-55d4-9f5a-aaee96a71715",
+    "name": "heap",
+    "parent": "tree",
+    "category": "dsa"
+  },
+  {
+    "topic_id": "a2bdb132-df8c-55d7-9958-244e7edce1d2",
+    "name": "implementation",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "fa9706a4-fce8-54ab-9585-c852dde660e1",
+    "name": "interactive",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "f7773e4a-1cf6-513c-970c-244732966255",
+    "name": "iterator",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "46de3035-7588-5199-8181-debdab80830c",
+    "name": "line-sweep",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "ec69f0be-5218-5370-b6a6-b797ea817a2b",
+    "name": "linked-list",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "96c42f69-ff16-5dc3-a6e4-b2f7510aa697",
+    "name": "math",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "3c07950f-fbe5-5f11-86f3-2698072df1f3",
+    "name": "matrix",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "31228db4-6153-5422-8fa4-6f6b8e12f8b7",
+    "name": "meet-in-the-middle",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "713a1e3b-ced2-507e-8354-1d52b7b40550",
+    "name": "memoization",
+    "parent": "dynamic-programming",
+    "category": "other"
+  },
+  {
+    "topic_id": "75389165-a7ec-5e8e-8e19-f58733230b09",
+    "name": "merge-sort",
+    "parent": "sorting",
+    "category": "other"
+  },
+  {
+    "topic_id": "8c87cdc2-464e-5e3a-98ca-dee86b0c2c5f",
+    "name": "minimum-spanning-tree",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "118b07d1-63f6-528d-be12-668fa477d254",
+    "name": "monotonic-queue",
+    "parent": "queue",
+    "category": "other"
+  },
+  {
+    "topic_id": "5e2c86c0-f814-5dc2-b5b3-726eaa6eb599",
+    "name": "monotonic-stack",
+    "parent": "stack",
+    "category": "other"
+  },
+  {
+    "topic_id": "23ec0c02-bbee-56f5-bc68-10128e5f8016",
+    "name": "network-flow",
+    "parent": "graph",
+    "category": "cp"
+  },
+  {
+    "topic_id": "c16c0f73-7263-595b-91d3-b339167228dd",
+    "name": "number-theory",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "4abd85ba-e1c2-5186-bdee-06756383ac44",
+    "name": "ordered-set",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "3e96f9d0-90d3-5cb8-9b4d-7ca39665141e",
+    "name": "prefix-sum",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "1e992051-027f-58e2-85a6-1047f4a1449e",
+    "name": "probability-statistics",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "857b86a3-2e07-59bb-8bc3-e1183c5f2eab",
+    "name": "queue",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "eb173118-3617-52b4-87f1-c6c31412ca26",
+    "name": "quickselect",
+    "parent": "sorting",
+    "category": "other"
+  },
+  {
+    "topic_id": "13ed88e0-b3a1-50b6-bd94-c75f8a7d861f",
+    "name": "radix-sort",
+    "parent": "sorting",
+    "category": "other"
+  },
+  {
+    "topic_id": "a762e34c-5e81-5abc-b389-30bf44820a92",
+    "name": "randomized",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "34e09ff8-9265-5776-8dba-afb33ffcb1b9",
+    "name": "recursion",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "2baa3c41-5fa3-5690-9f45-f1112eaeaa01",
+    "name": "rejection-sampling",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "979c8f2f-08a9-5f85-98d4-b1df6c153c89",
+    "name": "reservoir-sampling",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "30f00181-104e-5e01-a8e1-1d102486c0e4",
+    "name": "rolling-hash",
+    "parent": "hash-function",
+    "category": "other"
+  },
+  {
+    "topic_id": "47aa1d18-d5c0-5547-a319-d83ce6f5e997",
+    "name": "scheduling",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "eae21254-9723-54d8-95da-26fb2d5b60c8",
+    "name": "segment-tree",
+    "parent": "tree",
+    "category": "other"
+  },
+  {
+    "topic_id": "d70be44b-9a78-511e-8145-4287d314c101",
+    "name": "shell",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "7c54bf66-c5f4-5e8f-a860-b1e43de1164a",
+    "name": "shortest-path",
+    "parent": "graph",
+    "category": "other"
+  },
+  {
+    "topic_id": "f3f8fe05-5826-5712-9dd0-55e494523a79",
+    "name": "simulation",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "fb8c302b-5883-5c0a-8499-c75afa1907df",
+    "name": "sliding-window",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "c935ce64-6868-557b-832b-053c3f2f5669",
+    "name": "sorting",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "b0504c2f-d8a0-54a6-90e9-3b4350c20513",
+    "name": "special",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "6b9da5ca-dd0a-5858-a468-dec1a2f65178",
+    "name": "stack",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "4ba568a3-646e-5381-be13-226f1a6d16c7",
+    "name": "string",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "8950bb0c-b219-5894-b25d-3c24f137f0a5",
+    "name": "string-matching",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "4607db67-c0b4-5245-9bf6-7b9ccc98fbd8",
+    "name": "strongly-connected-component",
+    "parent": "graph",
+    "category": "other"
+  },
+  {
+    "topic_id": "5d4a5a89-e624-56e5-a174-cdcc5babeba4",
+    "name": "suffix-array",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "89458f38-6578-574e-a305-b7113f07017c",
+    "name": "ternary-search",
+    "parent": null,
+    "category": "other"
+  },
+  {
+    "topic_id": "573078ff-305b-50ba-bd0f-dd30117a7466",
+    "name": "topological-sort",
+    "parent": "graph",
+    "category": "other"
+  },
+  {
+    "topic_id": "492ccf54-c30d-5c83-959f-3c9873e5d483",
+    "name": "tree",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "945eadb6-7dc3-513d-8ac2-cb8b7d7d0912",
+    "name": "trie",
+    "parent": "tree",
+    "category": "dsa"
+  },
+  {
+    "topic_id": "c655f275-e2c1-5ade-abef-f9bfb9714f9c",
+    "name": "two-pointers",
+    "parent": null,
+    "category": "dsa"
+  },
+  {
+    "topic_id": "59c0f46c-089a-58dd-8812-3f70c160d02e",
+    "name": "two-sat",
+    "parent": null,
+    "category": "cp"
+  },
+  {
+    "topic_id": "1adfe74e-fc8d-5cfb-a37a-1b480bdd2b12",
+    "name": "union-find",
+    "parent": "graph",
+    "category": "other"
+  }
+]

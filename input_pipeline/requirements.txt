@@ -1,0 +1,9 @@
+# Data Pipeline Requirements
+
+# JSON Schema validation
+jsonschema>=4.0.0
+
+# Optional: For future implementations
+# supabase>=1.0.0        # Supabase client
+# boto3>=1.28.0          # R2/S3 client
+# redis>=4.0.0           # Redis client
