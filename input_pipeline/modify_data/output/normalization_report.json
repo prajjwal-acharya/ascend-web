@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-01-17T19:42:38.632491",
+  "stats": {
+    "leetcode": {
+      "total": 2913,
+      "success": 2913,
+      "failed": 0,
+      "warnings": 0
+    },
+    "codeforces": {
+      "problems": {
+        "total": 10933,
+        "success": 10933,
+        "failed": 0,
+        "warnings": 0
+      },
+      "contests": {
+        "total": 1940,
+        "success": 1940,
+        "failed": 0,
+        "warnings": 0
+      }
+    },
+    "total_problems": 13846,
+    "total_topics": 86,
+    "total_contests": 1940
+  },
+  "errors": {
+    "leetcode": [],
+    "codeforces": []
+  },
+  "warnings": {
+    "leetcode": [],
+    "codeforces": []
+  }
+}

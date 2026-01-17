@@ -1,0 +1,3 @@
+# Immutable versioned snapshots directory
+# Each version (v1.0.0, v1.1.0, etc.) gets its own subdirectory
+# NEVER modify existing version directories
