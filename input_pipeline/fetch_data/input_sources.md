@@ -12,22 +12,51 @@ I have implemented the codeforces_sync.py script to efficiently fetch and organi
 - Data Persistence: specific per-contest JSON files in input_pipeline/fetch_data/codeforces/data/{contestId}.json.
 
 ## Leetcode:
-Here are the rules for fetching data from your two sources, strictly in pointers.
+LeetCode problems are available via multiple sources:
 
-### **Source 1: Google Sheet (The Manager)**
+### **1. Static Dataset (Baseline)**
+- **File**: `data/merged_problems.json`
+- **Total**: 2,913 problems with full details
+- **Source**: [neenza/leetcode-problems](https://github.com/neenza/leetcode-problems)
 
-* **Fetch the Identifier:** Extract the **Problem ID** and **Title Slug** (column with the URL-friendly name) to identify the target.
-* **Fetch the Metadata:** Get **Difficulty** and **Like Ratio** to prioritize high-quality problems first.
-* **Fetch the Status:** Read the **Status** column (e.g., "Done", "Todo") to filter out problems you have already processed.
-* **Determine Order:** Use this source exclusively to decide **which** problem to process next; do not use it for problem descriptions.
-* **Store State:** Update this source after a successful fetch (e.g., mark row as "In Jira") to prevent duplicate API calls.
+### **2. API Fetching (Updates)**
+Use `leetcode_fetch_api.py` to sync new problems:
 
-### **Source 2: LeetCode GraphQL API (The Content Provider)**
+```bash
+# Check problem counts and what's missing
+python3 leetcode_fetch_api.py --mode list
 
-* **Fetch the Content:** Request only specific fields: `content` (HTML description), `topicTags`, and `codeSnippets`.
-* **Use the Golden Query:** Send a specific GraphQL payload asking only for the data missing from the Sheet (avoid requesting `stats` or `solutions` to keep payloads light).
-* **Mimic a Human:** Always include `User-Agent`, `Referer` (`https://leetcode.com/`), and `Content-Type` (`application/json`) headers.
-* **Randomize Delays:** Sleep for a random interval (e.g., `3` to `7` seconds) between every single request.
-* **Limit Batch Size:** Process small batches (e.g., 20–50 problems) per run; never attempt to fetch the entire database at once.
-* **Run Locally:** Execute the fetch script on a local machine (residential IP) rather than a cloud server (GitHub Actions/AWS) to avoid Cloudflare blocks.
-* **Handle Errors:** If a `429` (Too Many Requests) or `403` (Forbidden) occurs, program the script to stop immediately and wait.
+# Find new problems (syncs with official API)
+python3 leetcode_fetch_api.py --mode sync --show-new
+
+# Fetch detailed data for missing problems
+python3 leetcode_fetch_api.py --mode details --limit 20
+
+# Get today's daily problem
+python3 leetcode_fetch_api.py --mode daily --save
+```
+
+**APIs Used:**
+| API | Purpose | Data |
+|-----|---------|------|
+| [Alfa LeetCode API](https://alfa-leetcode-api.onrender.com/) | Problem details | Full (description, hints, snippets) |
+| `leetcode.com/api/problems/all/` | Problem listing | Basic (id, title, difficulty) |
+
+**Output:**
+- `data/api_fetched/{slug}.json` - Newly fetched problems
+- `data/new_problems.json` - List of missing problems
+
+### **Schema**
+Each problem contains:
+| Field | Description |
+|-------|-------------|
+| `title` | Problem name |
+| `problem_id` / `questionId` | Internal ID |
+| `difficulty` | Easy/Medium/Hard |
+| `problem_slug` / `titleSlug` | URL-friendly name |
+| `topics` / `topicTags` | Topic tags |
+| `description` / `question` | Problem statement |
+| `examples` | Input/output examples |
+| `constraints` | Problem constraints |
+| `hints` | Solving hints |
+| `code_snippets` | Starter code (18+ languages) |
