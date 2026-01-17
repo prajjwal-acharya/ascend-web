@@ -1,0 +1,2 @@
+# No external dependencies required
+# Static JSON dataset - no fetching needed

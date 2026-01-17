@@ -1,0 +1,878 @@
+[
+  {
+    "id": 3808,
+    "title": "Find Emotionally Consistent Users",
+    "slug": "find-emotionally-consistent-users",
+    "difficulty": 2
+  },
+  {
+    "id": 3793,
+    "title": "Find Users with High Token Usage",
+    "slug": "find-users-with-high-token-usage",
+    "difficulty": 1
+  },
+  {
+    "id": 3803,
+    "title": "Count Residue Prefixes",
+    "slug": "count-residue-prefixes",
+    "difficulty": 1
+  },
+  {
+    "id": 3805,
+    "title": "Count Caesar Cipher Pairs",
+    "slug": "count-caesar-cipher-pairs",
+    "difficulty": 2
+  },
+  {
+    "id": 3798,
+    "title": "Largest Even Number",
+    "slug": "largest-even-number",
+    "difficulty": 1
+  },
+  {
+    "id": 3794,
+    "title": "Reverse String Prefix",
+    "slug": "reverse-string-prefix",
+    "difficulty": 1
+  },
+  {
+    "id": 3790,
+    "title": "Smallest All-Ones Multiple",
+    "slug": "smallest-all-ones-multiple",
+    "difficulty": 2
+  },
+  {
+    "id": 3788,
+    "title": "Maximum Score of a Split",
+    "slug": "maximum-score-of-a-split",
+    "difficulty": 2
+  },
+  {
+    "id": 3764,
+    "title": "Most Common Course Pairs",
+    "slug": "most-common-course-pairs",
+    "difficulty": 3
+  },
+  {
+    "id": 3783,
+    "title": "Mirror Distance of an Integer",
+    "slug": "mirror-distance-of-an-integer",
+    "difficulty": 1
+  },
+  {
+    "id": 3782,
+    "title": "Last Remaining Integer After Alternating Deletion Operations",
+    "slug": "last-remaining-integer-after-alternating-deletion-operations",
+    "difficulty": 3
+  },
+  {
+    "id": 3779,
+    "title": "Minimum Number of Operations to Have Distinct Elements",
+    "slug": "minimum-number-of-operations-to-have-distinct-elements",
+    "difficulty": 2
+  },
+  {
+    "id": 3780,
+    "title": "Maximum Sum of Three Numbers Divisible by Three",
+    "slug": "maximum-sum-of-three-numbers-divisible-by-three",
+    "difficulty": 2
+  },
+  {
+    "id": 3774,
+    "title": "Absolute Difference Between Maximum and Minimum K Elements",
+    "slug": "absolute-difference-between-maximum-and-minimum-k-elements",
+    "difficulty": 1
+  },
+  {
+    "id": 3775,
+    "title": "Reverse Words With Same Vowel Count",
+    "slug": "reverse-words-with-same-vowel-count",
+    "difficulty": 2
+  },
+  {
+    "id": 3800,
+    "title": "Minimum Cost to Make Two Binary Strings Equal",
+    "slug": "minimum-cost-to-make-two-binary-strings-equal",
+    "difficulty": 2
+  },
+  {
+    "id": 3806,
+    "title": "Maximum Bitwise AND After Increment Operations",
+    "slug": "maximum-bitwise-and-after-increment-operations",
+    "difficulty": 3
+  },
+  {
+    "id": 3797,
+    "title": "Count Routes to Climb a Rectangular Grid",
+    "slug": "count-routes-to-climb-a-rectangular-grid",
+    "difficulty": 3
+  },
+  {
+    "id": 3795,
+    "title": "Minimum Subarray Length With Distinct Sum At Least K",
+    "slug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+    "difficulty": 2
+  },
+  {
+    "id": 3772,
+    "title": "Maximum Subgraph Score in a Tree",
+    "slug": "maximum-subgraph-score-in-a-tree",
+    "difficulty": 3
+  },
+  {
+    "id": 3769,
+    "title": "Sort Integers by Binary Reflection",
+    "slug": "sort-integers-by-binary-reflection",
+    "difficulty": 1
+  },
+  {
+    "id": 3789,
+    "title": "Minimum Cost to Acquire Required Items",
+    "slug": "minimum-cost-to-acquire-required-items",
+    "difficulty": 2
+  },
+  {
+    "id": 3771,
+    "title": "Total Score of Dungeon Runs",
+    "slug": "total-score-of-dungeon-runs",
+    "difficulty": 2
+  },
+  {
+    "id": 3768,
+    "title": "Minimum Inversion Count in Subarrays of Fixed Length",
+    "slug": "minimum-inversion-count-in-subarrays-of-fixed-length",
+    "difficulty": 3
+  },
+  {
+    "id": 3801,
+    "title": "Minimum Cost to Merge Sorted Lists",
+    "slug": "minimum-cost-to-merge-sorted-lists",
+    "difficulty": 3
+  },
+  {
+    "id": 3759,
+    "title": "Count Elements With at Least K Greater Values",
+    "slug": "count-elements-with-at-least-k-greater-values",
+    "difficulty": 2
+  },
+  {
+    "id": 3761,
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "slug": "minimum-absolute-distance-between-mirror-pairs",
+    "difficulty": 2
+  },
+  {
+    "id": 3784,
+    "title": "Minimum Deletion Cost to Make All Characters Equal",
+    "slug": "minimum-deletion-cost-to-make-all-characters-equal",
+    "difficulty": 2
+  },
+  {
+    "id": 3756,
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+    "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+    "difficulty": 2
+  },
+  {
+    "id": 3754,
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": 1
+  },
+  {
+    "id": 3757,
+    "title": "Number of Effective Subsequences",
+    "slug": "number-of-effective-subsequences",
+    "difficulty": 3
+  },
+  {
+    "id": 3781,
+    "title": "Maximum Score After Binary Swaps",
+    "slug": "maximum-score-after-binary-swaps",
+    "difficulty": 2
+  },
+  {
+    "id": 3804,
+    "title": "Number of Centered Subarrays",
+    "slug": "number-of-centered-subarrays",
+    "difficulty": 2
+  },
+  {
+    "id": 3753,
+    "title": "Total Waviness of Numbers in Range II",
+    "slug": "total-waviness-of-numbers-in-range-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3750,
+    "title": "Minimum Number of Flips to Reverse Binary String",
+    "slug": "minimum-number-of-flips-to-reverse-binary-string",
+    "difficulty": 1
+  },
+  {
+    "id": 3741,
+    "title": "Minimum Distance Between Three Equal Elements II",
+    "slug": "minimum-distance-between-three-equal-elements-ii",
+    "difficulty": 2
+  },
+  {
+    "id": 3736,
+    "title": "Minimum Moves to Equal Array Elements III",
+    "slug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": 1
+  },
+  {
+    "id": 3740,
+    "title": "Minimum Distance Between Three Equal Elements I",
+    "slug": "minimum-distance-between-three-equal-elements-i",
+    "difficulty": 1
+  },
+  {
+    "id": 3745,
+    "title": "Maximize Expression of Three Elements",
+    "slug": "maximize-expression-of-three-elements",
+    "difficulty": 1
+  },
+  {
+    "id": 3748,
+    "title": "Count Stable Subarrays",
+    "slug": "count-stable-subarrays",
+    "difficulty": 3
+  },
+  {
+    "id": 3731,
+    "title": "Find Missing Elements",
+    "slug": "find-missing-elements",
+    "difficulty": 1
+  },
+  {
+    "id": 3716,
+    "title": "Find Churn Risk Customers",
+    "slug": "find-churn-risk-customers",
+    "difficulty": 2
+  },
+  {
+    "id": 3732,
+    "title": "Maximum Product of Three Elements After One Replacement",
+    "slug": "maximum-product-of-three-elements-after-one-replacement",
+    "difficulty": 2
+  },
+  {
+    "id": 3765,
+    "title": "Complete Prime Number",
+    "slug": "complete-prime-number",
+    "difficulty": 2
+  },
+  {
+    "id": 3766,
+    "title": "Minimum Operations to Make Binary Palindrome",
+    "slug": "minimum-operations-to-make-binary-palindrome",
+    "difficulty": 2
+  },
+  {
+    "id": 3738,
+    "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+    "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
+    "difficulty": 2
+  },
+  {
+    "id": 3791,
+    "title": "Number of Balanced Integers in a Range",
+    "slug": "number-of-balanced-integers-in-a-range",
+    "difficulty": 3
+  },
+  {
+    "id": 3705,
+    "title": "Find Golden Hour Customers",
+    "slug": "find-golden-hour-customers",
+    "difficulty": 2
+  },
+  {
+    "id": 3746,
+    "title": "Minimum String Length After Balanced Removals",
+    "slug": "minimum-string-length-after-balanced-removals",
+    "difficulty": 2
+  },
+  {
+    "id": 3767,
+    "title": "Maximize Points After Choosing K Tasks",
+    "slug": "maximize-points-after-choosing-k-tasks",
+    "difficulty": 2
+  },
+  {
+    "id": 3760,
+    "title": "Maximum Substrings With Distinct Start",
+    "slug": "maximum-substrings-with-distinct-start",
+    "difficulty": 2
+  },
+  {
+    "id": 3770,
+    "title": "Largest Prime from Consecutive Prime Sum",
+    "slug": "largest-prime-from-consecutive-prime-sum",
+    "difficulty": 2
+  },
+  {
+    "id": 3723,
+    "title": "Maximize Sum of Squares of Digits",
+    "slug": "maximize-sum-of-squares-of-digits",
+    "difficulty": 2
+  },
+  {
+    "id": 3728,
+    "title": "Stable Subarrays With Equal Boundary and Interior Sum",
+    "slug": "stable-subarrays-with-equal-boundary-and-interior-sum",
+    "difficulty": 2
+  },
+  {
+    "id": 3718,
+    "title": "Smallest Missing Multiple of K",
+    "slug": "smallest-missing-multiple-of-k",
+    "difficulty": 1
+  },
+  {
+    "id": 3727,
+    "title": "Maximum Alternating Sum of Squares",
+    "slug": "maximum-alternating-sum-of-squares",
+    "difficulty": 2
+  },
+  {
+    "id": 3752,
+    "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+    "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
+    "difficulty": 2
+  },
+  {
+    "id": 3739,
+    "title": "Count Subarrays With Majority Element II",
+    "slug": "count-subarrays-with-majority-element-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3737,
+    "title": "Count Subarrays With Majority Element I",
+    "slug": "count-subarrays-with-majority-element-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3722,
+    "title": "Lexicographically Smallest String After Reverse",
+    "slug": "lexicographically-smallest-string-after-reverse",
+    "difficulty": 2
+  },
+  {
+    "id": 3786,
+    "title": "Total Sum of Interaction Cost in Tree Groups",
+    "slug": "total-sum-of-interaction-cost-in-tree-groups",
+    "difficulty": 3
+  },
+  {
+    "id": 3799,
+    "title": "Word Squares II",
+    "slug": "word-squares-ii",
+    "difficulty": 2
+  },
+  {
+    "id": 3725,
+    "title": "Count Ways to Choose Coprime Integers from Rows",
+    "slug": "count-ways-to-choose-coprime-integers-from-rows",
+    "difficulty": 3
+  },
+  {
+    "id": 3712,
+    "title": "Sum of Elements With Frequency Divisible by K",
+    "slug": "sum-of-elements-with-frequency-divisible-by-k",
+    "difficulty": 1
+  },
+  {
+    "id": 3777,
+    "title": "Minimum Deletions to Make Alternating Substring",
+    "slug": "minimum-deletions-to-make-alternating-substring",
+    "difficulty": 3
+  },
+  {
+    "id": 3729,
+    "title": "Count Distinct Subarrays Divisible by K in Sorted Array",
+    "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array",
+    "difficulty": 3
+  },
+  {
+    "id": 3785,
+    "title": "Minimum Swaps to Avoid Forbidden Values",
+    "slug": "minimum-swaps-to-avoid-forbidden-values",
+    "difficulty": 3
+  },
+  {
+    "id": 3709,
+    "title": "Design Exam Scores Tracker",
+    "slug": "design-exam-scores-tracker",
+    "difficulty": 2
+  },
+  {
+    "id": 3701,
+    "title": "Compute Alternating Sum",
+    "slug": "compute-alternating-sum",
+    "difficulty": 1
+  },
+  {
+    "id": 3751,
+    "title": "Total Waviness of Numbers in Range I",
+    "slug": "total-waviness-of-numbers-in-range-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3714,
+    "title": "Longest Balanced Substring II",
+    "slug": "longest-balanced-substring-ii",
+    "difficulty": 2
+  },
+  {
+    "id": 3713,
+    "title": "Longest Balanced Substring I",
+    "slug": "longest-balanced-substring-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3747,
+    "title": "Count Distinct Integers After Removing Zeros",
+    "slug": "count-distinct-integers-after-removing-zeros",
+    "difficulty": 2
+  },
+  {
+    "id": 3692,
+    "title": "Majority Frequency Characters",
+    "slug": "majority-frequency-characters",
+    "difficulty": 1
+  },
+  {
+    "id": 3707,
+    "title": "Equal Score Substrings",
+    "slug": "equal-score-substrings",
+    "difficulty": 1
+  },
+  {
+    "id": 3726,
+    "title": "Remove Zeros in Decimal Representation",
+    "slug": "remove-zeros-in-decimal-representation",
+    "difficulty": 1
+  },
+  {
+    "id": 3704,
+    "title": "Count No-Zero Pairs That Sum to N",
+    "slug": "count-no-zero-pairs-that-sum-to-n",
+    "difficulty": 3
+  },
+  {
+    "id": 3733,
+    "title": "Minimum Time to Complete All Deliveries",
+    "slug": "minimum-time-to-complete-all-deliveries",
+    "difficulty": 2
+  },
+  {
+    "id": 3721,
+    "title": "Longest Balanced Subarray II",
+    "slug": "longest-balanced-subarray-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3719,
+    "title": "Longest Balanced Subarray I",
+    "slug": "longest-balanced-subarray-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3673,
+    "title": "Find Zombie Sessions",
+    "slug": "find-zombie-sessions",
+    "difficulty": 3
+  },
+  {
+    "id": 3724,
+    "title": "Minimum Operations to Transform Array",
+    "slug": "minimum-operations-to-transform-array",
+    "difficulty": 2
+  },
+  {
+    "id": 3693,
+    "title": "Climbing Stairs II",
+    "slug": "climbing-stairs-ii",
+    "difficulty": 2
+  },
+  {
+    "id": 3697,
+    "title": "Compute Decimal Representation",
+    "slug": "compute-decimal-representation",
+    "difficulty": 1
+  },
+  {
+    "id": 3734,
+    "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+    "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+    "difficulty": 3
+  },
+  {
+    "id": 3710,
+    "title": "Maximum Partition Factor",
+    "slug": "maximum-partition-factor",
+    "difficulty": 3
+  },
+  {
+    "id": 3702,
+    "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+    "difficulty": 2
+  },
+  {
+    "id": 3743,
+    "title": "Maximize Cyclic Partition Score",
+    "slug": "maximize-cyclic-partition-score",
+    "difficulty": 3
+  },
+  {
+    "id": 3686,
+    "title": "Number of Stable Subsequences",
+    "slug": "number-of-stable-subsequences",
+    "difficulty": 3
+  },
+  {
+    "id": 3657,
+    "title": "Find Loyal Customers",
+    "slug": "find-loyal-customers",
+    "difficulty": 2
+  },
+  {
+    "id": 3677,
+    "title": "Count Binary Palindromic Numbers",
+    "slug": "count-binary-palindromic-numbers",
+    "difficulty": 3
+  },
+  {
+    "id": 3762,
+    "title": "Minimum Operations to Equalize Subarrays",
+    "slug": "minimum-operations-to-equalize-subarrays",
+    "difficulty": 3
+  },
+  {
+    "id": 3694,
+    "title": "Distinct Points Reachable After Substring Removal",
+    "slug": "distinct-points-reachable-after-substring-removal",
+    "difficulty": 2
+  },
+  {
+    "id": 3720,
+    "title": "Lexicographically Smallest Permutation Greater Than Target",
+    "slug": "lexicographically-smallest-permutation-greater-than-target",
+    "difficulty": 2
+  },
+  {
+    "id": 3703,
+    "title": "Remove K-Balanced Substrings",
+    "slug": "remove-k-balanced-substrings",
+    "difficulty": 2
+  },
+  {
+    "id": 3776,
+    "title": "Minimum Moves to Balance Circular Array",
+    "slug": "minimum-moves-to-balance-circular-array",
+    "difficulty": 2
+  },
+  {
+    "id": 3698,
+    "title": "Split Array With Minimum Difference",
+    "slug": "split-array-with-minimum-difference",
+    "difficulty": 2
+  },
+  {
+    "id": 3683,
+    "title": "Earliest Time to Finish One Task",
+    "slug": "earliest-time-to-finish-one-task",
+    "difficulty": 1
+  },
+  {
+    "id": 3678,
+    "title": "Smallest Absent Positive Greater Than Average",
+    "slug": "smallest-absent-positive-greater-than-average",
+    "difficulty": 1
+  },
+  {
+    "id": 3695,
+    "title": "Maximize Alternating Sum Using Swaps",
+    "slug": "maximize-alternating-sum-using-swaps",
+    "difficulty": 3
+  },
+  {
+    "id": 3688,
+    "title": "Bitwise OR of Even Numbers in an Array",
+    "slug": "bitwise-or-of-even-numbers-in-an-array",
+    "difficulty": 1
+  },
+  {
+    "id": 3668,
+    "title": "Restore Finishing Order",
+    "slug": "restore-finishing-order",
+    "difficulty": 1
+  },
+  {
+    "id": 3691,
+    "title": "Maximum Total Subarray Value II",
+    "slug": "maximum-total-subarray-value-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3689,
+    "title": "Maximum Total Subarray Value I",
+    "slug": "maximum-total-subarray-value-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3708,
+    "title": "Longest Fibonacci Subarray",
+    "slug": "longest-fibonacci-subarray",
+    "difficulty": 2
+  },
+  {
+    "id": 3676,
+    "title": "Count Bowl Subarrays",
+    "slug": "count-bowl-subarrays",
+    "difficulty": 2
+  },
+  {
+    "id": 3675,
+    "title": "Minimum Operations to Transform String",
+    "slug": "minimum-operations-to-transform-string",
+    "difficulty": 2
+  },
+  {
+    "id": 3674,
+    "title": "Minimum Operations to Equalize Array",
+    "slug": "minimum-operations-to-equalize-array",
+    "difficulty": 1
+  },
+  {
+    "id": 3684,
+    "title": "Maximize Sum of At Most K Distinct Elements",
+    "slug": "maximize-sum-of-at-most-k-distinct-elements",
+    "difficulty": 1
+  },
+  {
+    "id": 3642,
+    "title": "Find Books with Polarized Opinions",
+    "slug": "find-books-with-polarized-opinions",
+    "difficulty": 1
+  },
+  {
+    "id": 3658,
+    "title": "GCD of Odd and Even Sums",
+    "slug": "gcd-of-odd-and-even-sums",
+    "difficulty": 1
+  },
+  {
+    "id": 3663,
+    "title": "Find The Least Frequent Digit",
+    "slug": "find-the-least-frequent-digit",
+    "difficulty": 1
+  },
+  {
+    "id": 3680,
+    "title": "Generate Schedule",
+    "slug": "generate-schedule",
+    "difficulty": 2
+  },
+  {
+    "id": 3681,
+    "title": "Maximum XOR of Subsequences",
+    "slug": "maximum-xor-of-subsequences",
+    "difficulty": 3
+  },
+  {
+    "id": 3671,
+    "title": "Sum of Beautiful Subsequences",
+    "slug": "sum-of-beautiful-subsequences",
+    "difficulty": 3
+  },
+  {
+    "id": 3742,
+    "title": "Maximum Path Score in a Grid",
+    "slug": "maximum-path-score-in-a-grid",
+    "difficulty": 2
+  },
+  {
+    "id": 3666,
+    "title": "Minimum Operations to Equalize Binary String",
+    "slug": "minimum-operations-to-equalize-binary-string",
+    "difficulty": 3
+  },
+  {
+    "id": 3661,
+    "title": "Maximum Walls Destroyed by Robots",
+    "slug": "maximum-walls-destroyed-by-robots",
+    "difficulty": 3
+  },
+  {
+    "id": 3660,
+    "title": "Jump Game IX",
+    "slug": "jump-game-ix",
+    "difficulty": 2
+  },
+  {
+    "id": 3652,
+    "title": "Best Time to Buy and Sell Stock using Strategy",
+    "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+    "difficulty": 2
+  },
+  {
+    "id": 3659,
+    "title": "Partition Array Into K-Distinct Groups",
+    "slug": "partition-array-into-k-distinct-groups",
+    "difficulty": 2
+  },
+  {
+    "id": 3655,
+    "title": "XOR After Range Multiplication Queries II",
+    "slug": "xor-after-range-multiplication-queries-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3653,
+    "title": "XOR After Range Multiplication Queries I",
+    "slug": "xor-after-range-multiplication-queries-i",
+    "difficulty": 2
+  },
+  {
+    "id": 3643,
+    "title": "Flip Square Submatrix Vertically",
+    "slug": "flip-square-submatrix-vertically",
+    "difficulty": 1
+  },
+  {
+    "id": 3654,
+    "title": "Minimum Sum After Divisible Sum Deletions",
+    "slug": "minimum-sum-after-divisible-sum-deletions",
+    "difficulty": 2
+  },
+  {
+    "id": 3700,
+    "title": "Number of ZigZag Arrays II",
+    "slug": "number-of-zigzag-arrays-ii",
+    "difficulty": 3
+  },
+  {
+    "id": 3649,
+    "title": "Number of Perfect Pairs",
+    "slug": "number-of-perfect-pairs",
+    "difficulty": 2
+  },
+  {
+    "id": 3699,
+    "title": "Number of ZigZag Arrays I",
+    "slug": "number-of-zigzag-arrays-i",
+    "difficulty": 3
+  },
+  {
+    "id": 3645,
+    "title": "Maximum Total from Optimal Activation Order",
+    "slug": "maximum-total-from-optimal-activation-order",
+    "difficulty": 2
+  },
+  {
+    "id": 3715,
+    "title": "Sum of Perfect Square Ancestors",
+    "slug": "sum-of-perfect-square-ancestors",
+    "difficulty": 3
+  },
+  {
+    "id": 3679,
+    "title": " Minimum Discards to Balance Inventory",
+    "slug": "minimum-discards-to-balance-inventory",
+    "difficulty": 2
+  },
+  {
+    "id": 3646,
+    "title": "Next Special Palindrome Number",
+    "slug": "next-special-palindrome-number",
+    "difficulty": 3
+  },
+  {
+    "id": 3644,
+    "title": "Maximum K to Sort a Permutation",
+    "slug": "maximum-k-to-sort-a-permutation",
+    "difficulty": 2
+  },
+  {
+    "id": 3669,
+    "title": "Balanced K-Factor Decomposition",
+    "slug": "balanced-k-factor-decomposition",
+    "difficulty": 2
+  },
+  {
+    "id": 3755,
+    "title": "Find Maximum Balanced XOR Subarray Length",
+    "slug": "find-maximum-balanced-xor-subarray-length",
+    "difficulty": 2
+  },
+  {
+    "id": 3648,
+    "title": "Minimum Sensors to Cover Grid",
+    "slug": "minimum-sensors-to-cover-grid",
+    "difficulty": 2
+  },
+  {
+    "id": 3665,
+    "title": "Twisted Mirror Path Count",
+    "slug": "twisted-mirror-path-count",
+    "difficulty": 2
+  },
+  {
+    "id": 3690,
+    "title": "Split and Merge Array Transformation",
+    "slug": "split-and-merge-array-transformation",
+    "difficulty": 2
+  },
+  {
+    "id": 3670,
+    "title": "Maximum Product of Two Integers With No Common Bits",
+    "slug": "maximum-product-of-two-integers-with-no-common-bits",
+    "difficulty": 2
+  },
+  {
+    "id": 3651,
+    "title": "Minimum Cost Path with Teleportations",
+    "slug": "minimum-cost-path-with-teleportations",
+    "difficulty": 3
+  },
+  {
+    "id": 3650,
+    "title": "Minimum Cost Path with Edge Reversals",
+    "slug": "minimum-cost-path-with-edge-reversals",
+    "difficulty": 2
+  },
+  {
+    "id": 3664,
+    "title": "Two-Letter Card Game",
+    "slug": "two-letter-card-game",
+    "difficulty": 2
+  },
+  {
+    "id": 3685,
+    "title": "Subsequence Sum After Capping Elements",
+    "slug": "subsequence-sum-after-capping-elements",
+    "difficulty": 2
+  },
+  {
+    "id": 3796,
+    "title": "Find Maximum Value in a Constrained Sequence",
+    "slug": "find-maximum-value-in-a-constrained-sequence",
+    "difficulty": 2
+  },
+  {
+    "id": 627,
+    "title": "Swap Sex of Employees",
+    "slug": "swap-sex-of-employees",
+    "difficulty": 1
+  },
+  {
+    "id": 436,
+    "title": "Find Right Interval",
+    "slug": "find-right-interval",
+    "difficulty": 2
+  }
+]
